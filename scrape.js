@@ -2,12 +2,17 @@ const puppeteer = require('puppeteer');
 
 
 let result = []
+let year
+let month
 let usage
 let district
 let url = 'http://www.property.hk/eng/tran.php?bldg=&prop=&size=&year=2018&month=1&select=&page=5&dt=HA&tab=TRAN'
 let noDataUrl = 'http://www.property.hk/eng/tran.php?bldg=&prop=&size=&year=2018&month=1&select=&page=6&dt=HA&tab=TRAN'
 
-async function singlePageScrape(url) {
+
+
+// only scrape one targeted url
+async function singlePageScrape(url) {    
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto(url);
@@ -28,7 +33,7 @@ async function singlePageScrape(url) {
 }
 
 
-
+// identify if the url is a blank page i.e: no data 
 async function isLastPage(url) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
@@ -44,10 +49,19 @@ async function isLastPage(url) {
     return bool
 }
 
-async function scrapeLoop() {
-
+//scrape all the search result of all pages
+/*property Usuage
+'r' = residential
+'c' = commericial
+'o'= office
+'i' = industrial
+'p' = car park
+'' = all
+*/
+async function scrapeAllsearch(usuage, year, month) {
+    console.log(`Start grabing search result`)      
     for (let page = 1, isLast = false; isLast == false; page++) {
-        let url = `http://www.property.hk/eng/tran.php?bldg=&prop=&size=&year=2018&month=1&select=&page=${page}&dt=HA&tab=TRAN`
+        let url = `http://www.property.hk/eng/tran.php?bldg=&prop=${usuage}&size=&year=${year}&month=${month}&select=&page=${page}&dt=HA&tab=TRAN`
         await isLastPage(url)
             .then(async (bool) => {
                 if (bool == true) {
@@ -60,16 +74,21 @@ async function scrapeLoop() {
                 }
             })
     }
-
 }
 
 
-//  scrapeLoop()
-//  .then(()=>console.log(result))
+//
+
+
+
+
+
+ scrapeAllsearch('',2018,1)
+ .then(()=>console.log(result))
 
 //  isLastPage(noDataUrl)
 //      .then((boolean) => console.log(boolean))
 
 
-  singlePageScrape(url)
-     .then(() => console.log(result))
+//   singlePageScrape(url)
+//      .then(() => console.log(result))
