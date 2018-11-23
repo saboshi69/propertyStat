@@ -16,7 +16,7 @@ async function singlePageScrape(url) {
         r = []
         for (let i = 2; i < 20; i++) {
             const tds = Array.from(document.querySelectorAll(`#proplist>div>form>table>tbody>tr:nth-child(${i})>td:nth-child(n+2):nth-last-child(1n+3)`))
-            let arrTds = tds.map(td => td.innerHTML)
+            let arrTds = tds.map(td => td.innerHTML.replace(/\&nbsp;/g, ' '))
             if (arrTds[0] != undefined) {
                 r.push(arrTds)
             }
@@ -52,9 +52,10 @@ async function scrapeLoop() {
             .then(async (bool) => {
                 if (bool == true) {
                     isLast = true
-                    return console.log("finish scraping")
+                    return console.log("Finish scraping")
                 } else {
                     isLast = false
+                    console.log(`Waiting to scrape page ${page}...`)
                     await singlePageScrape(url)
                 }
             })
@@ -63,12 +64,12 @@ async function scrapeLoop() {
 }
 
 
- scrapeLoop()
- .then(()=>console.log(result))
+//  scrapeLoop()
+//  .then(()=>console.log(result))
 
 //  isLastPage(noDataUrl)
 //      .then((boolean) => console.log(boolean))
 
 
-//  singlePageScrape(url)
-//      .then(() => console.log(result))
+  singlePageScrape(url)
+     .then(() => console.log(result))
