@@ -23,7 +23,7 @@ async function singlePageScrape(url) {
         }
         return r
     });
-    result = [...data]
+    result = [...result,...data]
     await browser.close();
 }
 
@@ -49,12 +49,13 @@ async function scrapeLoop() {
     for (let page = 1, isLast = false; isLast == false; page++) {
         let url = `http://www.property.hk/eng/tran.php?bldg=&prop=&size=&year=2018&month=1&select=&page=${page}&dt=HA&tab=TRAN`
         await isLastPage(url)
-            .then((bool) => {
+            .then(async (bool) => {
                 if (bool == true) {
                     isLast = true
                     return console.log("finish scraping")
                 } else {
-                    singlePageScrape(url)
+                    isLast = false
+                    await singlePageScrape(url)
                 }
             })
     }
@@ -62,12 +63,12 @@ async function scrapeLoop() {
 }
 
 
-scrapeLoop()
-.then(()=>console.log(result))
+ scrapeLoop()
+ .then(()=>console.log(result))
 
-// isLastPage(noDataUrl)
-//     .then((boolean) => console.log(boolean))
+//  isLastPage(noDataUrl)
+//      .then((boolean) => console.log(boolean))
 
 
-// singlePageScrape(url)
-//     .then(() => console.log(result))
+//  singlePageScrape(url)
+//      .then(() => console.log(result))
