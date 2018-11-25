@@ -102,6 +102,7 @@ async function getLatLng(myData) {
             }
         }
     }
+    return data
 }
 
 
@@ -187,4 +188,4 @@ let testnoDataUrl = 'http://www.ricacorp.com/ricadata/eptest.aspx?type=22&code=1
 
 
 getLatLng(testAddList)
-.then(()=>console.log(data))
+.then((data)=>console.log(data))
