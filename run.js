@@ -34,6 +34,8 @@ async function singlePageScrape(url) {
     return data
 }
 
+singlePageScrape("http://www.ricacorp.com/ricadata/eptest.aspx?type=22&code=102&info=tr&code2=rdoreg:0~regidx:6~regdatemin:01/01/2018~regdatemax:31/12/2018~regperiod:2018~insdatemin:~insdatemax:~insperiod:730~upricemin:~upricemax:~considermin:~considermax:~areamin:~areamax:~bldgagemin:~bldgagemax:~lord:namec~lordtype:desc~tabIdx:0~mkttype:0~rdogainper:0~gainperidx:0~gainpermin:~gainpermindir:0~gainpermax:~gainpermaxdir:0~rdoltins:0~ltinsidx:0~ltinsdatemin:01/01/1900~ltinsdatemax:25/11/2018~ltinsperiod:1900&page=0#txtab").then((data)=>{console.log (data)})
+
 
 async function isLastPage(url) {
     const browser = await puppeteer.launch();
@@ -120,72 +122,72 @@ function matchAddress(a, b) {
 
 
 
-let testAddList = [
-    ['FLAT B',
-        '25/F',
-        'MEI WAH COURT (BLOCK 22)',
-        'PHASE 3',
-        'SOUTH HORIZONS',
-        ' 24 ',
-        '13/08/18',
-        '581s.f. ',
-        '745s.f. ',
-        '$9.68M',
-        ' $16661 ',
-        ' $12993 '
-    ],
-    ['FLAT E',
-        '17/F',
-        'WAI KING COURT (BLOCK 30)',
-        'PHASE 4 THE OASIS',
-        'SOUTH HORIZONS',
-        ' 24 ',
-        '13/08/18',
-        '687s.f. ',
-        '856s.f. ',
-        '$11.95M',
-        ' $17394 ',
-        ' $13960 '
-    ],
-    ['FLAT D',
-        '12/F',
-        'PAK KING COURT (BLOCK 31)',
-        'PHASE 4 THE OASIS',
-        'SOUTH HORIZONS',
-        ' 24 ',
-        '10/08/18',
-        '527s.f. ',
-        '662s.f. ',
-        '$8.90M',
-        ' $16888 ',
-        ' $13444 '
-    ],
-    ['FLAT E',
-        '18/F',
-        'WAI KING COURT (BLOCK 30)',
-        'PHASE 4 THE OASIS',
-        'SOUTH HORIZONS',
-        ' 24 ',
-        '09/08/18',
-        '687s.f. ',
-        '856s.f. ',
-        '$11.00M',
-        ' $16012 ',
-        ' $12850 '
-    ]
-]
+// let testAddList = [
+//     ['FLAT B',
+//         '25/F',
+//         'MEI WAH COURT (BLOCK 22)',
+//         'PHASE 3',
+//         'SOUTH HORIZONS',
+//         ' 24 ',
+//         '13/08/18',
+//         '581s.f. ',
+//         '745s.f. ',
+//         '$9.68M',
+//         ' $16661 ',
+//         ' $12993 '
+//     ],
+//     ['FLAT E',
+//         '17/F',
+//         'WAI KING COURT (BLOCK 30)',
+//         'PHASE 4 THE OASIS',
+//         'SOUTH HORIZONS',
+//         ' 24 ',
+//         '13/08/18',
+//         '687s.f. ',
+//         '856s.f. ',
+//         '$11.95M',
+//         ' $17394 ',
+//         ' $13960 '
+//     ],
+//     ['FLAT D',
+//         '12/F',
+//         'PAK KING COURT (BLOCK 31)',
+//         'PHASE 4 THE OASIS',
+//         'SOUTH HORIZONS',
+//         ' 24 ',
+//         '10/08/18',
+//         '527s.f. ',
+//         '662s.f. ',
+//         '$8.90M',
+//         ' $16888 ',
+//         ' $13444 '
+//     ],
+//     ['FLAT E',
+//         '18/F',
+//         'WAI KING COURT (BLOCK 30)',
+//         'PHASE 4 THE OASIS',
+//         'SOUTH HORIZONS',
+//         ' 24 ',
+//         '09/08/18',
+//         '687s.f. ',
+//         '856s.f. ',
+//         '$11.00M',
+//         ' $16012 ',
+//         ' $12850 '
+//     ]
+// ]
 
-let testurl = 'http://www.ricacorp.com/ricadata/eptest.aspx?type=22&code=102&info=tr&code2=rdoreg:0~regidx:6~regdatemin:01/01/2018~regdatemax:31/12/2018~regperiod:2018~insdatemin:~insdatemax:~insperiod:730~upricemin:~upricemax:~considermin:~considermax:~areamin:~areamax:~bldgagemin:~bldgagemax:~lord:namec~lordtype:desc~tabIdx:0~mkttype:0~rdogainper:0~gainperidx:0~gainpermin:~gainpermindir:0~gainpermax:~gainpermaxdir:0~rdoltins:0~ltinsidx:0~ltinsdatemin:01/01/1900~ltinsdatemax:25/11/2018~ltinsperiod:1900&page=0#txtab'
+// let testurl = 'http://www.ricacorp.com/ricadata/eptest.aspx?type=22&code=102&info=tr&code2=rdoreg:0~regidx:6~regdatemin:01/01/2018~regdatemax:31/12/2018~regperiod:2018~insdatemin:~insdatemax:~insperiod:730~upricemin:~upricemax:~considermin:~considermax:~areamin:~areamax:~bldgagemin:~bldgagemax:~lord:namec~lordtype:desc~tabIdx:0~mkttype:0~rdogainper:0~gainperidx:0~gainpermin:~gainpermindir:0~gainpermax:~gainpermaxdir:0~rdoltins:0~ltinsidx:0~ltinsdatemin:01/01/1900~ltinsdatemax:25/11/2018~ltinsperiod:1900&page=0#txtab'
 
-let testnoDataUrl = 'http://www.ricacorp.com/ricadata/eptest.aspx?type=22&code=102&info=tr&code2=rdoreg:0~regidx:6~regdatemin:01/01/2018~regdatemax:31/12/2018~regperiod:2018~insdatemin:~insdatemax:~insperiod:730~upricemin:~upricemax:~considermin:~considermax:~areamin:~areamax:~bldgagemin:~bldgagemax:~lord:namec~lordtype:desc~tabIdx:0~mkttype:0~rdogainper:0~gainperidx:0~gainpermin:~gainpermindir:0~gainpermax:~gainpermaxdir:0~rdoltins:0~ltinsidx:0~ltinsdatemin:01/01/1900~ltinsdatemax:25/11/2018~ltinsperiod:1900&page=220#txtab'
+// let testnoDataUrl = 'http://www.ricacorp.com/ricadata/eptest.aspx?type=22&code=102&info=tr&code2=rdoreg:0~regidx:6~regdatemin:01/01/2018~regdatemax:31/12/2018~regperiod:2018~insdatemin:~insdatemax:~insperiod:730~upricemin:~upricemax:~considermin:~considermax:~areamin:~areamax:~bldgagemin:~bldgagemax:~lord:namec~lordtype:desc~tabIdx:0~mkttype:0~rdogainper:0~gainperidx:0~gainpermin:~gainpermindir:0~gainpermax:~gainpermaxdir:0~rdoltins:0~ltinsidx:0~ltinsdatemin:01/01/1900~ltinsdatemax:25/11/2018~ltinsperiod:1900&page=220#txtab'
 
-// singlePageScrape(testurl)
-//     .then((data) => console.log(data))
+// // singlePageScrape(testurl)
+// //     .then((data) => console.log(data))
 
-// isLastPage(testnoDataUrl)
+// // isLastPage(testnoDataUrl)
+// // .then((data)=>console.log(data))
+
+
+
+// getLatLng(testAddList)
 // .then((data)=>console.log(data))
-
-
-
-getLatLng(testAddList)
-.then((data)=>console.log(data))
