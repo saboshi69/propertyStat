@@ -26,12 +26,12 @@ async function grabGPS() {
     });
     await page.goto("https://www.gps-coordinates.net/", { waitUntil: 'networkidle2', timeout: 60000})
     const data = await page.evaluate(() => {
-        document.querySelector("#address").setAttribute("value", "LEI HA COURT" + ", Hong Kong");
+        document.querySelector("#address").setAttribute("value", "Cheung Tung House, Hong Kong");
     })
     await page.click(".form-group div button");
     await page.hover(".row .col-md-8")
-    await setTimeout(()=>{console.log("happy"), 5000})
-    await page.waitForSelector("#info_window", { waitUntil: 'networkidle2', timeout: 60000});
+    await setTimeout(()=>{console.log("happy"), 10000})
+    await page.waitForSelector("#info_window", { waitUntil: 'networkidle2'});
     const text = await page.evaluate(() => {
         return document.querySelector("#info_window").innerText;
     })
