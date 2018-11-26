@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^1.10.0"
+    "node-fetch": "^2.3.0",
+    "puppeteer": "^1.10.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
   }
 }
