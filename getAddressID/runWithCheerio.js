@@ -2,15 +2,26 @@ const cheerio = require("cheerio");
 const request = require("request");
 const rp = require("request-promise");
 const fs = require("fs")
+const key = require("./addressKey.js")
+const _ = require("lodash")
 
-let testUrl = "http://www.ricacorp.com/ricadata/eptest.aspx?type=22&code=102&info=tr&code2=rdoreg:0~regidx:6~regdatemin:01/01/2018~regdatemax:31/12/2018~regperiod:2018~insdatemin:~insdatemax:~insperiod:730~upricemin:~upricemax:~considermin:~considermax:~areamin:~areamax:~bldgagemin:~bldgagemax:~lord:namec~lordtype:desc~tabIdx:0~mkttype:0~rdogainper:0~gainperidx:0~gainpermin:~gainpermindir:0~gainpermax:~gainpermaxdir:0~rdoltins:0~ltinsidx:0~ltinsdatemin:01/01/1900~ltinsdatemax:25/11/2018~ltinsperiod:1900&page=0#txtab"
+let isLast;
 
-async function singlePage(url) {
+let testUrl = "http://www.ricacorp.com/ricadata/eptest.aspx?type=22&code=102&info=tr&code2=rdoreg:0~regidx:6~regdatemin:01/01/2018~regdatemax:31/12/2018~regperiod:2018~insdatemin:~insdatemax:~insperiod:730~upricemin:~upricemax:~considermin:~considermax:~areamin:~areamax:~bldgagemin:~bldgagemax:~lord:namec~lordtype:desc~tabIdx:0~mkttype:0~rdogainper:0~gainperidx:0~gainpermin:~gainpermindir:0~gainpermax:~gainpermaxdir:0~rdoltins:0~ltinsidx:0~ltinsdatemin:01/01/1900~ltinsdatemax:25/11/2018~ltinsperiod:1900&page=180#txtab"
+
+async function singlePage(url, bRegion, sRegion) {
+    //standBy value if add5 is 0
+    let standBy = _.findKey(key[`${bRegion}`], function(v) { return v === `${sRegion}`; })
+
     let html = await rp(url);
     const $ = cheerio.load(html);
 
     //get the full table
     const trCount = $(`#ctmod1tab_mptran > tbody > tr > td > table > tbody > tr:not([height="1"]):not([bgcolor="#cccccc"])`).length
+
+    if (trCount == 0){
+        isLast = true
+    } 
 
     const add1 = $('#ctmod1tab_mptran > tbody > tr > td > table > tbody > tr:not([height="1"]):not([bgcolor="#cccccc"]) > td > table > tbody > tr >td > u:nth-child(1)').map((i, elem) => { return $(elem).text() })
     const add2 = $('#ctmod1tab_mptran > tbody > tr > td > table > tbody > tr:not([height="1"]):not([bgcolor="#cccccc"]) > td > table > tbody > tr >td > u:nth-child(2)').map((i, elem) => { return $(elem).text() })
@@ -25,8 +36,6 @@ async function singlePage(url) {
     const actualPrice = $(`#ctmod1tab_mptran > tbody > tr > td > table > tbody > tr:not([height="1"]):not([bgcolor="#cccccc"]) > td > table > tbody > tr > td.tdtr1uprice`).map((i, elem) => { return $(elem).text() })
     const grossPrice = $(`#ctmod1tab_mptran > tbody > tr > td > table > tbody > tr:not([height="1"]):not([bgcolor="#cccccc"]) > td > table > tbody > tr > td.tdtr1Guprice`).map((i, elem) => { return $(elem).text() })
 
-    //push into array
-    let result = []
     for (let i = 0; i < trCount; i++) {
         let json = {
             "address": {
@@ -34,7 +43,7 @@ async function singlePage(url) {
                 "add2": `${add2[i]}`,
                 "add3": `${add3[i]}`,
                 "add4": `${add4[i]}`,
-                "add5": `${add5[i]}`
+                "add5": `${(add5[i].length != 0)?add5[i]:standBy}`
             },
             "age": `${age[i]}`.trim(),
             "date": `${date[i]}`,
@@ -47,7 +56,7 @@ async function singlePage(url) {
         }
         let number = await getLatLng(json);
         json["latlng"] = String(number);
-        await fs.appendFile("test.json", JSON.stringify(json) + ',', err=>(err)?console.log (err):console.log ("writeFile success"))
+        await fs.appendFile("NTE2018.json", JSON.stringify(json) + ',', err=>(err)?console.log (err):console.log ("writeFile success"))
     }
 }
 
@@ -94,10 +103,8 @@ async function getLatLng(address) {
                         
                         //console.log("targeted latitude and longitude for row: " + i)
                         console.log("lat: " + lat + "lng: " + lng)
-                        return `${lat}, ${lng}`
-                        
+                        return `${lat}, ${lng}`  
                     }        
-               
             }
             k = -1
         }
@@ -115,4 +122,16 @@ function matchAddress(a, b) {
     return p
 }
 
-singlePage(testUrl).then((data) => { console.log(data) })
+async function grabAll(bRegion, year, today){
+    const regions = Object.values(key[`${bRegion}`])
+    for (let sRegion of regions){
+        isLast = false;
+        for (let page = 0; isLast == false; page++){
+            let url = `http://www.ricacorp.com/ricadata/eptest.aspx?type=22&code=${sRegion}&info=tr&code2=rdoreg:0~regidx:6~regdatemin:01/01/${year}~regdatemax:31/12/${year}~regperiod:2018~insdatemin:~insdatemax:~insperiod:730~upricemin:~upricemax:~considermin:~considermax:~areamin:~areamax:~bldgagemin:~bldgagemax:~lord:namec~lordtype:desc~tabIdx:0~mkttype:0~rdogainper:0~gainperidx:0~gainpermin:~gainpermindir:0~gainpermax:~gainpermaxdir:0~rdoltins:0~ltinsidx:0~ltinsdatemin:01/01/1900~ltinsdatemax:${today}~ltinsperiod:1900&page=${page*30}#txtab`
+            await singlePage(url, bRegion, sRegion)
+        } 
+    }
+}
+
+grabAll("NTE", 2018, "27/11/2018")
+.catch(err=>console.log(err))

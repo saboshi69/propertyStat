@@ -1,4 +1,4 @@
-const key =  {
+module.exports =  {
     "HK": {
         "Kennedy Town/Sai Yin Pun": "101", 
         "Sheung Wan/Central/Admiralty": "117",
@@ -59,8 +59,3 @@ const key =  {
         "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)": "410"
     }
 }
-
-
-let innerKey = Object.values(key[Object.keys(key)[0]])
-
-console.log (innerKey)
