@@ -75,11 +75,11 @@ async function singlePage(url, bRegion, sRegion) {
             "bRegion": bRegion,
             "age": `${age[i]}`.trim(),
             "date": `${date[i]}`,
-            "actualArea": `${actualArea[i]}`.trim(),
-            "grossArea": `${grossArea[i]}`.trim(),
+            "actualArea": `${actualArea[i]}`.replace('s.f.', '').trim(),
+            "grossArea": `${grossArea[i]}`.replace('s.f.', '').trim(),
             "price": `${price[i]}`.replace('M', '').replace('$', ''),
-            "actualPrice": `${actualPrice[i]}`.trim(),
-            "grossPrice": `${grossPrice[i]}`.trim(),
+            "actualPrice": `${actualPrice[i]}`.replace('$', '').trim(),
+            "grossPrice": `${grossPrice[i]}`.replace('$', '').trim(),
             "lat": "",
             "lng": ""
         }
