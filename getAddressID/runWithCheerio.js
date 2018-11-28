@@ -113,15 +113,40 @@ async function getLatLng(address) {
     if (myrequest2 == "") {
         myrequest2 = address["tempEstateSearchKey"].replace('NO.', '').replace(/[0-9]/g, '').trim()
     }
-    let url = `https://gbcode.ofca.gov.hk/TuniS/app1.ofca.gov.hk/apps/ubs/data/text.asp?street=&streetNo=&freeText=${myrequest}&infra=A&page=1`
-    let url2 = `https://gbcode.ofca.gov.hk/TuniS/app1.ofca.gov.hk/apps/ubs/data/text.asp?street=${myrequest2}&streetNo=&freeText=&infra=A&page=1`
 
-    let body = await rp(url)
-    let body2 = await rp(url2)
-    let latlng = await JSON.parse(body)
-    let latlng2 = await JSON.parse(body2)
+    let latlng = []
+    let check = await rp(`https://gbcode.ofca.gov.hk/TuniS/app1.ofca.gov.hk/apps/ubs/data/text.asp?street=&streetNo=&freeText=${myrequest}&infra=A&page=1`)
+    let jCheck = await JSON.parse(check)
+    if (jCheck[0].total <= 20) {
+        latlng = await [...jCheck]
+    } else {
+        let count = Math.ceil(jCheck[0].total / 20) +1 
+        for (let t = 2; t < count && t < 4; t++) {
+            let url = `https://gbcode.ofca.gov.hk/TuniS/app1.ofca.gov.hk/apps/ubs/data/text.asp?street=&streetNo=&freeText=${myrequest}&infra=A&page=${t}`
+            let body = await rp(url)
+            let jBody = await JSON.parse(body).slice(1)
+            latlng = await [...jCheck, ...jBody]
+        }
+    }
+
+    let latlng2 = []
+    let check2 = await rp(`https://gbcode.ofca.gov.hk/TuniS/app1.ofca.gov.hk/apps/ubs/data/text.asp?street=${myrequest2}&streetNo=&freeText=&infra=A&page=1`)
+    let jCheck2 = await JSON.parse(check2)
+    if (jCheck2[0].total <= 20) {
+        latlng2 = await [...jCheck2]
+    } else {
+        let count = Math.ceil(jCheck2[0].total / 20) +1 
+        for (let t = 2; t < count && t < 4; t++) {
+            let url2 = `https://gbcode.ofca.gov.hk/TuniS/app1.ofca.gov.hk/apps/ubs/data/text.asp?street=${myrequest2}&streetNo=&freeText=&infra=A&page=${t}`
+            let body2 = await rp(url2)
+            let jBody2 = await JSON.parse(body2).slice(1)
+            latlng2 = await [...jCheck2, ...jBody2]
+        }
+    }
+
 
     if (latlng[0].total == 0 && latlng2[0].total == 0) {
+        console.log("no Latlng")
         return ["noLat", "noLng"]
     } else if (latlng[0].total == 1) {
         let lat = '' + latlng[1].lat
