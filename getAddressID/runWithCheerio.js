@@ -102,7 +102,7 @@ async function singlePage(url, bRegion, sRegion) {
         json["lng"] = String(number[1]);
         delete json["tempStreetSearchKey"]
         delete json["tempEstateSearchKey"]
-        await fs.appendFile(`NTW2018_402.json`, JSON.stringify(json) + ',', err => (err) ? console.log(err) : console.log("writeFile success"))
+        await fs.appendFile(`NTW2018_405.json`, JSON.stringify(json) + ',', err => (err) ? console.log(err) : console.log("writeFile success"))
     }
 }
 
@@ -222,5 +222,5 @@ async function grabAll(bRegion, sRegion, year, today) {
     // }
 }
 
-grabAll("NTW", "402", 2018, "29/11/2018")
+grabAll("NTW", "405", 2018, "29/11/2018")
     .catch(err => console.log(err))
