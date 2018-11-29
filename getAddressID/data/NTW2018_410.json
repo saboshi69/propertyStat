@@ -1,0 +1,4302 @@
+[
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "4/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 1",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "15/11/18",
+        "actualArea": "644",
+        "grossArea": "830",
+        "price": "7.38",
+        "actualPrice": "11460",
+        "grossPrice": "8892",
+        "lat": "22.3708378227575",
+        "lng": "114.09957681817"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "6/F",
+            "add3": "THE PANORAMA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "20",
+        "date": "08/11/18",
+        "actualArea": "558",
+        "grossArea": "742",
+        "price": "6.60",
+        "actualPrice": "11828",
+        "grossPrice": "8895",
+        "lat": "22.3734311663953",
+        "lng": "114.102964073883"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "8/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "02/11/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.00",
+        "actualPrice": "10479",
+        "grossPrice": "8906",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT 9",
+            "add2": "15/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "31/10/18",
+        "actualArea": "445",
+        "grossArea": "589",
+        "price": "6.45",
+        "actualPrice": "14494",
+        "grossPrice": "10951",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "19/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "31/10/18",
+        "actualArea": "644",
+        "grossArea": "830",
+        "price": "6.00",
+        "actualPrice": "9317",
+        "grossPrice": "7229",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "17/F",
+            "add3": "BLOCK 1",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "26",
+        "date": "16/10/18",
+        "actualArea": "702",
+        "grossArea": "858",
+        "price": "9.14",
+        "actualPrice": "13017",
+        "grossPrice": "10650",
+        "lat": "22.3688957737851",
+        "lng": "114.098568113241"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "BLOCK 6",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "15/10/18",
+        "actualArea": "671",
+        "grossArea": "970",
+        "price": "8.45",
+        "actualPrice": "12593",
+        "grossPrice": "8711",
+        "lat": "22.3689461538374",
+        "lng": "114.091062724824"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "4/F",
+            "add3": "BLOCK 1",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "26",
+        "date": "11/10/18",
+        "actualArea": "708",
+        "grossArea": "850",
+        "price": "9.38",
+        "actualPrice": "13249",
+        "grossPrice": "11035",
+        "lat": "22.3688957737851",
+        "lng": "114.098568113241"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "24/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "10/10/18",
+        "actualArea": "703",
+        "grossArea": "784",
+        "price": "8.05",
+        "actualPrice": "11451",
+        "grossPrice": "10268",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "7/F",
+            "add3": "BLOCK 2",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "10/10/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.88",
+        "actualPrice": "11796",
+        "grossPrice": "10025",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "18/F",
+            "add3": "BLOCK 1",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "26",
+        "date": "09/10/18",
+        "actualArea": "702",
+        "grossArea": "858",
+        "price": "8.00",
+        "actualPrice": "11396",
+        "grossPrice": "9324",
+        "lat": "22.3688957737851",
+        "lng": "114.098568113241"
+    },
+    {
+        "address": {
+            "add1": "FLAT 1",
+            "add2": "39/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "28/09/18",
+        "actualArea": "644",
+        "grossArea": "852",
+        "price": "10.70",
+        "actualPrice": "16615",
+        "grossPrice": "12559",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "36/F",
+            "add3": "BLOCK 2",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "17/09/18",
+        "actualArea": "742",
+        "grossArea": "898",
+        "price": "9.48",
+        "actualPrice": "12776",
+        "grossPrice": "10557",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT 1",
+            "add2": "39/F",
+            "add3": "TOWER C",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "14/09/18",
+        "actualArea": "445",
+        "grossArea": "589",
+        "price": "6.00",
+        "actualPrice": "13483",
+        "grossPrice": "10187",
+        "lat": "22.3726273562597",
+        "lng": "114.102760595405"
+    },
+    {
+        "address": {
+            "add1": "FLAT 2",
+            "add2": "33/F",
+            "add3": "TOWER B",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "12/09/18",
+        "actualArea": "738",
+        "grossArea": "978",
+        "price": "11.29",
+        "actualPrice": "15298",
+        "grossPrice": "11544",
+        "lat": "22.3724650326634",
+        "lng": "114.103255872818"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "12/F",
+            "add3": "THE PANORAMA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "20",
+        "date": "10/09/18",
+        "actualArea": "671",
+        "grossArea": "895",
+        "price": "7.68",
+        "actualPrice": "11446",
+        "grossPrice": "8581",
+        "lat": "22.3734311663953",
+        "lng": "114.102964073883"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "6/F",
+            "add3": "BLOCK 4",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "07/09/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "7.05",
+        "actualPrice": "12325",
+        "grossPrice": "10554",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "13/F",
+            "add3": "BLOCK 8",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "03/09/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.50",
+        "actualPrice": "11228",
+        "grossPrice": "9542",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "3/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "31/08/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "4.60",
+        "actualPrice": "9644",
+        "grossPrice": "8440",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "11/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "28/08/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "7.00",
+        "actualPrice": "12238",
+        "grossPrice": "10479",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "9/F",
+            "add3": "BLOCK 4",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "24/08/18",
+        "actualArea": "760",
+        "grossArea": "928",
+        "price": "10.05",
+        "actualPrice": "13224",
+        "grossPrice": "10830",
+        "lat": "22.3697993350595",
+        "lng": "114.099625938464"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "26/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "22/08/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "8.33",
+        "actualPrice": "12470",
+        "grossPrice": "10598",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "20/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "21/08/18",
+        "actualArea": "728",
+        "grossArea": "846",
+        "price": "10.10",
+        "actualPrice": "13874",
+        "grossPrice": "11939",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "18/F",
+            "add3": "BLOCK 4",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "20/08/18",
+        "actualArea": "475",
+        "grossArea": "710",
+        "price": "6.00",
+        "actualPrice": "12627",
+        "grossPrice": "8448",
+        "lat": "22.3694251407828",
+        "lng": "114.091761510003"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "9/F",
+            "add3": "BLOCK 1",
+            "add4": "SUNNY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "17/08/18",
+        "actualArea": "2039",
+        "grossArea": "2300",
+        "price": "17.80",
+        "actualPrice": "8730",
+        "grossPrice": "7739",
+        "lat": "22.3684486702514",
+        "lng": "114.089558079227"
+    },
+    {
+        "address": {
+            "add1": "FLAT 7",
+            "add2": "10/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "17/08/18",
+        "actualArea": "570",
+        "grossArea": "754",
+        "price": "7.62",
+        "actualPrice": "13368",
+        "grossPrice": "10106",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "52/F",
+            "add3": "THE PANORAMA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "20",
+        "date": "17/08/18",
+        "actualArea": "671",
+        "grossArea": "895",
+        "price": "7.50",
+        "actualPrice": "11177",
+        "grossPrice": "8380",
+        "lat": "22.3734311663953",
+        "lng": "114.102964073883"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "44/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "16/08/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "7.50",
+        "actualPrice": "13112",
+        "grossPrice": "11228",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "5/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "16/08/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "6.28",
+        "actualPrice": "13166",
+        "grossPrice": "11523",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "39/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "16/08/18",
+        "actualArea": "742",
+        "grossArea": "898",
+        "price": "8.00",
+        "actualPrice": "10782",
+        "grossPrice": "8909",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3",
+            "add2": "5/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "10/08/18",
+        "actualArea": "739",
+        "grossArea": "966",
+        "price": "9.00",
+        "actualPrice": "12179",
+        "grossPrice": "9317",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "7/F",
+            "add3": "BLOCK 1",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "10/08/18",
+        "actualArea": "703",
+        "grossArea": "784",
+        "price": "8.55",
+        "actualPrice": "12162",
+        "grossPrice": "10906",
+        "lat": "22.370078768496",
+        "lng": "114.098557742498"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "17/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "09/08/18",
+        "actualArea": "742",
+        "grossArea": "896",
+        "price": "7.50",
+        "actualPrice": "10108",
+        "grossPrice": "8371",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "5/F",
+            "add3": "BLOCK 1",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "07/08/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "6.28",
+        "actualPrice": "13166",
+        "grossPrice": "11523",
+        "lat": "22.370078768496",
+        "lng": "114.098557742498"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "32/F",
+            "add3": "BLOCK 2",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "06/08/18",
+        "actualArea": "582",
+        "grossArea": "868",
+        "price": "8.20",
+        "actualPrice": "14089",
+        "grossPrice": "9447",
+        "lat": "22.3694615680063",
+        "lng": "114.092344053523"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "19/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "06/08/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "8.33",
+        "actualPrice": "12470",
+        "grossPrice": "10598",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "25/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 1",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "06/08/18",
+        "actualArea": "644",
+        "grossArea": "830",
+        "price": "7.79",
+        "actualPrice": "12096",
+        "grossPrice": "9386",
+        "lat": "22.3708378227575",
+        "lng": "114.09957681817"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "33/F",
+            "add3": "BLOCK 2",
+            "add4": "PHASE 1",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "03/08/18",
+        "actualArea": "481",
+        "grossArea": "592",
+        "price": "6.68",
+        "actualPrice": "13888",
+        "grossPrice": "11284",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "6/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "03/08/18",
+        "actualArea": "703",
+        "grossArea": "784",
+        "price": "7.32",
+        "actualPrice": "10413",
+        "grossPrice": "9337",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "24/F",
+            "add3": "BLOCK 4",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "02/08/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "8.00",
+        "actualPrice": "11976",
+        "grossPrice": "10178",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "10/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "01/08/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.15",
+        "actualPrice": "10704",
+        "grossPrice": "9097",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "32/F",
+            "add3": "BLOCK 3",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "26/07/18",
+        "actualArea": "582",
+        "grossArea": "868",
+        "price": "9.00",
+        "actualPrice": "15464",
+        "grossPrice": "10369",
+        "lat": "22.3694162630833",
+        "lng": "114.092052798128"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "16/F",
+            "add3": "BLOCK 5",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "26/07/18",
+        "actualArea": "671",
+        "grossArea": "970",
+        "price": "9.30",
+        "actualPrice": "13860",
+        "grossPrice": "9588",
+        "lat": "22.3691539485171",
+        "lng": "114.091237366844"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "35/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "26/07/18",
+        "actualArea": "676",
+        "grossArea": "786",
+        "price": "8.38",
+        "actualPrice": "12396",
+        "grossPrice": "10662",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "30/F",
+            "add3": "BLOCK 2",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "26",
+        "date": "24/07/18",
+        "actualArea": "610",
+        "grossArea": "738",
+        "price": "8.20",
+        "actualPrice": "13443",
+        "grossPrice": "11111",
+        "lat": "22.369193903155",
+        "lng": "114.098820391261"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "32/F",
+            "add3": "BLOCK 2",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "24/07/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "7.00",
+        "actualPrice": "12238",
+        "grossPrice": "10479",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "17/F",
+            "add3": "THE WESTMINSTER TERRACE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "9",
+        "date": "23/07/18",
+        "actualArea": "2432",
+        "grossArea": "3259",
+        "price": "40.80",
+        "actualPrice": "16776",
+        "grossPrice": "12519",
+        "lat": "22.3689114992679",
+        "lng": "114.093878469004"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "26/F",
+            "add3": "BLOCK 5",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "23/07/18",
+        "actualArea": "610",
+        "grossArea": "738",
+        "price": "7.95",
+        "actualPrice": "13033",
+        "grossPrice": "10772",
+        "lat": "22.3699801258482",
+        "lng": "114.1000045079"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "23/F",
+            "add3": "BLOCK 4",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "23/07/18",
+        "actualArea": "728",
+        "grossArea": "846",
+        "price": "9.88",
+        "actualPrice": "13571",
+        "grossPrice": "11678",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "5/F",
+            "add3": "BLOCK 3",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "23/07/18",
+        "actualArea": "593",
+        "grossArea": "868",
+        "price": "6.70",
+        "actualPrice": "11298",
+        "grossPrice": "7719",
+        "lat": "22.3694162630833",
+        "lng": "114.092052798128"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "19/F",
+            "add3": "BLOCK 3",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "20/07/18",
+        "actualArea": "703",
+        "grossArea": "784",
+        "price": "8.00",
+        "actualPrice": "11380",
+        "grossPrice": "10204",
+        "lat": "22.3706115038907",
+        "lng": "114.098421511539"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3",
+            "add2": "40/F",
+            "add3": "TOWER C",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "20/07/18",
+        "actualArea": "570",
+        "grossArea": "754",
+        "price": "7.90",
+        "actualPrice": "13860",
+        "grossPrice": "10477",
+        "lat": "22.3726273562597",
+        "lng": "114.102760595405"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "6/F",
+            "add3": "BLOCK 3",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "20/07/18",
+        "actualArea": "703",
+        "grossArea": "784",
+        "price": "7.50",
+        "actualPrice": "10669",
+        "grossPrice": "9566",
+        "lat": "22.3706115038907",
+        "lng": "114.098421511539"
+    },
+    {
+        "address": {
+            "add1": "FLAT 9",
+            "add2": "38/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "19/07/18",
+        "actualArea": "445",
+        "grossArea": "589",
+        "price": "6.30",
+        "actualPrice": "14157",
+        "grossPrice": "10696",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "16/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "18/07/18",
+        "actualArea": "703",
+        "grossArea": "784",
+        "price": "8.20",
+        "actualPrice": "11664",
+        "grossPrice": "10459",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "1/F",
+            "add3": "BLOCK 5",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "18/07/18",
+        "actualArea": "708",
+        "grossArea": "850",
+        "price": "8.35",
+        "actualPrice": "11794",
+        "grossPrice": "9824",
+        "lat": "22.3699801258482",
+        "lng": "114.1000045079"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "39/F",
+            "add3": "BLOCK 9",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "18/07/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "7.75",
+        "actualPrice": "13549",
+        "grossPrice": "11602",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "18/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "17/07/18",
+        "actualArea": "470",
+        "grossArea": "582",
+        "price": "6.78",
+        "actualPrice": "14426",
+        "grossPrice": "11649",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "20/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "13/07/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.78",
+        "actualPrice": "11647",
+        "grossPrice": "9898",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "5/F",
+            "add3": "BLOCK 4",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "12/07/18",
+        "actualArea": "728",
+        "grossArea": "849",
+        "price": "8.33",
+        "actualPrice": "11442",
+        "grossPrice": "9812",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT 7",
+            "add2": "9/F",
+            "add3": "TOWER C",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "11/07/18",
+        "actualArea": "555",
+        "grossArea": "738",
+        "price": "7.00",
+        "actualPrice": "12613",
+        "grossPrice": "9485",
+        "lat": "22.3726273562597",
+        "lng": "114.102760595405"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "19/F",
+            "add3": "BLOCK 4",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "10/07/18",
+        "actualArea": "593",
+        "grossArea": "868",
+        "price": "8.19",
+        "actualPrice": "13811",
+        "grossPrice": "9435",
+        "lat": "22.3694251407828",
+        "lng": "114.091761510003"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "33/F",
+            "add3": "BLOCK 4",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "09/07/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "8.40",
+        "actualPrice": "12575",
+        "grossPrice": "10687",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "43/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "06/07/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "7.85",
+        "actualPrice": "13724",
+        "grossPrice": "11751",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "4/F",
+            "add3": "BLOCK 4",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "06/07/18",
+        "actualArea": "742",
+        "grossArea": "896",
+        "price": "9.15",
+        "actualPrice": "12332",
+        "grossPrice": "10212",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "19/F",
+            "add3": "BLOCK 1",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "06/07/18",
+        "actualArea": "634",
+        "grossArea": "910",
+        "price": "8.47",
+        "actualPrice": "13356",
+        "grossPrice": "9305",
+        "lat": "22.3695700761008",
+        "lng": "114.092615852231"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "30/F",
+            "add3": "BLOCK B",
+            "add4": "GOLDEN VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "06/07/18",
+        "actualArea": "1015",
+        "grossArea": "1380",
+        "price": "14.80",
+        "actualPrice": "14581",
+        "grossPrice": "10725",
+        "lat": "22.3642993052232",
+        "lng": "114.067521083308"
+    },
+    {
+        "address": {
+            "add1": "FLAT 7",
+            "add2": "22/F",
+            "add3": "TOWER C",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "04/07/18",
+        "actualArea": "555",
+        "grossArea": "738",
+        "price": "7.78",
+        "actualPrice": "14018",
+        "grossPrice": "10542",
+        "lat": "22.3726273562597",
+        "lng": "114.102760595405"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "31/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "04/07/18",
+        "actualArea": "742",
+        "grossArea": "896",
+        "price": "9.85",
+        "actualPrice": "13275",
+        "grossPrice": "10993",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "17/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "04/07/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "6.00",
+        "actualPrice": "12579",
+        "grossPrice": "11009",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "5/F",
+            "add3": "BLOCK 8",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "04/07/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "6.50",
+        "actualPrice": "9731",
+        "grossPrice": "8270",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "25/F",
+            "add3": "BLOCK 1",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "29/06/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "6.15",
+        "actualPrice": "12893",
+        "grossPrice": "11284",
+        "lat": "22.370078768496",
+        "lng": "114.098557742498"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "37/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "29/06/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.94",
+        "actualPrice": "11883",
+        "grossPrice": "10099",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "13/F",
+            "add3": "BLOCK 9",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "29/06/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.70",
+        "actualPrice": "11527",
+        "grossPrice": "9796",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "26/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "28/06/18",
+        "actualArea": "742",
+        "grossArea": "896",
+        "price": "9.30",
+        "actualPrice": "12534",
+        "grossPrice": "10379",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "4/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "27/06/18",
+        "actualArea": "644",
+        "grossArea": "830",
+        "price": "7.20",
+        "actualPrice": "11180",
+        "grossPrice": "8675",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "6/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "27/06/18",
+        "actualArea": "728",
+        "grossArea": "846",
+        "price": "8.00",
+        "actualPrice": "10989",
+        "grossPrice": "9456",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "8/F",
+            "add3": "BLOCK 5",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "27/06/18",
+        "actualArea": "691",
+        "grossArea": "845",
+        "price": "8.30",
+        "actualPrice": "12012",
+        "grossPrice": "9822",
+        "lat": "22.3699801258482",
+        "lng": "114.1000045079"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "18/F",
+            "add3": "BLOCK 5",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "25/06/18",
+        "actualArea": "691",
+        "grossArea": "845",
+        "price": "8.80",
+        "actualPrice": "12735",
+        "grossPrice": "10414",
+        "lat": "22.3699801258482",
+        "lng": "114.1000045079"
+    },
+    {
+        "address": {
+            "add1": "FLAT 7",
+            "add2": "18/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "22/06/18",
+        "actualArea": "570",
+        "grossArea": "754",
+        "price": "7.80",
+        "actualPrice": "13684",
+        "grossPrice": "10345",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "8/F",
+            "add3": "BLOCK 3",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "22/06/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "5.90",
+        "actualPrice": "12369",
+        "grossPrice": "10826",
+        "lat": "22.3706115038907",
+        "lng": "114.098421511539"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "15/F",
+            "add3": "BLOCK 4",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "22/06/18",
+        "actualArea": "610",
+        "grossArea": "738",
+        "price": "6.80",
+        "actualPrice": "11148",
+        "grossPrice": "9214",
+        "lat": "22.3697993350595",
+        "lng": "114.099625938464"
+    },
+    {
+        "address": {
+            "add1": "FLAT 6",
+            "add2": "38/F",
+            "add3": "TOWER B",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "21/06/18",
+        "actualArea": "445",
+        "grossArea": "589",
+        "price": "6.78",
+        "actualPrice": "15236",
+        "grossPrice": "11511",
+        "lat": "22.3724650326634",
+        "lng": "114.103255872818"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "5/F",
+            "add3": "BLOCK 3",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "20/06/18",
+        "actualArea": "610",
+        "grossArea": "738",
+        "price": "7.60",
+        "actualPrice": "12459",
+        "grossPrice": "10298",
+        "lat": "22.3694920321348",
+        "lng": "114.099072670355"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "4/F",
+            "add3": "BLOCK 9",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "19/06/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "6.45",
+        "actualPrice": "11276",
+        "grossPrice": "9656",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "22/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "19/06/18",
+        "actualArea": "470",
+        "grossArea": "582",
+        "price": "6.67",
+        "actualPrice": "14187",
+        "grossPrice": "11457",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "38/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "19/06/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "7.50",
+        "actualPrice": "13112",
+        "grossPrice": "11228",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "23/F",
+            "add3": "BLOCK 4",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "15/06/18",
+        "actualArea": "626",
+        "grossArea": "910",
+        "price": "8.60",
+        "actualPrice": "13738",
+        "grossPrice": "9451",
+        "lat": "22.3694251407828",
+        "lng": "114.091761510003"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "17/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "14/06/18",
+        "actualArea": "742",
+        "grossArea": "898",
+        "price": "7.80",
+        "actualPrice": "10512",
+        "grossPrice": "8686",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "15/F",
+            "add3": "BLOCK 4",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "13/06/18",
+        "actualArea": "742",
+        "grossArea": "898",
+        "price": "8.60",
+        "actualPrice": "11590",
+        "grossPrice": "9577",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "25/F",
+            "add3": "BLOCK 4",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "13/06/18",
+        "actualArea": "626",
+        "grossArea": "910",
+        "price": "8.48",
+        "actualPrice": "13546",
+        "grossPrice": "9319",
+        "lat": "22.3694251407828",
+        "lng": "114.091761510003"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "5/F",
+            "add3": "BLOCK 1",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "12/06/18",
+        "actualArea": "593",
+        "grossArea": "868",
+        "price": "7.33",
+        "actualPrice": "12358",
+        "grossPrice": "8442",
+        "lat": "22.3695700761008",
+        "lng": "114.092615852231"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "14/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "11/06/18",
+        "actualArea": "728",
+        "grossArea": "846",
+        "price": "8.28",
+        "actualPrice": "11374",
+        "grossPrice": "9787",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "36/F",
+            "add3": "THE PANORAMA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "20",
+        "date": "11/06/18",
+        "actualArea": "526",
+        "grossArea": "699",
+        "price": "6.00",
+        "actualPrice": "11407",
+        "grossPrice": "8584",
+        "lat": "22.3734311663953",
+        "lng": "114.102964073883"
+    },
+    {
+        "address": {
+            "add1": "FLAT 2",
+            "add2": "30/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "08/06/18",
+        "actualArea": "738",
+        "grossArea": "978",
+        "price": "11.38",
+        "actualPrice": "15420",
+        "grossPrice": "11636",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT 8",
+            "add2": "9/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "07/06/18",
+        "actualArea": "420",
+        "grossArea": "566",
+        "price": "6.57",
+        "actualPrice": "15638",
+        "grossPrice": "11604",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "21/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "06/06/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "7.23",
+        "actualPrice": "12640",
+        "grossPrice": "10823",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "14/F",
+            "add3": "BLOCK 2",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "06/06/18",
+        "actualArea": "485",
+        "grossArea": "725",
+        "price": "5.40",
+        "actualPrice": "11134",
+        "grossPrice": "7448",
+        "lat": "22.3694615680063",
+        "lng": "114.092344053523"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "29/F",
+            "add3": "BLOCK 2",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "06/06/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "8.00",
+        "actualPrice": "11976",
+        "grossPrice": "10178",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "41/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "05/06/18",
+        "actualArea": "572",
+        "grossArea": "659",
+        "price": "6.50",
+        "actualPrice": "11364",
+        "grossPrice": "9863",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "2/F",
+            "add3": "BLOCK 1",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "04/06/18",
+        "actualArea": "703",
+        "grossArea": "784",
+        "price": "7.80",
+        "actualPrice": "11095",
+        "grossPrice": "9949",
+        "lat": "22.370078768496",
+        "lng": "114.098557742498"
+    },
+    {
+        "address": {
+            "add1": "FLAT 2",
+            "add2": "10/F",
+            "add3": "TOWER B",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "01/06/18",
+        "actualArea": "738",
+        "grossArea": "978",
+        "price": "10.78",
+        "actualPrice": "14607",
+        "grossPrice": "11022",
+        "lat": "22.3724650326634",
+        "lng": "114.103255872818"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "14/F",
+            "add3": "BLOCK 3",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "01/06/18",
+        "actualArea": "691",
+        "grossArea": "845",
+        "price": "8.52",
+        "actualPrice": "12327",
+        "grossPrice": "10080",
+        "lat": "22.3694920321348",
+        "lng": "114.099072670355"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "5/F",
+            "add3": "BLOCK 4",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "31/05/18",
+        "actualArea": "691",
+        "grossArea": "845",
+        "price": "8.40",
+        "actualPrice": "12156",
+        "grossPrice": "9941",
+        "lat": "22.3697993350595",
+        "lng": "114.099625938464"
+    },
+    {
+        "address": {
+            "add1": "FLAT 9",
+            "add2": "5/F",
+            "add3": "TOWER B",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "30/05/18",
+        "actualArea": "397",
+        "grossArea": "523",
+        "price": "5.92",
+        "actualPrice": "14912",
+        "grossPrice": "11319",
+        "lat": "22.3724650326634",
+        "lng": "114.103255872818"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "40/F",
+            "add3": "BLOCK 9",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "30/05/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "8.34",
+        "actualPrice": "12482",
+        "grossPrice": "10608",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "4/F",
+            "add3": "KEYMOUNT LODGE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "30/05/18",
+        "actualArea": "663",
+        "grossArea": "1028",
+        "price": "8.60",
+        "actualPrice": "12971",
+        "grossPrice": "8366",
+        "lat": "22.3681866906284",
+        "lng": "114.08938347442"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "28/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "30/05/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "6.80",
+        "actualPrice": "11879",
+        "grossPrice": "10172",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "11/F",
+            "add3": "THE WESTMINSTER TERRACE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "9",
+        "date": "29/05/18",
+        "actualArea": "2561",
+        "grossArea": "3424",
+        "price": "35.80",
+        "actualPrice": "13979",
+        "grossPrice": "10456",
+        "lat": "22.3689114992679",
+        "lng": "114.093878469004"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "41/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "29/05/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "6.83",
+        "actualPrice": "11941",
+        "grossPrice": "10225",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "25/F",
+            "add3": "BLOCK 3",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "24/05/18",
+        "actualArea": "703",
+        "grossArea": "784",
+        "price": "8.38",
+        "actualPrice": "11920",
+        "grossPrice": "10689",
+        "lat": "22.3706115038907",
+        "lng": "114.098421511539"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "27/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "24/05/18",
+        "actualArea": "742",
+        "grossArea": "898",
+        "price": "9.26",
+        "actualPrice": "12480",
+        "grossPrice": "10312",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "35/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "23/05/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "6.95",
+        "actualPrice": "12150",
+        "grossPrice": "10404",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "2/F",
+            "add3": "BLOCK 2",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "21/05/18",
+        "actualArea": "593",
+        "grossArea": "868",
+        "price": "6.00",
+        "actualPrice": "10118",
+        "grossPrice": "6912",
+        "lat": "22.3694615680063",
+        "lng": "114.092344053523"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "5/F",
+            "add3": "BLOCK 3",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "21/05/18",
+        "actualArea": "593",
+        "grossArea": "868",
+        "price": "7.40",
+        "actualPrice": "12476",
+        "grossPrice": "8523",
+        "lat": "22.3694162630833",
+        "lng": "114.092052798128"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "17/F",
+            "add3": "BLOCK 4",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "21/05/18",
+        "actualArea": "728",
+        "grossArea": "849",
+        "price": "8.06",
+        "actualPrice": "11071",
+        "grossPrice": "9494",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "30/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "18/05/18",
+        "actualArea": "728",
+        "grossArea": "846",
+        "price": "7.80",
+        "actualPrice": "10714",
+        "grossPrice": "9220",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "17/F",
+            "add3": "BLOCK 5",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "18/05/18",
+        "actualArea": "691",
+        "grossArea": "845",
+        "price": "7.90",
+        "actualPrice": "11433",
+        "grossPrice": "9349",
+        "lat": "22.3699801258482",
+        "lng": "114.1000045079"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "29/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "17/05/18",
+        "actualArea": "470",
+        "grossArea": "582",
+        "price": "6.50",
+        "actualPrice": "13830",
+        "grossPrice": "11168",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "12/F",
+            "add3": "BLOCK 1",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "15/05/18",
+        "actualArea": "634",
+        "grossArea": "910",
+        "price": "7.30",
+        "actualPrice": "11514",
+        "grossPrice": "8022",
+        "lat": "22.3695700761008",
+        "lng": "114.092615852231"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "17/F",
+            "add3": "BLOCK 3",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "14/05/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "6.20",
+        "actualPrice": "12998",
+        "grossPrice": "11376",
+        "lat": "22.3706115038907",
+        "lng": "114.098421511539"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "14/F",
+            "add3": "BLOCK 5",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "11/05/18",
+        "actualArea": "671",
+        "grossArea": "970",
+        "price": "8.99",
+        "actualPrice": "13398",
+        "grossPrice": "9268",
+        "lat": "22.3691539485171",
+        "lng": "114.091237366844"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "21/F",
+            "add3": "BLOCK 1",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "10/05/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "6.00",
+        "actualPrice": "12579",
+        "grossPrice": "11009",
+        "lat": "22.370078768496",
+        "lng": "114.098557742498"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "23/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "10/05/18",
+        "actualArea": "742",
+        "grossArea": "896",
+        "price": "8.20",
+        "actualPrice": "11051",
+        "grossPrice": "9152",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "6/F",
+            "add3": "BLOCK 1",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "09/05/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "6.00",
+        "actualPrice": "12579",
+        "grossPrice": "11009",
+        "lat": "22.370078768496",
+        "lng": "114.098557742498"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "15/F",
+            "add3": "BLOCK 3",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "09/05/18",
+        "actualArea": "610",
+        "grossArea": "738",
+        "price": "7.33",
+        "actualPrice": "12016",
+        "grossPrice": "9932",
+        "lat": "22.3694920321348",
+        "lng": "114.099072670355"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "21/F",
+            "add3": "BLOCK 2",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "26",
+        "date": "09/05/18",
+        "actualArea": "610",
+        "grossArea": "738",
+        "price": "7.60",
+        "actualPrice": "12459",
+        "grossPrice": "10298",
+        "lat": "22.369193903155",
+        "lng": "114.098820391261"
+    },
+    {
+        "address": {
+            "add1": "FLAT 9",
+            "add2": "7/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "07/05/18",
+        "actualArea": "394",
+        "grossArea": "522",
+        "price": "5.55",
+        "actualPrice": "14086",
+        "grossPrice": "10632",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "33/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "04/05/18",
+        "actualArea": "728",
+        "grossArea": "846",
+        "price": "8.60",
+        "actualPrice": "11813",
+        "grossPrice": "10165",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "3/F",
+            "add3": "BLOCK 7",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "04/05/18",
+        "actualArea": "680",
+        "grossArea": "989",
+        "price": "8.04",
+        "actualPrice": "11821",
+        "grossPrice": "8127",
+        "lat": "22.3687473842908",
+        "lng": "114.090878368404"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "17/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "03/05/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "6.00",
+        "actualPrice": "12579",
+        "grossPrice": "11009",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "19/F",
+            "add3": "BLOCK 4",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "03/05/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.58",
+        "actualPrice": "11347",
+        "grossPrice": "9644",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT 2",
+            "add2": "20/F",
+            "add3": "TOWER B",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "02/05/18",
+        "actualArea": "738",
+        "grossArea": "978",
+        "price": "10.90",
+        "actualPrice": "14770",
+        "grossPrice": "11145",
+        "lat": "22.3724650326634",
+        "lng": "114.103255872818"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "9/F",
+            "add3": "BLOCK 1",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "26",
+        "date": "30/04/18",
+        "actualArea": "610",
+        "grossArea": "738",
+        "price": "7.58",
+        "actualPrice": "12418",
+        "grossPrice": "10264",
+        "lat": "22.3688957737851",
+        "lng": "114.098568113241"
+    },
+    {
+        "address": {
+            "add1": "FLAT 7",
+            "add2": "5/F",
+            "add3": "TOWER C",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "30/04/18",
+        "actualArea": "556",
+        "grossArea": "738",
+        "price": "6.80",
+        "actualPrice": "12230",
+        "grossPrice": "9214",
+        "lat": "22.3726273562597",
+        "lng": "114.102760595405"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "27/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 1",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "27/04/18",
+        "actualArea": "644",
+        "grossArea": "830",
+        "price": "7.30",
+        "actualPrice": "11335",
+        "grossPrice": "8795",
+        "lat": "22.3708378227575",
+        "lng": "114.09957681817"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "18/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 1",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "27/04/18",
+        "actualArea": "644",
+        "grossArea": "830",
+        "price": "7.08",
+        "actualPrice": "10994",
+        "grossPrice": "8530",
+        "lat": "22.3708378227575",
+        "lng": "114.09957681817"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "3/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "26/04/18",
+        "actualArea": "742",
+        "grossArea": "896",
+        "price": "8.05",
+        "actualPrice": "10849",
+        "grossPrice": "8984",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "17/F",
+            "add3": "THE WESTMINSTER TERRACE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "9",
+        "date": "26/04/18",
+        "actualArea": "2413",
+        "grossArea": "3259",
+        "price": "38.80",
+        "actualPrice": "16080",
+        "grossPrice": "11905",
+        "lat": "22.3689114992679",
+        "lng": "114.093878469004"
+    },
+    {
+        "address": {
+            "add1": "FLAT 5",
+            "add2": "41/F",
+            "add3": "TOWER C",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "25/04/18",
+        "actualArea": "940",
+        "grossArea": "1246",
+        "price": "13.00",
+        "actualPrice": "13830",
+        "grossPrice": "10433",
+        "lat": "22.3726273562597",
+        "lng": "114.102760595405"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "35/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "24/04/18",
+        "actualArea": "728",
+        "grossArea": "846",
+        "price": "8.70",
+        "actualPrice": "11951",
+        "grossPrice": "10284",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "9/F",
+            "add3": "BLOCK 3",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "23/04/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "6.00",
+        "actualPrice": "12579",
+        "grossPrice": "11009",
+        "lat": "22.3706115038907",
+        "lng": "114.098421511539"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "16/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "20/04/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.27",
+        "actualPrice": "10883",
+        "grossPrice": "9249",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT 8",
+            "add2": "26/F",
+            "add3": "TOWER C",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "17/04/18",
+        "actualArea": "555",
+        "grossArea": "738",
+        "price": "7.50",
+        "actualPrice": "13514",
+        "grossPrice": "10163",
+        "lat": "22.3726273562597",
+        "lng": "114.102760595405"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "10/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "16/04/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.55",
+        "actualPrice": "11302",
+        "grossPrice": "9606",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "30/F",
+            "add3": "BLOCK 3",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "16/04/18",
+        "actualArea": "703",
+        "grossArea": "784",
+        "price": "7.68",
+        "actualPrice": "10925",
+        "grossPrice": "9796",
+        "lat": "22.3706115038907",
+        "lng": "114.098421511539"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "10/F",
+            "add3": "BLOCK 8",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "12/04/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.00",
+        "actualPrice": "10479",
+        "grossPrice": "8906",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "10/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "12/04/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.01",
+        "actualPrice": "10494",
+        "grossPrice": "8919",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "7/F",
+            "add3": "BLOCK 4",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "12/04/18",
+        "actualArea": "708",
+        "grossArea": "850",
+        "price": "8.00",
+        "actualPrice": "11299",
+        "grossPrice": "9412",
+        "lat": "22.3697993350595",
+        "lng": "114.099625938464"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "9/F",
+            "add3": "BLOCK 1",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "11/04/18",
+        "actualArea": "703",
+        "grossArea": "784",
+        "price": "7.80",
+        "actualPrice": "11095",
+        "grossPrice": "9949",
+        "lat": "22.370078768496",
+        "lng": "114.098557742498"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "45/F",
+            "add3": "BLOCK 8",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "10/04/18",
+        "actualArea": "668",
+        "grossArea": "777",
+        "price": "8.25",
+        "actualPrice": "12350",
+        "grossPrice": "10618",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "12/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "09/04/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "5.87",
+        "actualPrice": "12302",
+        "grossPrice": "10767",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3",
+            "add2": "32/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "09/04/18",
+        "actualArea": "738",
+        "grossArea": "978",
+        "price": "11.00",
+        "actualPrice": "14905",
+        "grossPrice": "11247",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "17/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "09/04/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "5.95",
+        "actualPrice": "12474",
+        "grossPrice": "10917",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "19/F",
+            "add3": "BLOCK B",
+            "add4": "GOLDEN VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "09/04/18",
+        "actualArea": "1063",
+        "grossArea": "1380",
+        "price": "14.68",
+        "actualPrice": "13810",
+        "grossPrice": "10638",
+        "lat": "22.3642813096982",
+        "lng": "114.067618187987"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "1/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "06/04/18",
+        "actualArea": "742",
+        "grossArea": "896",
+        "price": "7.00",
+        "actualPrice": "9434",
+        "grossPrice": "7813",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "24/F",
+            "add3": "BLOCK 5",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "06/04/18",
+        "actualArea": "671",
+        "grossArea": "970",
+        "price": "9.38",
+        "actualPrice": "13979",
+        "grossPrice": "9670",
+        "lat": "22.3691539485171",
+        "lng": "114.091237366844"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "21/F",
+            "add3": "BLOCK 8",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "27/03/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "7.00",
+        "actualPrice": "12238",
+        "grossPrice": "10479",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "27/F",
+            "add3": "BLOCK 4",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "26/03/18",
+        "actualArea": "610",
+        "grossArea": "738",
+        "price": "7.48",
+        "actualPrice": "12262",
+        "grossPrice": "10136",
+        "lat": "22.3697993350595",
+        "lng": "114.099625938464"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "15/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "26/03/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "6.90",
+        "actualPrice": "10329",
+        "grossPrice": "8779",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "29/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "22/03/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "5.75",
+        "actualPrice": "12055",
+        "grossPrice": "10550",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "31/F",
+            "add3": "THE PANORAMA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "20",
+        "date": "21/03/18",
+        "actualArea": "716",
+        "grossArea": "950",
+        "price": "7.77",
+        "actualPrice": "10852",
+        "grossPrice": "8179",
+        "lat": "22.3734311663953",
+        "lng": "114.102964073883"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "17/F",
+            "add3": "BLOCK 1",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "20/03/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "5.78",
+        "actualPrice": "12117",
+        "grossPrice": "10606",
+        "lat": "22.370078768496",
+        "lng": "114.098557742498"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "22/F",
+            "add3": "BLOCK 1",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "14/03/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "5.98",
+        "actualPrice": "12537",
+        "grossPrice": "10972",
+        "lat": "22.370078768496",
+        "lng": "114.098557742498"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "28/F",
+            "add3": "BLOCK 4",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "12/03/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "7.00",
+        "actualPrice": "12238",
+        "grossPrice": "10479",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "8/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "12/03/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "6.75",
+        "actualPrice": "10102",
+        "grossPrice": "8585",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "36/F",
+            "add3": "BLOCK 4",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "08/03/18",
+        "actualArea": "742",
+        "grossArea": "896",
+        "price": "8.20",
+        "actualPrice": "11051",
+        "grossPrice": "9152",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "21/F",
+            "add3": "BLOCK 5",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "06/03/18",
+        "actualArea": "760",
+        "grossArea": "928",
+        "price": "9.79",
+        "actualPrice": "12879",
+        "grossPrice": "10547",
+        "lat": "22.3699801258482",
+        "lng": "114.1000045079"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "25/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "06/03/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.00",
+        "actualPrice": "10479",
+        "grossPrice": "8906",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "16/F",
+            "add3": "BLOCK 4",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "05/03/18",
+        "actualArea": "742",
+        "grossArea": "896",
+        "price": "9.00",
+        "actualPrice": "12133",
+        "grossPrice": "10048",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT 6",
+            "add2": "37/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "28/02/18",
+        "actualArea": "608",
+        "grossArea": "806",
+        "price": "8.27",
+        "actualPrice": "13599",
+        "grossPrice": "10258",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT 2",
+            "add2": "32/F",
+            "add3": "TOWER C",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "28/02/18",
+        "actualArea": "420",
+        "grossArea": "566",
+        "price": "6.28",
+        "actualPrice": "14952",
+        "grossPrice": "11095",
+        "lat": "22.3726273562597",
+        "lng": "114.102760595405"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "12/F",
+            "add3": "BLOCK 3",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "27/02/18",
+        "actualArea": "593",
+        "grossArea": "868",
+        "price": "6.50",
+        "actualPrice": "10961",
+        "grossPrice": "7488",
+        "lat": "22.3694162630833",
+        "lng": "114.092052798128"
+    },
+    {
+        "address": {
+            "add1": "FLAT 6",
+            "add2": "7/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "26/02/18",
+        "actualArea": "608",
+        "grossArea": "806",
+        "price": "7.20",
+        "actualPrice": "11842",
+        "grossPrice": "8933",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "16/F",
+            "add3": "BLOCK 1",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "26",
+        "date": "22/02/18",
+        "actualArea": "702",
+        "grossArea": "858",
+        "price": "8.78",
+        "actualPrice": "12507",
+        "grossPrice": "10233",
+        "lat": "22.3688957737851",
+        "lng": "114.098568113241"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "14/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "22/02/18",
+        "actualArea": "481",
+        "grossArea": "592",
+        "price": "6.00",
+        "actualPrice": "12474",
+        "grossPrice": "10135",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "26/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "22/02/18",
+        "actualArea": "742",
+        "grossArea": "896",
+        "price": "9.04",
+        "actualPrice": "12181",
+        "grossPrice": "10087",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "14/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "21/02/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "5.89",
+        "actualPrice": "12348",
+        "grossPrice": "10807",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "16/F",
+            "add3": "BLOCK 3",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "20/02/18",
+        "actualArea": "593",
+        "grossArea": "868",
+        "price": "7.40",
+        "actualPrice": "12476",
+        "grossPrice": "8523",
+        "lat": "22.3694162630833",
+        "lng": "114.092052798128"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "2/F",
+            "add3": "BLOCK 6",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "14/02/18",
+        "actualArea": "680",
+        "grossArea": "989",
+        "price": "8.18",
+        "actualPrice": "12029",
+        "grossPrice": "8271",
+        "lat": "22.3689461538374",
+        "lng": "114.091062724824"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "29/F",
+            "add3": "BLOCK 4",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "14/02/18",
+        "actualArea": "610",
+        "grossArea": "738",
+        "price": "7.75",
+        "actualPrice": "12705",
+        "grossPrice": "10501",
+        "lat": "22.3697993350595",
+        "lng": "114.099625938464"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "13/02/18",
+        "actualArea": "742",
+        "grossArea": "896",
+        "price": "7.98",
+        "actualPrice": "10755",
+        "grossPrice": "8906",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "9/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "13/02/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.50",
+        "actualPrice": "11228",
+        "grossPrice": "9542",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT 5",
+            "add2": "13/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "12/02/18",
+        "actualArea": "608",
+        "grossArea": "806",
+        "price": "8.00",
+        "actualPrice": "13158",
+        "grossPrice": "9926",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "41/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "07/02/18",
+        "actualArea": "668",
+        "grossArea": "777",
+        "price": "7.38",
+        "actualPrice": "11048",
+        "grossPrice": "9498",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "10/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "07/02/18",
+        "actualArea": "703",
+        "grossArea": "784",
+        "price": "7.12",
+        "actualPrice": "10128",
+        "grossPrice": "9082",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "25/F",
+            "add3": "BLOCK 5",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "06/02/18",
+        "actualArea": "760",
+        "grossArea": "928",
+        "price": "9.60",
+        "actualPrice": "12632",
+        "grossPrice": "10345",
+        "lat": "22.3699801258482",
+        "lng": "114.1000045079"
+    },
+    {
+        "address": {
+            "add1": "FLAT 6",
+            "add2": "9/F",
+            "add3": "TOWER B",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "06/02/18",
+        "actualArea": "394",
+        "grossArea": "522",
+        "price": "5.40",
+        "actualPrice": "13706",
+        "grossPrice": "10345",
+        "lat": "22.3724650326634",
+        "lng": "114.103255872818"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "10/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "02/02/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "6.00",
+        "actualPrice": "10490",
+        "grossPrice": "8982",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "33/F",
+            "add3": "BLOCK 2",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "02/02/18",
+        "actualArea": "742",
+        "grossArea": "896",
+        "price": "8.15",
+        "actualPrice": "10984",
+        "grossPrice": "9096",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "29/F",
+            "add3": "BLOCK 3",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "01/02/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "5.90",
+        "actualPrice": "12369",
+        "grossPrice": "10826",
+        "lat": "22.3706115038907",
+        "lng": "114.098421511539"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "7/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "31/01/18",
+        "actualArea": "728",
+        "grossArea": "846",
+        "price": "7.32",
+        "actualPrice": "10055",
+        "grossPrice": "8652",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "17/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "31/01/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "5.95",
+        "actualPrice": "10402",
+        "grossPrice": "8907",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT 1",
+            "add2": "11/F",
+            "add3": "TOWER C",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "30/01/18",
+        "actualArea": "445",
+        "grossArea": "589",
+        "price": "5.50",
+        "actualPrice": "12360",
+        "grossPrice": "9338",
+        "lat": "22.3726273562597",
+        "lng": "114.102760595405"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "30/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "30/01/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "5.65",
+        "actualPrice": "11845",
+        "grossPrice": "10367",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "22/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "29/01/18",
+        "actualArea": "742",
+        "grossArea": "898",
+        "price": "8.83",
+        "actualPrice": "11900",
+        "grossPrice": "9833",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3",
+            "add2": "11/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "29/01/18",
+        "actualArea": "738",
+        "grossArea": "978",
+        "price": "9.68",
+        "actualPrice": "13117",
+        "grossPrice": "9898",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "35/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "26/01/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.10",
+        "actualPrice": "10629",
+        "grossPrice": "9033",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "23/F",
+            "add3": "BLOCK 2",
+            "add4": "BAYVIEW GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "26",
+        "date": "25/01/18",
+        "actualArea": "702",
+        "grossArea": "858",
+        "price": "7.80",
+        "actualPrice": "11111",
+        "grossPrice": "9091",
+        "lat": "22.369193903155",
+        "lng": "114.098820391261"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "24/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "24/01/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "5.88",
+        "actualPrice": "12327",
+        "grossPrice": "10789",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT 8",
+            "add2": "16/F",
+            "add3": "TOWER A",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "23/01/18",
+        "actualArea": "420",
+        "grossArea": "566",
+        "price": "6.03",
+        "actualPrice": "14357",
+        "grossPrice": "10654",
+        "lat": "22.3723114076056",
+        "lng": "114.103022922509"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "9/F",
+            "add3": "BLOCK 1",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "22/01/18",
+        "actualArea": "634",
+        "grossArea": "910",
+        "price": "6.00",
+        "actualPrice": "9464",
+        "grossPrice": "6593",
+        "lat": "22.3695700761008",
+        "lng": "114.092615852231"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "10/F",
+            "add3": "BLOCK 2",
+            "add4": "GREENVIEW COURT",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "22/01/18",
+        "actualArea": "477",
+        "grossArea": "545",
+        "price": "5.88",
+        "actualPrice": "12327",
+        "grossPrice": "10789",
+        "lat": "22.3702591010308",
+        "lng": "114.097984782125"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "50/F",
+            "add3": "THE PANORAMA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "20",
+        "date": "18/01/18",
+        "actualArea": "558",
+        "grossArea": "742",
+        "price": "5.80",
+        "actualPrice": "10394",
+        "grossPrice": "7817",
+        "lat": "22.3734311663953",
+        "lng": "114.102964073883"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "35/F",
+            "add3": "BLOCK B",
+            "add4": "GOLDEN VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "16/01/18",
+        "actualArea": "1438",
+        "grossArea": "1750",
+        "price": "18.00",
+        "actualPrice": "12517",
+        "grossPrice": "10286",
+        "lat": "22.3642813096982",
+        "lng": "114.067618187987"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "39/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "15/01/18",
+        "actualArea": "572",
+        "grossArea": "668",
+        "price": "6.10",
+        "actualPrice": "10664",
+        "grossPrice": "9132",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT 2",
+            "add2": "29/F",
+            "add3": "TOWER C",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "12/01/18",
+        "actualArea": "420",
+        "grossArea": "566",
+        "price": "5.90",
+        "actualPrice": "14048",
+        "grossPrice": "10424",
+        "lat": "22.3726273562597",
+        "lng": "114.102760595405"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "38/F",
+            "add3": "BLOCK 2",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "10/01/18",
+        "actualArea": "742",
+        "grossArea": "898",
+        "price": "8.00",
+        "actualPrice": "10782",
+        "grossPrice": "8909",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "37/F",
+            "add3": "BLOCK 8",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "09/01/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.17",
+        "actualPrice": "10734",
+        "grossPrice": "9122",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT 8",
+            "add2": "29/F",
+            "add3": "TOWER B",
+            "add4": "SERENADE COVE",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "18",
+        "date": "05/01/18",
+        "actualArea": "462",
+        "grossArea": "615",
+        "price": "5.95",
+        "actualPrice": "12879",
+        "grossPrice": "9675",
+        "lat": "22.3724650326634",
+        "lng": "114.103255872818"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "6/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "05/01/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "6.96",
+        "actualPrice": "10419",
+        "grossPrice": "8855",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "9/F",
+            "add3": "BLOCK 3",
+            "add4": "HANLEY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "04/01/18",
+        "actualArea": "485",
+        "grossArea": "725",
+        "price": "5.40",
+        "actualPrice": "11134",
+        "grossPrice": "7448",
+        "lat": "22.3694162630833",
+        "lng": "114.092052798128"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "4/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "04/01/18",
+        "actualArea": "742",
+        "grossArea": "896",
+        "price": "8.68",
+        "actualPrice": "11698",
+        "grossPrice": "9688",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "12/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 3",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "04/01/18",
+        "actualArea": "742",
+        "grossArea": "898",
+        "price": "7.60",
+        "actualPrice": "10243",
+        "grossPrice": "8463",
+        "lat": "22.3713708779975",
+        "lng": "114.100110549892"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "44/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 2",
+            "add5": "BELVEDERE GARDEN"
+        },
+        "sRegion": "Belvedere Garden/Castle Peak Road (Tsuen Wan Portion)",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "02/01/18",
+        "actualArea": "668",
+        "grossArea": "786",
+        "price": "7.38",
+        "actualPrice": "11048",
+        "grossPrice": "9389",
+        "lat": "22.3710817858304",
+        "lng": "114.099867969785"
+    }
+]

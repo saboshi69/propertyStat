@@ -1,0 +1,4122 @@
+[
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "28/F",
+            "add3": "BLOCK 19",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "27/11/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "6.00",
+        "actualPrice": "11278",
+        "grossPrice": "8850",
+        "lat": "22.3514795628506",
+        "lng": "114.059783961872"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "12/F",
+            "add3": "TOWER 30",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "26/11/18",
+        "actualArea": "574",
+        "grossArea": "736",
+        "price": "6.60",
+        "actualPrice": "11498",
+        "grossPrice": "8967",
+        "lat": "22.3542615001962",
+        "lng": "114.060519474042"
+    },
+    {
+        "address": {
+            "add1": "NO. 215",
+            "add2": "2/F",
+            "add3": "NO. 215 MA WAN MAIN STREET VILLAGE CENTRAL",
+            "add4": "MA WAN MAIN STREET VILLAGE CENTRAL",
+            "add5": ""
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "21/11/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "6.80",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.3519752829437",
+        "lng": "114.058463231491"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "13/F",
+            "add3": "TOWER 29",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "21/11/18",
+        "actualArea": "575",
+        "grossArea": "735",
+        "price": "6.65",
+        "actualPrice": "11565",
+        "grossPrice": "9048",
+        "lat": "22.3542618064359",
+        "lng": "114.060946641944"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "8/F",
+            "add3": "TOWER 30",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "20/11/18",
+        "actualArea": "507",
+        "grossArea": "665",
+        "price": "6.00",
+        "actualPrice": "11834",
+        "grossPrice": "9023",
+        "lat": "22.3542615001962",
+        "lng": "114.060519474042"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "7/F",
+            "add3": "TOWER 26",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "20/11/18",
+        "actualArea": "526",
+        "grossArea": "706",
+        "price": "6.44",
+        "actualPrice": "12240",
+        "grossPrice": "9119",
+        "lat": "22.353439860639",
+        "lng": "114.060714322266"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "30/F",
+            "add3": "TOWER 29",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "19/11/18",
+        "actualArea": "499",
+        "grossArea": "626",
+        "price": "6.28",
+        "actualPrice": "12585",
+        "grossPrice": "10032",
+        "lat": "22.3542618064359",
+        "lng": "114.060946641944"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "30/F",
+            "add3": "TOWER 29",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "13/11/18",
+        "actualArea": "621",
+        "grossArea": "810",
+        "price": "7.78",
+        "actualPrice": "12528",
+        "grossPrice": "9605",
+        "lat": "22.3542618064359",
+        "lng": "114.060946641944"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "8/F",
+            "add3": "BLOCK 21",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "13/11/18",
+        "actualArea": "566",
+        "grossArea": "718",
+        "price": "6.20",
+        "actualPrice": "10954",
+        "grossPrice": "8635",
+        "lat": "22.3521389604359",
+        "lng": "114.060016408395"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "11/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "08/11/18",
+        "actualArea": "524",
+        "grossArea": "688",
+        "price": "6.50",
+        "actualPrice": "12405",
+        "grossPrice": "9448",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "6/F",
+            "add3": "BLOCK 18",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "08/11/18",
+        "actualArea": "512",
+        "grossArea": "669",
+        "price": "6.00",
+        "actualPrice": "11719",
+        "grossPrice": "8969",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "18/F",
+            "add3": "TOWER 27",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "06/11/18",
+        "actualArea": "507",
+        "grossArea": "665",
+        "price": "6.00",
+        "actualPrice": "11834",
+        "grossPrice": "9023",
+        "lat": "22.3534401663541",
+        "lng": "114.061141487666"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "15/F",
+            "add3": "BLOCK 9",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "02/11/18",
+        "actualArea": "531",
+        "grossArea": "694",
+        "price": "6.80",
+        "actualPrice": "12806",
+        "grossPrice": "9798",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "30/F",
+            "add3": "TOWER 28",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "29/10/18",
+        "actualArea": "715",
+        "grossArea": "896",
+        "price": "8.60",
+        "actualPrice": "12028",
+        "grossPrice": "9598",
+        "lat": "22.3538014848706",
+        "lng": "114.061277106048"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "10/F",
+            "add3": "BLOCK 21",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "24/10/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "6.66",
+        "actualPrice": "12519",
+        "grossPrice": "9823",
+        "lat": "22.3521389604359",
+        "lng": "114.060016408395"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "20/F",
+            "add3": "BLOCK 21",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "23/10/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "6.80",
+        "actualPrice": "13878",
+        "grossPrice": "10413",
+        "lat": "22.3521389604359",
+        "lng": "114.060016408395"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "25/F",
+            "add3": "TOWER 28",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "18/10/18",
+        "actualArea": "476",
+        "grossArea": "622",
+        "price": "6.47",
+        "actualPrice": "13588",
+        "grossPrice": "10399",
+        "lat": "22.3538014848706",
+        "lng": "114.061277106048"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "2/F",
+            "add3": "SUN OCEAN (BLOCK 32)",
+            "add4": "PHASE 6 ANA CAPRI",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "9",
+        "date": "16/10/18",
+        "actualArea": "939",
+        "grossArea": "1173",
+        "price": "16.30",
+        "actualPrice": "17359",
+        "grossPrice": "13896",
+        "lat": "22.3529712826927",
+        "lng": "114.062132119135"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "10/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "05/10/18",
+        "actualArea": "366",
+        "grossArea": "495",
+        "price": "5.97",
+        "actualPrice": "16306",
+        "grossPrice": "12057",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "31/F",
+            "add3": "BLOCK 19",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "03/10/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "7.10",
+        "actualPrice": "13346",
+        "grossPrice": "10472",
+        "lat": "22.3514795628506",
+        "lng": "114.059783961872"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "15/F",
+            "add3": "BLOCK 23",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "21/09/18",
+        "actualArea": "837",
+        "grossArea": "1077",
+        "price": "10.70",
+        "actualPrice": "12784",
+        "grossPrice": "9935",
+        "lat": "22.3527803244807",
+        "lng": "114.060287705153"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "32/F",
+            "add3": "BLOCK 20",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "19/09/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "7.00",
+        "actualPrice": "13158",
+        "grossPrice": "10324",
+        "lat": "22.3518137699367",
+        "lng": "114.059890472903"
+    },
+    {
+        "address": {
+            "add1": "FLAT I",
+            "add2": "9/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "18/09/18",
+        "actualArea": "360",
+        "grossArea": "488",
+        "price": "5.80",
+        "actualPrice": "16111",
+        "grossPrice": "11885",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "19/F",
+            "add3": "TOWER 26",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "13/09/18",
+        "actualArea": "575",
+        "grossArea": "735",
+        "price": "7.28",
+        "actualPrice": "12661",
+        "grossPrice": "9905",
+        "lat": "22.353439860639",
+        "lng": "114.060714322266"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "28/F",
+            "add3": "TOWER 31",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "12/09/18",
+        "actualArea": "545",
+        "grossArea": "710",
+        "price": "7.68",
+        "actualPrice": "14092",
+        "grossPrice": "10817",
+        "lat": "22.3539001810516",
+        "lng": "114.060383857178"
+    },
+    {
+        "address": {
+            "add1": "NO. 202",
+            "add2": "2/F",
+            "add3": "NO. 202 MA WAN MAIN STREET VILLAGE CENTRAL",
+            "add4": "MA WAN MAIN STREET VILLAGE CENTRAL",
+            "add5": ""
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "06/09/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "6.95",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.351713283671",
+        "lng": "114.058308121752"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "18/F",
+            "add3": "BLOCK 13",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "04/09/18",
+        "actualArea": "537",
+        "grossArea": "706",
+        "price": "6.58",
+        "actualPrice": "12253",
+        "grossPrice": "9320",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "7/F",
+            "add3": "BLOCK 22",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "04/09/18",
+        "actualArea": "709",
+        "grossArea": "915",
+        "price": "8.15",
+        "actualPrice": "11495",
+        "grossPrice": "8907",
+        "lat": "22.3524641508399",
+        "lng": "114.060142344469"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "11/F",
+            "add3": "BLOCK 8",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "30/08/18",
+        "actualArea": "794",
+        "grossArea": "1027",
+        "price": "10.38",
+        "actualPrice": "13073",
+        "grossPrice": "10107",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "16/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "27/08/18",
+        "actualArea": "361",
+        "grossArea": "488",
+        "price": "6.08",
+        "actualPrice": "16842",
+        "grossPrice": "12459",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "7/F",
+            "add3": "TOWER 29",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "27/08/18",
+        "actualArea": "476",
+        "grossArea": "622",
+        "price": "6.56",
+        "actualPrice": "13782",
+        "grossPrice": "10547",
+        "lat": "22.3542618064359",
+        "lng": "114.060946641944"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "25/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "22/08/18",
+        "actualArea": "1241",
+        "grossArea": "1546",
+        "price": "22.70",
+        "actualPrice": "18292",
+        "grossPrice": "14683",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "NO. 22",
+            "add2": "1/F",
+            "add3": "NO. 22 MA WAN MAIN STREET VILLAGE EAST",
+            "add4": "MA WAN MAIN STREET VILLAGE EAST",
+            "add5": ""
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "21/08/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "5.00",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.3488397125803",
+        "lng": "114.055796182339"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "7/F",
+            "add3": "TOWER 29",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "20/08/18",
+        "actualArea": "762",
+        "grossArea": "997",
+        "price": "9.30",
+        "actualPrice": "12205",
+        "grossPrice": "9328",
+        "lat": "22.3542618064359",
+        "lng": "114.060946641944"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "10/F",
+            "add3": "BLOCK 19",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "15/08/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "5.90",
+        "actualPrice": "12041",
+        "grossPrice": "9035",
+        "lat": "22.3514795628506",
+        "lng": "114.059783961872"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "15/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "14/08/18",
+        "actualArea": "834",
+        "grossArea": "1074",
+        "price": "11.00",
+        "actualPrice": "13189",
+        "grossPrice": "10242",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "19/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "14/08/18",
+        "actualArea": "707",
+        "grossArea": "912",
+        "price": "9.20",
+        "actualPrice": "13013",
+        "grossPrice": "10088",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "21/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "13/08/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "7.03",
+        "actualPrice": "13214",
+        "grossPrice": "10369",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "8/F",
+            "add3": "TOWER 27",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "13/08/18",
+        "actualArea": "574",
+        "grossArea": "747",
+        "price": "6.75",
+        "actualPrice": "11760",
+        "grossPrice": "9036",
+        "lat": "22.3534401663541",
+        "lng": "114.061141487666"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "15/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "07/08/18",
+        "actualArea": "623",
+        "grossArea": "826",
+        "price": "8.88",
+        "actualPrice": "14254",
+        "grossPrice": "10751",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "27/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "02/08/18",
+        "actualArea": "361",
+        "grossArea": "488",
+        "price": "5.78",
+        "actualPrice": "16011",
+        "grossPrice": "11844",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "18/F",
+            "add3": "BLOCK 20",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "01/08/18",
+        "actualArea": "762",
+        "grossArea": "985",
+        "price": "9.90",
+        "actualPrice": "12992",
+        "grossPrice": "10051",
+        "lat": "22.3518137699367",
+        "lng": "114.059890472903"
+    },
+    {
+        "address": {
+            "add1": "FLAT J",
+            "add2": "28/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "27/07/18",
+        "actualArea": "378",
+        "grossArea": "498",
+        "price": "6.00",
+        "actualPrice": "15873",
+        "grossPrice": "12048",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "21/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "27/07/18",
+        "actualArea": "522",
+        "grossArea": "686",
+        "price": "6.76",
+        "actualPrice": "12950",
+        "grossPrice": "9854",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "12/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "25/07/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "6.83",
+        "actualPrice": "12835",
+        "grossPrice": "10071",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "11/F",
+            "add3": "TOWER 30",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "24/07/18",
+        "actualArea": "574",
+        "grossArea": "736",
+        "price": "6.85",
+        "actualPrice": "11934",
+        "grossPrice": "9307",
+        "lat": "22.3542615001962",
+        "lng": "114.060519474042"
+    },
+    {
+        "address": {
+            "add1": "NO. 332",
+            "add2": "G/F",
+            "add3": "NO. 332 MA WAN MAIN STREET VILLAGE NORTH",
+            "add4": "MA WAN MAIN STREET VILLAGE NORTH",
+            "add5": ""
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "20/07/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "6.50",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.351713283671",
+        "lng": "114.058308121752"
+    },
+    {
+        "address": {
+            "add1": "FLAT J",
+            "add2": "16/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "20/07/18",
+        "actualArea": "378",
+        "grossArea": "498",
+        "price": "5.85",
+        "actualPrice": "15476",
+        "grossPrice": "11747",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT I",
+            "add2": "6/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "20/07/18",
+        "actualArea": "360",
+        "grossArea": "488",
+        "price": "5.82",
+        "actualPrice": "16167",
+        "grossPrice": "11926",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "19/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "16/07/18",
+        "actualArea": "781",
+        "grossArea": "1001",
+        "price": "10.38",
+        "actualPrice": "13291",
+        "grossPrice": "10370",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "13/F",
+            "add3": "BLOCK 9",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "16/07/18",
+        "actualArea": "531",
+        "grossArea": "694",
+        "price": "6.00",
+        "actualPrice": "11299",
+        "grossPrice": "8646",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "13/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "16/07/18",
+        "actualArea": "834",
+        "grossArea": "1074",
+        "price": "11.20",
+        "actualPrice": "13429",
+        "grossPrice": "10428",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "13/F",
+            "add3": "BLOCK 9",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "13/07/18",
+        "actualArea": "531",
+        "grossArea": "694",
+        "price": "6.43",
+        "actualPrice": "12109",
+        "grossPrice": "9265",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "16/F",
+            "add3": "BLOCK 25",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "11/07/18",
+        "actualArea": "591",
+        "grossArea": "775",
+        "price": "7.65",
+        "actualPrice": "12944",
+        "grossPrice": "9871",
+        "lat": "22.3531055285773",
+        "lng": "114.060433058988"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "1/F",
+            "add3": "BLOCK 8",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "09/07/18",
+        "actualArea": "794",
+        "grossArea": "1027",
+        "price": "8.40",
+        "actualPrice": "10579",
+        "grossPrice": "8179",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "17/F",
+            "add3": "BLOCK 18",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "09/07/18",
+        "actualArea": "614",
+        "grossArea": "797",
+        "price": "7.51",
+        "actualPrice": "12231",
+        "grossPrice": "9423",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "28/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "09/07/18",
+        "actualArea": "361",
+        "grossArea": "488",
+        "price": "5.68",
+        "actualPrice": "15734",
+        "grossPrice": "11639",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "16/F",
+            "add3": "BLOCK 19",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "03/07/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "6.45",
+        "actualPrice": "13163",
+        "grossPrice": "9877",
+        "lat": "22.3514795628506",
+        "lng": "114.059783961872"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "19/F",
+            "add3": "TOWER 29",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "29/06/18",
+        "actualArea": "476",
+        "grossArea": "622",
+        "price": "6.50",
+        "actualPrice": "13655",
+        "grossPrice": "10450",
+        "lat": "22.3542618064359",
+        "lng": "114.060946641944"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "7/F",
+            "add3": "BLOCK 25",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "27/06/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "6.34",
+        "actualPrice": "11914",
+        "grossPrice": "9348",
+        "lat": "22.3531055285773",
+        "lng": "114.060433058988"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "28/F",
+            "add3": "BLOCK 25",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "26/06/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "6.88",
+        "actualPrice": "14041",
+        "grossPrice": "10536",
+        "lat": "22.3531055285773",
+        "lng": "114.060433058988"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "8/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "21/06/18",
+        "actualArea": "774",
+        "grossArea": "993",
+        "price": "9.35",
+        "actualPrice": "12080",
+        "grossPrice": "9416",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "NO. 334",
+            "add2": "2/F",
+            "add3": "NO. 334 MA WAN MAIN STREET VILLAGE NORTH",
+            "add4": "MA WAN MAIN STREET VILLAGE NORTH",
+            "add5": ""
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "20/06/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "6.65",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.351713283671",
+        "lng": "114.058308121752"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "17/F",
+            "add3": "TOWER 28",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "20/06/18",
+        "actualArea": "555",
+        "grossArea": "726",
+        "price": "6.78",
+        "actualPrice": "12216",
+        "grossPrice": "9339",
+        "lat": "22.3538014848706",
+        "lng": "114.061277106048"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "10/F",
+            "add3": "BLOCK 23",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "19/06/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "6.30",
+        "actualPrice": "12857",
+        "grossPrice": "9648",
+        "lat": "22.3527803244807",
+        "lng": "114.060287705153"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "20/F",
+            "add3": "TOWER 30",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "19/06/18",
+        "actualArea": "499",
+        "grossArea": "676",
+        "price": "6.59",
+        "actualPrice": "13206",
+        "grossPrice": "9749",
+        "lat": "22.3542615001962",
+        "lng": "114.060519474042"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "28/F",
+            "add3": "TOWER 30",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "19/06/18",
+        "actualArea": "589",
+        "grossArea": "736",
+        "price": "7.60",
+        "actualPrice": "12903",
+        "grossPrice": "10326",
+        "lat": "22.3542615001962",
+        "lng": "114.060519474042"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "29/F",
+            "add3": "BLOCK 22",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "15/06/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "7.28",
+        "actualPrice": "13684",
+        "grossPrice": "10737",
+        "lat": "22.3524641508399",
+        "lng": "114.060142344469"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "22/F",
+            "add3": "TOWER 29",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "15/06/18",
+        "actualArea": "762",
+        "grossArea": "997",
+        "price": "10.70",
+        "actualPrice": "14042",
+        "grossPrice": "10732",
+        "lat": "22.3542618064359",
+        "lng": "114.060946641944"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "6/F",
+            "add3": "BLOCK 19",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "15/06/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "6.00",
+        "actualPrice": "11278",
+        "grossPrice": "8850",
+        "lat": "22.3514795628506",
+        "lng": "114.059783961872"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "6/F",
+            "add3": "BLOCK 18",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "15/06/18",
+        "actualArea": "499",
+        "grossArea": "652",
+        "price": "6.50",
+        "actualPrice": "13026",
+        "grossPrice": "9969",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "29/F",
+            "add3": "BLOCK 22",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "14/06/18",
+        "actualArea": "758",
+        "grossArea": "981",
+        "price": "9.53",
+        "actualPrice": "12573",
+        "grossPrice": "9715",
+        "lat": "22.3524641508399",
+        "lng": "114.060142344469"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "10/F",
+            "add3": "TOWER 31",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "14/06/18",
+        "actualArea": "476",
+        "grossArea": "622",
+        "price": "6.45",
+        "actualPrice": "13550",
+        "grossPrice": "10370",
+        "lat": "22.3539001810516",
+        "lng": "114.060383857178"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "9/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "13/06/18",
+        "actualArea": "378",
+        "grossArea": "498",
+        "price": "5.50",
+        "actualPrice": "14550",
+        "grossPrice": "11044",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "17/F",
+            "add3": "TOWER 26",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "12/06/18",
+        "actualArea": "526",
+        "grossArea": "706",
+        "price": "6.92",
+        "actualPrice": "13156",
+        "grossPrice": "9802",
+        "lat": "22.353439860639",
+        "lng": "114.060714322266"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "6/F",
+            "add3": "BLOCK 19",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "11/06/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "6.00",
+        "actualPrice": "12245",
+        "grossPrice": "9188",
+        "lat": "22.3514795628506",
+        "lng": "114.059783961872"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "10/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "08/06/18",
+        "actualArea": "774",
+        "grossArea": "993",
+        "price": "9.60",
+        "actualPrice": "12403",
+        "grossPrice": "9668",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "1/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "07/06/18",
+        "actualArea": "531",
+        "grossArea": "694",
+        "price": "5.90",
+        "actualPrice": "11111",
+        "grossPrice": "8501",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "6/F",
+            "add3": "BLOCK 8",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "05/06/18",
+        "actualArea": "583",
+        "grossArea": "742",
+        "price": "7.42",
+        "actualPrice": "12727",
+        "grossPrice": "10000",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "16/F",
+            "add3": "TOWER 31",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "04/06/18",
+        "actualArea": "526",
+        "grossArea": "706",
+        "price": "6.75",
+        "actualPrice": "12833",
+        "grossPrice": "9561",
+        "lat": "22.3539001810516",
+        "lng": "114.060383857178"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "16/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "04/06/18",
+        "actualArea": "505",
+        "grossArea": "672",
+        "price": "6.55",
+        "actualPrice": "12970",
+        "grossPrice": "9747",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "20/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "31/05/18",
+        "actualArea": "378",
+        "grossArea": "498",
+        "price": "5.63",
+        "actualPrice": "14894",
+        "grossPrice": "11305",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT K",
+            "add2": "13/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "31/05/18",
+        "actualArea": "378",
+        "grossArea": "498",
+        "price": "5.48",
+        "actualPrice": "14497",
+        "grossPrice": "11004",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "9/F",
+            "add3": "BLOCK 20",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "30/05/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "6.50",
+        "actualPrice": "12218",
+        "grossPrice": "9587",
+        "lat": "22.3518137699367",
+        "lng": "114.059890472903"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "6/F",
+            "add3": "TOWER 29",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "30/05/18",
+        "actualArea": "537",
+        "grossArea": "687",
+        "price": "6.65",
+        "actualPrice": "12384",
+        "grossPrice": "9680",
+        "lat": "22.3542618064359",
+        "lng": "114.060946641944"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "23/F",
+            "add3": "TOWER 27",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "29/05/18",
+        "actualArea": "574",
+        "grossArea": "736",
+        "price": "6.88",
+        "actualPrice": "11986",
+        "grossPrice": "9348",
+        "lat": "22.3534401663541",
+        "lng": "114.061141487666"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "29/F",
+            "add3": "TOWER 30",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "29/05/18",
+        "actualArea": "518",
+        "grossArea": "678",
+        "price": "6.38",
+        "actualPrice": "12317",
+        "grossPrice": "9410",
+        "lat": "22.3542615001962",
+        "lng": "114.060519474042"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "AQUA OCEAN (BLOCK 35)",
+            "add4": "PHASE 6 ANA CAPRI",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "9",
+        "date": "29/05/18",
+        "actualArea": "939",
+        "grossArea": "1173",
+        "price": "14.38",
+        "actualPrice": "15314",
+        "grossPrice": "12259",
+        "lat": "22.3529712826927",
+        "lng": "114.062132119135"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "22/F",
+            "add3": "BLOCK 12",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "28/05/18",
+        "actualArea": "1154",
+        "grossArea": "1532",
+        "price": "17.30",
+        "actualPrice": "14991",
+        "grossPrice": "11292",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "15/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "25/05/18",
+        "actualArea": "522",
+        "grossArea": "686",
+        "price": "5.98",
+        "actualPrice": "11456",
+        "grossPrice": "8717",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "31/F",
+            "add3": "BLOCK 25",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "24/05/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "6.63",
+        "actualPrice": "13531",
+        "grossPrice": "10153",
+        "lat": "22.3531055285773",
+        "lng": "114.060433058988"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "11/F",
+            "add3": "BLOCK 21",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "23/05/18",
+        "actualArea": "841",
+        "grossArea": "1080",
+        "price": "9.58",
+        "actualPrice": "11391",
+        "grossPrice": "8870",
+        "lat": "22.3521389604359",
+        "lng": "114.060016408395"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "27/F",
+            "add3": "BLOCK 21",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "21/05/18",
+        "actualArea": "566",
+        "grossArea": "718",
+        "price": "7.60",
+        "actualPrice": "13428",
+        "grossPrice": "10585",
+        "lat": "22.3521389604359",
+        "lng": "114.060016408395"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "27/F",
+            "add3": "BLOCK 21",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "21/05/18",
+        "actualArea": "549",
+        "grossArea": "711",
+        "price": "7.60",
+        "actualPrice": "13843",
+        "grossPrice": "10689",
+        "lat": "22.3521389604359",
+        "lng": "114.060016408395"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "15/F",
+            "add3": "BLOCK 13",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "17/05/18",
+        "actualArea": "583",
+        "grossArea": "742",
+        "price": "8.18",
+        "actualPrice": "14031",
+        "grossPrice": "11024",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "3/F",
+            "add3": "BLOCK 12",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "11/05/18",
+        "actualArea": "807",
+        "grossArea": "1042",
+        "price": "9.28",
+        "actualPrice": "11499",
+        "grossPrice": "8906",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "7/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "11/05/18",
+        "actualArea": "537",
+        "grossArea": "706",
+        "price": "6.00",
+        "actualPrice": "11173",
+        "grossPrice": "8499",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "19/F",
+            "add3": "BLOCK 11",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "10/05/18",
+        "actualArea": "531",
+        "grossArea": "694",
+        "price": "6.00",
+        "actualPrice": "11299",
+        "grossPrice": "8646",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "8/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "08/05/18",
+        "actualArea": "378",
+        "grossArea": "498",
+        "price": "5.25",
+        "actualPrice": "13889",
+        "grossPrice": "10542",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "9/F",
+            "add3": "TOWER 28",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "08/05/18",
+        "actualArea": "476",
+        "grossArea": "622",
+        "price": "6.20",
+        "actualPrice": "13025",
+        "grossPrice": "9968",
+        "lat": "22.3538014848706",
+        "lng": "114.061277106048"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "21/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "07/05/18",
+        "actualArea": "781",
+        "grossArea": "1001",
+        "price": "10.28",
+        "actualPrice": "13163",
+        "grossPrice": "10270",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "17/F",
+            "add3": "BLOCK 25",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "04/05/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "6.65",
+        "actualPrice": "12500",
+        "grossPrice": "9808",
+        "lat": "22.3531055285773",
+        "lng": "114.060433058988"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "6/F",
+            "add3": "BLOCK 15",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "03/05/18",
+        "actualArea": "523",
+        "grossArea": "678",
+        "price": "5.69",
+        "actualPrice": "10880",
+        "grossPrice": "8392",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "28/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "03/05/18",
+        "actualArea": "361",
+        "grossArea": "488",
+        "price": "5.43",
+        "actualPrice": "15042",
+        "grossPrice": "11127",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "13/F",
+            "add3": "BLOCK 9",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "30/04/18",
+        "actualArea": "794",
+        "grossArea": "1027",
+        "price": "9.80",
+        "actualPrice": "12343",
+        "grossPrice": "9542",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "SUN OCEAN (BLOCK 32)",
+            "add4": "PHASE 6 ANA CAPRI",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "9",
+        "date": "27/04/18",
+        "actualArea": "939",
+        "grossArea": "1173",
+        "price": "14.80",
+        "actualPrice": "15761",
+        "grossPrice": "12617",
+        "lat": "22.3529712826927",
+        "lng": "114.062132119135"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "22/F",
+            "add3": "TOWER 27",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "27/04/18",
+        "actualArea": "574",
+        "grossArea": "747",
+        "price": "6.80",
+        "actualPrice": "11847",
+        "grossPrice": "9103",
+        "lat": "22.3534401663541",
+        "lng": "114.061141487666"
+    },
+    {
+        "address": {
+            "add1": "NO. 253",
+            "add2": "G/F",
+            "add3": "NO. 253 MA WAN MAIN STREET VILLAGE CENTRAL",
+            "add4": "MA WAN MAIN STREET VILLAGE CENTRAL",
+            "add5": ""
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "25/04/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "3.00",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.351713283671",
+        "lng": "114.058308121752"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "18/F",
+            "add3": "BLOCK 10",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "20/04/18",
+        "actualArea": "537",
+        "grossArea": "706",
+        "price": "6.28",
+        "actualPrice": "11695",
+        "grossPrice": "8895",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "25/F",
+            "add3": "BLOCK 20",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "20/04/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "6.67",
+        "actualPrice": "12534",
+        "grossPrice": "9835",
+        "lat": "22.3518137699367",
+        "lng": "114.059890472903"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "31/F",
+            "add3": "TOWER 29",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "20/04/18",
+        "actualArea": "621",
+        "grossArea": "810",
+        "price": "7.70",
+        "actualPrice": "12399",
+        "grossPrice": "9506",
+        "lat": "22.3542618064359",
+        "lng": "114.060946641944"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "17/F",
+            "add3": "BLOCK 11",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "19/04/18",
+        "actualArea": "531",
+        "grossArea": "694",
+        "price": "6.30",
+        "actualPrice": "11864",
+        "grossPrice": "9078",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT I",
+            "add2": "1/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "18/04/18",
+        "actualArea": "372",
+        "grossArea": "488",
+        "price": "4.60",
+        "actualPrice": "12366",
+        "grossPrice": "9426",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "6/F",
+            "add3": "BLOCK 8",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "18/04/18",
+        "actualArea": "583",
+        "grossArea": "742",
+        "price": "7.47",
+        "actualPrice": "12810",
+        "grossPrice": "10065",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "11/F",
+            "add3": "TOWER 29",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "18/04/18",
+        "actualArea": "762",
+        "grossArea": "997",
+        "price": "8.00",
+        "actualPrice": "10499",
+        "grossPrice": "8024",
+        "lat": "22.3542618064359",
+        "lng": "114.060946641944"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "6/F",
+            "add3": "BLOCK 22",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "17/04/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "5.80",
+        "actualPrice": "11837",
+        "grossPrice": "8882",
+        "lat": "22.3524641508399",
+        "lng": "114.060142344469"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "22/F",
+            "add3": "TOWER 28",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "16/04/18",
+        "actualArea": "678",
+        "grossArea": "891",
+        "price": "8.35",
+        "actualPrice": "12316",
+        "grossPrice": "9371",
+        "lat": "22.3538014848706",
+        "lng": "114.061277106048"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "22/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "16/04/18",
+        "actualArea": "361",
+        "grossArea": "488",
+        "price": "5.38",
+        "actualPrice": "14903",
+        "grossPrice": "11025",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "2/F",
+            "add3": "BLOCK 15",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "13/04/18",
+        "actualArea": "523",
+        "grossArea": "678",
+        "price": "6.00",
+        "actualPrice": "11472",
+        "grossPrice": "8850",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "30/F",
+            "add3": "TOWER 31",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "12/04/18",
+        "actualArea": "621",
+        "grossArea": "810",
+        "price": "7.60",
+        "actualPrice": "12238",
+        "grossPrice": "9383",
+        "lat": "22.3539001810516",
+        "lng": "114.060383857178"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "23/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "12/04/18",
+        "actualArea": "837",
+        "grossArea": "1077",
+        "price": "11.12",
+        "actualPrice": "13286",
+        "grossPrice": "10325",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "1/F",
+            "add3": "LUNA OCEAN (BLOCK 33)",
+            "add4": "PHASE 6 ANA CAPRI",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "9",
+        "date": "12/04/18",
+        "actualArea": "1451",
+        "grossArea": "1813",
+        "price": "29.80",
+        "actualPrice": "20538",
+        "grossPrice": "16437",
+        "lat": "22.3529712826927",
+        "lng": "114.062132119135"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "12/04/18",
+        "actualArea": "372",
+        "grossArea": "486",
+        "price": "4.60",
+        "actualPrice": "12366",
+        "grossPrice": "9465",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "3/F",
+            "add3": "SUN OCEAN (BLOCK 32)",
+            "add4": "PHASE 6 ANA CAPRI",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "9",
+        "date": "11/04/18",
+        "actualArea": "1040",
+        "grossArea": "1300",
+        "price": "16.50",
+        "actualPrice": "15865",
+        "grossPrice": "12692",
+        "lat": "22.3529712826927",
+        "lng": "114.062132119135"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "15/F",
+            "add3": "BLOCK 21",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "11/04/18",
+        "actualArea": "709",
+        "grossArea": "915",
+        "price": "8.40",
+        "actualPrice": "11848",
+        "grossPrice": "9180",
+        "lat": "22.3521389604359",
+        "lng": "114.060016408395"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "26/F",
+            "add3": "TOWER 26",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "11/04/18",
+        "actualArea": "526",
+        "grossArea": "706",
+        "price": "7.00",
+        "actualPrice": "13308",
+        "grossPrice": "9915",
+        "lat": "22.353439860639",
+        "lng": "114.060714322266"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "7/F",
+            "add3": "BLOCK 8",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "11/04/18",
+        "actualArea": "537",
+        "grossArea": "706",
+        "price": "5.50",
+        "actualPrice": "10242",
+        "grossPrice": "7790",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "16/F",
+            "add3": "BLOCK 21",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "10/04/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "6.60",
+        "actualPrice": "12406",
+        "grossPrice": "9735",
+        "lat": "22.3521389604359",
+        "lng": "114.060016408395"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "22/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "10/04/18",
+        "actualArea": "531",
+        "grossArea": "694",
+        "price": "6.72",
+        "actualPrice": "12646",
+        "grossPrice": "9676",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "9/F",
+            "add3": "BLOCK 20",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "10/04/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "6.00",
+        "actualPrice": "12245",
+        "grossPrice": "9188",
+        "lat": "22.3518137699367",
+        "lng": "114.059890472903"
+    },
+    {
+        "address": {
+            "add1": "FLAT J",
+            "add2": "17/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "09/04/18",
+        "actualArea": "378",
+        "grossArea": "498",
+        "price": "5.33",
+        "actualPrice": "14101",
+        "grossPrice": "10703",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "NO. 11",
+            "add2": "1/F",
+            "add3": "NO.11 MA WAN MAIN STREET VILLAGE EAST",
+            "add4": "MA WAN MAIN STREET VILLAGE EAST",
+            "add5": ""
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "09/04/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "5.85",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.351713283671",
+        "lng": "114.058308121752"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "2/F",
+            "add3": "LUNA OCEAN (BLOCK 33)",
+            "add4": "PHASE 6 ANA CAPRI",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "9",
+        "date": "06/04/18",
+        "actualArea": "1139",
+        "grossArea": "1423",
+        "price": "17.38",
+        "actualPrice": "15259",
+        "grossPrice": "12214",
+        "lat": "22.3529712826927",
+        "lng": "114.062132119135"
+    },
+    {
+        "address": {
+            "add1": "FLAT L",
+            "add2": "1/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "06/04/18",
+        "actualArea": "372",
+        "grossArea": "486",
+        "price": "4.80",
+        "actualPrice": "12903",
+        "grossPrice": "9877",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "7/F",
+            "add3": "TOWER 31",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "03/04/18",
+        "actualArea": "526",
+        "grossArea": "706",
+        "price": "6.00",
+        "actualPrice": "11407",
+        "grossPrice": "8499",
+        "lat": "22.3539001810516",
+        "lng": "114.060383857178"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "19/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "29/03/18",
+        "actualArea": "1186",
+        "grossArea": "1572",
+        "price": "15.50",
+        "actualPrice": "13069",
+        "grossPrice": "9860",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT J",
+            "add2": "2/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "27/03/18",
+        "actualArea": "378",
+        "grossArea": "498",
+        "price": "4.85",
+        "actualPrice": "12831",
+        "grossPrice": "9739",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "23/F",
+            "add3": "TOWER 30",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "27/03/18",
+        "actualArea": "507",
+        "grossArea": "665",
+        "price": "6.00",
+        "actualPrice": "11834",
+        "grossPrice": "9023",
+        "lat": "22.3542615001962",
+        "lng": "114.060519474042"
+    },
+    {
+        "address": {
+            "add1": "NO. 304",
+            "add2": "G/F",
+            "add3": "NO. 304 MA WAN MAIN STREET VILLAGE NORTH",
+            "add4": "MA WAN MAIN STREET VILLAGE NORTH",
+            "add5": ""
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "27/03/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "3.00",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.351713283671",
+        "lng": "114.058308121752"
+    },
+    {
+        "address": {
+            "add1": "NO. 325",
+            "add2": "2/F",
+            "add3": "NO. 325 MA WAN MAIN STREET VILLAGE NORTH",
+            "add4": "MA WAN MAIN STREET VILLAGE NORTH",
+            "add5": ""
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "26/03/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "6.89",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.351713283671",
+        "lng": "114.058308121752"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "21/F",
+            "add3": "TOWER 26",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "26/03/18",
+        "actualArea": "476",
+        "grossArea": "622",
+        "price": "6.15",
+        "actualPrice": "12926",
+        "grossPrice": "9892",
+        "lat": "22.353439860639",
+        "lng": "114.060714322266"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "28/F",
+            "add3": "BLOCK 25",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "23/03/18",
+        "actualArea": "617",
+        "grossArea": "800",
+        "price": "7.75",
+        "actualPrice": "12561",
+        "grossPrice": "9688",
+        "lat": "22.3531055285773",
+        "lng": "114.060433058988"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "26/F",
+            "add3": "TOWER 26",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "23/03/18",
+        "actualArea": "575",
+        "grossArea": "735",
+        "price": "7.00",
+        "actualPrice": "12174",
+        "grossPrice": "9524",
+        "lat": "22.353439860639",
+        "lng": "114.060714322266"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "6/F",
+            "add3": "TOWER 27",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "16/03/18",
+        "actualArea": "574",
+        "grossArea": "736",
+        "price": "6.20",
+        "actualPrice": "10801",
+        "grossPrice": "8424",
+        "lat": "22.3534401663541",
+        "lng": "114.061141487666"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "6/F",
+            "add3": "TOWER 26",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "16/03/18",
+        "actualArea": "476",
+        "grossArea": "622",
+        "price": "5.75",
+        "actualPrice": "12080",
+        "grossPrice": "9244",
+        "lat": "22.353439860639",
+        "lng": "114.060714322266"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "7/F",
+            "add3": "TOWER 31",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "16/03/18",
+        "actualArea": "476",
+        "grossArea": "622",
+        "price": "6.00",
+        "actualPrice": "12605",
+        "grossPrice": "9646",
+        "lat": "22.3539001810516",
+        "lng": "114.060383857178"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "29/F",
+            "add3": "TOWER 30",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "16/03/18",
+        "actualArea": "799",
+        "grossArea": "1002",
+        "price": "9.68",
+        "actualPrice": "12115",
+        "grossPrice": "9661",
+        "lat": "22.3542615001962",
+        "lng": "114.060519474042"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "18/F",
+            "add3": "BLOCK 9",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "16/03/18",
+        "actualArea": "537",
+        "grossArea": "706",
+        "price": "6.00",
+        "actualPrice": "11173",
+        "grossPrice": "8499",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT K",
+            "add2": "15/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "16/03/18",
+        "actualArea": "378",
+        "grossArea": "498",
+        "price": "5.00",
+        "actualPrice": "13228",
+        "grossPrice": "10040",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "32/F",
+            "add3": "BLOCK 23",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "16/03/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "6.50",
+        "actualPrice": "13265",
+        "grossPrice": "9954",
+        "lat": "22.3527803244807",
+        "lng": "114.060287705153"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "7/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "14/03/18",
+        "actualArea": "632",
+        "grossArea": "816",
+        "price": "7.60",
+        "actualPrice": "12025",
+        "grossPrice": "9314",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "28/F",
+            "add3": "BLOCK 20",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "12/03/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "6.44",
+        "actualPrice": "13139",
+        "grossPrice": "9859",
+        "lat": "22.3518137699367",
+        "lng": "114.059890472903"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "32/F",
+            "add3": "BLOCK 22",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "09/03/18",
+        "actualArea": "709",
+        "grossArea": "915",
+        "price": "8.68",
+        "actualPrice": "12243",
+        "grossPrice": "9486",
+        "lat": "22.3524641508399",
+        "lng": "114.060142344469"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "6/F",
+            "add3": "BLOCK 23",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "09/03/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "5.70",
+        "actualPrice": "10714",
+        "grossPrice": "8407",
+        "lat": "22.3527803244807",
+        "lng": "114.060287705153"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "6/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "08/03/18",
+        "actualArea": "615",
+        "grossArea": "813",
+        "price": "7.98",
+        "actualPrice": "12976",
+        "grossPrice": "9815",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "11/F",
+            "add3": "BLOCK 20",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "08/03/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "5.95",
+        "actualPrice": "12143",
+        "grossPrice": "9112",
+        "lat": "22.3518137699367",
+        "lng": "114.059890472903"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "17/F",
+            "add3": "BLOCK 20",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "08/03/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "6.00",
+        "actualPrice": "12245",
+        "grossPrice": "9188",
+        "lat": "22.3518137699367",
+        "lng": "114.059890472903"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "10/F",
+            "add3": "BLOCK 25",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "07/03/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "6.00",
+        "actualPrice": "12245",
+        "grossPrice": "9188",
+        "lat": "22.3531055285773",
+        "lng": "114.060433058988"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "1/F",
+            "add3": "BLOCK 11",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "02/03/18",
+        "actualArea": "531",
+        "grossArea": "694",
+        "price": "5.90",
+        "actualPrice": "11111",
+        "grossPrice": "8501",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "10/F",
+            "add3": "BLOCK 15",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "02/03/18",
+        "actualArea": "529",
+        "grossArea": "688",
+        "price": "6.20",
+        "actualPrice": "11720",
+        "grossPrice": "9012",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "3/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "01/03/18",
+        "actualArea": "834",
+        "grossArea": "1074",
+        "price": "9.78",
+        "actualPrice": "11727",
+        "grossPrice": "9106",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "21/F",
+            "add3": "BLOCK 25",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "28/02/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "5.98",
+        "actualPrice": "12204",
+        "grossPrice": "9158",
+        "lat": "22.3531055285773",
+        "lng": "114.060433058988"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "13/F",
+            "add3": "TOWER 26",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "28/02/18",
+        "actualArea": "574",
+        "grossArea": "747",
+        "price": "6.00",
+        "actualPrice": "10453",
+        "grossPrice": "8032",
+        "lat": "22.353439860639",
+        "lng": "114.060714322266"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "10/F",
+            "add3": "BLOCK 15",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "27/02/18",
+        "actualArea": "520",
+        "grossArea": "681",
+        "price": "5.78",
+        "actualPrice": "11115",
+        "grossPrice": "8488",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "3/F",
+            "add3": "BLOCK 12",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "26/02/18",
+        "actualArea": "668",
+        "grossArea": "878",
+        "price": "7.96",
+        "actualPrice": "11916",
+        "grossPrice": "9066",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "22/F",
+            "add3": "TOWER 29",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "22/02/18",
+        "actualArea": "526",
+        "grossArea": "706",
+        "price": "6.60",
+        "actualPrice": "12548",
+        "grossPrice": "9348",
+        "lat": "22.3542618064359",
+        "lng": "114.060946641944"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "11/F",
+            "add3": "BLOCK 25",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "21/02/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "5.78",
+        "actualPrice": "11796",
+        "grossPrice": "8851",
+        "lat": "22.3531055285773",
+        "lng": "114.060433058988"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "19/F",
+            "add3": "TOWER 26",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "20/02/18",
+        "actualArea": "591",
+        "grossArea": "803",
+        "price": "7.30",
+        "actualPrice": "12352",
+        "grossPrice": "9091",
+        "lat": "22.353439860639",
+        "lng": "114.060714322266"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "16/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "15/02/18",
+        "actualArea": "592",
+        "grossArea": "754",
+        "price": "7.38",
+        "actualPrice": "12466",
+        "grossPrice": "9788",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "23/F",
+            "add3": "BLOCK 21",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "15/02/18",
+        "actualArea": "566",
+        "grossArea": "718",
+        "price": "6.70",
+        "actualPrice": "11837",
+        "grossPrice": "9331",
+        "lat": "22.3521389604359",
+        "lng": "114.060016408395"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "11/F",
+            "add3": "BLOCK 8",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "15/02/18",
+        "actualArea": "537",
+        "grossArea": "706",
+        "price": "6.00",
+        "actualPrice": "11173",
+        "grossPrice": "8499",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "19/F",
+            "add3": "BLOCK 18",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "15/02/18",
+        "actualArea": "512",
+        "grossArea": "669",
+        "price": "6.00",
+        "actualPrice": "11719",
+        "grossPrice": "8969",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "15/F",
+            "add3": "TOWER 26",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "14/02/18",
+        "actualArea": "476",
+        "grossArea": "622",
+        "price": "5.82",
+        "actualPrice": "12227",
+        "grossPrice": "9357",
+        "lat": "22.353439860639",
+        "lng": "114.060714322266"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "19/F",
+            "add3": "BLOCK 10",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "14/02/18",
+        "actualArea": "537",
+        "grossArea": "706",
+        "price": "6.28",
+        "actualPrice": "11695",
+        "grossPrice": "8895",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "8/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "14/02/18",
+        "actualArea": "505",
+        "grossArea": "672",
+        "price": "5.83",
+        "actualPrice": "11545",
+        "grossPrice": "8676",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "27/F",
+            "add3": "BLOCK 22",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "12/02/18",
+        "actualArea": "549",
+        "grossArea": "707",
+        "price": "6.50",
+        "actualPrice": "11840",
+        "grossPrice": "9194",
+        "lat": "22.3524641508399",
+        "lng": "114.060142344469"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "9/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "09/02/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "6.00",
+        "actualPrice": "11278",
+        "grossPrice": "8850",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "21/F",
+            "add3": "BLOCK 21",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "09/02/18",
+        "actualArea": "841",
+        "grossArea": "1080",
+        "price": "11.00",
+        "actualPrice": "13080",
+        "grossPrice": "10185",
+        "lat": "22.3521389604359",
+        "lng": "114.060016408395"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "23/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "08/02/18",
+        "actualArea": "518",
+        "grossArea": "680",
+        "price": "6.98",
+        "actualPrice": "13475",
+        "grossPrice": "10265",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "NO. 11",
+            "add2": "2/F",
+            "add3": "NO.11 MA WAN MAIN STREET VILLAGE EAST",
+            "add4": "MA WAN MAIN STREET VILLAGE EAST",
+            "add5": ""
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "08/02/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "6.45",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.351713283671",
+        "lng": "114.058308121752"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "15/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "07/02/18",
+        "actualArea": "339",
+        "grossArea": "449",
+        "price": "4.50",
+        "actualPrice": "13274",
+        "grossPrice": "10022",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "7/F",
+            "add3": "TOWER 27",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "05/02/18",
+        "actualArea": "574",
+        "grossArea": "747",
+        "price": "6.00",
+        "actualPrice": "10453",
+        "grossPrice": "8032",
+        "lat": "22.3534401663541",
+        "lng": "114.061141487666"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "20/F",
+            "add3": "BLOCK 18",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "02/02/18",
+        "actualArea": "497",
+        "grossArea": "648",
+        "price": "5.93",
+        "actualPrice": "11932",
+        "grossPrice": "9151",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "7/F",
+            "add3": "TOWER 31",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "02/02/18",
+        "actualArea": "575",
+        "grossArea": "735",
+        "price": "6.00",
+        "actualPrice": "10435",
+        "grossPrice": "8163",
+        "lat": "22.3539001810516",
+        "lng": "114.060383857178"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "28/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "02/02/18",
+        "actualArea": "837",
+        "grossArea": "1077",
+        "price": "10.10",
+        "actualPrice": "12067",
+        "grossPrice": "9378",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "20/F",
+            "add3": "BLOCK 19",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "02/02/18",
+        "actualArea": "490",
+        "grossArea": "653",
+        "price": "5.80",
+        "actualPrice": "11837",
+        "grossPrice": "8882",
+        "lat": "22.3514795628506",
+        "lng": "114.059783961872"
+    },
+    {
+        "address": {
+            "add1": "FLAT M",
+            "add2": "11/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "30/01/18",
+        "actualArea": "366",
+        "grossArea": "496",
+        "price": "4.83",
+        "actualPrice": "13197",
+        "grossPrice": "9738",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "5/F",
+            "add3": "BLOCK 7",
+            "add4": "PHASE 2",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "26/01/18",
+        "actualArea": "583",
+        "grossArea": "742",
+        "price": "6.57",
+        "actualPrice": "11266",
+        "grossPrice": "8852",
+        "lat": "22.3538381731084",
+        "lng": "114.062073159514"
+    },
+    {
+        "address": {
+            "add1": "FLAT L",
+            "add2": "10/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "24/01/18",
+        "actualArea": "360",
+        "grossArea": "488",
+        "price": "4.78",
+        "actualPrice": "13278",
+        "grossPrice": "9795",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "17/F",
+            "add3": "BLOCK 13",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "24/01/18",
+        "actualArea": "592",
+        "grossArea": "754",
+        "price": "7.13",
+        "actualPrice": "12044",
+        "grossPrice": "9456",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "28/F",
+            "add3": "BLOCK 20",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "24/01/18",
+        "actualArea": "762",
+        "grossArea": "985",
+        "price": "8.50",
+        "actualPrice": "11155",
+        "grossPrice": "8629",
+        "lat": "22.3518137699367",
+        "lng": "114.059890472903"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "19/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "24/01/18",
+        "actualArea": "378",
+        "grossArea": "498",
+        "price": "5.23",
+        "actualPrice": "13836",
+        "grossPrice": "10502",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "21/F",
+            "add3": "BLOCK 19",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "23/01/18",
+        "actualArea": "532",
+        "grossArea": "678",
+        "price": "6.00",
+        "actualPrice": "11278",
+        "grossPrice": "8850",
+        "lat": "22.3514795628506",
+        "lng": "114.059783961872"
+    },
+    {
+        "address": {
+            "add1": "FLAT I",
+            "add2": "2/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "22/01/18",
+        "actualArea": "372",
+        "grossArea": "488",
+        "price": "4.68",
+        "actualPrice": "12581",
+        "grossPrice": "9590",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "13/F",
+            "add3": "TOWER 31",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "17/01/18",
+        "actualArea": "476",
+        "grossArea": "622",
+        "price": "5.77",
+        "actualPrice": "12122",
+        "grossPrice": "9277",
+        "lat": "22.3539001810516",
+        "lng": "114.060383857178"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "1/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "17/01/18",
+        "actualArea": "505",
+        "grossArea": "672",
+        "price": "5.40",
+        "actualPrice": "10693",
+        "grossPrice": "8036",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "21/F",
+            "add3": "BLOCK 15",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "16/01/18",
+        "actualArea": "790",
+        "grossArea": "1013",
+        "price": "9.50",
+        "actualPrice": "12025",
+        "grossPrice": "9378",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "15/F",
+            "add3": "BLOCK 8",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "15/01/18",
+        "actualArea": "592",
+        "grossArea": "742",
+        "price": "7.20",
+        "actualPrice": "12162",
+        "grossPrice": "9704",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "3/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 3",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "13",
+        "date": "12/01/18",
+        "actualArea": "579",
+        "grossArea": "770",
+        "price": "6.70",
+        "actualPrice": "11572",
+        "grossPrice": "8701",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "21/F",
+            "add3": "BLOCK 15",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "12/01/18",
+        "actualArea": "785",
+        "grossArea": "1007",
+        "price": "9.30",
+        "actualPrice": "11847",
+        "grossPrice": "9235",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "28/F",
+            "add3": "TOWER 26",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "12/01/18",
+        "actualArea": "621",
+        "grossArea": "810",
+        "price": "7.50",
+        "actualPrice": "12077",
+        "grossPrice": "9259",
+        "lat": "22.353439860639",
+        "lng": "114.060714322266"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "20/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "11/01/18",
+        "actualArea": "378",
+        "grossArea": "498",
+        "price": "5.28",
+        "actualPrice": "13968",
+        "grossPrice": "10602",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "16/F",
+            "add3": "TOWER 28",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "05/01/18",
+        "actualArea": "476",
+        "grossArea": "622",
+        "price": "5.70",
+        "actualPrice": "11975",
+        "grossPrice": "9164",
+        "lat": "22.3538014848706",
+        "lng": "114.061277106048"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "26/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "03/01/18",
+        "actualArea": "361",
+        "grossArea": "488",
+        "price": "5.00",
+        "actualPrice": "13850",
+        "grossPrice": "10246",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "8/F",
+            "add3": "TOWER 29",
+            "add4": "PHASE 5 OCEANCREST",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "03/01/18",
+        "actualArea": "476",
+        "grossArea": "622",
+        "price": "5.82",
+        "actualPrice": "12227",
+        "grossPrice": "9357",
+        "lat": "22.3542618064359",
+        "lng": "114.060946641944"
+    },
+    {
+        "address": {
+            "add1": "FLAT J",
+            "add2": "13/F",
+            "add3": "BLOCK 17",
+            "add4": "PHASE 1",
+            "add5": "PARK ISLAND"
+        },
+        "sRegion": "Ma Wan/Park Island",
+        "bRegion": "NTW",
+        "age": "16",
+        "date": "02/01/18",
+        "actualArea": "378",
+        "grossArea": "498",
+        "price": "5.08",
+        "actualPrice": "13439",
+        "grossPrice": "10201",
+        "lat": "22.3540546510703",
+        "lng": "114.061713773155"
+    }
+]
