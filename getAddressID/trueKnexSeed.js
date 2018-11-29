@@ -1,5 +1,6 @@
 const fs = require("fs")
 let arr = [];
+
 const knex = require('knex')({
     client: 'postgresql',
     connection: {
@@ -9,7 +10,7 @@ const knex = require('knex')({
     }
 });
 
-fs.readFile("test.json", "utf8", async (err, data)=>{
+fs.readFile("NTE2018.json", "utf8", async (err, data)=>{
     if (err) console.log (err)
     let parsed = JSON.parse(data);
     console.log (parsed.length);
@@ -26,6 +27,8 @@ fs.readFile("test.json", "utf8", async (err, data)=>{
         let p = u.price;
         let aP = u.actualPrice;
         let gP = u.grossPrice;
+        let lat = u.lat;
+        let lng = u.lng;
         u.age = Number(age);
         u.date = `20${date.slice(6)}-${date.slice(3,5)}-${date.slice(0,2)}`
         u.actualArea = Number(aA.replace(/s.f./, ""));
@@ -33,12 +36,19 @@ fs.readFile("test.json", "utf8", async (err, data)=>{
         u.price = Number(p.slice(1,-1));
         u.actualPrice = Number(aP.slice(1));
         u.grossPrice = Number(gP.slice(1));
+        u.lat = Number(lat);
+        u.lng = Number(lng);
     })
     console.log (arr)
     await knex('testTable').del();
     await knex("testTable").insert(arr);
-    let address = await knex.select("address", "date", "id").from("testTable").orderBy("date")
+    let address = await knex.select("address", "date", "id").from("testTable").orderBy("date").where("sRegion", "Sai Kung").andWhere("price", "<", "7")
     console.log (address)
 })
 
+// //for testing database
+// (async function (){
+//     let address = await knex.select().from("testTable").orderBy("date").where("sRegion", "Sai Kung").andWhere("price", "<", "7")
+//     console.log (address)
+// })();
 

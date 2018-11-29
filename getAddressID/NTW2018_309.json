@@ -1,0 +1,4442 @@
+[
+    {
+        "address": {
+            "add1": "HOUSE 72",
+            "add2": "SECTION M 4TH ST",
+            "add3": "NO. 72 (S.M SS.269)",
+            "add4": "SECTION M, 4TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "15/11/18",
+        "actualArea": "1245",
+        "grossArea": "1500",
+        "price": "14.00",
+        "actualPrice": "11245",
+        "grossPrice": "9333",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 59",
+            "add2": "NO. 18",
+            "add3": "HOUSE 59",
+            "add4": "PHASE 2",
+            "add5": "ROLLING HILLS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "14",
+        "date": "15/11/18",
+        "actualArea": "1548",
+        "grossArea": "2479",
+        "price": "17.75",
+        "actualPrice": "11466",
+        "grossPrice": "7160",
+        "lat": "22.4870106944653",
+        "lng": "114.0623523795"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 13",
+            "add2": "SECTION M 5TH ST",
+            "add3": "NO. 13 (S.M SS.428)",
+            "add4": "SECTION M, 5TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "29/10/18",
+        "actualArea": "950",
+        "grossArea": "950",
+        "price": "8.00",
+        "actualPrice": "8421",
+        "grossPrice": "8421",
+        "lat": "22.4724797785344",
+        "lng": "114.049004022373"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 7",
+            "add2": "SECTION I 4TH ST",
+            "add3": "NO. 7 (S.I SS.116)",
+            "add4": "SECTION I, 4TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "25/10/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "13.35",
+        "actualPrice": "12899",
+        "grossPrice": "12714",
+        "lat": "22.4728140726768",
+        "lng": "114.049217480919"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 8",
+            "add2": "MOUTON AVENUE",
+            "add3": "MOUTON AVENUE HOUSE 8",
+            "add4": "PHASE 1",
+            "add5": "THE VINEYARD"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "25/10/18",
+        "actualArea": "2178",
+        "grossArea": "3165",
+        "price": "24.00",
+        "actualPrice": "11019",
+        "grossPrice": "7583",
+        "lat": "22.4787214660789",
+        "lng": "114.063311463642"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 40",
+            "add2": "SECTION D 2ND ST",
+            "add3": "NO. 40 (S.D SS. 96)",
+            "add4": "SECTION D, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "24/10/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.88",
+        "actualPrice": "12830",
+        "grossPrice": "12800",
+        "lat": "22.4845041611959",
+        "lng": "114.04392049017"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 5",
+            "add2": "NO. 9",
+            "add3": "HOUSE 5",
+            "add4": "ROYAL CAMELLIA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "22/10/18",
+        "actualArea": "1343",
+        "grossArea": "1915",
+        "price": "14.63",
+        "actualPrice": "10894",
+        "grossPrice": "7640",
+        "lat": "22.4718321368883",
+        "lng": "114.052259656863"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 16",
+            "add2": "VICTORIANA AVENUE",
+            "add3": "HOUSE 16",
+            "add4": "PHASE A VICTORIANA AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "19/10/18",
+        "actualArea": "1539",
+        "grossArea": "2183",
+        "price": "17.00",
+        "actualPrice": "11046",
+        "grossPrice": "7787",
+        "lat": "22.4869433727829",
+        "lng": "114.05670651242"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 71",
+            "add2": "SECTION M 4TH ST",
+            "add3": "NO. 71 (S.M SS.312)",
+            "add4": "SECTION M, 4TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "16/10/18",
+        "actualArea": "1245",
+        "grossArea": "1500",
+        "price": "16.68",
+        "actualPrice": "13398",
+        "grossPrice": "11120",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 33",
+            "add2": "NARCISSUS PATH",
+            "add3": "HOUSE 33",
+            "add4": "PHASE 1E ARCADIA NARCISSUS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "11/10/18",
+        "actualArea": "1372",
+        "grossArea": "2021",
+        "price": "16.00",
+        "actualPrice": "11662",
+        "grossPrice": "7917",
+        "lat": "22.4847093609528",
+        "lng": "114.052092657584"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 17",
+            "add2": "NO. 9",
+            "add3": "HOUSE 17",
+            "add4": "ROYAL CAMELLIA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "11/10/18",
+        "actualArea": "1248",
+        "grossArea": "1768",
+        "price": "13.76",
+        "actualPrice": "11026",
+        "grossPrice": "7783",
+        "lat": "22.4714707253892",
+        "lng": "114.05200735073"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 4",
+            "add2": "SECTION J 3RD ST",
+            "add3": "NO. 4 (S.J SS.167)",
+            "add4": "SECTION J, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "09/10/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "8.00",
+        "actualPrice": "9434",
+        "grossPrice": "9412",
+        "lat": "22.4729857271928",
+        "lng": "114.049314489831"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 19",
+            "add2": "LILY PATH",
+            "add3": "HOUSE 19",
+            "add4": "PHASE 1A MONTEREY LILY",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "08/10/18",
+        "actualArea": "1016",
+        "grossArea": "1463",
+        "price": "11.00",
+        "actualPrice": "10827",
+        "grossPrice": "7519",
+        "lat": "22.4848632078272",
+        "lng": "114.052520087415"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 86",
+            "add2": "HOUSE 86",
+            "add3": "NO. 86 (S.O SS.202)",
+            "add4": "LYCHEE ROAD SOUTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "05/10/18",
+        "actualArea": "1395",
+        "grossArea": "1700",
+        "price": "16.50",
+        "actualPrice": "11828",
+        "grossPrice": "9706",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "SAN WAI TSUEN",
+            "add2": "2/F",
+            "add3": "BLOCK 5",
+            "add4": "WAH ON VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "28/09/18",
+        "actualArea": "865",
+        "grossArea": "-",
+        "price": "5.80",
+        "actualPrice": "6705",
+        "grossPrice": "-",
+        "lat": "22.471049686697",
+        "lng": "114.056467594255"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 5",
+            "add2": "BEGONIA PATH",
+            "add3": "HOUSE 5",
+            "add4": "PHASE 1A MONTEREY BEGONIA",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "24/09/18",
+        "actualArea": "1014",
+        "grossArea": "1534",
+        "price": "12.10",
+        "actualPrice": "11933",
+        "grossPrice": "7888",
+        "lat": "22.4847093609528",
+        "lng": "114.052092657584"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 147",
+            "add2": "CYPRESS DRIVE",
+            "add3": "HOUSE 147",
+            "add4": "PHASE 1A MONTEREY CYPRESS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "21/09/18",
+        "actualArea": "1198",
+        "grossArea": "1775",
+        "price": "14.70",
+        "actualPrice": "12270",
+        "grossPrice": "8282",
+        "lat": "22.4829218687148",
+        "lng": "114.052774471066"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 2",
+            "add2": "SANTA MARIA AVENUE",
+            "add3": "HOUSE 2",
+            "add4": "PHASE B SANTA MARIA AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "22",
+        "date": "17/09/18",
+        "actualArea": "1703",
+        "grossArea": "2476",
+        "price": "24.30",
+        "actualPrice": "14269",
+        "grossPrice": "9814",
+        "lat": "22.4868262886401",
+        "lng": "114.057124469653"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 5",
+            "add2": "CORONADO AVENUE",
+            "add3": "HOUSE 5",
+            "add4": "PHASE A CORONADO AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "12/09/18",
+        "actualArea": "1495",
+        "grossArea": "2044",
+        "price": "18.45",
+        "actualPrice": "12341",
+        "grossPrice": "9026",
+        "lat": "22.4870971208939",
+        "lng": "114.057017343079"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 46",
+            "add2": "BEGONIA PATH",
+            "add3": "HOUSE 46",
+            "add4": "PHASE 1A MONTEREY BEGONIA",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "07/09/18",
+        "actualArea": "968",
+        "grossArea": "1410",
+        "price": "10.90",
+        "actualPrice": "11260",
+        "grossPrice": "7730",
+        "lat": "22.4847093609528",
+        "lng": "114.052092657584"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 30",
+            "add2": "SECTION C 9TH ST",
+            "add3": "NO. 30 (S.C SS. 97)",
+            "add4": "SECTION C, 9TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "38",
+        "date": "07/09/18",
+        "actualArea": "891",
+        "grossArea": "1150",
+        "price": "11.28",
+        "actualPrice": "12660",
+        "grossPrice": "9809",
+        "lat": "22.4839446611588",
+        "lng": "114.044387458646"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 1",
+            "add2": "RIVER NORTH 6TH ST",
+            "add3": "NO. 1 (S.P SS.107)",
+            "add4": "6TH STREET RIVER NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "06/09/18",
+        "actualArea": "1245",
+        "grossArea": "1500",
+        "price": "15.68",
+        "actualPrice": "12594",
+        "grossPrice": "10453",
+        "lat": "22.4823651070412",
+        "lng": "114.045321819363"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 44",
+            "add2": "SECTION J 2ND ST",
+            "add3": "NO. 44 (S.J SS.101)",
+            "add4": "SECTION J, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "31/08/18",
+        "actualArea": "950",
+        "grossArea": "950",
+        "price": "13.50",
+        "actualPrice": "14211",
+        "grossPrice": "14211",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 14",
+            "add2": "SECTION J 4TH ST",
+            "add3": "NO. 14 (S.J SS.265)",
+            "add4": "SECTION J, 4TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "31/08/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "12.00",
+        "actualPrice": "14151",
+        "grossPrice": "14118",
+        "lat": "22.4724345957515",
+        "lng": "114.04896519752"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 69",
+            "add2": "SECTION D 2ND ST",
+            "add3": "NO. 69 (S.D SS.149)",
+            "add4": "SECTION D, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "30/08/18",
+        "actualArea": "840",
+        "grossArea": "1138",
+        "price": "10.80",
+        "actualPrice": "12857",
+        "grossPrice": "9490",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 31",
+            "add2": "SECTION C 3RD ST",
+            "add3": "NO. 31 (S.C SS.279)",
+            "add4": "SECTION C, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "30/08/18",
+        "actualArea": "915",
+        "grossArea": "1300",
+        "price": "12.68",
+        "actualPrice": "13858",
+        "grossPrice": "9754",
+        "lat": "22.484016856303",
+        "lng": "114.044329085644"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 55",
+            "add2": "SECTION M 1ST ST",
+            "add3": "NO. 55 (S.M SS. 87)",
+            "add4": "SECTION M, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "22/08/18",
+        "actualArea": "840",
+        "grossArea": "1138",
+        "price": "12.00",
+        "actualPrice": "14286",
+        "grossPrice": "10545",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 18",
+            "add2": "HOUSE 18",
+            "add3": "NO. 18 (S.A SS.251)",
+            "add4": "BAUHINIA ROAD SOUTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "20/08/18",
+        "actualArea": "902",
+        "grossArea": "1300",
+        "price": "10.68",
+        "actualPrice": "11840",
+        "grossPrice": "8215",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 31",
+            "add2": "ORCHID PATH",
+            "add3": "HOUSE 31",
+            "add4": "PHASE 1C WESTWOOD ORCHID",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "14/08/18",
+        "actualArea": "1377",
+        "grossArea": "2014",
+        "price": "16.00",
+        "actualPrice": "11619",
+        "grossPrice": "7944",
+        "lat": "22.4847093609528",
+        "lng": "114.052092657584"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 32",
+            "add2": "SAN FRANSCISCO AVENUE",
+            "add3": "HOUSE 32",
+            "add4": "PHASE B SAN FRANSCISCO AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "22",
+        "date": "14/08/18",
+        "actualArea": "1539",
+        "grossArea": "2183",
+        "price": "15.50",
+        "actualPrice": "10071",
+        "grossPrice": "7100",
+        "lat": "22.4870971931011",
+        "lng": "114.057114519063"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 15",
+            "add2": "HOUSE 15",
+            "add3": "NO. 15 (S.C SS.349)",
+            "add4": "PINERY ROAD EAST",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "30",
+        "date": "10/08/18",
+        "actualArea": "915",
+        "grossArea": "1300",
+        "price": "12.38",
+        "actualPrice": "13530",
+        "grossPrice": "9523",
+        "lat": "22.4723713597959",
+        "lng": "114.048936105843"
+    },
+    {
+        "address": {
+            "add1": "NO. 84",
+            "add2": "2/F",
+            "add3": "BLOCK 35",
+            "add4": "IAN COURT",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "19",
+        "date": "10/08/18",
+        "actualArea": "680",
+        "grossArea": "760",
+        "price": "5.28",
+        "actualPrice": "7765",
+        "grossPrice": "6947",
+        "lat": "22.4725495280018",
+        "lng": "114.0575351231"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 32",
+            "add2": "SECTION J 1ST ST",
+            "add3": "NO. 32 (S.J SS. 16)",
+            "add4": "SECTION J, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "07/08/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "14.20",
+        "actualPrice": "13720",
+        "grossPrice": "13524",
+        "lat": "22.4840529459649",
+        "lng": "114.044290181738"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 19",
+            "add2": "SECTION J 1ST ST",
+            "add3": "NO. 19 (S.J SS. 48)",
+            "add4": "SECTION J, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "07/08/18",
+        "actualArea": "950",
+        "grossArea": "950",
+        "price": "12.90",
+        "actualPrice": "13579",
+        "grossPrice": "13579",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 4",
+            "add2": "SECTION F 4TH ST",
+            "add3": "NO. 4 (S.F SS. 53 (9100))",
+            "add4": "SECTION F, 4TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "30",
+        "date": "06/08/18",
+        "actualArea": "902",
+        "grossArea": "1300",
+        "price": "10.44",
+        "actualPrice": "11572",
+        "grossPrice": "8029",
+        "lat": "22.4729857271928",
+        "lng": "114.049314489831"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 11",
+            "add2": "SANTA MARIA AVENUE",
+            "add3": "HOUSE 11",
+            "add4": "PHASE B SANTA MARIA AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "22",
+        "date": "06/08/18",
+        "actualArea": "1703",
+        "grossArea": "2476",
+        "price": "24.00",
+        "actualPrice": "14093",
+        "grossPrice": "9693",
+        "lat": "22.4871421137",
+        "lng": "114.056803516977"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 160",
+            "add2": "CYPRESS DRIVE",
+            "add3": "HOUSE 160",
+            "add4": "PHASE 1A MONTEREY CYPRESS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "06/08/18",
+        "actualArea": "1201",
+        "grossArea": "1769",
+        "price": "15.50",
+        "actualPrice": "12906",
+        "grossPrice": "8762",
+        "lat": "22.4829218687148",
+        "lng": "114.052774471066"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 18",
+            "add2": "NO. 18",
+            "add3": "HOUSE 18",
+            "add4": "PHASE 2",
+            "add5": "ROLLING HILLS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "14",
+        "date": "03/08/18",
+        "actualArea": "1373",
+        "grossArea": "2170",
+        "price": "15.50",
+        "actualPrice": "11289",
+        "grossPrice": "7143",
+        "lat": "22.4870106944653",
+        "lng": "114.0623523795"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 19",
+            "add2": "RIVER NORTH 10TH ST",
+            "add3": "NO. 19 (S.O SS. 53)",
+            "add4": "10TH STREET RIVER NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "02/08/18",
+        "actualArea": "-",
+        "grossArea": "950",
+        "price": "11.80",
+        "actualPrice": "-",
+        "grossPrice": "12421",
+        "lat": "22.4823651070412",
+        "lng": "114.045321819363"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 8",
+            "add2": "SAN SIMEON AVENUE",
+            "add3": "HOUSE 8",
+            "add4": "PHASE A SAN SIMEON AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "01/08/18",
+        "actualArea": "1389",
+        "grossArea": "1958",
+        "price": "14.50",
+        "actualPrice": "10439",
+        "grossPrice": "7406",
+        "lat": "22.4868803265161",
+        "lng": "114.056930071388"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 81",
+            "add2": "NARCISSUS PATH",
+            "add3": "HOUSE 81",
+            "add4": "PHASE 1E ARCADIA NARCISSUS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "31/07/18",
+        "actualArea": "1372",
+        "grossArea": "2021",
+        "price": "17.50",
+        "actualPrice": "12755",
+        "grossPrice": "8659",
+        "lat": "22.4847093609528",
+        "lng": "114.052092657584"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 56",
+            "add2": "SECTION J 1ST ST",
+            "add3": "NO. 56 (S.J SS. 28)",
+            "add4": "SECTION J, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "30/07/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "12.18",
+        "actualPrice": "14363",
+        "grossPrice": "14329",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 88",
+            "add2": "PINACEAE DRIVE",
+            "add3": "HOUSE 88",
+            "add4": "PHASE 1C WESTWOOD PINACEAE",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "30/07/18",
+        "actualArea": "980",
+        "grossArea": "2021",
+        "price": "13.38",
+        "actualPrice": "13653",
+        "grossPrice": "6620",
+        "lat": "22.4829218687148",
+        "lng": "114.052774471066"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 25",
+            "add2": "HOUSE 25",
+            "add3": "NO. 25 (S.Q SS.109)",
+            "add4": "LYCHEE ROAD NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "30/07/18",
+        "actualArea": "1100",
+        "grossArea": "1100",
+        "price": "14.50",
+        "actualPrice": "13182",
+        "grossPrice": "13182",
+        "lat": "22.4823651070412",
+        "lng": "114.045321819363"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 310",
+            "add2": "NO. 301-338",
+            "add3": "HOUSE 310",
+            "add4": "EDEN VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "2",
+        "date": "27/07/18",
+        "actualArea": "2118",
+        "grossArea": "-",
+        "price": "26.50",
+        "actualPrice": "12512",
+        "grossPrice": "-",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 68",
+            "add2": "SECTION M 6TH ST",
+            "add3": "NO. 68 (S.M SS.448)",
+            "add4": "SECTION M, 6TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "24/07/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "11.80",
+        "actualPrice": "13915",
+        "grossPrice": "13882",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 4",
+            "add2": "SECTION L 1ST ST",
+            "add3": "NO. 4 (S.L SS.327)",
+            "add4": "SECTION L, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "24/07/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "15.00",
+        "actualPrice": "14493",
+        "grossPrice": "14286",
+        "lat": "22.4729857271928",
+        "lng": "114.049314489831"
+    },
+    {
+        "address": {
+            "add1": "SAN WAI TSUEN",
+            "add2": "G/F",
+            "add3": "BLOCK 37",
+            "add4": "WAH ON VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "24/07/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "10.68",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.4711940498055",
+        "lng": "114.056302289105"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 28",
+            "add2": "KAPOK PATH",
+            "add3": "HOUSE 28",
+            "add4": "PHASE 1C WESTWOOD KAPOK",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "23/07/18",
+        "actualArea": "1016",
+        "grossArea": "1463",
+        "price": "11.90",
+        "actualPrice": "11713",
+        "grossPrice": "8134",
+        "lat": "22.4846194847315",
+        "lng": "114.052646631658"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 25A",
+            "add2": "RIVER NORTH 1ST ST",
+            "add3": "NO. 25A (S.Q SS. 65)",
+            "add4": "1ST STREET RIVER NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "20/07/18",
+        "actualArea": "1100",
+        "grossArea": "1100",
+        "price": "16.88",
+        "actualPrice": "15345",
+        "grossPrice": "15345",
+        "lat": "22.4823651070412",
+        "lng": "114.045321819363"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 27",
+            "add2": "2/F",
+            "add3": "HOUSE 27",
+            "add4": "MERRY GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "11",
+        "date": "19/07/18",
+        "actualArea": "-",
+        "grossArea": "922",
+        "price": "6.20",
+        "actualPrice": "-",
+        "grossPrice": "6725",
+        "lat": "22.2725311329968",
+        "lng": "114.173051468612"
+    },
+    {
+        "address": {
+            "add1": "SAN WAI TSUEN",
+            "add2": "2/F",
+            "add3": "BLOCK 15",
+            "add4": "WAH ON VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "18/07/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "5.90",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.4714291448469",
+        "lng": "114.05671017916"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 2",
+            "add2": "ORCHID PATH",
+            "add3": "HOUSE 2",
+            "add4": "PHASE 1C WESTWOOD ORCHID",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "18/07/18",
+        "actualArea": "1371",
+        "grossArea": "2028",
+        "price": "16.55",
+        "actualPrice": "12071",
+        "grossPrice": "8161",
+        "lat": "22.4844746235194",
+        "lng": "114.052160889866"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 5",
+            "add2": "SANTA MARIA AVENUE",
+            "add3": "HOUSE 5",
+            "add4": "PHASE B SANTA MARIA AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "22",
+        "date": "17/07/18",
+        "actualArea": "1703",
+        "grossArea": "2476",
+        "price": "23.50",
+        "actualPrice": "13799",
+        "grossPrice": "9491",
+        "lat": "22.4870971208939",
+        "lng": "114.057017343079"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 26",
+            "add2": "MOUTON AVENUE",
+            "add3": "MOUTON AVENUE HOUSE 26",
+            "add4": "PHASE 1",
+            "add5": "THE VINEYARD"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "17/07/18",
+        "actualArea": "2238",
+        "grossArea": "3506",
+        "price": "30.00",
+        "actualPrice": "13405",
+        "grossPrice": "8557",
+        "lat": "22.4787214660789",
+        "lng": "114.063311463642"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 17",
+            "add2": "CYPRESS DRIVE",
+            "add3": "HOUSE 17",
+            "add4": "PHASE 1A MONTEREY CYPRESS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "17/07/18",
+        "actualArea": "1201",
+        "grossArea": "1769",
+        "price": "14.38",
+        "actualPrice": "11973",
+        "grossPrice": "8129",
+        "lat": "22.4829218687148",
+        "lng": "114.052774471066"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 40",
+            "add2": "SECTION I 2ND ST",
+            "add3": "NO. 40 (S.I SS.333)",
+            "add4": "SECTION I, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "17/07/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.50",
+        "actualPrice": "12382",
+        "grossPrice": "12353",
+        "lat": "22.4845041611959",
+        "lng": "114.04392049017"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 7",
+            "add2": "HOUSE 7",
+            "add3": "NO. 7 (S.U SS. 7)",
+            "add4": "DAWN DRIVE",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "17/07/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "15.30",
+        "actualPrice": "14783",
+        "grossPrice": "14571",
+        "lat": "22.4728140726768",
+        "lng": "114.049217480919"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 1",
+            "add2": "2/F",
+            "add3": "HOUSE 1",
+            "add4": "MERRY GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "11",
+        "date": "17/07/18",
+        "actualArea": "-",
+        "grossArea": "863",
+        "price": "5.88",
+        "actualPrice": "-",
+        "grossPrice": "6813",
+        "lat": "22.2725311329968",
+        "lng": "114.173051468612"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 11",
+            "add2": "HOUSE 11",
+            "add3": "HOUSE 11",
+            "add4": "VENTURA",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "12/07/18",
+        "actualArea": "1016",
+        "grossArea": "1442",
+        "price": "11.75",
+        "actualPrice": "11565",
+        "grossPrice": "8148",
+        "lat": "22.4847817918458",
+        "lng": "114.052335528725"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 46",
+            "add2": "NARCISSUS PATH",
+            "add3": "HOUSE 46",
+            "add4": "PHASE 1E ARCADIA NARCISSUS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "12/07/18",
+        "actualArea": "1380",
+        "grossArea": "2021",
+        "price": "16.00",
+        "actualPrice": "11594",
+        "grossPrice": "7917",
+        "lat": "22.4847093609528",
+        "lng": "114.052092657584"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 42",
+            "add2": "HOUSE 42",
+            "add3": "NO. 42 (S.M SS. 38)",
+            "add4": "BAUHINIA ROAD NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "11/07/18",
+        "actualArea": "1100",
+        "grossArea": "1100",
+        "price": "15.30",
+        "actualPrice": "13909",
+        "grossPrice": "13909",
+        "lat": "22.4846214760623",
+        "lng": "114.043823203879"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 35",
+            "add2": "NO. 18",
+            "add3": "HOUSE 35",
+            "add4": "PHASE 2",
+            "add5": "ROLLING HILLS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "14",
+        "date": "11/07/18",
+        "actualArea": "1373",
+        "grossArea": "2170",
+        "price": "14.00",
+        "actualPrice": "10197",
+        "grossPrice": "6452",
+        "lat": "22.4860725421564",
+        "lng": "114.063781628678"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 20",
+            "add2": "SECTION F 10TH ST",
+            "add3": "NO. 20 (S.F SS.166 (9100))",
+            "add4": "SECTION F, 10TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "30",
+        "date": "10/07/18",
+        "actualArea": "962",
+        "grossArea": "1300",
+        "price": "12.75",
+        "actualPrice": "13254",
+        "grossPrice": "9808",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 20",
+            "add2": "OSMANTHUS PATH",
+            "add3": "HOUSE 20",
+            "add4": "PHASE 1A MONTEREY OSMANTHUS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "10/07/18",
+        "actualArea": "1016",
+        "grossArea": "1410",
+        "price": "11.00",
+        "actualPrice": "10827",
+        "grossPrice": "7801",
+        "lat": "22.4845742204514",
+        "lng": "114.052500910627"
+    },
+    {
+        "address": {
+            "add1": "HOUSE A2",
+            "add2": "NO. 83",
+            "add3": "HOUSE A2",
+            "add4": "CASA PARADIZO",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "21",
+        "date": "10/07/18",
+        "actualArea": "1037",
+        "grossArea": "1615",
+        "price": "12.50",
+        "actualPrice": "12054",
+        "grossPrice": "7740",
+        "lat": "22.4821317961805",
+        "lng": "114.058906764742"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 18",
+            "add2": "CORONADO AVENUE",
+            "add3": "HOUSE 18",
+            "add4": "PHASE A CORONADO AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "09/07/18",
+        "actualArea": "1347",
+        "grossArea": "1965",
+        "price": "15.75",
+        "actualPrice": "11693",
+        "grossPrice": "8015",
+        "lat": "22.4869794291539",
+        "lng": "114.056619022935"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 54",
+            "add2": "HOUSE 54",
+            "add3": "NO. 54 (S.F SS.116 (9100))",
+            "add4": "GOLDEN BAMBOO ROAD EAST",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "39",
+        "date": "06/07/18",
+        "actualArea": "962",
+        "grossArea": "1300",
+        "price": "12.86",
+        "actualPrice": "13368",
+        "grossPrice": "9892",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 30",
+            "add2": "SAN DIEGO AVENUE",
+            "add3": "HOUSE 30",
+            "add4": "PHASE A SAN DIEGO AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "06/07/18",
+        "actualArea": "1495",
+        "grossArea": "2044",
+        "price": "17.50",
+        "actualPrice": "11706",
+        "grossPrice": "8562",
+        "lat": "22.4870971931011",
+        "lng": "114.057114519063"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 23",
+            "add2": "SECTION J 4TH ST",
+            "add3": "NO. 23 (S.J SS.320)",
+            "add4": "SECTION J, 4TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "05/07/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "11.18",
+        "actualPrice": "13184",
+        "grossPrice": "13153",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 2",
+            "add2": "MICHELIA PATH",
+            "add3": "HOUSE 2",
+            "add4": "PHASE 1C WESTWOOD MICHELIA",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "05/07/18",
+        "actualArea": "1016",
+        "grossArea": "1470",
+        "price": "12.50",
+        "actualPrice": "12303",
+        "grossPrice": "8503",
+        "lat": "22.4844746235194",
+        "lng": "114.052160889866"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 13",
+            "add2": "FICUS PATH",
+            "add3": "HOUSE 13",
+            "add4": "PHASE 1C WESTWOOD FICUS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "04/07/18",
+        "actualArea": "1371",
+        "grossArea": "2021",
+        "price": "15.93",
+        "actualPrice": "11619",
+        "grossPrice": "7882",
+        "lat": "22.4848089130246",
+        "lng": "114.052374374245"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 28",
+            "add2": "NGAU TAM MEI ROAD",
+            "add3": "HOUSE 28",
+            "add4": "PHASE 2 LA MAISON VINEYARD",
+            "add5": "THE VINEYARD"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "10",
+        "date": "04/07/18",
+        "actualArea": "1242",
+        "grossArea": "1994",
+        "price": "16.00",
+        "actualPrice": "12882",
+        "grossPrice": "8024",
+        "lat": "22.4787214660789",
+        "lng": "114.063311463642"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 10",
+            "add2": "CORONADO AVENUE",
+            "add3": "HOUSE 10",
+            "add4": "PHASE A CORONADO AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "03/07/18",
+        "actualArea": "1495",
+        "grossArea": "2044",
+        "price": "17.00",
+        "actualPrice": "11371",
+        "grossPrice": "8317",
+        "lat": "22.48713232758",
+        "lng": "114.055792894294"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 16",
+            "add2": "SECTION C 1ST ST",
+            "add3": "NO. 16 (S.C SS. 30)",
+            "add4": "SECTION C, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "28",
+        "date": "03/07/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "13.50",
+        "actualPrice": "13043",
+        "grossPrice": "12857",
+        "lat": "22.4723261769386",
+        "lng": "114.048897281042"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 23",
+            "add2": "LILY PATH",
+            "add3": "HOUSE 23",
+            "add4": "PHASE 1A MONTEREY LILY",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "29/06/18",
+        "actualArea": "967",
+        "grossArea": "1410",
+        "price": "10.60",
+        "actualPrice": "10962",
+        "grossPrice": "7518",
+        "lat": "22.4848813435527",
+        "lng": "114.052617245708"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 24",
+            "add2": "SECTION C 9TH ST",
+            "add3": "NO. 24 (S.C SS. 94)",
+            "add4": "SECTION C, 9TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "38",
+        "date": "29/06/18",
+        "actualArea": "962",
+        "grossArea": "1300",
+        "price": "12.38",
+        "actualPrice": "12869",
+        "grossPrice": "9523",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 10",
+            "add2": "HOUSE 10",
+            "add3": "NO. 10 (S.K SS.298)",
+            "add4": "GOLDEN BAMBOO ROAD NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "39",
+        "date": "28/06/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "10.00",
+        "actualPrice": "9662",
+        "grossPrice": "9524",
+        "lat": "22.4828076040327",
+        "lng": "114.045331118679"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 35",
+            "add2": "SECTION K 2ND ST",
+            "add3": "NO. 35 (S.K SS.245)",
+            "add4": "SECTION K, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "38",
+        "date": "28/06/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "11.98",
+        "actualPrice": "14127",
+        "grossPrice": "14094",
+        "lat": "22.4842424641294",
+        "lng": "114.044144240271"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 58",
+            "add2": "SECTION M 5TH ST",
+            "add3": "NO. 58 (S.M SS.362)",
+            "add4": "SECTION M, 5TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "27/06/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.38",
+        "actualPrice": "12241",
+        "grossPrice": "12212",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 19",
+            "add2": "SECTION F 7TH ST",
+            "add3": "NO. 19 (S.F SS.103 (9100))",
+            "add4": "SECTION F, 7TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "30",
+        "date": "27/06/18",
+        "actualArea": "962",
+        "grossArea": "1300",
+        "price": "11.00",
+        "actualPrice": "11435",
+        "grossPrice": "8462",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 7",
+            "add2": "SAN FRANSCISCO AVENUE",
+            "add3": "HOUSE 7",
+            "add4": "PHASE B SAN FRANSCISCO AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "22",
+        "date": "27/06/18",
+        "actualArea": "1348",
+        "grossArea": "1965",
+        "price": "14.78",
+        "actualPrice": "10964",
+        "grossPrice": "7522",
+        "lat": "22.4870970775414",
+        "lng": "114.056959037488"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 3",
+            "add2": "SECTION M 2ND ST",
+            "add3": "NO. 3 (S.M SS.184)",
+            "add4": "SECTION M, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "27/06/18",
+        "actualArea": "950",
+        "grossArea": "950",
+        "price": "12.60",
+        "actualPrice": "13263",
+        "grossPrice": "13263",
+        "lat": "22.4730399402407",
+        "lng": "114.049353306686"
+    },
+    {
+        "address": {
+            "add1": "SAN WAI TSUEN",
+            "add2": "2/F",
+            "add3": "BLOCK 7",
+            "add4": "WAH ON VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "27/06/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "5.80",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.4709685000015",
+        "lng": "114.056584262154"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 20",
+            "add2": "HOUSE 20",
+            "add3": "NO. 20 (S.M SS. 16)",
+            "add4": "BAUHINIA ROAD NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "26/06/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "11.85",
+        "actualPrice": "11449",
+        "grossPrice": "11286",
+        "lat": "22.4723261769386",
+        "lng": "114.048897281042"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 71",
+            "add2": "CYPRESS DRIVE",
+            "add3": "HOUSE 71",
+            "add4": "PHASE 1A MONTEREY CYPRESS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "25/06/18",
+        "actualArea": "1016",
+        "grossArea": "1463",
+        "price": "10.75",
+        "actualPrice": "10581",
+        "grossPrice": "7348",
+        "lat": "22.4829218687148",
+        "lng": "114.052774471066"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 85",
+            "add2": "SECTION M 5TH ST",
+            "add3": "NO. 85 (S.M SS.392)",
+            "add4": "SECTION M, 5TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "25/06/18",
+        "actualArea": "-",
+        "grossArea": "950",
+        "price": "13.50",
+        "actualPrice": "-",
+        "grossPrice": "14211",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 13",
+            "add2": "LILY PATH",
+            "add3": "HOUSE 13",
+            "add4": "PHASE 1A MONTEREY LILY",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "22/06/18",
+        "actualArea": "1016",
+        "grossArea": "1463",
+        "price": "10.68",
+        "actualPrice": "10512",
+        "grossPrice": "7300",
+        "lat": "22.4848089130246",
+        "lng": "114.052374374245"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 4",
+            "add2": "SECTION B 6TH ST",
+            "add3": "NO. 4 (S.B SS.196)",
+            "add4": "SECTION B, 6TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "22/06/18",
+        "actualArea": "840",
+        "grossArea": "1138",
+        "price": "10.80",
+        "actualPrice": "12857",
+        "grossPrice": "9490",
+        "lat": "22.4729857271928",
+        "lng": "114.049314489831"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 21",
+            "add2": "SANTA BARBARA AVENUE",
+            "add3": "HOUSE 21",
+            "add4": "PHASE B SANTA BARBARA AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "22",
+        "date": "22/06/18",
+        "actualArea": "1495",
+        "grossArea": "2044",
+        "price": "16.44",
+        "actualPrice": "10997",
+        "grossPrice": "8043",
+        "lat": "22.4870971931011",
+        "lng": "114.057114519063"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 18",
+            "add2": "HOUSE 18",
+            "add3": "NO. 18 (S.P SS.131)",
+            "add4": "LYCHEE ROAD NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "22/06/18",
+        "actualArea": "1245",
+        "grossArea": "1500",
+        "price": "13.18",
+        "actualPrice": "10586",
+        "grossPrice": "8787",
+        "lat": "22.4823651070412",
+        "lng": "114.045321819363"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 336",
+            "add2": "NO. 301-338",
+            "add3": "HOUSE 336",
+            "add4": "EDEN VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "2",
+        "date": "21/06/18",
+        "actualArea": "2121",
+        "grossArea": "-",
+        "price": "23.98",
+        "actualPrice": "11306",
+        "grossPrice": "-",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 16",
+            "add2": "SECTION J 3RD ST",
+            "add3": "NO. 16 (S.J SS.173)",
+            "add4": "SECTION J, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "20/06/18",
+        "actualArea": "950",
+        "grossArea": "950",
+        "price": "12.55",
+        "actualPrice": "13211",
+        "grossPrice": "13211",
+        "lat": "22.4723261769386",
+        "lng": "114.048897281042"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 12",
+            "add2": "HOUSE 12",
+            "add3": "NO. 12 (S.F SS. 29 (9100))",
+            "add4": "GOLDEN BAMBOO ROAD EAST",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "39",
+        "date": "20/06/18",
+        "actualArea": "962",
+        "grossArea": "1300",
+        "price": "10.00",
+        "actualPrice": "10395",
+        "grossPrice": "7692",
+        "lat": "22.4725339840722",
+        "lng": "114.049033122388"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 42",
+            "add2": "HOUSE 42",
+            "add3": "NO. 42 (S.A SS.159)",
+            "add4": "PINERY ROAD SOUTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "34",
+        "date": "19/06/18",
+        "actualArea": "902",
+        "grossArea": "1300",
+        "price": "11.38",
+        "actualPrice": "12616",
+        "grossPrice": "8754",
+        "lat": "22.4846214760623",
+        "lng": "114.043823203879"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 7",
+            "add2": "SECTION F 1ST ST",
+            "add3": "NO. 7 (S.F SS. 12 (9100))",
+            "add4": "SECTION F, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "30",
+        "date": "19/06/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "12.48",
+        "actualPrice": "12058",
+        "grossPrice": "11886",
+        "lat": "22.4728140726768",
+        "lng": "114.049217480919"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 56",
+            "add2": "SAN TAM ROAD",
+            "add3": "HOUSE 56",
+            "add4": "GREEN CREST",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "19/06/18",
+        "actualArea": "1090",
+        "grossArea": "1484",
+        "price": "12.30",
+        "actualPrice": "11284",
+        "grossPrice": "8288",
+        "lat": "22.4821870241861",
+        "lng": "114.06034487283"
+    },
+    {
+        "address": {
+            "add1": "HOUSE E3",
+            "add2": "NO. 80",
+            "add3": "HOUSE E3",
+            "add4": "PHASE 2",
+            "add5": "MAPLE GARDENS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "14/06/18",
+        "actualArea": "789",
+        "grossArea": "920",
+        "price": "11.40",
+        "actualPrice": "14447",
+        "grossPrice": "12390",
+        "lat": "22.2894983920073",
+        "lng": "114.197776557657"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 8",
+            "add2": "RIVER NORTH 10TH ST",
+            "add3": "NO. 8 (S.O SS. 25)",
+            "add4": "10TH STREET RIVER NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "12/06/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.40",
+        "actualPrice": "12264",
+        "grossPrice": "12235",
+        "lat": "22.482690288186",
+        "lng": "114.045428402429"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 45",
+            "add2": "SECTION D 1ST ST",
+            "add3": "NO. 45 (S.D SS. 61)",
+            "add4": "SECTION D, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "08/06/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "11.50",
+        "actualPrice": "13561",
+        "grossPrice": "13529",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 29",
+            "add2": "SECTION C 6TH ST",
+            "add3": "NO. 29 (S.C SS.178)",
+            "add4": "SECTION C, 6TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "30",
+        "date": "08/06/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "12.00",
+        "actualPrice": "11594",
+        "grossPrice": "11429",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 54",
+            "add2": "RIVER NORTH 9TH ST",
+            "add3": "NO. 54 (S.O SS.296)",
+            "add4": "9TH STREET RIVER NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "07/06/18",
+        "actualArea": "962",
+        "grossArea": "1300",
+        "price": "10.55",
+        "actualPrice": "10967",
+        "grossPrice": "8115",
+        "lat": "22.4823651070412",
+        "lng": "114.045321819363"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 81",
+            "add2": "SECTION H 2ND ST",
+            "add3": "NO. 81 (S.H SS.121)",
+            "add4": "SECTION H, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "39",
+        "date": "05/06/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.00",
+        "actualPrice": "11792",
+        "grossPrice": "11765",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "SAN WAI TSUEN",
+            "add2": "G/F",
+            "add3": "BLOCK 20",
+            "add4": "WAH ON VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "04/06/18",
+        "actualArea": "648",
+        "grossArea": "-",
+        "price": "6.80",
+        "actualPrice": "10494",
+        "grossPrice": "-",
+        "lat": "22.4713572122427",
+        "lng": "114.057128050962"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 35",
+            "add2": "SECTION L 5TH ST",
+            "add3": "NO. 35 (S.L SS. 41)",
+            "add4": "SECTION L, 5TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "04/06/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "12.98",
+        "actualPrice": "12541",
+        "grossPrice": "12362",
+        "lat": "22.4842424641294",
+        "lng": "114.044144240271"
+    },
+    {
+        "address": {
+            "add1": "HOUSE A2",
+            "add2": "G-2/F",
+            "add3": "HOUSE A2",
+            "add4": "SCENIC HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "17",
+        "date": "01/06/18",
+        "actualArea": "1666",
+        "grossArea": "2277",
+        "price": "16.00",
+        "actualPrice": "9604",
+        "grossPrice": "7027",
+        "lat": "22.4875147509969",
+        "lng": "114.060058603088"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 1",
+            "add2": "SACRAMENTO AVENUE",
+            "add3": "HOUSE 1",
+            "add4": "PHASE B SACRAMENTO AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "22",
+        "date": "30/05/18",
+        "actualArea": "1713",
+        "grossArea": "2335",
+        "price": "20.20",
+        "actualPrice": "11792",
+        "grossPrice": "8651",
+        "lat": "22.4870971931011",
+        "lng": "114.057114519063"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 3",
+            "add2": "HOUSE 3",
+            "add3": "NO. 3 (S.C SS.338)",
+            "add4": "PINERY ROAD EAST",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "30",
+        "date": "29/05/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "13.10",
+        "actualPrice": "12657",
+        "grossPrice": "12476",
+        "lat": "22.4730399402407",
+        "lng": "114.049353306686"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 8",
+            "add2": "SECTION G 2ND ST",
+            "add3": "NO. 8 (S.G SS.173)",
+            "add4": "SECTION G, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "39",
+        "date": "28/05/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.68",
+        "actualPrice": "12594",
+        "grossPrice": "12565",
+        "lat": "22.4727598594804",
+        "lng": "114.049178664179"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 22",
+            "add2": "SECTION L 5TH ST",
+            "add3": "NO. 22 (S.L SS.100)",
+            "add4": "SECTION L, 5TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "28/05/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.35",
+        "actualPrice": "12205",
+        "grossPrice": "12176",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 97",
+            "add2": "HOUSE 97",
+            "add3": "NO. 97 (S.D SS.346)",
+            "add4": "BAUHINIA ROAD SOUTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "25/05/18",
+        "actualArea": "915",
+        "grossArea": "1300",
+        "price": "11.53",
+        "actualPrice": "12599",
+        "grossPrice": "8868",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 30",
+            "add2": "HOUSE 30",
+            "add3": "NO. 30 (S.P SS.162)",
+            "add4": "LYCHEE ROAD SOUTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "24/05/18",
+        "actualArea": "950",
+        "grossArea": "950",
+        "price": "11.80",
+        "actualPrice": "12421",
+        "grossPrice": "12421",
+        "lat": "22.4839446611588",
+        "lng": "114.044387458646"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 325",
+            "add2": "NO. 301-338",
+            "add3": "HOUSE 325",
+            "add4": "EDEN VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "2",
+        "date": "21/05/18",
+        "actualArea": "2118",
+        "grossArea": "-",
+        "price": "24.80",
+        "actualPrice": "11709",
+        "grossPrice": "-",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 1",
+            "add2": "HOUSE 1",
+            "add3": "NO. 1 (S.Q SS. 15)",
+            "add4": "LYCHEE ROAD WEST",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "21/05/18",
+        "actualArea": "950",
+        "grossArea": "950",
+        "price": "13.20",
+        "actualPrice": "13895",
+        "grossPrice": "13895",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "SAN WAI TSUEN",
+            "add2": "1/F",
+            "add3": "BLOCK 1",
+            "add4": "WAH ON VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "21/05/18",
+        "actualArea": "721",
+        "grossArea": "-",
+        "price": "4.55",
+        "actualPrice": "6311",
+        "grossPrice": "-",
+        "lat": "22.4711940498055",
+        "lng": "114.056302289105"
+    },
+    {
+        "address": {
+            "add1": "SAN WAI TSUEN",
+            "add2": "1/F",
+            "add3": "BLOCK 21",
+            "add4": "WAH ON VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "21/05/18",
+        "actualArea": "757",
+        "grossArea": "-",
+        "price": "4.63",
+        "actualPrice": "6120",
+        "grossPrice": "-",
+        "lat": "22.4712217489601",
+        "lng": "114.057118450872"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 206",
+            "add2": "CYPRESS DRIVE",
+            "add3": "HOUSE 206",
+            "add4": "PHASE 1A MONTEREY CYPRESS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "18/05/18",
+        "actualArea": "1195",
+        "grossArea": "1768",
+        "price": "10.10",
+        "actualPrice": "8452",
+        "grossPrice": "5713",
+        "lat": "22.4829218687148",
+        "lng": "114.052774471066"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 81",
+            "add2": "BAHANS AVENUE",
+            "add3": "BAHANS AVENUE HOUSE 81",
+            "add4": "PHASE 3 LA GRANDE VINEYARD",
+            "add5": "THE VINEYARD"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "9",
+        "date": "18/05/18",
+        "actualArea": "1555",
+        "grossArea": "2446",
+        "price": "20.80",
+        "actualPrice": "13376",
+        "grossPrice": "8504",
+        "lat": "22.4787214660789",
+        "lng": "114.063311463642"
+    },
+    {
+        "address": {
+            "add1": "HOUSE E2",
+            "add2": "NO. 80",
+            "add3": "HOUSE E2",
+            "add4": "PHASE 2",
+            "add5": "MAPLE GARDENS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "18/05/18",
+        "actualArea": "789",
+        "grossArea": "920",
+        "price": "11.30",
+        "actualPrice": "14322",
+        "grossPrice": "12283",
+        "lat": "22.2894983920073",
+        "lng": "114.197776557657"
+    },
+    {
+        "address": {
+            "add1": "SAN WAI TSUEN",
+            "add2": "G/F",
+            "add3": "BLOCK 38",
+            "add4": "WAH ON VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "17/05/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "8.00",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.4711940498055",
+        "lng": "114.056302289105"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 26",
+            "add2": "SANTA MONICA AVENUE",
+            "add3": "HOUSE 26",
+            "add4": "PHASE A SANTA MONICA AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "16/05/18",
+        "actualArea": "1713",
+        "grossArea": "2364",
+        "price": "20.18",
+        "actualPrice": "11781",
+        "grossPrice": "8536",
+        "lat": "22.4870971931011",
+        "lng": "114.057114519063"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 27",
+            "add2": "SANTA BARBARA AVENUE",
+            "add3": "HOUSE 27",
+            "add4": "PHASE B SANTA BARBARA AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "22",
+        "date": "16/05/18",
+        "actualArea": "1539",
+        "grossArea": "2183",
+        "price": "15.80",
+        "actualPrice": "10266",
+        "grossPrice": "7238",
+        "lat": "22.4870971931011",
+        "lng": "114.057114519063"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 1",
+            "add2": "MELROSE AVENUE",
+            "add3": "HOUSE 1",
+            "add4": "PHASE B MELROSE AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "22",
+        "date": "15/05/18",
+        "actualArea": "1347",
+        "grossArea": "1974",
+        "price": "15.00",
+        "actualPrice": "11136",
+        "grossPrice": "7599",
+        "lat": "22.4870971931011",
+        "lng": "114.057114519063"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 1",
+            "add2": "SECTION K 3RD ST",
+            "add3": "NO. 1 (S.K SS.166)",
+            "add4": "SECTION K, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "38",
+        "date": "15/05/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "11.50",
+        "actualPrice": "13561",
+        "grossPrice": "13529",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 50",
+            "add2": "G-1/F",
+            "add3": "HOUSE 50",
+            "add4": "MERRY GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "11",
+        "date": "14/05/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "12.13",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.2725311329968",
+        "lng": "114.173051468612"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 335",
+            "add2": "NO. 301-338",
+            "add3": "HOUSE 335",
+            "add4": "EDEN VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "2",
+        "date": "11/05/18",
+        "actualArea": "2121",
+        "grossArea": "-",
+        "price": "20.10",
+        "actualPrice": "9477",
+        "grossPrice": "-",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 77",
+            "add2": "SAN TAM ROAD",
+            "add3": "HOUSE 77",
+            "add4": "GREEN CREST",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "11/05/18",
+        "actualArea": "1286",
+        "grossArea": "2078",
+        "price": "17.00",
+        "actualPrice": "13219",
+        "grossPrice": "8181",
+        "lat": "22.4817353287391",
+        "lng": "114.060102319973"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 51",
+            "add2": "SECTION H 2ND ST",
+            "add3": "NO. 51 (S.H SS.136)",
+            "add4": "SECTION H, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "39",
+        "date": "08/05/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "11.33",
+        "actualPrice": "13361",
+        "grossPrice": "13329",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 90",
+            "add2": "SECTION J 3RD ST",
+            "add3": "NO. 90 (S.J SS.210)",
+            "add4": "SECTION J, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "07/05/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "12.05",
+        "actualPrice": "14210",
+        "grossPrice": "14176",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 7",
+            "add2": "SECTION D 1ST ST",
+            "add3": "NO. 7 (S.D SS. 42)",
+            "add4": "SECTION D, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "07/05/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.30",
+        "actualPrice": "12146",
+        "grossPrice": "12118",
+        "lat": "22.4728140726768",
+        "lng": "114.049217480919"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 13",
+            "add2": "SECTION I 4TH ST",
+            "add3": "NO. 13 (S.I SS.119)",
+            "add4": "SECTION I, 4TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "07/05/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "12.50",
+        "actualPrice": "14741",
+        "grossPrice": "14706",
+        "lat": "22.4724797785344",
+        "lng": "114.049004022373"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 62",
+            "add2": "NO. 18",
+            "add3": "HOUSE 62",
+            "add4": "PHASE 2",
+            "add5": "ROLLING HILLS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "14",
+        "date": "07/05/18",
+        "actualArea": "1548",
+        "grossArea": "2479",
+        "price": "17.00",
+        "actualPrice": "10982",
+        "grossPrice": "6858",
+        "lat": "22.4870106944653",
+        "lng": "114.0623523795"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 20",
+            "add2": "SECTION M 3RD ST",
+            "add3": "NO. 20 (S.M SS.216)",
+            "add4": "SECTION M, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "04/05/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "9.00",
+        "actualPrice": "8696",
+        "grossPrice": "8571",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 22",
+            "add2": "SECTION M 3RD ST",
+            "add3": "NO. 22 (S.M SS.215)",
+            "add4": "SECTION M, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "04/05/18",
+        "actualArea": "1100",
+        "grossArea": "1100",
+        "price": "11.00",
+        "actualPrice": "10000",
+        "grossPrice": "10000",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 55",
+            "add2": "SECTION L 3RD ST",
+            "add3": "NO. 55 (S.L SS.212)",
+            "add4": "SECTION L, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "04/05/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.86",
+        "actualPrice": "12807",
+        "grossPrice": "12776",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 37",
+            "add2": "SECTION I 3RD ST",
+            "add3": "NO. 37 (S.I SS.224)",
+            "add4": "SECTION I, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "03/05/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "11.89",
+        "actualPrice": "14021",
+        "grossPrice": "13988",
+        "lat": "22.484341726387",
+        "lng": "114.04405668898"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 28",
+            "add2": "OSMANTHUS PATH",
+            "add3": "HOUSE 28",
+            "add4": "PHASE 1A MONTEREY OSMANTHUS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "02/05/18",
+        "actualArea": "967",
+        "grossArea": "1410",
+        "price": "9.93",
+        "actualPrice": "10269",
+        "grossPrice": "7043",
+        "lat": "22.4846194847315",
+        "lng": "114.052646631658"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 36",
+            "add2": "SECTION J 2ND ST",
+            "add3": "NO. 36 (S.J SS. 97)",
+            "add4": "SECTION J, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "02/05/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "9.35",
+        "actualPrice": "11026",
+        "grossPrice": "11000",
+        "lat": "22.4842785536296",
+        "lng": "114.044105336254"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 77",
+            "add2": "SECTION I 3RD ST",
+            "add3": "NO. 77 (S.I SS.244)",
+            "add4": "SECTION I, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "02/05/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.68",
+        "actualPrice": "12594",
+        "grossPrice": "12565",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 23",
+            "add2": "SECTION D 4TH ST",
+            "add3": "NO. 23 (S.D SS.282)",
+            "add4": "SECTION D, 4TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "30/04/18",
+        "actualArea": "915",
+        "grossArea": "1300",
+        "price": "10.48",
+        "actualPrice": "11454",
+        "grossPrice": "8062",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 15",
+            "add2": "SECTION I 4TH ST",
+            "add3": "NO. 15 (S.I SS.120)",
+            "add4": "SECTION I, 4TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "30/04/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "12.50",
+        "actualPrice": "14741",
+        "grossPrice": "14706",
+        "lat": "22.4723713597959",
+        "lng": "114.048936105843"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 4",
+            "add2": "HOUSE 4",
+            "add3": "NO. 4 (S.P SS.136)",
+            "add4": "LYCHEE ROAD SOUTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "27/04/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.40",
+        "actualPrice": "12264",
+        "grossPrice": "12235",
+        "lat": "22.4729857271928",
+        "lng": "114.049314489831"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 302",
+            "add2": "NO. 301-338",
+            "add3": "HOUSE 302",
+            "add4": "EDEN VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "2",
+        "date": "27/04/18",
+        "actualArea": "2118",
+        "grossArea": "-",
+        "price": "19.98",
+        "actualPrice": "9434",
+        "grossPrice": "-",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "NO. 84",
+            "add2": "G/F",
+            "add3": "BLOCK 31",
+            "add4": "IAN COURT",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "19",
+        "date": "27/04/18",
+        "actualArea": "-",
+        "grossArea": "760",
+        "price": "4.38",
+        "actualPrice": "-",
+        "grossPrice": "5763",
+        "lat": "22.4726210205531",
+        "lng": "114.056524536041"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 16",
+            "add2": "HOUSE 16",
+            "add3": "NO. 16 (S.P SS.142)",
+            "add4": "LYCHEE ROAD SOUTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "27/04/18",
+        "actualArea": "950",
+        "grossArea": "950",
+        "price": "11.00",
+        "actualPrice": "11579",
+        "grossPrice": "11579",
+        "lat": "22.4723261769386",
+        "lng": "114.048897281042"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 16",
+            "add2": "SECTION D 3RD ST",
+            "add3": "NO. 16 (S.D SS.160)",
+            "add4": "SECTION D, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "26/04/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "9.98",
+        "actualPrice": "11769",
+        "grossPrice": "11741",
+        "lat": "22.4723261769386",
+        "lng": "114.048897281042"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 36",
+            "add2": "SECTION E 1ST ST",
+            "add3": "NO. 36 (S.E SS. 18)",
+            "add4": "SECTION E, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "26/04/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "9.80",
+        "actualPrice": "9469",
+        "grossPrice": "9333",
+        "lat": "22.4842785536296",
+        "lng": "114.044105336254"
+    },
+    {
+        "address": {
+            "add1": "HOUSE A9",
+            "add2": "NO. 80",
+            "add3": "HOUSE A9",
+            "add4": "PHASE 1",
+            "add5": "MAPLE GARDENS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "26/04/18",
+        "actualArea": "698",
+        "grossArea": "807",
+        "price": "8.00",
+        "actualPrice": "11461",
+        "grossPrice": "9913",
+        "lat": "22.2894983920073",
+        "lng": "114.197776557657"
+    },
+    {
+        "address": {
+            "add1": "SAN WAI TSUEN",
+            "add2": "G/F",
+            "add3": "BLOCK 6",
+            "add4": "WAH ON VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "25/04/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "4.90",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.4709052219164",
+        "lng": "114.056496868504"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 3",
+            "add2": "BEGONIA PATH",
+            "add3": "HOUSE 3",
+            "add4": "PHASE 1A MONTEREY BEGONIA",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "25/04/18",
+        "actualArea": "1016",
+        "grossArea": "1463",
+        "price": "10.30",
+        "actualPrice": "10138",
+        "grossPrice": "7040",
+        "lat": "22.4847093609528",
+        "lng": "114.052092657584"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 84",
+            "add2": "SECTION J 3RD ST",
+            "add3": "NO. 84 (S.J SS.207)",
+            "add4": "SECTION J, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "23/04/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "9.60",
+        "actualPrice": "11321",
+        "grossPrice": "11294",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE A18",
+            "add2": "NO. 83",
+            "add3": "HOUSE A18",
+            "add4": "CASA PARADIZO",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "21",
+        "date": "23/04/18",
+        "actualArea": "1037",
+        "grossArea": "1615",
+        "price": "10.50",
+        "actualPrice": "10125",
+        "grossPrice": "6502",
+        "lat": "22.4833419470248",
+        "lng": "114.059012630463"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 100",
+            "add2": "HOUSE 100",
+            "add3": "NO. 100 (S.O SS. 15)",
+            "add4": "LYCHEE ROAD NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "20/04/18",
+        "actualArea": "1245",
+        "grossArea": "1500",
+        "price": "15.80",
+        "actualPrice": "12691",
+        "grossPrice": "10533",
+        "lat": "22.4723713597959",
+        "lng": "114.048936105843"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 24",
+            "add2": "SECTION I 4TH ST",
+            "add3": "NO. 24 (S.I SS.173)",
+            "add4": "SECTION I, 4TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "20/04/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.28",
+        "actualPrice": "12123",
+        "grossPrice": "12094",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 301",
+            "add2": "NO. 301-338",
+            "add3": "HOUSE 301",
+            "add4": "EDEN VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "2",
+        "date": "18/04/18",
+        "actualArea": "2118",
+        "grossArea": "-",
+        "price": "21.97",
+        "actualPrice": "10373",
+        "grossPrice": "-",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 38",
+            "add2": "HOUSE 38",
+            "add3": "NO. 38 (S.A SS.225)",
+            "add4": "BAUHINIA ROAD SOUTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "18/04/18",
+        "actualArea": "902",
+        "grossArea": "1300",
+        "price": "8.00",
+        "actualPrice": "8869",
+        "grossPrice": "6154",
+        "lat": "22.4843958686673",
+        "lng": "114.044008050277"
+    },
+    {
+        "address": {
+            "add1": "HOUSE A87",
+            "add2": "NO. 80",
+            "add3": "HOUSE A87",
+            "add4": "PHASE 1",
+            "add5": "MAPLE GARDENS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "17/04/18",
+        "actualArea": "696",
+        "grossArea": "807",
+        "price": "7.18",
+        "actualPrice": "10316",
+        "grossPrice": "8897",
+        "lat": "22.2894983920073",
+        "lng": "114.197776557657"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 37",
+            "add2": "2/F",
+            "add3": "HOUSE 37",
+            "add4": "MERRY GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "11",
+        "date": "13/04/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "6.00",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.2725311329968",
+        "lng": "114.173051468612"
+    },
+    {
+        "address": {
+            "add1": "HOUSE C6",
+            "add2": "NO. 83",
+            "add3": "HOUSE C6",
+            "add4": "CASA PARADIZO",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "21",
+        "date": "13/04/18",
+        "actualArea": "1037",
+        "grossArea": "1615",
+        "price": "13.40",
+        "actualPrice": "12922",
+        "grossPrice": "8297",
+        "lat": "22.4820866513586",
+        "lng": "114.058916520236"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 3",
+            "add2": "RIVER NORTH 5TH ST",
+            "add3": "NO. 3 (S.P SS. 95)",
+            "add4": "5TH STREET RIVER NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "12/04/18",
+        "actualArea": "950",
+        "grossArea": "950",
+        "price": "11.50",
+        "actualPrice": "12105",
+        "grossPrice": "12105",
+        "lat": "22.4825095219122",
+        "lng": "114.045234227417"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 20",
+            "add2": "NAPA AVENUE",
+            "add3": "HOUSE 20",
+            "add4": "PHASE A NAPA AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "10/04/18",
+        "actualArea": "1713",
+        "grossArea": "2368",
+        "price": "18.50",
+        "actualPrice": "10800",
+        "grossPrice": "7813",
+        "lat": "22.4869974464164",
+        "lng": "114.056560701788"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 15",
+            "add2": "SECTION G 2ND ST",
+            "add3": "NO. 15 (S.G SS.132)",
+            "add4": "SECTION G, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "39",
+        "date": "06/04/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.39",
+        "actualPrice": "12252",
+        "grossPrice": "12224",
+        "lat": "22.4723713597959",
+        "lng": "114.048936105843"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 12A",
+            "add2": "SECTION M 1ST ST",
+            "add3": "NO. 12A (S.M SS.583)",
+            "add4": "SECTION M, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "06/04/18",
+        "actualArea": "915",
+        "grossArea": "1300",
+        "price": "10.00",
+        "actualPrice": "10929",
+        "grossPrice": "7692",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "SAN WAI TSUEN",
+            "add2": "2/F",
+            "add3": "BLOCK 23",
+            "add4": "WAH ON VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "04/04/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "5.55",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.4711940498055",
+        "lng": "114.056302289105"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 7",
+            "add2": "RIVER NORTH 4TH ST",
+            "add3": "NO. 7 (S.P SS. 79)",
+            "add4": "4TH STREET RIVER NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "29/03/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.38",
+        "actualPrice": "12241",
+        "grossPrice": "12212",
+        "lat": "22.4826541983626",
+        "lng": "114.045467305658"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 67",
+            "add2": "SECTION M 3RD ST",
+            "add3": "NO. 67 (S.M SS.232)",
+            "add4": "SECTION M, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "29/03/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "9.73",
+        "actualPrice": "11472",
+        "grossPrice": "11445",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 64",
+            "add2": "SECTION G 2ND ST",
+            "add3": "NO. 64 (S.G SS.145)",
+            "add4": "SECTION G, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "39",
+        "date": "28/03/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "9.85",
+        "actualPrice": "11616",
+        "grossPrice": "11588",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 30",
+            "add2": "BEGONIA PATH",
+            "add3": "HOUSE 30",
+            "add4": "PHASE 1A MONTEREY BEGONIA",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "27/03/18",
+        "actualArea": "1201",
+        "grossArea": "1772",
+        "price": "13.90",
+        "actualPrice": "11574",
+        "grossPrice": "7844",
+        "lat": "22.4847093609528",
+        "lng": "114.052092657584"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 20",
+            "add2": "MARGAUX AVENUE",
+            "add3": "MARGAUX AVENUE HOUSE 20",
+            "add4": "PHASE 1",
+            "add5": "THE VINEYARD"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "26/03/18",
+        "actualArea": "2016",
+        "grossArea": "2898",
+        "price": "26.00",
+        "actualPrice": "12897",
+        "grossPrice": "8972",
+        "lat": "22.4787214660789",
+        "lng": "114.063311463642"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 94",
+            "add2": "HOUSE 94",
+            "add3": "NO. 94 (S.M SS.574)",
+            "add4": "BAUHINIA ROAD WEST",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "26/03/18",
+        "actualArea": "950",
+        "grossArea": "950",
+        "price": "12.60",
+        "actualPrice": "13263",
+        "grossPrice": "13263",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 40",
+            "add2": "SECTION E 1ST ST",
+            "add3": "NO. 40 (S.E SS. 20)",
+            "add4": "SECTION E, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "23/03/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "13.50",
+        "actualPrice": "13043",
+        "grossPrice": "12857",
+        "lat": "22.4845041611959",
+        "lng": "114.04392049017"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 15",
+            "add2": "CYPRESS DRIVE",
+            "add3": "HOUSE 15",
+            "add4": "PHASE 1A MONTEREY CYPRESS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "21/03/18",
+        "actualArea": "1201",
+        "grossArea": "1769",
+        "price": "13.50",
+        "actualPrice": "11241",
+        "grossPrice": "7631",
+        "lat": "22.4829218687148",
+        "lng": "114.052774471066"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 53",
+            "add2": "SECTION H 1ST ST",
+            "add3": "NO. 53 (S.H SS.218)",
+            "add4": "SECTION H, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "39",
+        "date": "20/03/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.63",
+        "actualPrice": "12535",
+        "grossPrice": "12506",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 9",
+            "add2": "RIVER NORTH 11TH ST",
+            "add3": "NO. 9 (S.N SS. 91)",
+            "add4": "11TH STREET RIVER NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "20/03/18",
+        "actualArea": "891",
+        "grossArea": "1150",
+        "price": "11.00",
+        "actualPrice": "12346",
+        "grossPrice": "9565",
+        "lat": "22.4827715062503",
+        "lng": "114.045360304674"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 26",
+            "add2": "SECTION B 3RD ST",
+            "add3": "NO. 26 (S.B SS.105)",
+            "add4": "SECTION B, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "20/03/18",
+        "actualArea": "846",
+        "grossArea": "1138",
+        "price": "9.05",
+        "actualPrice": "10697",
+        "grossPrice": "7953",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE D3",
+            "add2": "NO. 83",
+            "add3": "HOUSE D3",
+            "add4": "CASA PARADIZO",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "21",
+        "date": "19/03/18",
+        "actualArea": "1037",
+        "grossArea": "1615",
+        "price": "10.10",
+        "actualPrice": "9740",
+        "grossPrice": "6254",
+        "lat": "22.4825294669355",
+        "lng": "114.059363140365"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 51",
+            "add2": "CYPRESS DRIVE",
+            "add3": "HOUSE 51",
+            "add4": "PHASE 1A MONTEREY CYPRESS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "07/03/18",
+        "actualArea": "967",
+        "grossArea": "1410",
+        "price": "10.20",
+        "actualPrice": "10548",
+        "grossPrice": "7234",
+        "lat": "22.4829218687148",
+        "lng": "114.052774471066"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 12",
+            "add2": "SECTION J 4TH ST",
+            "add3": "NO. 12 (S.J SS.264)",
+            "add4": "SECTION J, 4TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "06/03/18",
+        "actualArea": "950",
+        "grossArea": "950",
+        "price": "12.24",
+        "actualPrice": "12882",
+        "grossPrice": "12882",
+        "lat": "22.4725339840722",
+        "lng": "114.049033122388"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 30",
+            "add2": "WILLOW PATH",
+            "add3": "HOUSE 30",
+            "add4": "PHASE 1A MONTEREY WILLOW",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "05/03/18",
+        "actualArea": "968",
+        "grossArea": "1410",
+        "price": "9.80",
+        "actualPrice": "10124",
+        "grossPrice": "6950",
+        "lat": "22.4847093609528",
+        "lng": "114.052092657584"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 16",
+            "add2": "OSMANTHUS PATH",
+            "add3": "HOUSE 16",
+            "add4": "PHASE 1A MONTEREY OSMANTHUS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "02/03/18",
+        "actualArea": "1016",
+        "grossArea": "1410",
+        "price": "10.27",
+        "actualPrice": "10108",
+        "grossPrice": "7284",
+        "lat": "22.4845560847149",
+        "lng": "114.052403752563"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 6",
+            "add2": "SAN FRANSCISCO AVENUE",
+            "add3": "HOUSE 6",
+            "add4": "PHASE B SAN FRANSCISCO AVENUE",
+            "add5": "ROYAL PALMS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "22",
+        "date": "01/03/18",
+        "actualArea": "1347",
+        "grossArea": "1974",
+        "price": "13.00",
+        "actualPrice": "9651",
+        "grossPrice": "6586",
+        "lat": "22.4868442989234",
+        "lng": "114.057056431054"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 53",
+            "add2": "RIVER NORTH 8TH ST",
+            "add3": "NO. 53 (S.O SS.197)",
+            "add4": "8TH STREET RIVER NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "28/02/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "12.80",
+        "actualPrice": "12367",
+        "grossPrice": "12190",
+        "lat": "22.4823651070412",
+        "lng": "114.045321819363"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 11",
+            "add2": "RIVER NORTH 4TH ST",
+            "add3": "NO. 11 (S.P SS. 81)",
+            "add4": "4TH STREET RIVER NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "20/02/18",
+        "actualArea": "950",
+        "grossArea": "950",
+        "price": "9.00",
+        "actualPrice": "9474",
+        "grossPrice": "9474",
+        "lat": "22.4725972276507",
+        "lng": "114.049071930725"
+    },
+    {
+        "address": {
+            "add1": "NO. 84",
+            "add2": "G/F",
+            "add3": "BLOCK 30",
+            "add4": "IAN COURT",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "19",
+        "date": "14/02/18",
+        "actualArea": "680",
+        "grossArea": "760",
+        "price": "4.38",
+        "actualPrice": "6441",
+        "grossPrice": "5763",
+        "lat": "22.4726210205531",
+        "lng": "114.056524536041"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 21",
+            "add2": "SECTION C 6TH ST",
+            "add3": "NO. 21 (S.C SS.173)",
+            "add4": "SECTION C, 6TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "30",
+        "date": "14/02/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.00",
+        "actualPrice": "11792",
+        "grossPrice": "11765",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 54",
+            "add2": "SECTION M 1ST ST",
+            "add3": "NO. 54 (S.M SS. 56)",
+            "add4": "SECTION M, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "14/02/18",
+        "actualArea": "902",
+        "grossArea": "1300",
+        "price": "9.50",
+        "actualPrice": "10532",
+        "grossPrice": "7308",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 155",
+            "add2": "HOUSE 155",
+            "add3": "NO. 155 (S.O SS.238)",
+            "add4": "LYCHEE ROAD SOUTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "36",
+        "date": "14/02/18",
+        "actualArea": "1100",
+        "grossArea": "1100",
+        "price": "14.43",
+        "actualPrice": "13118",
+        "grossPrice": "13118",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 62",
+            "add2": "SECTION M 2ND ST",
+            "add3": "NO. 62 (S.M SS.117)",
+            "add4": "SECTION M, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "13/02/18",
+        "actualArea": "846",
+        "grossArea": "1138",
+        "price": "9.90",
+        "actualPrice": "11702",
+        "grossPrice": "8699",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 102",
+            "add2": "SECTION L 5TH ST",
+            "add3": "NO. 102 (S.L SS. 60)",
+            "add4": "SECTION L, 5TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "12/02/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "10.80",
+        "actualPrice": "12736",
+        "grossPrice": "12706",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 1",
+            "add2": "SECTION F 10TH ST",
+            "add3": "NO. 1 (S.F SS.167 (9100))",
+            "add4": "SECTION F, 10TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "30",
+        "date": "09/02/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "13.30",
+        "actualPrice": "12850",
+        "grossPrice": "12667",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 31",
+            "add2": "SECTION L 2ND ST",
+            "add3": "NO. 31 (S.L SS.281)",
+            "add4": "SECTION L, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "09/02/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "12.00",
+        "actualPrice": "11594",
+        "grossPrice": "11429",
+        "lat": "22.484016856303",
+        "lng": "114.044329085644"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 32",
+            "add2": "CYPRESS DRIVE",
+            "add3": "HOUSE 32",
+            "add4": "PHASE 1A MONTEREY CYPRESS",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "07/02/18",
+        "actualArea": "1198",
+        "grossArea": "1768",
+        "price": "15.00",
+        "actualPrice": "12521",
+        "grossPrice": "8484",
+        "lat": "22.4829218687148",
+        "lng": "114.052774471066"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 1",
+            "add2": "OLEANDER PATH",
+            "add3": "HOUSE 1",
+            "add4": "PHASE 1A MONTEREY OLEANDER",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "06/02/18",
+        "actualArea": "1198",
+        "grossArea": "1775",
+        "price": "12.80",
+        "actualPrice": "10684",
+        "grossPrice": "7211",
+        "lat": "22.4847093609528",
+        "lng": "114.052092657584"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 22",
+            "add2": "HOUSE 22",
+            "add3": "NO. 22 (S.H SS.288)",
+            "add4": "LOTUS ROAD",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "39",
+        "date": "05/02/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "13.80",
+        "actualPrice": "13333",
+        "grossPrice": "13143",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 7",
+            "add2": "SUNFLOWER PATH",
+            "add3": "HOUSE 7",
+            "add4": "PHASE 1E ARCADIA SUNFLOWER",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "01/02/18",
+        "actualArea": "1372",
+        "grossArea": "2021",
+        "price": "15.48",
+        "actualPrice": "11283",
+        "grossPrice": "7660",
+        "lat": "22.4847546180908",
+        "lng": "114.052228661188"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 8",
+            "add2": "SECTION D 1ST ST",
+            "add3": "NO. 8 (S.D SS. 4)",
+            "add4": "SECTION D, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "01/02/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "12.10",
+        "actualPrice": "11691",
+        "grossPrice": "11524",
+        "lat": "22.4727598594804",
+        "lng": "114.049178664179"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 321",
+            "add2": "NO. 301-338",
+            "add3": "HOUSE 321",
+            "add4": "EDEN VILLA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "2",
+        "date": "31/01/18",
+        "actualArea": "2118",
+        "grossArea": "-",
+        "price": "21.09",
+        "actualPrice": "9956",
+        "grossPrice": "-",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 2 (NO. 30)",
+            "add2": "NO. 80",
+            "add3": "HOUSE 2 (NO.30)",
+            "add4": "PHASE 3 (WAH YAN COURT)",
+            "add5": "MAPLE GARDENS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "0",
+        "date": "29/01/18",
+        "actualArea": "776",
+        "grossArea": "-",
+        "price": "9.80",
+        "actualPrice": "12629",
+        "grossPrice": "-",
+        "lat": "22.2894983920073",
+        "lng": "114.197776557657"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 16",
+            "add2": "PETRUS AVENUE",
+            "add3": "PETRUS AVENUE HOUSE 16",
+            "add4": "PHASE 1",
+            "add5": "THE VINEYARD"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "12",
+        "date": "26/01/18",
+        "actualArea": "2238",
+        "grossArea": "3506",
+        "price": "33.30",
+        "actualPrice": "14879",
+        "grossPrice": "9498",
+        "lat": "22.4787214660789",
+        "lng": "114.063311463642"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 10",
+            "add2": "GMELINA PATH",
+            "add3": "HOUSE 10",
+            "add4": "PHASE 1C WESTWOOD GMELINA",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "26/01/18",
+        "actualArea": "1371",
+        "grossArea": "2021",
+        "price": "14.80",
+        "actualPrice": "10795",
+        "grossPrice": "7323",
+        "lat": "22.4845198955544",
+        "lng": "114.052316328098"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 16",
+            "add2": "SECTION M 3RD ST",
+            "add3": "NO. 16 (S.M SS.218)",
+            "add4": "SECTION M, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "25/01/18",
+        "actualArea": "1245",
+        "grossArea": "1500",
+        "price": "15.80",
+        "actualPrice": "12691",
+        "grossPrice": "10533",
+        "lat": "22.4723261769386",
+        "lng": "114.048897281042"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 3",
+            "add2": "NO. 8",
+            "add3": "HOUSE 3",
+            "add4": "VILLA CAMELLIA",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "23",
+        "date": "23/01/18",
+        "actualArea": "1320",
+        "grossArea": "1337",
+        "price": "13.20",
+        "actualPrice": "10000",
+        "grossPrice": "9873",
+        "lat": "22.472374350521",
+        "lng": "114.052764433914"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 8",
+            "add2": "HOUSE 8",
+            "add3": "NO. 8 (S.A SS.262)",
+            "add4": "BAUHINIA ROAD SOUTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "23/01/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "17.00",
+        "actualPrice": "16425",
+        "grossPrice": "16190",
+        "lat": "22.4727598594804",
+        "lng": "114.049178664179"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 39",
+            "add2": "SECTION I 1ST ST",
+            "add3": "NO. 39 (S.I SS.361)",
+            "add4": "SECTION I, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "22/01/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "9.68",
+        "actualPrice": "11415",
+        "grossPrice": "11388",
+        "lat": "22.4844680637305",
+        "lng": "114.043949676887"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 3",
+            "add2": "SECTION I 1ST ST",
+            "add3": "NO. 3 (S.I SS.343)",
+            "add4": "SECTION I, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "22/01/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "11.80",
+        "actualPrice": "11401",
+        "grossPrice": "11238",
+        "lat": "22.4730399402407",
+        "lng": "114.049353306686"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 32",
+            "add2": "SECTION E 1ST ST",
+            "add3": "NO. 32 (S.E SS. 16)",
+            "add4": "SECTION E, 1ST STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "29",
+        "date": "22/01/18",
+        "actualArea": "891",
+        "grossArea": "1150",
+        "price": "9.00",
+        "actualPrice": "10101",
+        "grossPrice": "7826",
+        "lat": "22.4840529459649",
+        "lng": "114.044290181738"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 30",
+            "add2": "LILY PATH",
+            "add3": "HOUSE 30",
+            "add4": "PHASE 1A MONTEREY LILY",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "19/01/18",
+        "actualArea": "968",
+        "grossArea": "1410",
+        "price": "9.50",
+        "actualPrice": "9814",
+        "grossPrice": "6738",
+        "lat": "22.4847093609528",
+        "lng": "114.052092657584"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 7",
+            "add2": "HOUSE 7",
+            "add3": "NO. 7 (S.A SS.263)",
+            "add4": "BAUHINIA ROAD SOUTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "31",
+        "date": "18/01/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "14.50",
+        "actualPrice": "14010",
+        "grossPrice": "13810",
+        "lat": "22.4728140726768",
+        "lng": "114.049217480919"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 45",
+            "add2": "SECTION M 3RD ST",
+            "add3": "NO. 45 (S.M SS.243)",
+            "add4": "SECTION M, 3RD STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "17/01/18",
+        "actualArea": "1245",
+        "grossArea": "1500",
+        "price": "13.00",
+        "actualPrice": "10442",
+        "grossPrice": "8667",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 31",
+            "add2": "SECTION K 2ND ST",
+            "add3": "NO. 31 (S.K SS.243)",
+            "add4": "SECTION K, 2ND STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "38",
+        "date": "17/01/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "9.80",
+        "actualPrice": "11557",
+        "grossPrice": "11529",
+        "lat": "22.484016856303",
+        "lng": "114.044329085644"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 96",
+            "add2": "HOUSE 96",
+            "add3": "NO. 96 (S.O SS. 13)",
+            "add4": "LYCHEE ROAD NORTH",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "41",
+        "date": "12/01/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "9.88",
+        "actualPrice": "11651",
+        "grossPrice": "11624",
+        "lat": "22.4724797785344",
+        "lng": "114.049004022373"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 23",
+            "add2": "SECTION K 5TH ST",
+            "add3": "NO. 23 (S.K SS. 12)",
+            "add4": "SECTION K, 5TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "38",
+        "date": "12/01/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "13.80",
+        "actualPrice": "13333",
+        "grossPrice": "13143",
+        "lat": "22.4725339840722",
+        "lng": "114.049033122388"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 116",
+            "add2": "PINACEAE DRIVE",
+            "add3": "HOUSE 116",
+            "add4": "PHASE 1C WESTWOOD PINACEAE",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "12/01/18",
+        "actualArea": "1371",
+        "grossArea": "2021",
+        "price": "14.80",
+        "actualPrice": "10795",
+        "grossPrice": "7323",
+        "lat": "22.4829218687148",
+        "lng": "114.052774471066"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "G/F",
+            "add3": "BLOCK 1",
+            "add4": "HELENE TERRACE",
+            "add5": ""
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "15",
+        "date": "12/01/18",
+        "actualArea": "1260",
+        "grossArea": "1641",
+        "price": "9.30",
+        "actualPrice": "7381",
+        "grossPrice": "5667",
+        "lat": "22.4728431583139",
+        "lng": "114.051763205641"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 42",
+            "add2": "SECTION I 5TH ST",
+            "add3": "NO. 42 (S.I SS. 79)",
+            "add4": "SECTION I, 5TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "11/01/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "11.32",
+        "actualPrice": "13349",
+        "grossPrice": "13318",
+        "lat": "22.4846214760623",
+        "lng": "114.043823203879"
+    },
+    {
+        "address": {
+            "add1": "HOUSE A10",
+            "add2": "NO. 80",
+            "add3": "HOUSE A10",
+            "add4": "PHASE 1",
+            "add5": "MAPLE GARDENS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "27",
+        "date": "11/01/18",
+        "actualArea": "698",
+        "grossArea": "807",
+        "price": "7.48",
+        "actualPrice": "10716",
+        "grossPrice": "9269",
+        "lat": "22.486883241105",
+        "lng": "114.060914280871"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 41",
+            "add2": "SECTION L 5TH ST",
+            "add3": "NO. 41 (S.L SS. 38)",
+            "add4": "SECTION L, 5TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "37",
+        "date": "10/01/18",
+        "actualArea": "1035",
+        "grossArea": "1050",
+        "price": "13.60",
+        "actualPrice": "13140",
+        "grossPrice": "12952",
+        "lat": "22.4845853785566",
+        "lng": "114.043852390646"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 5",
+            "add2": "SUNFLOWER PATH",
+            "add3": "HOUSE 5",
+            "add4": "PHASE 1E ARCADIA SUNFLOWER",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "10/01/18",
+        "actualArea": "-",
+        "grossArea": "2021",
+        "price": "13.86",
+        "actualPrice": "-",
+        "grossPrice": "6858",
+        "lat": "22.4847093609528",
+        "lng": "114.052092657584"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 16",
+            "add2": "OLEANDER PATH",
+            "add3": "HOUSE 16",
+            "add4": "PHASE 1A MONTEREY OLEANDER",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "25",
+        "date": "10/01/18",
+        "actualArea": "967",
+        "grossArea": "1463",
+        "price": "9.50",
+        "actualPrice": "9824",
+        "grossPrice": "6494",
+        "lat": "22.4845560847149",
+        "lng": "114.052403752563"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 27",
+            "add2": "SECTION F 7TH ST",
+            "add3": "NO. 27 (S.F SS.107 (9100))",
+            "add4": "SECTION F, 7TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "30",
+        "date": "10/01/18",
+        "actualArea": "891",
+        "grossArea": "1150",
+        "price": "10.63",
+        "actualPrice": "11930",
+        "grossPrice": "9243",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 21",
+            "add2": "LILAC PATH",
+            "add3": "HOUSE 21",
+            "add4": "PHASE 1D PALOMA LILAC",
+            "add5": "PALM SPRINGS"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "24",
+        "date": "05/01/18",
+        "actualArea": "1372",
+        "grossArea": "2021",
+        "price": "13.95",
+        "actualPrice": "10168",
+        "grossPrice": "6903",
+        "lat": "22.4848632452902",
+        "lng": "114.05256867462"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 82",
+            "add2": "SECTION K 5TH ST",
+            "add3": "NO. 82 (S.K SS. 88)",
+            "add4": "SECTION K, 5TH STREET",
+            "add5": "FAIRVIEW PARK"
+        },
+        "sRegion": "Fairview Park/Palm Spring",
+        "bRegion": "NTW",
+        "age": "38",
+        "date": "02/01/18",
+        "actualArea": "848",
+        "grossArea": "850",
+        "price": "9.88",
+        "actualPrice": "11651",
+        "grossPrice": "11624",
+        "lat": "22.4732206404319",
+        "lng": "114.049469740918"
+    }
+]
