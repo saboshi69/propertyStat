@@ -9,12 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
     "axios": "^0.18.0",
     "knex": "^0.15.2",
-=======
     "cheerio": "^1.0.0-rc.2",
->>>>>>> ee38dac54f0c7d2dcdace367ae273fe49606ab92
     "lodash": "^4.17.11",
     "node-fetch": "^2.3.0",
     "pg": "^7.6.1",
