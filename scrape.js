@@ -21,6 +21,7 @@ async function singlePageScrape(url) {
         r = []
         for (let i = 2; i < 20; i++) {
             const tds = Array.from(document.querySelectorAll(`#proplist>div>form>table>tbody>tr:nth-child(${i})>td:nth-child(n+2):nth-last-child(1n+3)`))
+            console.log(tds);
             let arrTds = tds.map(td => td.innerHTML.replace(/\&nbsp;/g, ' '))
             if (arrTds[0] != undefined) {
                 r.push(arrTds)
@@ -41,7 +42,7 @@ async function isLastPage(url) {
     const bool = await page.evaluate(() => {
         const tds = Array.from(document.querySelectorAll(`#proplist>div>form>table>tbody>tr:nth-child(1)>td`))
         let arrTds = tds.map(td => td.innerHTML)
-        console.log(arrTds)
+        // console.log(arrTds)
         return (arrTds[0] == "No Data...") ? true : false
     })
 
@@ -54,22 +55,22 @@ async function isLastPage(url) {
 'r' = residential
 'c' = commericial
 'o'= office
-'i' = industrial
+'i' = industrialconsole
 'p' = car park
 '' = all
 */
 async function scrapeAllsearch(usuage, year, month) {
-    console.log(`Start grabing search result`)      
+    // console.log(`Start grabing search result`)      
     for (let page = 1, isLast = false; isLast == false; page++) {
         let url = `http://www.property.hk/eng/tran.php?bldg=&prop=${usuage}&size=&year=${year}&month=${month}&select=&page=${page}&dt=HA&tab=TRAN`
         await isLastPage(url)
             .then(async (bool) => {
                 if (bool == true) {
                     isLast = true
-                    return console.log("Finish scraping")
+                    // return console.log("Finish scraping")
                 } else {
                     isLast = false
-                    console.log(`Waiting to scrape page ${page}...`)
+                    // console.log(`Waiting to scrape page ${page}...`)
                     await singlePageScrape(url)
                 }
             })
@@ -84,7 +85,7 @@ async function scrapeAllsearch(usuage, year, month) {
 
 
  scrapeAllsearch('',2018,1)
- .then(()=>console.log(result))
+ // .then(()=>console.log(result))
 
 //  isLastPage(noDataUrl)
 //      .then((boolean) => console.log(boolean))
