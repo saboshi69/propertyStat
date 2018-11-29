@@ -75,24 +75,24 @@ async function singlePage(url, bRegion, sRegion, year) {
             "bRegion": bRegion,
             "age": `${age[i]}`.trim(),
             "date": `${date[i]}`,
-            "actualArea": `${actualArea[i]}`.replace('s.f.', '').trim(),
-            "grossArea": `${grossArea[i]}`.replace('s.f.', '').trim(),
-            "price": `${price[i]}`.replace('M', '').replace('$', ''),
-            "actualPrice": `${actualPrice[i]}`.replace('$', '').trim(),
-            "grossPrice": `${grossPrice[i]}`.replace('$', '').trim(),
+            "actualArea": `${actualArea[i]}`.replace(/s\.f\./, '').trim(),
+            "grossArea": `${grossArea[i]}`.replace(/s\.f\./, '').trim(),
+            "price": `${price[i]}`.replace('M', '').replace(/\$/, ''),
+            "actualPrice": `${actualPrice[i]}`.replace(/\$/, '').trim(),
+            "grossPrice": `${grossPrice[i]}`.replace(/\$/, '').trim(),
             "lat": "",
             "lng": ""
         }
         let street = Object.values(json["address"]).filter((el) => el.split(" ").includes('STREET') == true).slice(-1)[0]
         let village = Object.values(json["address"]).filter((el) => el.split(" ").includes('VILLAGE') == true).slice(-1)[0]
         let road = Object.values(json["address"]).filter((el) => el.split(" ").includes('ROAD') == true).slice(-1)[0]
-        let estate = Object.values(json["address"]).filter((el) => el != "").slice(-1)[0].replace(/,/g, '').replace(/ *\([^)]*\) */g, '').replace(/[-]/g, ' ').split(" ").join("+")
+        let estate = Object.values(json["address"]).filter((el) => el != "").slice(-1)[0].replace(/,/g, '').replace(/st\.$/i, '').replace(/^[0-9]+\s/, '').replace(/ *\([^)]*\) */g, '').replace(/[-]/g, ' ').trim().split(" ").join("+")
         if (village != undefined) {
             json["tempStreetSearchKey"] = village.split(" VILLAGE")[0].split(" ").join("+")
         } else if (road != undefined) {
-            json["tempStreetSearchKey"] = road.split(" ROAD")[0].replace('NO.', '').replace(/[0-9]/g, '').trim().split(" ").join("+")
+            json["tempStreetSearchKey"] = road.split(" ROAD")[0].replace(/no\s?\.?\s/gi, '').replace(/[0-9]+[a-z]/gi,'').replace(/[0-9]+/gi,'').replace(/[-]/gi,'').trim().split(" ").join("+")
         } else if (street != undefined) {
-            json["tempStreetSearchKey"] = street.split(" STREET")[0].replace('NO.', '').replace(/[0-9]/g, '').trim().split(" ").join("+")
+            json["tempStreetSearchKey"] = street.split(" STREET")[0].replace(/no\s?\.?\s/gi, '').replace(/[0-9]+[a-z]/gi,'').replace(/[0-9]+/gi,'').replace(/[-]/gi,'').trim().split(" ").join("+")
         }
 
         json["tempEstateSearchKey"] = estate
@@ -111,7 +111,7 @@ async function getLatLng(address) {
     let myrequest = address["tempEstateSearchKey"]
     let myrequest2 = address["tempStreetSearchKey"]
     if (myrequest2 == "") {
-        myrequest2 = address["tempEstateSearchKey"].replace('NO.', '').replace(/[0-9]/g, '').trim()
+        myrequest2 = address["tempEstateSearchKey"].replace(/no\s?\.?\+/gi, '').replace(/[0-9]+[a-z]/gi,'').replace(/[0-9]+/gi,'').trim()
     }
 
     let latlng = []
@@ -222,5 +222,5 @@ async function grabAll(bRegion, sRegion, year, today) {
         console.log("THE END")
 }
 
-grabAll("HK", "101", 2018, "29/11/2018")
+grabAll("HK", "117", 2018, "29/11/2018")
     .catch(err => console.log(err))
