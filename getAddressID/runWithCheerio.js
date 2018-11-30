@@ -222,20 +222,5 @@ async function grabAll(bRegion, sRegion, year, today) {
         console.log("THE END")
 }
 
-grabAll("KLN", "207", 2018, "29/11/2018")
+grabAll("HK", "116", 2018, "29/11/2018")
     .catch(err => console.log(err))
-
-    // "KLN": {
-    //     "Whampoa/Laguna Verde": "207",
-    //     "Hung Hom": "220",
-    //     "Tseung Kwan O": "209",
-    //     "Mei Foo/Wonderland": "210",
-    //     "Cheung Sha Wan/Shum Shui Po": "212",
-    //     "Cheung Sha Wan West": "211",
-    //     "Yau Yat Tsuen/Shek Kip Mei": "213",
-    //     "Kowloon Tong/Beacon Hill": "214",
-    //     "Lam Tin/Yau Tong": "215",
-    //     "Kowloon Bay/Ngau Chi Wan": "216",
-    //     "Kwun Tong": "217",
-    //     "Diamond Hill/Wong Tai Sin": "218"
-    // }
