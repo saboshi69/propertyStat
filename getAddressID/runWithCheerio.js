@@ -222,13 +222,10 @@ async function grabAll(bRegion, sRegion, year, today) {
         console.log("THE END")
 }
 
-grabAll("KLN", "205", 2018, "29/11/2018")
+grabAll("KLN", "207", 2018, "29/11/2018")
     .catch(err => console.log(err))
 
     // "KLN": {
-    //     "Ho Man Tin/King's Park": "205",
-    //     "To Kwa Wan": "206",
-    //     "To Kwa Wan East": "219",
     //     "Whampoa/Laguna Verde": "207",
     //     "Hung Hom": "220",
     //     "Tseung Kwan O": "209",

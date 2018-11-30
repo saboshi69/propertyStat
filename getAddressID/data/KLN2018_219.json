@@ -1,0 +1,1362 @@
+[
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "15/F",
+            "add3": "TOWER 7",
+            "add4": "JUBILANT PLACE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "22/11/18",
+        "actualArea": "786",
+        "grossArea": "960",
+        "price": "10.00",
+        "actualPrice": "12723",
+        "grossPrice": "10417",
+        "lat": "22.3217566023807",
+        "lng": "114.189298209974"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "37/F",
+            "add3": "TOWER 2B",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "08/11/18",
+        "actualArea": "454",
+        "grossArea": "580",
+        "price": "10.00",
+        "actualPrice": "22026",
+        "grossPrice": "17241",
+        "lat": "22.3332337575055",
+        "lng": "114.196540596404"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "31/F",
+            "add3": "TOWER 2B",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "31/10/18",
+        "actualArea": "446",
+        "grossArea": "571",
+        "price": "8.50",
+        "actualPrice": "19058",
+        "grossPrice": "14886",
+        "lat": "22.3332337575055",
+        "lng": "114.196540596404"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "14/F",
+            "add3": "TOWER 2",
+            "add4": "JUBILANT PLACE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "12/10/18",
+        "actualArea": "778",
+        "grossArea": "951",
+        "price": "10.80",
+        "actualPrice": "13882",
+        "grossPrice": "11356",
+        "lat": "22.3211154280963",
+        "lng": "114.189327271277"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "20/F",
+            "add3": "BLOCK 5",
+            "add4": "MAJESTIC PARK",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "10/10/18",
+        "actualArea": "773",
+        "grossArea": "970",
+        "price": "14.78",
+        "actualPrice": "19120",
+        "grossPrice": "15237",
+        "lat": "22.3215220001959",
+        "lng": "114.186464003388"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "8/F",
+            "add3": "TOWER 1",
+            "add4": "JUBILANT PLACE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "26/09/18",
+        "actualArea": "767",
+        "grossArea": "937",
+        "price": "10.50",
+        "actualPrice": "13690",
+        "grossPrice": "11206",
+        "lat": "22.3216301530005",
+        "lng": "114.189569970185"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "19/F",
+            "add3": "TOWER 7",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "21/09/18",
+        "actualArea": "1034",
+        "grossArea": "1332",
+        "price": "20.00",
+        "actualPrice": "19342",
+        "grossPrice": "15015",
+        "lat": "22.3336039356627",
+        "lng": "114.197152186342"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "18/F",
+            "add3": "BLOCK 2",
+            "add4": "MAJESTIC PARK",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "11/09/18",
+        "actualArea": "800",
+        "grossArea": "1013",
+        "price": "13.50",
+        "actualPrice": "16875",
+        "grossPrice": "13327",
+        "lat": "22.3212058938241",
+        "lng": "114.187046347314"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "16/F",
+            "add3": "TOWER 5",
+            "add4": "JUBILANT PLACE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "06/09/18",
+        "actualArea": "781",
+        "grossArea": "955",
+        "price": "11.20",
+        "actualPrice": "14341",
+        "grossPrice": "11728",
+        "lat": "22.3216031211227",
+        "lng": "114.188783771918"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "30/F",
+            "add3": "TOWER 2B",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "21/08/18",
+        "actualArea": "540",
+        "grossArea": "701",
+        "price": "11.38",
+        "actualPrice": "21074",
+        "grossPrice": "16234",
+        "lat": "22.3332337575055",
+        "lng": "114.196540596404"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "12/F",
+            "add3": "TOWER 6",
+            "add4": "JUBILANT PLACE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "15/08/18",
+        "actualArea": "781",
+        "grossArea": "955",
+        "price": "9.80",
+        "actualPrice": "12548",
+        "grossPrice": "10262",
+        "lat": "22.3218920848817",
+        "lng": "114.188987625493"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "38/F",
+            "add3": "TOWER 6",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "03/08/18",
+        "actualArea": "1037",
+        "grossArea": "1337",
+        "price": "23.88",
+        "actualPrice": "23028",
+        "grossPrice": "17861",
+        "lat": "22.333387240395",
+        "lng": "114.196841532992"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "19/F",
+            "add3": "BLOCK 5",
+            "add4": "MAJESTIC PARK",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "01/08/18",
+        "actualArea": "779",
+        "grossArea": "982",
+        "price": "15.65",
+        "actualPrice": "20090",
+        "grossPrice": "15937",
+        "lat": "22.3215220001959",
+        "lng": "114.186464003388"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "41/F",
+            "add3": "TOWER 7",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "30/07/18",
+        "actualArea": "533",
+        "grossArea": "691",
+        "price": "10.60",
+        "actualPrice": "19887",
+        "grossPrice": "15340",
+        "lat": "22.3336039356627",
+        "lng": "114.197152186342"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "9/F",
+            "add3": "TOWER 8",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "27/07/18",
+        "actualArea": "1035",
+        "grossArea": "1335",
+        "price": "18.56",
+        "actualPrice": "17932",
+        "grossPrice": "13903",
+        "lat": "22.3338025765348",
+        "lng": "114.197404596207"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "37/F",
+            "add3": "TOWER 1A",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "18/07/18",
+        "actualArea": "1595",
+        "grossArea": "2031",
+        "price": "36.50",
+        "actualPrice": "22884",
+        "grossPrice": "17971",
+        "lat": "22.3331434926817",
+        "lng": "114.196200841545"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "19/F",
+            "add3": "TOWER 1B",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "17/07/18",
+        "actualArea": "890",
+        "grossArea": "1133",
+        "price": "16.67",
+        "actualPrice": "18725",
+        "grossPrice": "14709",
+        "lat": "22.3332338019449",
+        "lng": "114.19617173324"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "43/F",
+            "add3": "TOWER 8",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "16/07/18",
+        "actualArea": "525",
+        "grossArea": "680",
+        "price": "9.20",
+        "actualPrice": "17524",
+        "grossPrice": "13529",
+        "lat": "22.3338025765348",
+        "lng": "114.197404596207"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "12/F",
+            "add3": "NO. 18 FARM ROAD",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "12/07/18",
+        "actualArea": "661",
+        "grossArea": "883",
+        "price": "13.00",
+        "actualPrice": "19667",
+        "grossPrice": "14723",
+        "lat": "22.3207995047918",
+        "lng": "114.187240439045"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "10/F",
+            "add3": "BLOCK 5",
+            "add4": "MAJESTIC PARK",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "04/07/18",
+        "actualArea": "813",
+        "grossArea": "1025",
+        "price": "15.50",
+        "actualPrice": "19065",
+        "grossPrice": "15122",
+        "lat": "22.3215220001959",
+        "lng": "114.186464003388"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "9/F",
+            "add3": "TOWER 1B",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "28/06/18",
+        "actualArea": "543",
+        "grossArea": "703",
+        "price": "9.85",
+        "actualPrice": "18140",
+        "grossPrice": "14011",
+        "lat": "22.3332338019449",
+        "lng": "114.19617173324"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "43/F",
+            "add3": "TOWER 1B",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "25/06/18",
+        "actualArea": "534",
+        "grossArea": "695",
+        "price": "10.72",
+        "actualPrice": "20075",
+        "grossPrice": "15424",
+        "lat": "22.3332338019449",
+        "lng": "114.19617173324"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "25/F",
+            "add3": "TOWER 1A",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "25/06/18",
+        "actualArea": "1595",
+        "grossArea": "2031",
+        "price": "37.05",
+        "actualPrice": "23229",
+        "grossPrice": "18242",
+        "lat": "22.3331434926817",
+        "lng": "114.196200841545"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "6/F",
+            "add3": "TOWER 6",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "25/06/18",
+        "actualArea": "834",
+        "grossArea": "1085",
+        "price": "19.50",
+        "actualPrice": "23381",
+        "grossPrice": "17972",
+        "lat": "22.333387240395",
+        "lng": "114.196841532992"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "6/F",
+            "add3": "TOWER 4",
+            "add4": "JUBILANT PLACE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "25/06/18",
+        "actualArea": "773",
+        "grossArea": "944",
+        "price": "10.00",
+        "actualPrice": "12937",
+        "grossPrice": "10593",
+        "lat": "22.3213412388924",
+        "lng": "114.188715806892"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "23/F",
+            "add3": "BLOCK 5",
+            "add4": "MAJESTIC PARK",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "21/06/18",
+        "actualArea": "1147",
+        "grossArea": "1445",
+        "price": "20.80",
+        "actualPrice": "18134",
+        "grossPrice": "14394",
+        "lat": "22.3215220001959",
+        "lng": "114.186464003388"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "22/F",
+            "add3": "BLOCK 3",
+            "add4": "MAJESTIC PARK",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "21/06/18",
+        "actualArea": "779",
+        "grossArea": "982",
+        "price": "13.00",
+        "actualPrice": "16688",
+        "grossPrice": "13238",
+        "lat": "22.3215219651578",
+        "lng": "114.187036664205"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "25/F",
+            "add3": "ONE ELEGANCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "14/06/18",
+        "actualArea": "453",
+        "grossArea": "638",
+        "price": "6.85",
+        "actualPrice": "15121",
+        "grossPrice": "10737",
+        "lat": "22.3203659998945",
+        "lng": "114.187793650922"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "17/F",
+            "add3": "TOWER 1B",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "14/06/18",
+        "actualArea": "534",
+        "grossArea": "693",
+        "price": "10.00",
+        "actualPrice": "18727",
+        "grossPrice": "14430",
+        "lat": "22.3332338019449",
+        "lng": "114.19617173324"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "39/F",
+            "add3": "TOWER 7",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "12/06/18",
+        "actualArea": "533",
+        "grossArea": "691",
+        "price": "10.00",
+        "actualPrice": "18762",
+        "grossPrice": "14472",
+        "lat": "22.3336039356627",
+        "lng": "114.197152186342"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "4/F",
+            "add3": "TOWER 7",
+            "add4": "JUBILANT PLACE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "06/06/18",
+        "actualArea": "839",
+        "grossArea": "1024",
+        "price": "12.10",
+        "actualPrice": "14422",
+        "grossPrice": "11816",
+        "lat": "22.3217566023807",
+        "lng": "114.189298209974"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "7/F",
+            "add3": "TOWER 6",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "06/06/18",
+        "actualArea": "525",
+        "grossArea": "678",
+        "price": "9.39",
+        "actualPrice": "17882",
+        "grossPrice": "13847",
+        "lat": "22.333387240395",
+        "lng": "114.196841532992"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "15/F",
+            "add3": "TOWER 7",
+            "add4": "JUBILANT PLACE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "01/06/18",
+        "actualArea": "566",
+        "grossArea": "691",
+        "price": "6.12",
+        "actualPrice": "10813",
+        "grossPrice": "8857",
+        "lat": "22.3217566023807",
+        "lng": "114.189298209974"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "29/F",
+            "add3": "TOWER 7",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "31/05/18",
+        "actualArea": "825",
+        "grossArea": "1073",
+        "price": "16.50",
+        "actualPrice": "20000",
+        "grossPrice": "15377",
+        "lat": "22.3336039356627",
+        "lng": "114.197152186342"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "41/F",
+            "add3": "TOWER 8",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "25/05/18",
+        "actualArea": "1035",
+        "grossArea": "1335",
+        "price": "20.00",
+        "actualPrice": "19324",
+        "grossPrice": "14981",
+        "lat": "22.3338025765348",
+        "lng": "114.197404596207"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "22/F",
+            "add3": "TOWER 8",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "18/05/18",
+        "actualArea": "530",
+        "grossArea": "686",
+        "price": "9.52",
+        "actualPrice": "17962",
+        "grossPrice": "13878",
+        "lat": "22.3338025765348",
+        "lng": "114.197404596207"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "18/F",
+            "add3": "TOWER 8",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "16/05/18",
+        "actualArea": "588",
+        "grossArea": "763",
+        "price": "9.88",
+        "actualPrice": "16803",
+        "grossPrice": "12949",
+        "lat": "22.3338025765348",
+        "lng": "114.197404596207"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "15/F",
+            "add3": "TOWER 8",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "10/05/18",
+        "actualArea": "530",
+        "grossArea": "686",
+        "price": "9.80",
+        "actualPrice": "18491",
+        "grossPrice": "14286",
+        "lat": "22.3338025765348",
+        "lng": "114.197404596207"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "35/F",
+            "add3": "TOWER 8",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "02/05/18",
+        "actualArea": "1035",
+        "grossArea": "1335",
+        "price": "21.55",
+        "actualPrice": "20821",
+        "grossPrice": "16142",
+        "lat": "22.3338025765348",
+        "lng": "114.197404596207"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "23/F",
+            "add3": "BLOCK 1",
+            "add4": "MAJESTIC PARK",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "02/05/18",
+        "actualArea": "773",
+        "grossArea": "970",
+        "price": "14.75",
+        "actualPrice": "19082",
+        "grossPrice": "15206",
+        "lat": "22.321205928896",
+        "lng": "114.186473687786"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "12/F",
+            "add3": "BLOCK 5",
+            "add4": "MAJESTIC PARK",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "27/04/18",
+        "actualArea": "800",
+        "grossArea": "1013",
+        "price": "13.55",
+        "actualPrice": "16938",
+        "grossPrice": "13376",
+        "lat": "22.3215220001959",
+        "lng": "114.186464003388"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "11/F",
+            "add3": "TOWER 8",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "25/04/18",
+        "actualArea": "532",
+        "grossArea": "691",
+        "price": "9.43",
+        "actualPrice": "17726",
+        "grossPrice": "13647",
+        "lat": "22.3338025765348",
+        "lng": "114.197404596207"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "16/F",
+            "add3": "BLOCK 1",
+            "add4": "MAJESTIC PARK",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "19/04/18",
+        "actualArea": "773",
+        "grossArea": "970",
+        "price": "14.00",
+        "actualPrice": "18111",
+        "grossPrice": "14433",
+        "lat": "22.321205928896",
+        "lng": "114.186473687786"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "10/F",
+            "add3": "TOWER 2",
+            "add4": "JUBILANT PLACE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "17/04/18",
+        "actualArea": "797",
+        "grossArea": "972",
+        "price": "11.80",
+        "actualPrice": "14806",
+        "grossPrice": "12140",
+        "lat": "22.3211154280963",
+        "lng": "114.189327271277"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "39/F",
+            "add3": "TOWER 1B",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "13/04/18",
+        "actualArea": "889",
+        "grossArea": "1132",
+        "price": "16.29",
+        "actualPrice": "18322",
+        "grossPrice": "14389",
+        "lat": "22.3332338019449",
+        "lng": "114.19617173324"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "32/F",
+            "add3": "NO. 18 FARM ROAD",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "13/04/18",
+        "actualArea": "494",
+        "grossArea": "652",
+        "price": "9.50",
+        "actualPrice": "19231",
+        "grossPrice": "14571",
+        "lat": "22.3207995047918",
+        "lng": "114.187240439045"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "28/F",
+            "add3": "TOWER 6",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "11/04/18",
+        "actualArea": "535",
+        "grossArea": "695",
+        "price": "8.33",
+        "actualPrice": "15570",
+        "grossPrice": "11986",
+        "lat": "22.333387240395",
+        "lng": "114.196841532992"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "22/F",
+            "add3": "ONE ELEGANCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "11/04/18",
+        "actualArea": "453",
+        "grossArea": "638",
+        "price": "7.00",
+        "actualPrice": "15453",
+        "grossPrice": "10972",
+        "lat": "22.3203659998945",
+        "lng": "114.187793650922"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "10/F",
+            "add3": "TOWER 4",
+            "add4": "JUBILANT PLACE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "11/04/18",
+        "actualArea": "781",
+        "grossArea": "955",
+        "price": "7.80",
+        "actualPrice": "9987",
+        "grossPrice": "8168",
+        "lat": "22.3213412388924",
+        "lng": "114.188715806892"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "32/F",
+            "add3": "TOWER 8",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "10/04/18",
+        "actualArea": "588",
+        "grossArea": "763",
+        "price": "9.50",
+        "actualPrice": "16156",
+        "grossPrice": "12451",
+        "lat": "22.3338025765348",
+        "lng": "114.197404596207"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "32/F",
+            "add3": "TOWER 6",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "06/04/18",
+        "actualArea": "545",
+        "grossArea": "707",
+        "price": "9.60",
+        "actualPrice": "17615",
+        "grossPrice": "13579",
+        "lat": "22.333387240395",
+        "lng": "114.196841532992"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "31/F",
+            "add3": "TOWER 6",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "06/04/18",
+        "actualArea": "525",
+        "grossArea": "678",
+        "price": "9.55",
+        "actualPrice": "18190",
+        "grossPrice": "14086",
+        "lat": "22.333387240395",
+        "lng": "114.196841532992"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "9/F",
+            "add3": "BLOCK 3",
+            "add4": "MAJESTIC PARK",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "04/04/18",
+        "actualArea": "469",
+        "grossArea": "590",
+        "price": "8.10",
+        "actualPrice": "17271",
+        "grossPrice": "13729",
+        "lat": "22.3215219651578",
+        "lng": "114.187036664205"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "43/F",
+            "add3": "TOWER 7",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "23/03/18",
+        "actualArea": "533",
+        "grossArea": "691",
+        "price": "10.50",
+        "actualPrice": "19700",
+        "grossPrice": "15195",
+        "lat": "22.3336039356627",
+        "lng": "114.197152186342"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "48/F",
+            "add3": "TOWER 6",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "22/03/18",
+        "actualArea": "834",
+        "grossArea": "1085",
+        "price": "23.30",
+        "actualPrice": "27938",
+        "grossPrice": "21475",
+        "lat": "22.333387240395",
+        "lng": "114.196841532992"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "23/F",
+            "add3": "TOWER 1B",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "05/03/18",
+        "actualArea": "534",
+        "grossArea": "695",
+        "price": "9.60",
+        "actualPrice": "17978",
+        "grossPrice": "13813",
+        "lat": "22.3332338019449",
+        "lng": "114.19617173324"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "11/F",
+            "add3": "TOWER 6",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "05/03/18",
+        "actualArea": "525",
+        "grossArea": "678",
+        "price": "9.50",
+        "actualPrice": "18095",
+        "grossPrice": "14012",
+        "lat": "22.333387240395",
+        "lng": "114.196841532992"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "15/F",
+            "add3": "NO. 18 FARM ROAD",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "02/03/18",
+        "actualArea": "470",
+        "grossArea": "642",
+        "price": "8.78",
+        "actualPrice": "18681",
+        "grossPrice": "13676",
+        "lat": "22.3207995047918",
+        "lng": "114.187240439045"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "45/F",
+            "add3": "TOWER 8",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "28/02/18",
+        "actualArea": "525",
+        "grossArea": "680",
+        "price": "9.38",
+        "actualPrice": "17867",
+        "grossPrice": "13794",
+        "lat": "22.3338025765348",
+        "lng": "114.197404596207"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "49/F",
+            "add3": "TOWER 8",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "14/02/18",
+        "actualArea": "2167",
+        "grossArea": "2935",
+        "price": "88.50",
+        "actualPrice": "40840",
+        "grossPrice": "30153",
+        "lat": "22.3338025765348",
+        "lng": "114.197404596207"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "46/F",
+            "add3": "TOWER 7",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "07/02/18",
+        "actualArea": "533",
+        "grossArea": "691",
+        "price": "9.50",
+        "actualPrice": "17824",
+        "grossPrice": "13748",
+        "lat": "22.3336039356627",
+        "lng": "114.197152186342"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "37/F",
+            "add3": "TOWER 8",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "06/02/18",
+        "actualArea": "530",
+        "grossArea": "686",
+        "price": "9.50",
+        "actualPrice": "17925",
+        "grossPrice": "13848",
+        "lat": "22.3338025765348",
+        "lng": "114.197404596207"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "20/F",
+            "add3": "TOWER 6",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "02/02/18",
+        "actualArea": "525",
+        "grossArea": "678",
+        "price": "9.10",
+        "actualPrice": "17333",
+        "grossPrice": "13422",
+        "lat": "22.333387240395",
+        "lng": "114.196841532992"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "6/F",
+            "add3": "TOWER 3",
+            "add4": "JUBILANT PLACE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "31/01/18",
+        "actualArea": "566",
+        "grossArea": "691",
+        "price": "6.30",
+        "actualPrice": "11131",
+        "grossPrice": "9117",
+        "lat": "22.3212418778592",
+        "lng": "114.189045805747"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "35/F",
+            "add3": "TOWER 6",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "18/01/18",
+        "actualArea": "760",
+        "grossArea": "973",
+        "price": "13.20",
+        "actualPrice": "17368",
+        "grossPrice": "13566",
+        "lat": "22.333387240395",
+        "lng": "114.196841532992"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "26/F",
+            "add3": "TOWER 1A",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "17/01/18",
+        "actualArea": "1333",
+        "grossArea": "1701",
+        "price": "28.00",
+        "actualPrice": "21005",
+        "grossPrice": "16461",
+        "lat": "22.3331434926817",
+        "lng": "114.196200841545"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "38/F",
+            "add3": "TOWER 1A",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "04/01/18",
+        "actualArea": "1333",
+        "grossArea": "1701",
+        "price": "28.50",
+        "actualPrice": "21380",
+        "grossPrice": "16755",
+        "lat": "22.3331434926817",
+        "lng": "114.196200841545"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "23/F",
+            "add3": "TOWER 6",
+            "add4": "THE LATITUDE",
+            "add5": ""
+        },
+        "sRegion": "To Kwa Wan East",
+        "bRegion": "KLN",
+        "age": "8",
+        "date": "03/01/18",
+        "actualArea": "545",
+        "grossArea": "707",
+        "price": "8.70",
+        "actualPrice": "15963",
+        "grossPrice": "12306",
+        "lat": "22.333387240395",
+        "lng": "114.196841532992"
+    }
+]
