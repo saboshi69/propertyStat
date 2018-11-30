@@ -222,5 +222,5 @@ async function grabAll(bRegion, sRegion, year, today) {
         console.log("THE END")
 }
 
-grabAll("HK", "117", 2018, "29/11/2018")
+grabAll("HK", "116", 2018, "29/11/2018")
     .catch(err => console.log(err))
