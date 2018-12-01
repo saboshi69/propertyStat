@@ -2,13 +2,14 @@ const rp = require("request-promise")
 const util = require('util');
 const fs = require("fs")
 const readFile = util.promisify(fs.readFile);
+require("dotenv").config();
 
 async function get1LatLng(location) {
     let url = {
         uri: 'https://maps.googleapis.com/maps/api/geocode/json',
         qs: {
             address: location,
-            key: 'AIzaSyBOnmwfxhlcxroJ0DiC9Q0fOY_Q6kAF43g'
+            key: process.env.GOOGLE
         }
     }
     let body = await rp(url)
