@@ -1,0 +1,3442 @@
+[
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "6/F",
+            "add3": "TOWER 1",
+            "add4": "MOUNT BEACON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "12",
+        "date": "28/11/18",
+        "actualArea": "1459",
+        "grossArea": "1935",
+        "price": "43.00",
+        "actualPrice": "29472",
+        "grossPrice": "22222",
+        "lat": "22.3398272065557",
+        "lng": "114.172088627394"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "1/F",
+            "add3": "MOON VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "39",
+        "date": "27/11/18",
+        "actualArea": "673",
+        "grossArea": "-",
+        "price": "11.50",
+        "actualPrice": "17088",
+        "grossPrice": "-",
+        "lat": "22.3296046278293",
+        "lng": "114.173486734191"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "3/F",
+            "add3": "TOWER 7 (1 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "26/11/18",
+        "actualArea": "522",
+        "grossArea": "650",
+        "price": "10.36",
+        "actualPrice": "19847",
+        "grossPrice": "15938",
+        "lat": "22.3329820817476",
+        "lng": "114.174418516885"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "BLOCK 7",
+            "add4": "MONTE CARLTON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "17",
+        "date": "23/11/18",
+        "actualArea": "1075",
+        "grossArea": "1408",
+        "price": "12.80",
+        "actualPrice": "11907",
+        "grossPrice": "9091",
+        "lat": "22.3430860259654",
+        "lng": "114.15642043846"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "2/F",
+            "add3": "BLOCK 7",
+            "add4": "MONTE CARLTON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "17",
+        "date": "23/11/18",
+        "actualArea": "1070",
+        "grossArea": "1396",
+        "price": "9.72",
+        "actualPrice": "9084",
+        "grossPrice": "6963",
+        "lat": "22.3430860259654",
+        "lng": "114.15642043846"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "9/F",
+            "add3": "TIN FUNG LAU",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "21/11/18",
+        "actualArea": "252",
+        "grossArea": "330",
+        "price": "3.10",
+        "actualPrice": "12302",
+        "grossPrice": "9394",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "3/F",
+            "add3": "TOWER 28 (33 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "23",
+        "date": "20/11/18",
+        "actualArea": "522",
+        "grossArea": "652",
+        "price": "9.55",
+        "actualPrice": "18295",
+        "grossPrice": "14647",
+        "lat": "22.3334245603199",
+        "lng": "114.173331332101"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "2/F",
+            "add3": "FORTUNE GARDEN",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "16/11/18",
+        "actualArea": "524",
+        "grossArea": "-",
+        "price": "9.50",
+        "actualPrice": "18130",
+        "grossPrice": "-",
+        "lat": "22.3300471362036",
+        "lng": "114.174001179026"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "2/F",
+            "add3": "FORTUNE GARDEN",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "07/11/18",
+        "actualArea": "524",
+        "grossArea": "696",
+        "price": "9.50",
+        "actualPrice": "18130",
+        "grossPrice": "13649",
+        "lat": "22.3300471362036",
+        "lng": "114.174001179026"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "6/F",
+            "add3": "BLOCK 1",
+            "add4": "CALDECOTT HILL",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "02/11/18",
+        "actualArea": "755",
+        "grossArea": "987",
+        "price": "9.50",
+        "actualPrice": "12583",
+        "grossPrice": "9625",
+        "lat": "22.3447196003686",
+        "lng": "114.149867489431"
+    },
+    {
+        "address": {
+            "add1": "FLAT K",
+            "add2": "3/F",
+            "add3": "KAM YUCK BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "29/10/18",
+        "actualArea": "234",
+        "grossArea": "249",
+        "price": "3.65",
+        "actualPrice": "15598",
+        "grossPrice": "14659",
+        "lat": "22.3345079747405",
+        "lng": "114.167089695087"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "11/F",
+            "add3": "TOWER 5",
+            "add4": "MOUNT BEACON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "12",
+        "date": "12/10/18",
+        "actualArea": "833",
+        "grossArea": "1137",
+        "price": "20.00",
+        "actualPrice": "24010",
+        "grossPrice": "17590",
+        "lat": "22.3405586808905",
+        "lng": "114.172020650622"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "3/F",
+            "add3": "CASSIA COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "0",
+        "date": "11/10/18",
+        "actualArea": "822",
+        "grossArea": "916",
+        "price": "16.38",
+        "actualPrice": "19927",
+        "grossPrice": "17882",
+        "lat": "22.3313475283278",
+        "lng": "114.173399331487"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "5/F",
+            "add3": "TOWER 4 (37 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "08/10/18",
+        "actualArea": "568",
+        "grossArea": "705",
+        "price": "10.80",
+        "actualPrice": "19014",
+        "grossPrice": "15319",
+        "lat": "22.3331717339199",
+        "lng": "114.175224188112"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "1/F",
+            "add3": "PEONY COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "29",
+        "date": "21/09/18",
+        "actualArea": "820",
+        "grossArea": "913",
+        "price": "12.00",
+        "actualPrice": "14634",
+        "grossPrice": "13143",
+        "lat": "22.3303722355774",
+        "lng": "114.173913811918"
+    },
+    {
+        "address": {
+            "add1": "FLAT 12A",
+            "add2": "6/F",
+            "add3": "NAM CHEONG COMMERCIAL BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "44",
+        "date": "19/09/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "3.60",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.3340383979205",
+        "lng": "114.167312988272"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "10/F",
+            "add3": "TOWER 18 (49 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "17/09/18",
+        "actualArea": "1084",
+        "grossArea": "1456",
+        "price": "24.00",
+        "actualPrice": "22140",
+        "grossPrice": "16484",
+        "lat": "22.3347972393955",
+        "lng": "114.175369775001"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "BISNEY COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "28",
+        "date": "14/09/18",
+        "actualArea": "1227",
+        "grossArea": "1438",
+        "price": "20.28",
+        "actualPrice": "16528",
+        "grossPrice": "14103",
+        "lat": "22.3318081156706",
+        "lng": "114.175156255941"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "9/F",
+            "add3": "TROPICANA 7 (BLOCK 20)",
+            "add4": "TROPICANA",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "14/09/18",
+        "actualArea": "969",
+        "grossArea": "1257",
+        "price": "23.00",
+        "actualPrice": "23736",
+        "grossPrice": "18298",
+        "lat": "22.3438634029426",
+        "lng": "114.163633117637"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "7/F",
+            "add3": "KAM YUCK BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "03/09/18",
+        "actualArea": "224",
+        "grossArea": "242",
+        "price": "3.40",
+        "actualPrice": "15179",
+        "grossPrice": "14050",
+        "lat": "22.3345079747405",
+        "lng": "114.167089695087"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "7/F",
+            "add3": "TOWER 28 (33 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "23",
+        "date": "27/08/18",
+        "actualArea": "560",
+        "grossArea": "706",
+        "price": "11.12",
+        "actualPrice": "19857",
+        "grossPrice": "15751",
+        "lat": "22.3334245603199",
+        "lng": "114.173331332101"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "6/F",
+            "add3": "TROPICANA 1 (BLOCK 26)",
+            "add4": "TROPICANA",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "23/08/18",
+        "actualArea": "649",
+        "grossArea": "847",
+        "price": "12.00",
+        "actualPrice": "18490",
+        "grossPrice": "14168",
+        "lat": "22.3427346471153",
+        "lng": "114.164458368482"
+    },
+    {
+        "address": {
+            "add1": "DUPLEX 6",
+            "add2": "6-7/F",
+            "add3": "DYNASTY VILLA 7 (BLOCK 12)",
+            "add4": "DYNASTY VILLA",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "21/08/18",
+        "actualArea": "1844",
+        "grossArea": "2418",
+        "price": "45.00",
+        "actualPrice": "24403",
+        "grossPrice": "18610",
+        "lat": "22.3439265475962",
+        "lng": "114.162807960099"
+    },
+    {
+        "address": {
+            "add1": "FLAT D4",
+            "add2": "2/F",
+            "add3": "BLOCK D",
+            "add4": "YAU YAT LAU",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "52",
+        "date": "20/08/18",
+        "actualArea": "533",
+        "grossArea": "666",
+        "price": "7.41",
+        "actualPrice": "13902",
+        "grossPrice": "11126",
+        "lat": "22.3313385304323",
+        "lng": "114.17573866923"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "2/F",
+            "add3": "PO TIN BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "17/08/18",
+        "actualArea": "254",
+        "grossArea": "311",
+        "price": "4.85",
+        "actualPrice": "19094",
+        "grossPrice": "15595",
+        "lat": "22.3349143002361",
+        "lng": "114.166283982379"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "3/F",
+            "add3": "TO YUEN MANSION",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "30",
+        "date": "16/08/18",
+        "actualArea": "499",
+        "grossArea": "560",
+        "price": "10.28",
+        "actualPrice": "20601",
+        "grossPrice": "18357",
+        "lat": "22.3356370712693",
+        "lng": "114.174389349941"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "5/F",
+            "add3": "TOWER 25 (34 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "24",
+        "date": "15/08/18",
+        "actualArea": "654",
+        "grossArea": "821",
+        "price": "14.95",
+        "actualPrice": "22859",
+        "grossPrice": "18210",
+        "lat": "22.3340657454769",
+        "lng": "114.17405933986"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "3/F",
+            "add3": "BLOCK B9 (NO. 61)",
+            "add4": "PHASE 1",
+            "add5": "VILLAGE GARDENS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "32",
+        "date": "15/08/18",
+        "actualArea": "1498",
+        "grossArea": "1783",
+        "price": "38.80",
+        "actualPrice": "25901",
+        "grossPrice": "21761",
+        "lat": "22.3332891352005",
+        "lng": "114.175660998604"
+    },
+    {
+        "address": {
+            "add1": "FLAT L",
+            "add2": "4/F",
+            "add3": "AMPLE BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "13/08/18",
+        "actualArea": "377",
+        "grossArea": "452",
+        "price": "4.00",
+        "actualPrice": "10610",
+        "grossPrice": "8850",
+        "lat": "22.3313203371609",
+        "lng": "114.170196090327"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "G/F",
+            "add3": "BLOCK 3",
+            "add4": "GRANDEUR VILLA",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "27",
+        "date": "10/08/18",
+        "actualArea": "1000",
+        "grossArea": "1373",
+        "price": "26.10",
+        "actualPrice": "26100",
+        "grossPrice": "19009",
+        "lat": "22.332494435209",
+        "lng": "114.174758265886"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "11/F",
+            "add3": "AMPLE BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "09/08/18",
+        "actualArea": "396",
+        "grossArea": "474",
+        "price": "4.00",
+        "actualPrice": "10101",
+        "grossPrice": "8439",
+        "lat": "22.3313203371609",
+        "lng": "114.170196090327"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "1/F",
+            "add3": "TOWER 26 (37 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "23",
+        "date": "09/08/18",
+        "actualArea": "560",
+        "grossArea": "706",
+        "price": "14.40",
+        "actualPrice": "25714",
+        "grossPrice": "20397",
+        "lat": "22.333641281055",
+        "lng": "114.17276832336"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "2/F",
+            "add3": "PEAK GARDEN COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "22",
+        "date": "06/08/18",
+        "actualArea": "1026",
+        "grossArea": "1327",
+        "price": "23.80",
+        "actualPrice": "23197",
+        "grossPrice": "17935",
+        "lat": "22.3292162869401",
+        "lng": "114.172409305536"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "19/F",
+            "add3": "SKY LODGE 2 (BLOCK 2)",
+            "add4": "SKY LODGE",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "19",
+        "date": "01/08/18",
+        "actualArea": "681",
+        "grossArea": "886",
+        "price": "12.98",
+        "actualPrice": "19060",
+        "grossPrice": "14650",
+        "lat": "22.3449109549567",
+        "lng": "114.163710680884"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "3/F",
+            "add3": "MARIGOLD GARDENS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "30",
+        "date": "30/07/18",
+        "actualArea": "1195",
+        "grossArea": "1308",
+        "price": "20.50",
+        "actualPrice": "17155",
+        "grossPrice": "15673",
+        "lat": "22.3285961",
+        "lng": "114.1736394"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "1/F",
+            "add3": "TOWER 3 (39 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "30/07/18",
+        "actualArea": "566",
+        "grossArea": "705",
+        "price": "11.80",
+        "actualPrice": "20848",
+        "grossPrice": "16738",
+        "lat": "22.3334787734847",
+        "lng": "114.175214477652"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "G/F",
+            "add3": "BLOCK B16 (NO. 36)",
+            "add4": "PHASE 3",
+            "add5": "VILLAGE GARDENS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "31",
+        "date": "25/07/18",
+        "actualArea": "801",
+        "grossArea": "956",
+        "price": "21.28",
+        "actualPrice": "26567",
+        "grossPrice": "22259",
+        "lat": "22.3332891352005",
+        "lng": "114.175660998604"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "7/F",
+            "add3": "PO TIN BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "25/07/18",
+        "actualArea": "318",
+        "grossArea": "394",
+        "price": "4.21",
+        "actualPrice": "13239",
+        "grossPrice": "10685",
+        "lat": "22.3349143002361",
+        "lng": "114.166283982379"
+    },
+    {
+        "address": {
+            "add1": "FLAT D2",
+            "add2": "3/F",
+            "add3": "BLOCK D",
+            "add4": "FA PO VILLA",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "52",
+        "date": "24/07/18",
+        "actualArea": "695",
+        "grossArea": "-",
+        "price": "10.80",
+        "actualPrice": "15540",
+        "grossPrice": "-",
+        "lat": "22.3303812894345",
+        "lng": "114.175845450695"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "10/F",
+            "add3": "TOWER 8 (3 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "24/07/18",
+        "actualArea": "907",
+        "grossArea": "1092",
+        "price": "21.00",
+        "actualPrice": "23153",
+        "grossPrice": "19231",
+        "lat": "22.3332349383159",
+        "lng": "114.174437926388"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "CENTURY COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "25",
+        "date": "20/07/18",
+        "actualArea": "1022",
+        "grossArea": "1350",
+        "price": "20.20",
+        "actualPrice": "19765",
+        "grossPrice": "14963",
+        "lat": "22.4918683751039",
+        "lng": "114.135845211271"
+    },
+    {
+        "address": {
+            "add1": "FLAT 5",
+            "add2": "5/F",
+            "add3": "NAM CHEONG COMMERCIAL BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "44",
+        "date": "18/07/18",
+        "actualArea": "394",
+        "grossArea": "-",
+        "price": "4.80",
+        "actualPrice": "12183",
+        "grossPrice": "-",
+        "lat": "22.3340383979205",
+        "lng": "114.167312988272"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "6/F",
+            "add3": "TROPICANA 3 (BLOCK 23)",
+            "add4": "TROPICANA",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "11/07/18",
+        "actualArea": "611",
+        "grossArea": "813",
+        "price": "12.00",
+        "actualPrice": "19640",
+        "grossPrice": "14760",
+        "lat": "22.3430868014592",
+        "lng": "114.163972957018"
+    },
+    {
+        "address": {
+            "add1": "DUPLEX 7",
+            "add2": "6-7/F",
+            "add3": "DYNASTY VILLA 7 (BLOCK 12)",
+            "add4": "DYNASTY VILLA",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "11/07/18",
+        "actualArea": "1848",
+        "grossArea": "2420",
+        "price": "53.98",
+        "actualPrice": "29210",
+        "grossPrice": "22306",
+        "lat": "22.3441794118376",
+        "lng": "114.162905011637"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "4/F",
+            "add3": "TOWER 4 (37 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "09/07/18",
+        "actualArea": "568",
+        "grossArea": "705",
+        "price": "12.38",
+        "actualPrice": "21796",
+        "grossPrice": "17560",
+        "lat": "22.3331717339199",
+        "lng": "114.175224188112"
+    },
+    {
+        "address": {
+            "add1": "FLAT L",
+            "add2": "6/F",
+            "add3": "PAK YUK LAU",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "09/07/18",
+        "actualArea": "308",
+        "grossArea": "384",
+        "price": "3.90",
+        "actualPrice": "12662",
+        "grossPrice": "10156",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "6/F",
+            "add3": "BLOCK 2",
+            "add4": "VILLA CARLTON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "09/07/18",
+        "actualArea": "1288",
+        "grossArea": "1666",
+        "price": "15.90",
+        "actualPrice": "12345",
+        "grossPrice": "9544",
+        "lat": "22.3435102050248",
+        "lng": "114.154469141736"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "7/F",
+            "add3": "TOWER 8 (3 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "06/07/18",
+        "actualArea": "566",
+        "grossArea": "703",
+        "price": "12.60",
+        "actualPrice": "22261",
+        "grossPrice": "17923",
+        "lat": "22.3332349383159",
+        "lng": "114.174437926388"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "G/F",
+            "add3": "BLOCK 6",
+            "add4": "VILLA CARLTON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "03/07/18",
+        "actualArea": "1322",
+        "grossArea": "1704",
+        "price": "19.80",
+        "actualPrice": "14977",
+        "grossPrice": "11620",
+        "lat": "22.343365778319",
+        "lng": "114.154925423224"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "G/F",
+            "add3": "TOWER 1 (43 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "27/06/18",
+        "actualArea": "652",
+        "grossArea": "807",
+        "price": "18.80",
+        "actualPrice": "28834",
+        "grossPrice": "23296",
+        "lat": "22.3338670887744",
+        "lng": "114.175253301056"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "4/F",
+            "add3": "TOWER 11 (11 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "25/06/18",
+        "actualArea": "439",
+        "grossArea": "547",
+        "price": "8.00",
+        "actualPrice": "18223",
+        "grossPrice": "14625",
+        "lat": "22.3340838139227",
+        "lng": "114.174525274767"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "6/F",
+            "add3": "BLOCK 19",
+            "add4": "BEACON HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "32",
+        "date": "25/06/18",
+        "actualArea": "905",
+        "grossArea": "1051",
+        "price": "11.64",
+        "actualPrice": "12862",
+        "grossPrice": "11075",
+        "lat": "22.3423463873474",
+        "lng": "114.165196177036"
+    },
+    {
+        "address": {
+            "add1": "FLAT D1",
+            "add2": "3/F",
+            "add3": "BLOCK D",
+            "add4": "FA PO VILLA",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "52",
+        "date": "22/06/18",
+        "actualArea": "684",
+        "grossArea": "900",
+        "price": "10.68",
+        "actualPrice": "15614",
+        "grossPrice": "11867",
+        "lat": "22.3303812894345",
+        "lng": "114.175845450695"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "12/F",
+            "add3": "BLOCK 4",
+            "add4": "BEACON HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "31",
+        "date": "22/06/18",
+        "actualArea": "807",
+        "grossArea": "980",
+        "price": "11.00",
+        "actualPrice": "13631",
+        "grossPrice": "11224",
+        "lat": "22.3425632732271",
+        "lng": "114.167555098913"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "G/F",
+            "add3": "TOWER 19 (47 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "21/06/18",
+        "actualArea": "584",
+        "grossArea": "725",
+        "price": "14.75",
+        "actualPrice": "25257",
+        "grossPrice": "20345",
+        "lat": "22.3345534134784",
+        "lng": "114.175330949473"
+    },
+    {
+        "address": {
+            "add1": "FLAT T",
+            "add2": "5/F",
+            "add3": "KAM YUCK BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "21/06/18",
+        "actualArea": "204",
+        "grossArea": "249",
+        "price": "3.15",
+        "actualPrice": "15441",
+        "grossPrice": "12651",
+        "lat": "22.3345079747405",
+        "lng": "114.167089695087"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "6/F",
+            "add3": "BLOCK 15",
+            "add4": "BEACON HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "32",
+        "date": "19/06/18",
+        "actualArea": "905",
+        "grossArea": "1051",
+        "price": "12.60",
+        "actualPrice": "13923",
+        "grossPrice": "11989",
+        "lat": "22.3423374001738",
+        "lng": "114.165817461356"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "8/F",
+            "add3": "TOWER 31 (25 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "23",
+        "date": "15/06/18",
+        "actualArea": "789",
+        "grossArea": "1030",
+        "price": "16.86",
+        "actualPrice": "21369",
+        "grossPrice": "16369",
+        "lat": "22.3329910983536",
+        "lng": "114.173612843279"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "1/F",
+            "add3": "TOWER 22 (28 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "24",
+        "date": "14/06/18",
+        "actualArea": "559",
+        "grossArea": "703",
+        "price": "12.00",
+        "actualPrice": "21467",
+        "grossPrice": "17070",
+        "lat": "22.3335329403356",
+        "lng": "114.174001108709"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "1/F",
+            "add3": "BISNEY COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "28",
+        "date": "14/06/18",
+        "actualArea": "1227",
+        "grossArea": "1438",
+        "price": "19.80",
+        "actualPrice": "16137",
+        "grossPrice": "13769",
+        "lat": "22.3318081156706",
+        "lng": "114.175156255941"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "1/F",
+            "add3": "9 PEONY ROAD",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "13/06/18",
+        "actualArea": "825",
+        "grossArea": "1000",
+        "price": "14.05",
+        "actualPrice": "17030",
+        "grossPrice": "14050",
+        "lat": "22.3303180548014",
+        "lng": "114.17406912063"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "3/F",
+            "add3": "TOWER 27 (35 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "23",
+        "date": "07/06/18",
+        "actualArea": "606",
+        "grossArea": "758",
+        "price": "12.00",
+        "actualPrice": "19802",
+        "grossPrice": "15831",
+        "lat": "22.3334335843136",
+        "lng": "114.173040123686"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "G/F",
+            "add3": "BLOCK 5",
+            "add4": "VILLA CARLTON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "07/06/18",
+        "actualArea": "930",
+        "grossArea": "1191",
+        "price": "13.10",
+        "actualPrice": "14086",
+        "grossPrice": "10999",
+        "lat": "22.3433838183289",
+        "lng": "114.154770098359"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "3/F",
+            "add3": "TOWER 6 (6 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "06/06/18",
+        "actualArea": "568",
+        "grossArea": "705",
+        "price": "11.80",
+        "actualPrice": "20775",
+        "grossPrice": "16738",
+        "lat": "22.3330272415977",
+        "lng": "114.174942689332"
+    },
+    {
+        "address": {
+            "add1": "DUPLEX 1",
+            "add2": "1-2/F",
+            "add3": "DYNASTY VILLA 11 (BLOCK 8)",
+            "add4": "DYNASTY VILLA",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "06/06/18",
+        "actualArea": "1997",
+        "grossArea": "2592",
+        "price": "45.50",
+        "actualPrice": "22784",
+        "grossPrice": "17554",
+        "lat": "22.3429512712517",
+        "lng": "114.163099285603"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "4/F",
+            "add3": "TOWER 20 (45 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "05/06/18",
+        "actualArea": "603",
+        "grossArea": "750",
+        "price": "11.50",
+        "actualPrice": "19071",
+        "grossPrice": "15333",
+        "lat": "22.3343276490041",
+        "lng": "114.175330951888"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "2/F",
+            "add3": "TROPICANA 2 (BLOCK 25)",
+            "add4": "TROPICANA",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "04/06/18",
+        "actualArea": "607",
+        "grossArea": "794",
+        "price": "10.50",
+        "actualPrice": "17298",
+        "grossPrice": "13224",
+        "lat": "22.3430055559972",
+        "lng": "114.16435156095"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "2/F",
+            "add3": "TOWER 25 (34 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "24",
+        "date": "01/06/18",
+        "actualArea": "561",
+        "grossArea": "703",
+        "price": "10.50",
+        "actualPrice": "18717",
+        "grossPrice": "14936",
+        "lat": "22.3340657454769",
+        "lng": "114.17405933986"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "3/F",
+            "add3": "BLOCK B17 (NO. 40)",
+            "add4": "PHASE 3",
+            "add5": "VILLAGE GARDENS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "31",
+        "date": "31/05/18",
+        "actualArea": "801",
+        "grossArea": "986",
+        "price": "18.00",
+        "actualPrice": "22472",
+        "grossPrice": "18256",
+        "lat": "22.3332891352005",
+        "lng": "114.175660998604"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "9/F",
+            "add3": "TOWER 21 (26 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "24",
+        "date": "31/05/18",
+        "actualArea": "561",
+        "grossArea": "703",
+        "price": "11.70",
+        "actualPrice": "20856",
+        "grossPrice": "16643",
+        "lat": "22.3349959096928",
+        "lng": "114.175127096736"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "3/F",
+            "add3": "TOWER 4 (37 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "31/05/18",
+        "actualArea": "568",
+        "grossArea": "705",
+        "price": "10.00",
+        "actualPrice": "17606",
+        "grossPrice": "14184",
+        "lat": "22.3331717339199",
+        "lng": "114.175224188112"
+    },
+    {
+        "address": {
+            "add1": "FLAT I",
+            "add2": "9/F",
+            "add3": "KAM YUCK BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "30/05/18",
+        "actualArea": "224",
+        "grossArea": "242",
+        "price": "2.90",
+        "actualPrice": "12946",
+        "grossPrice": "11983",
+        "lat": "22.3345079747405",
+        "lng": "114.167089695087"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "12/F",
+            "add3": "TOWER 2",
+            "add4": "THE CALDECOTT",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "30/05/18",
+        "actualArea": "1659",
+        "grossArea": "2313",
+        "price": "29.00",
+        "actualPrice": "17480",
+        "grossPrice": "12538",
+        "lat": "22.3441507181748",
+        "lng": "114.15012970623"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "7/F",
+            "add3": "TOWER 15 (19 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "29/05/18",
+        "actualArea": "681",
+        "grossArea": "842",
+        "price": "14.78",
+        "actualPrice": "21703",
+        "grossPrice": "17553",
+        "lat": "22.3347882030992",
+        "lng": "114.174835888257"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "1/F",
+            "add3": "EVERBEST COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "29/05/18",
+        "actualArea": "527",
+        "grossArea": "702",
+        "price": "10.85",
+        "actualPrice": "20588",
+        "grossPrice": "15456",
+        "lat": "22.3303451327769",
+        "lng": "114.173350822376"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "5/F",
+            "add3": "TOWER 10 (9 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "25/05/18",
+        "actualArea": "522",
+        "grossArea": "650",
+        "price": "10.40",
+        "actualPrice": "19914",
+        "grossPrice": "15992",
+        "lat": "22.3338580489498",
+        "lng": "114.174486450602"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "7/F",
+            "add3": "TOWER 7 (1 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "25/05/18",
+        "actualArea": "439",
+        "grossArea": "547",
+        "price": "8.74",
+        "actualPrice": "19904",
+        "grossPrice": "15974",
+        "lat": "22.3329820817476",
+        "lng": "114.174418516885"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "8/F",
+            "add3": "KAM YUCK BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "25/05/18",
+        "actualArea": "224",
+        "grossArea": "242",
+        "price": "3.20",
+        "actualPrice": "14286",
+        "grossPrice": "13223",
+        "lat": "22.3345079747405",
+        "lng": "114.167089695087"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "5/F",
+            "add3": "TOWER 9 (7 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "24/05/18",
+        "actualArea": "591",
+        "grossArea": "741",
+        "price": "12.25",
+        "actualPrice": "20728",
+        "grossPrice": "16532",
+        "lat": "22.3336232535917",
+        "lng": "114.174467040621"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "1/F",
+            "add3": "BLOCK 3",
+            "add4": "MONTE CARLTON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "17",
+        "date": "21/05/18",
+        "actualArea": "1085",
+        "grossArea": "1428",
+        "price": "13.85",
+        "actualPrice": "12765",
+        "grossPrice": "9699",
+        "lat": "22.3431311219813",
+        "lng": "114.155973881814"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "8/F",
+            "add3": "BLOCK B18 (NO. 44)",
+            "add4": "PHASE 3",
+            "add5": "VILLAGE GARDENS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "31",
+        "date": "21/05/18",
+        "actualArea": "801",
+        "grossArea": "956",
+        "price": "16.97",
+        "actualPrice": "21184",
+        "grossPrice": "17749",
+        "lat": "22.3332891352005",
+        "lng": "114.175660998604"
+    },
+    {
+        "address": {
+            "add1": "FLAT L",
+            "add2": "5/F",
+            "add3": "PAK YUK LAU",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "18/05/18",
+        "actualArea": "308",
+        "grossArea": "384",
+        "price": "3.79",
+        "actualPrice": "12305",
+        "grossPrice": "9870",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "7/F",
+            "add3": "TOWER 3 (39 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "18/05/18",
+        "actualArea": "1012",
+        "grossArea": "1217",
+        "price": "22.13",
+        "actualPrice": "21866",
+        "grossPrice": "18182",
+        "lat": "22.3334787734847",
+        "lng": "114.175214477652"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "4/F",
+            "add3": "AMPLE BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "18/05/18",
+        "actualArea": "410",
+        "grossArea": "490",
+        "price": "4.20",
+        "actualPrice": "10244",
+        "grossPrice": "8571",
+        "lat": "22.3313203371609",
+        "lng": "114.170196090327"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "6/F",
+            "add3": "TOWER 2 (41 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "17/05/18",
+        "actualArea": "566",
+        "grossArea": "705",
+        "price": "12.00",
+        "actualPrice": "21201",
+        "grossPrice": "17021",
+        "lat": "22.3336503547123",
+        "lng": "114.175233889584"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "15/F",
+            "add3": "SKY LODGE 3 (BLOCK 3)",
+            "add4": "SKY LODGE",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "19",
+        "date": "17/05/18",
+        "actualArea": "620",
+        "grossArea": "833",
+        "price": "11.90",
+        "actualPrice": "19194",
+        "grossPrice": "14286",
+        "lat": "22.344802607673",
+        "lng": "114.163953384187"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "3/F",
+            "add3": "BLOCK 5",
+            "add4": "MONTE CARLTON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "17",
+        "date": "16/05/18",
+        "actualArea": "1073",
+        "grossArea": "1406",
+        "price": "13.28",
+        "actualPrice": "12377",
+        "grossPrice": "9445",
+        "lat": "22.3431130807006",
+        "lng": "114.156129206245"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "1/F",
+            "add3": "VERVAIN GARDEN",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "29",
+        "date": "16/05/18",
+        "actualArea": "1066",
+        "grossArea": "1345",
+        "price": "16.30",
+        "actualPrice": "15291",
+        "grossPrice": "12119",
+        "lat": "22.3309772914697",
+        "lng": "114.174321483664"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "VERVAIN GARDEN",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "29",
+        "date": "16/05/18",
+        "actualArea": "1066",
+        "grossArea": "1345",
+        "price": "16.50",
+        "actualPrice": "15478",
+        "grossPrice": "12268",
+        "lat": "22.3309772914697",
+        "lng": "114.174321483664"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "3/F",
+            "add3": "TOWER 16 (21 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "14/05/18",
+        "actualArea": "603",
+        "grossArea": "750",
+        "price": "11.88",
+        "actualPrice": "19701",
+        "grossPrice": "15840",
+        "lat": "22.3349959096928",
+        "lng": "114.175127096736"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "7/F",
+            "add3": "TOWER 9 (7 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "11/05/18",
+        "actualArea": "522",
+        "grossArea": "650",
+        "price": "10.68",
+        "actualPrice": "20460",
+        "grossPrice": "16431",
+        "lat": "22.3336232535917",
+        "lng": "114.174467040621"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "2/F",
+            "add3": "TOWER 5",
+            "add4": "MOUNT BEACON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "12",
+        "date": "11/05/18",
+        "actualArea": "839",
+        "grossArea": "1133",
+        "price": "23.68",
+        "actualPrice": "28224",
+        "grossPrice": "20900",
+        "lat": "22.3405586808905",
+        "lng": "114.172020650622"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "HUNITY GARDEN",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "09/05/18",
+        "actualArea": "892",
+        "grossArea": "1120",
+        "price": "15.50",
+        "actualPrice": "17377",
+        "grossPrice": "13839",
+        "lat": "22.3301826040671",
+        "lng": "114.174583579176"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "3/F",
+            "add3": "MARIGOLD COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "40",
+        "date": "09/05/18",
+        "actualArea": "1215",
+        "grossArea": "1310",
+        "price": "18.53",
+        "actualPrice": "15247",
+        "grossPrice": "14141",
+        "lat": "22.3278346228421",
+        "lng": "114.173011155317"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "8/F",
+            "add3": "TROPICANA 5 (BLOCK 22)",
+            "add4": "TROPICANA",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "08/05/18",
+        "actualArea": "468",
+        "grossArea": "603",
+        "price": "8.60",
+        "actualPrice": "18376",
+        "grossPrice": "14262",
+        "lat": "22.3433306229236",
+        "lng": "114.163924396532"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "4/F",
+            "add3": "TOWER 28 (33 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "23",
+        "date": "08/05/18",
+        "actualArea": "674",
+        "grossArea": "846",
+        "price": "13.20",
+        "actualPrice": "19585",
+        "grossPrice": "15603",
+        "lat": "22.3334245603199",
+        "lng": "114.173331332101"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "6/F",
+            "add3": "BLOCK 5",
+            "add4": "MONTE CARLTON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "17",
+        "date": "07/05/18",
+        "actualArea": "1073",
+        "grossArea": "1406",
+        "price": "12.30",
+        "actualPrice": "11463",
+        "grossPrice": "8748",
+        "lat": "22.3431130807006",
+        "lng": "114.156129206245"
+    },
+    {
+        "address": {
+            "add1": "FLAT O",
+            "add2": "4/F",
+            "add3": "KAM YUCK BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "07/05/18",
+        "actualArea": "233",
+        "grossArea": "250",
+        "price": "3.28",
+        "actualPrice": "14077",
+        "grossPrice": "13120",
+        "lat": "22.3345079747405",
+        "lng": "114.167089695087"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "4/F",
+            "add3": "BLOCK 15",
+            "add4": "BEACON HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "32",
+        "date": "04/05/18",
+        "actualArea": "905",
+        "grossArea": "1051",
+        "price": "12.98",
+        "actualPrice": "14343",
+        "grossPrice": "12350",
+        "lat": "22.3423374001738",
+        "lng": "114.165817461356"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "4/F",
+            "add3": "TOWER 14 (17 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "30/04/18",
+        "actualArea": "584",
+        "grossArea": "725",
+        "price": "11.08",
+        "actualPrice": "18973",
+        "grossPrice": "15283",
+        "lat": "22.334562438443",
+        "lng": "114.174816477433"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "3/F",
+            "add3": "AMPLE BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "27/04/18",
+        "actualArea": "410",
+        "grossArea": "490",
+        "price": "4.33",
+        "actualPrice": "10561",
+        "grossPrice": "8837",
+        "lat": "22.3313203371609",
+        "lng": "114.170196090327"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "G/F",
+            "add3": "TOWER 15 (19 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "26/04/18",
+        "actualArea": "603",
+        "grossArea": "750",
+        "price": "14.95",
+        "actualPrice": "24793",
+        "grossPrice": "19933",
+        "lat": "22.3347882030992",
+        "lng": "114.174835888257"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "1/F",
+            "add3": "TOWER 11 (11 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "26/04/18",
+        "actualArea": "439",
+        "grossArea": "547",
+        "price": "9.20",
+        "actualPrice": "20957",
+        "grossPrice": "16819",
+        "lat": "22.3340838139227",
+        "lng": "114.174525274767"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "3/F",
+            "add3": "TOWER 21 (26 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "24",
+        "date": "25/04/18",
+        "actualArea": "559",
+        "grossArea": "703",
+        "price": "10.18",
+        "actualPrice": "18211",
+        "grossPrice": "14481",
+        "lat": "22.3349959096928",
+        "lng": "114.175127096736"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "9/F",
+            "add3": "SKY LODGE 3 (BLOCK 3)",
+            "add4": "SKY LODGE",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "19",
+        "date": "24/04/18",
+        "actualArea": "1202",
+        "grossArea": "1571",
+        "price": "32.80",
+        "actualPrice": "27288",
+        "grossPrice": "20878",
+        "lat": "22.344802607673",
+        "lng": "114.163953384187"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "9/F",
+            "add3": "PO TIN BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "24/04/18",
+        "actualArea": "262",
+        "grossArea": "321",
+        "price": "3.60",
+        "actualPrice": "13740",
+        "grossPrice": "11215",
+        "lat": "22.3349143002361",
+        "lng": "114.166283982379"
+    },
+    {
+        "address": {
+            "add1": "FLAT K",
+            "add2": "4/F",
+            "add3": "AMPLE BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "20/04/18",
+        "actualArea": "410",
+        "grossArea": "490",
+        "price": "3.80",
+        "actualPrice": "9268",
+        "grossPrice": "7755",
+        "lat": "22.3313203371609",
+        "lng": "114.170196090327"
+    },
+    {
+        "address": {
+            "add1": "FLAT C3",
+            "add2": "1/F",
+            "add3": "BLOCK C",
+            "add4": "FA PO VILLA",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "52",
+        "date": "20/04/18",
+        "actualArea": "445",
+        "grossArea": "600",
+        "price": "7.54",
+        "actualPrice": "16939",
+        "grossPrice": "12563",
+        "lat": "22.3303812894345",
+        "lng": "114.175845450695"
+    },
+    {
+        "address": {
+            "add1": "FLAT Q",
+            "add2": "5/F",
+            "add3": "KAM YUCK BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "20/04/18",
+        "actualArea": "224",
+        "grossArea": "242",
+        "price": "3.16",
+        "actualPrice": "14107",
+        "grossPrice": "13058",
+        "lat": "22.3345079747405",
+        "lng": "114.167089695087"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "5/F",
+            "add3": "TROPICANA 2 (BLOCK 25)",
+            "add4": "TROPICANA",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "20/04/18",
+        "actualArea": "622",
+        "grossArea": "826",
+        "price": "10.00",
+        "actualPrice": "16077",
+        "grossPrice": "12107",
+        "lat": "22.3430055559972",
+        "lng": "114.16435156095"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "4/F",
+            "add3": "BLOCK B7 (NO. 47)",
+            "add4": "PHASE 2",
+            "add5": "VILLAGE GARDENS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "32",
+        "date": "19/04/18",
+        "actualArea": "1562",
+        "grossArea": "1829",
+        "price": "28.00",
+        "actualPrice": "17926",
+        "grossPrice": "15309",
+        "lat": "22.3334607181807",
+        "lng": "114.175971619302"
+    },
+    {
+        "address": {
+            "add1": "FLAT P",
+            "add2": "4/F",
+            "add3": "KAM YUCK BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "18/04/18",
+        "actualArea": "233",
+        "grossArea": "250",
+        "price": "3.35",
+        "actualPrice": "14378",
+        "grossPrice": "13400",
+        "lat": "22.3345079747405",
+        "lng": "114.167089695087"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "4/F",
+            "add3": "TOWER 22 (28 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "24",
+        "date": "16/04/18",
+        "actualArea": "559",
+        "grossArea": "703",
+        "price": "10.58",
+        "actualPrice": "18927",
+        "grossPrice": "15050",
+        "lat": "22.3335329403356",
+        "lng": "114.174001108709"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "G/F",
+            "add3": "TOWER 5 (35 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "13/04/18",
+        "actualArea": "797",
+        "grossArea": "990",
+        "price": "20.93",
+        "actualPrice": "26261",
+        "grossPrice": "21141",
+        "lat": "22.3329279079502",
+        "lng": "114.175195070191"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "8/F",
+            "add3": "TOWER 1",
+            "add4": "MOUNT BEACON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "12",
+        "date": "12/04/18",
+        "actualArea": "1281",
+        "grossArea": "1689",
+        "price": "42.00",
+        "actualPrice": "32787",
+        "grossPrice": "24867",
+        "lat": "22.3398272065557",
+        "lng": "114.172088627394"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "6/F",
+            "add3": "BLOCK 19",
+            "add4": "BEACON HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "32",
+        "date": "12/04/18",
+        "actualArea": "905",
+        "grossArea": "1051",
+        "price": "11.70",
+        "actualPrice": "12928",
+        "grossPrice": "11132",
+        "lat": "22.3423463873474",
+        "lng": "114.165196177036"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "8/F",
+            "add3": "TOWER 2",
+            "add4": "MOUNT BEACON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "12",
+        "date": "11/04/18",
+        "actualArea": "1169",
+        "grossArea": "1538",
+        "price": "30.00",
+        "actualPrice": "25663",
+        "grossPrice": "19506",
+        "lat": "22.340080060023",
+        "lng": "114.172001252244"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "1/F",
+            "add3": "TOWER 29 (29 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "23",
+        "date": "09/04/18",
+        "actualArea": "569",
+        "grossArea": "711",
+        "price": "12.50",
+        "actualPrice": "21968",
+        "grossPrice": "17581",
+        "lat": "22.3334155354174",
+        "lng": "114.173603126602"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "5/F",
+            "add3": "TOWER 7 (1 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "09/04/18",
+        "actualArea": "522",
+        "grossArea": "650",
+        "price": "9.80",
+        "actualPrice": "18774",
+        "grossPrice": "15077",
+        "lat": "22.3329820817476",
+        "lng": "114.174418516885"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "3/F",
+            "add3": "TAT CHEE COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "33",
+        "date": "06/04/18",
+        "actualArea": "649",
+        "grossArea": "737",
+        "price": "12.38",
+        "actualPrice": "19076",
+        "grossPrice": "16798",
+        "lat": "22.3308508716995",
+        "lng": "114.174942718627"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "8/F",
+            "add3": "TOWER 22 (28 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "24",
+        "date": "03/04/18",
+        "actualArea": "561",
+        "grossArea": "703",
+        "price": "10.38",
+        "actualPrice": "18503",
+        "grossPrice": "14765",
+        "lat": "22.3335329403356",
+        "lng": "114.174001108709"
+    },
+    {
+        "address": {
+            "add1": "FLAT K",
+            "add2": "3/F",
+            "add3": "FOOK TIN BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "28/03/18",
+        "actualArea": "248",
+        "grossArea": "327",
+        "price": "3.61",
+        "actualPrice": "14556",
+        "grossPrice": "11040",
+        "lat": "22.3347427379538",
+        "lng": "114.166575206184"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "G/F",
+            "add3": "BLOCK 2",
+            "add4": "VILLA CARLTON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "27/03/18",
+        "actualArea": "930",
+        "grossArea": "1191",
+        "price": "12.00",
+        "actualPrice": "12903",
+        "grossPrice": "10076",
+        "lat": "22.3435102050248",
+        "lng": "114.154469141736"
+    },
+    {
+        "address": {
+            "add1": "FLAT A3",
+            "add2": "2/F",
+            "add3": "GOLDEN VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "26/03/18",
+        "actualArea": "723",
+        "grossArea": "-",
+        "price": "13.50",
+        "actualPrice": "18672",
+        "grossPrice": "-",
+        "lat": "22.3195692850221",
+        "lng": "114.274613553335"
+    },
+    {
+        "address": {
+            "add1": "FLAT S",
+            "add2": "5/F",
+            "add3": "KAM YUCK BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "23/03/18",
+        "actualArea": "224",
+        "grossArea": "242",
+        "price": "3.10",
+        "actualPrice": "13839",
+        "grossPrice": "12810",
+        "lat": "22.3345079747405",
+        "lng": "114.167089695087"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "3/F",
+            "add3": "TOWER 2",
+            "add4": "MOUNT BEACON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "12",
+        "date": "23/03/18",
+        "actualArea": "839",
+        "grossArea": "1133",
+        "price": "19.77",
+        "actualPrice": "23564",
+        "grossPrice": "17449",
+        "lat": "22.340080060023",
+        "lng": "114.172001252244"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "3/F",
+            "add3": "BLOCK 2",
+            "add4": "CALDECOTT HILL",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "22/03/18",
+        "actualArea": "955",
+        "grossArea": "1285",
+        "price": "14.00",
+        "actualPrice": "14660",
+        "grossPrice": "10895",
+        "lat": "22.3447285740014",
+        "lng": "114.14952771748"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "10/F",
+            "add3": "TOWER 11 (11 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "21/03/18",
+        "actualArea": "884",
+        "grossArea": "1065",
+        "price": "16.95",
+        "actualPrice": "19174",
+        "grossPrice": "15915",
+        "lat": "22.3340838139227",
+        "lng": "114.174525274767"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 6",
+            "add2": "NO. 62",
+            "add3": "HOUSE 6",
+            "add4": "NO. 62 BEGONIA ROAD",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "3",
+        "date": "14/03/18",
+        "actualArea": "3981",
+        "grossArea": "-",
+        "price": "168.00",
+        "actualPrice": "42200",
+        "grossPrice": "-",
+        "lat": "22.33189",
+        "lng": "114.1721"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "3/F",
+            "add3": "FORTUNE GARDEN",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "13/03/18",
+        "actualArea": "529",
+        "grossArea": "685",
+        "price": "10.38",
+        "actualPrice": "19622",
+        "grossPrice": "15153",
+        "lat": "22.3300471362036",
+        "lng": "114.174001179026"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "1/F",
+            "add3": "TOWER 28 (33 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "23",
+        "date": "12/03/18",
+        "actualArea": "674",
+        "grossArea": "846",
+        "price": "12.50",
+        "actualPrice": "18546",
+        "grossPrice": "14775",
+        "lat": "22.3334245603199",
+        "lng": "114.173331332101"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "4/F",
+            "add3": "TOWER 17 (51 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "06/03/18",
+        "actualArea": "603",
+        "grossArea": "750",
+        "price": "10.50",
+        "actualPrice": "17413",
+        "grossPrice": "14000",
+        "lat": "22.3351584625253",
+        "lng": "114.175379478297"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "9/F",
+            "add3": "KAM YUCK BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "06/03/18",
+        "actualArea": "224",
+        "grossArea": "242",
+        "price": "2.99",
+        "actualPrice": "13348",
+        "grossPrice": "12355",
+        "lat": "22.3345079747405",
+        "lng": "114.167089695087"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "9/F",
+            "add3": "TO YUEN MANSION",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "30",
+        "date": "06/03/18",
+        "actualArea": "457",
+        "grossArea": "519",
+        "price": "8.60",
+        "actualPrice": "18818",
+        "grossPrice": "16570",
+        "lat": "22.3356370712693",
+        "lng": "114.174389349941"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "6/F",
+            "add3": "BLOCK 3",
+            "add4": "MONTE CARLTON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "17",
+        "date": "05/03/18",
+        "actualArea": "1067",
+        "grossArea": "1399",
+        "price": "11.54",
+        "actualPrice": "10813",
+        "grossPrice": "8247",
+        "lat": "22.3431311219813",
+        "lng": "114.155973881814"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "1/F",
+            "add3": "TOWER 11 (11 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "02/03/18",
+        "actualArea": "450",
+        "grossArea": "560",
+        "price": "8.38",
+        "actualPrice": "18622",
+        "grossPrice": "14964",
+        "lat": "22.3340838139227",
+        "lng": "114.174525274767"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "9/F",
+            "add3": "TOWER 11 (11 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "01/03/18",
+        "actualArea": "591",
+        "grossArea": "741",
+        "price": "12.50",
+        "actualPrice": "21151",
+        "grossPrice": "16869",
+        "lat": "22.3340838139227",
+        "lng": "114.174525274767"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "3/F",
+            "add3": "TOWER 1 (43 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "28/02/18",
+        "actualArea": "568",
+        "grossArea": "705",
+        "price": "11.63",
+        "actualPrice": "20475",
+        "grossPrice": "16496",
+        "lat": "22.3338670887744",
+        "lng": "114.175253301056"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "8/F",
+            "add3": "HING LUNG BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "0",
+        "date": "28/02/18",
+        "actualArea": "268",
+        "grossArea": "334",
+        "price": "3.90",
+        "actualPrice": "14552",
+        "grossPrice": "11677",
+        "lat": "22.3302359256575",
+        "lng": "114.159965260612"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "8/F",
+            "add3": "TOWER 23 (32 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "24",
+        "date": "27/02/18",
+        "actualArea": "561",
+        "grossArea": "703",
+        "price": "11.08",
+        "actualPrice": "19750",
+        "grossPrice": "15761",
+        "lat": "22.3327924283964",
+        "lng": "114.173758451266"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "5/F",
+            "add3": "KAM YUCK BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "26/02/18",
+        "actualArea": "224",
+        "grossArea": "242",
+        "price": "2.98",
+        "actualPrice": "13304",
+        "grossPrice": "12314",
+        "lat": "22.3345079747405",
+        "lng": "114.167089695087"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "4/F",
+            "add3": "KAM YUCK BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "23/02/18",
+        "actualArea": "224",
+        "grossArea": "242",
+        "price": "3.25",
+        "actualPrice": "14509",
+        "grossPrice": "13430",
+        "lat": "22.3345079747405",
+        "lng": "114.167089695087"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "1/F",
+            "add3": "TOWER 17 (51 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "23/02/18",
+        "actualArea": "603",
+        "grossArea": "755",
+        "price": "11.18",
+        "actualPrice": "18541",
+        "grossPrice": "14808",
+        "lat": "22.3351584625253",
+        "lng": "114.175379478297"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "3/F",
+            "add3": "TOWER 23 (32 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "24",
+        "date": "23/02/18",
+        "actualArea": "559",
+        "grossArea": "703",
+        "price": "10.50",
+        "actualPrice": "18784",
+        "grossPrice": "14936",
+        "lat": "22.3327924283964",
+        "lng": "114.173758451266"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "1/F",
+            "add3": "TOWER 18 (49 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "14/02/18",
+        "actualArea": "603",
+        "grossArea": "750",
+        "price": "10.80",
+        "actualPrice": "17910",
+        "grossPrice": "14400",
+        "lat": "22.3347972393955",
+        "lng": "114.175369775001"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "6/F",
+            "add3": "TOWER 6 (6 GRANDEUR RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "13/02/18",
+        "actualArea": "566",
+        "grossArea": "705",
+        "price": "11.30",
+        "actualPrice": "19965",
+        "grossPrice": "16028",
+        "lat": "22.3330272415977",
+        "lng": "114.174942689332"
+    },
+    {
+        "address": {
+            "add1": "DUPLEX 9",
+            "add2": "8-9/F",
+            "add3": "DYNASTY VILLA 8 (BLOCK 11)",
+            "add4": "DYNASTY VILLA",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "12/02/18",
+        "actualArea": "1843",
+        "grossArea": "2414",
+        "price": "72.00",
+        "actualPrice": "39067",
+        "grossPrice": "29826",
+        "lat": "22.3444051892351",
+        "lng": "114.163060312391"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "1/F",
+            "add3": "CENTURY COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "25",
+        "date": "07/02/18",
+        "actualArea": "497",
+        "grossArea": "660",
+        "price": "8.38",
+        "actualPrice": "16861",
+        "grossPrice": "12697",
+        "lat": "22.4918683751039",
+        "lng": "114.135845211271"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "G/F",
+            "add3": "BLOCK B4 (NO. 23)",
+            "add4": "PHASE 2",
+            "add5": "VILLAGE GARDENS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "32",
+        "date": "07/02/18",
+        "actualArea": "1501",
+        "grossArea": "1769",
+        "price": "37.88",
+        "actualPrice": "25237",
+        "grossPrice": "21413",
+        "lat": "22.3332891352005",
+        "lng": "114.175660998604"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "1/F",
+            "add3": "TO YUEN MANSION",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "30",
+        "date": "06/02/18",
+        "actualArea": "499",
+        "grossArea": "560",
+        "price": "8.44",
+        "actualPrice": "16910",
+        "grossPrice": "15068",
+        "lat": "22.3356370712693",
+        "lng": "114.174389349941"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "9/F",
+            "add3": "SKY LODGE 6 (BLOCK 6)",
+            "add4": "SKY LODGE",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "19",
+        "date": "05/02/18",
+        "actualArea": "1155",
+        "grossArea": "-",
+        "price": "28.60",
+        "actualPrice": "24762",
+        "grossPrice": "-",
+        "lat": "22.3445407546537",
+        "lng": "114.16438054741"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "6/F",
+            "add3": "BLOCK B2 (NO. 19)",
+            "add4": "PHASE 2",
+            "add5": "VILLAGE GARDENS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "32",
+        "date": "01/02/18",
+        "actualArea": "1517",
+        "grossArea": "1774",
+        "price": "36.50",
+        "actualPrice": "24061",
+        "grossPrice": "20575",
+        "lat": "22.3332891352005",
+        "lng": "114.175660998604"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "1/F",
+            "add3": "TOWER 15 (19 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "01/02/18",
+        "actualArea": "675",
+        "grossArea": "842",
+        "price": "12.95",
+        "actualPrice": "19185",
+        "grossPrice": "15380",
+        "lat": "22.3347882030992",
+        "lng": "114.174835888257"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "5/F",
+            "add3": "SKY LODGE 2 (BLOCK 2)",
+            "add4": "SKY LODGE",
+            "add5": "DYNASTY HEIGHTS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "19",
+        "date": "30/01/18",
+        "actualArea": "681",
+        "grossArea": "886",
+        "price": "14.38",
+        "actualPrice": "21116",
+        "grossPrice": "16230",
+        "lat": "22.3449109549567",
+        "lng": "114.163710680884"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "3/F",
+            "add3": "TOWER 8 (3 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "29/01/18",
+        "actualArea": "439",
+        "grossArea": "547",
+        "price": "8.40",
+        "actualPrice": "19134",
+        "grossPrice": "15356",
+        "lat": "22.3332349383159",
+        "lng": "114.174437926388"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "G/F",
+            "add3": "BLOCK B9 (NO. 61)",
+            "add4": "PHASE 1",
+            "add5": "VILLAGE GARDENS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "32",
+        "date": "25/01/18",
+        "actualArea": "1194",
+        "grossArea": "1395",
+        "price": "28.00",
+        "actualPrice": "23451",
+        "grossPrice": "20072",
+        "lat": "22.3332891352005",
+        "lng": "114.175660998604"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "4/F",
+            "add3": "TIN FUNG LAU",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "24/01/18",
+        "actualArea": "315",
+        "grossArea": "394",
+        "price": "3.90",
+        "actualPrice": "12381",
+        "grossPrice": "9898",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "6/F",
+            "add3": "BLOCK 2",
+            "add4": "CALDECOTT HILL",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "23/01/18",
+        "actualArea": "538",
+        "grossArea": "698",
+        "price": "7.52",
+        "actualPrice": "13978",
+        "grossPrice": "10774",
+        "lat": "22.3447285740014",
+        "lng": "114.14952771748"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "7/F",
+            "add3": "FOOK TIN BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "22/01/18",
+        "actualArea": "254",
+        "grossArea": "337",
+        "price": "3.44",
+        "actualPrice": "13535",
+        "grossPrice": "10202",
+        "lat": "22.3347427379538",
+        "lng": "114.166575206184"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "G/F",
+            "add3": "FARMING VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "22/01/18",
+        "actualArea": "718",
+        "grossArea": "-",
+        "price": "9.00",
+        "actualPrice": "12535",
+        "grossPrice": "-",
+        "lat": "22.3314559306553",
+        "lng": "114.176262835669"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "2/F",
+            "add3": "FARMING VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "17/01/18",
+        "actualArea": "718",
+        "grossArea": "-",
+        "price": "12.00",
+        "actualPrice": "16713",
+        "grossPrice": "-",
+        "lat": "22.3314559306553",
+        "lng": "114.176262835669"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "G/F",
+            "add3": "FARMING VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "17/01/18",
+        "actualArea": "973",
+        "grossArea": "-",
+        "price": "17.00",
+        "actualPrice": "17472",
+        "grossPrice": "-",
+        "lat": "22.3314559306553",
+        "lng": "114.176262835669"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "8/F",
+            "add3": "TOWER 10 (9 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "15/01/18",
+        "actualArea": "439",
+        "grossArea": "547",
+        "price": "8.10",
+        "actualPrice": "18451",
+        "grossPrice": "14808",
+        "lat": "22.3338580489498",
+        "lng": "114.174486450602"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "3/F",
+            "add3": "BLOCK 19",
+            "add4": "BEACON HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "32",
+        "date": "15/01/18",
+        "actualArea": "905",
+        "grossArea": "1051",
+        "price": "12.68",
+        "actualPrice": "14011",
+        "grossPrice": "12065",
+        "lat": "22.3423463873474",
+        "lng": "114.165196177036"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "3/F",
+            "add3": "TOWER 2 (41 TAT CHEE AVE)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "15/01/18",
+        "actualArea": "568",
+        "grossArea": "705",
+        "price": "10.50",
+        "actualPrice": "18486",
+        "grossPrice": "14894",
+        "lat": "22.3336503547123",
+        "lng": "114.175233889584"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "4/F",
+            "add3": "AMPLE BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "12/01/18",
+        "actualArea": "396",
+        "grossArea": "474",
+        "price": "4.22",
+        "actualPrice": "10657",
+        "grossPrice": "8903",
+        "lat": "22.3313203371609",
+        "lng": "114.170196090327"
+    },
+    {
+        "address": {
+            "add1": "FLAT A3",
+            "add2": "1/F",
+            "add3": "BLOCK A",
+            "add4": "ELITE VILLA",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "39",
+        "date": "12/01/18",
+        "actualArea": "405",
+        "grossArea": "502",
+        "price": "5.40",
+        "actualPrice": "13333",
+        "grossPrice": "10757",
+        "lat": "22.3312211259123",
+        "lng": "114.174971834003"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "1/F",
+            "add3": "CASSIA COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "0",
+        "date": "12/01/18",
+        "actualArea": "814",
+        "grossArea": "900",
+        "price": "13.80",
+        "actualPrice": "16953",
+        "grossPrice": "15333",
+        "lat": "22.3313475283278",
+        "lng": "114.173399331487"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "7/F",
+            "add3": "BLOCK 7",
+            "add4": "VILLA CARLTON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "09/01/18",
+        "actualArea": "1341",
+        "grossArea": "1737",
+        "price": "15.00",
+        "actualPrice": "11186",
+        "grossPrice": "8636",
+        "lat": "22.34332064511",
+        "lng": "114.155071044629"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "7/F",
+            "add3": "BLOCK 7",
+            "add4": "VILLA CARLTON",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "09/01/18",
+        "actualArea": "1482",
+        "grossArea": "1938",
+        "price": "16.00",
+        "actualPrice": "10796",
+        "grossPrice": "8256",
+        "lat": "22.34332064511",
+        "lng": "114.155071044629"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "2/F",
+            "add3": "TOWER 11 (11 PARC OASIS RD)",
+            "add4": "PARC OASIS",
+            "add5": ""
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "26",
+        "date": "09/01/18",
+        "actualArea": "439",
+        "grossArea": "547",
+        "price": "8.20",
+        "actualPrice": "18679",
+        "grossPrice": "14991",
+        "lat": "22.3340838139227",
+        "lng": "114.174525274767"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "3/F",
+            "add3": "BLOCK B16 (NO. 36)",
+            "add4": "PHASE 3",
+            "add5": "VILLAGE GARDENS"
+        },
+        "sRegion": "Yau Yat Tsuen/Shek Kip Mei",
+        "bRegion": "KLN",
+        "age": "31",
+        "date": "02/01/18",
+        "actualArea": "801",
+        "grossArea": "956",
+        "price": "16.98",
+        "actualPrice": "21199",
+        "grossPrice": "17762",
+        "lat": "22.3332891352005",
+        "lng": "114.175660998604"
+    }
+]

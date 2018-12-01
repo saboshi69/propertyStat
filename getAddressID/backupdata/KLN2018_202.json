@@ -1,0 +1,4482 @@
+[
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "31/F",
+            "add3": "TOWER 2",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "27/11/18",
+        "actualArea": "1502",
+        "grossArea": "-",
+        "price": "64.20",
+        "actualPrice": "42743",
+        "grossPrice": "-",
+        "lat": "22.30367",
+        "lng": "114.1675"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "87/F",
+            "add3": "TOWER 21 - ZONE 1 (SUN SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "23/11/18",
+        "actualArea": "906",
+        "grossArea": "1238",
+        "price": "38.28",
+        "actualPrice": "42252",
+        "grossPrice": "30921",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "26/F",
+            "add3": "TOWER 3",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "15/11/18",
+        "actualArea": "931",
+        "grossArea": "-",
+        "price": "31.00",
+        "actualPrice": "33298",
+        "grossPrice": "-",
+        "lat": "22.30401",
+        "lng": "114.1673"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "33/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "12/11/18",
+        "actualArea": "625",
+        "grossArea": "848",
+        "price": "20.00",
+        "actualPrice": "32000",
+        "grossPrice": "23585",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "17/F",
+            "add3": "TOWER 20 - ZONE 2 (OCEAN SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "08/11/18",
+        "actualArea": "674",
+        "grossArea": "-",
+        "price": "20.00",
+        "actualPrice": "29674",
+        "grossPrice": "-",
+        "lat": "22.3046071666743",
+        "lng": "114.160686505307"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "79/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 2",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "02/11/18",
+        "actualArea": "1403",
+        "grossArea": "1814",
+        "price": "45.00",
+        "actualPrice": "32074",
+        "grossPrice": "24807",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "25/F",
+            "add3": "TOWER 7",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "22/10/18",
+        "actualArea": "453",
+        "grossArea": "587",
+        "price": "9.76",
+        "actualPrice": "21545",
+        "grossPrice": "16627",
+        "lat": "22.309267",
+        "lng": "114.166125"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "35/F",
+            "add3": "TOWER 7",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "22/10/18",
+        "actualArea": "453",
+        "grossArea": "587",
+        "price": "10.38",
+        "actualPrice": "22914",
+        "grossPrice": "17683",
+        "lat": "22.309267",
+        "lng": "114.166125"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "18/F",
+            "add3": "TOWER 2",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "22/10/18",
+        "actualArea": "795",
+        "grossArea": "1081",
+        "price": "28.00",
+        "actualPrice": "35220",
+        "grossPrice": "25902",
+        "lat": "22.3030269051812",
+        "lng": "114.161676580268"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "77/F",
+            "add3": "TOWER 20 - ZONE 1 (DIAMOND SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "19/10/18",
+        "actualArea": "678",
+        "grossArea": "-",
+        "price": "51.00",
+        "actualPrice": "75221",
+        "grossPrice": "-",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "77/F",
+            "add3": "TOWER 20 - ZONE 1 (DIAMOND SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "19/10/18",
+        "actualArea": "1451",
+        "grossArea": "-",
+        "price": "108.99",
+        "actualPrice": "75110",
+        "grossPrice": "-",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "21/F",
+            "add3": "TOWER 21 - ZONE 6 (ASTER SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "18/10/18",
+        "actualArea": "1117",
+        "grossArea": "1533",
+        "price": "48.80",
+        "actualPrice": "43688",
+        "grossPrice": "31833",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "13/F",
+            "add3": "TOWER 5",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "16/10/18",
+        "actualArea": "1197",
+        "grossArea": "1561",
+        "price": "29.00",
+        "actualPrice": "24227",
+        "grossPrice": "18578",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "18/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "15/10/18",
+        "actualArea": "853",
+        "grossArea": "1125",
+        "price": "22.50",
+        "actualPrice": "26377",
+        "grossPrice": "20000",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "32/F",
+            "add3": "TOWER 3",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "10/10/18",
+        "actualArea": "1614",
+        "grossArea": "2052",
+        "price": "49.60",
+        "actualPrice": "30731",
+        "grossPrice": "24172",
+        "lat": "22.309606",
+        "lng": "114.165567"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "78/F",
+            "add3": "TOWER 21 - ZONE 3 (ROYAL SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "04/10/18",
+        "actualArea": "1580",
+        "grossArea": "2144",
+        "price": "123.34",
+        "actualPrice": "78063",
+        "grossPrice": "57528",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "16/F",
+            "add3": "TOWER 3A",
+            "add4": "THE AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "28/09/18",
+        "actualArea": "920",
+        "grossArea": "-",
+        "price": "23.28",
+        "actualPrice": "25304",
+        "grossPrice": "-",
+        "lat": "22.304942",
+        "lng": "114.166875"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "22/F",
+            "add3": "MOON TOWER (TOWER 2A)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "27/09/18",
+        "actualArea": "395",
+        "grossArea": "530",
+        "price": "14.00",
+        "actualPrice": "35443",
+        "grossPrice": "26415",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "71/F",
+            "add3": "TOWER 21 - ZONE 3 (ROYAL SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "27/09/18",
+        "actualArea": "949",
+        "grossArea": "1284",
+        "price": "40.69",
+        "actualPrice": "42875",
+        "grossPrice": "31688",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "13/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 2",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "26/09/18",
+        "actualArea": "1067",
+        "grossArea": "1440",
+        "price": "32.00",
+        "actualPrice": "29991",
+        "grossPrice": "22222",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "72/F",
+            "add3": "TOWER 20 - ZONE 1 (DIAMOND SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "26/09/18",
+        "actualArea": "1449",
+        "grossArea": "-",
+        "price": "100.55",
+        "actualPrice": "69391",
+        "grossPrice": "-",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "83/F",
+            "add3": "TOWER 20 - ZONE 1 (DIAMOND SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "26/09/18",
+        "actualArea": "678",
+        "grossArea": "-",
+        "price": "48.75",
+        "actualPrice": "71897",
+        "grossPrice": "-",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "23/F",
+            "add3": "BLOCK 2",
+            "add4": "PHASE 2",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "26/09/18",
+        "actualArea": "1049",
+        "grossArea": "1394",
+        "price": "27.00",
+        "actualPrice": "25739",
+        "grossPrice": "19369",
+        "lat": "22.2735958702878",
+        "lng": "114.119967397221"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "5/F",
+            "add3": "TOWER 2A",
+            "add4": "THE AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "24/09/18",
+        "actualArea": "908",
+        "grossArea": "-",
+        "price": "23.00",
+        "actualPrice": "25330",
+        "grossPrice": "-",
+        "lat": "22.304942",
+        "lng": "114.166875"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "3/F",
+            "add3": "TOWER 1A",
+            "add4": "THE AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "24/09/18",
+        "actualArea": "620",
+        "grossArea": "-",
+        "price": "15.46",
+        "actualPrice": "24935",
+        "grossPrice": "-",
+        "lat": "22.304942",
+        "lng": "114.166875"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "36/F",
+            "add3": "TOWER 6",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "24/09/18",
+        "actualArea": "454",
+        "grossArea": "587",
+        "price": "12.00",
+        "actualPrice": "26432",
+        "grossPrice": "20443",
+        "lat": "22.309261",
+        "lng": "114.165925"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "72/F",
+            "add3": "TOWER 20 - ZONE 1 (DIAMOND SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "20/09/18",
+        "actualArea": "693",
+        "grossArea": "-",
+        "price": "47.63",
+        "actualPrice": "68731",
+        "grossPrice": "-",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "13/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "20/09/18",
+        "actualArea": "533",
+        "grossArea": "722",
+        "price": "17.88",
+        "actualPrice": "33546",
+        "grossPrice": "24765",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "12/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "17/09/18",
+        "actualArea": "400",
+        "grossArea": "530",
+        "price": "13.90",
+        "actualPrice": "34750",
+        "grossPrice": "26226",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "82/F",
+            "add3": "TOWER 21 - ZONE 1 (SUN SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "17/09/18",
+        "actualArea": "1035",
+        "grossArea": "1396",
+        "price": "49.50",
+        "actualPrice": "47826",
+        "grossPrice": "35458",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "26/F",
+            "add3": "TOWER 21 - ZONE 6 (ASTER SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "13/09/18",
+        "actualArea": "1117",
+        "grossArea": "1533",
+        "price": "47.18",
+        "actualPrice": "42238",
+        "grossPrice": "30776",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "31/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "13/09/18",
+        "actualArea": "420",
+        "grossArea": "558",
+        "price": "17.80",
+        "actualPrice": "42381",
+        "grossPrice": "31900",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "16/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 2",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "12/09/18",
+        "actualArea": "1067",
+        "grossArea": "1440",
+        "price": "31.50",
+        "actualPrice": "29522",
+        "grossPrice": "21875",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "25/F",
+            "add3": "TOWER 6",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "12/09/18",
+        "actualArea": "471",
+        "grossArea": "611",
+        "price": "9.48",
+        "actualPrice": "20127",
+        "grossPrice": "15516",
+        "lat": "22.309261",
+        "lng": "114.165925"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "31/F",
+            "add3": "TOWER 3A",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "11/09/18",
+        "actualArea": "908",
+        "grossArea": "-",
+        "price": "28.00",
+        "actualPrice": "30837",
+        "grossPrice": "-",
+        "lat": "22.30336",
+        "lng": "114.1676"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "8/F",
+            "add3": "TOWER 2A",
+            "add4": "THE AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "04/09/18",
+        "actualArea": "581",
+        "grossArea": "-",
+        "price": "17.00",
+        "actualPrice": "29260",
+        "grossPrice": "-",
+        "lat": "22.304942",
+        "lng": "114.166875"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "9/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "03/09/18",
+        "actualArea": "400",
+        "grossArea": "530",
+        "price": "14.35",
+        "actualPrice": "35875",
+        "grossPrice": "27075",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "23/F",
+            "add3": "TOWER 7",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "31/08/18",
+        "actualArea": "322",
+        "grossArea": "403",
+        "price": "7.08",
+        "actualPrice": "21988",
+        "grossPrice": "17568",
+        "lat": "22.309267",
+        "lng": "114.166125"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "20/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "28/08/18",
+        "actualArea": "414",
+        "grossArea": "556",
+        "price": "15.00",
+        "actualPrice": "36232",
+        "grossPrice": "26978",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "39/F",
+            "add3": "SUN TOWER (TOWER 1A)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "24/08/18",
+        "actualArea": "395",
+        "grossArea": "530",
+        "price": "16.58",
+        "actualPrice": "41975",
+        "grossPrice": "31283",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "62/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "24/08/18",
+        "actualArea": "2973",
+        "grossArea": "4088",
+        "price": "160.88",
+        "actualPrice": "54114",
+        "grossPrice": "39354",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "9/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "23/08/18",
+        "actualArea": "414",
+        "grossArea": "556",
+        "price": "14.80",
+        "actualPrice": "35749",
+        "grossPrice": "26619",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "21/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "22/08/18",
+        "actualArea": "961",
+        "grossArea": "1280",
+        "price": "29.08",
+        "actualPrice": "30260",
+        "grossPrice": "22719",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "12/F",
+            "add3": "TOWER 5",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "22/08/18",
+        "actualArea": "1060",
+        "grossArea": "1366",
+        "price": "30.00",
+        "actualPrice": "28302",
+        "grossPrice": "21962",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "8/F",
+            "add3": "TOWER 5A",
+            "add4": "THE AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "17/08/18",
+        "actualArea": "890",
+        "grossArea": "-",
+        "price": "23.00",
+        "actualPrice": "25843",
+        "grossPrice": "-",
+        "lat": "22.304942",
+        "lng": "114.166875"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "46/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "17/08/18",
+        "actualArea": "973",
+        "grossArea": "1280",
+        "price": "28.50",
+        "actualPrice": "29291",
+        "grossPrice": "22266",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "39/F",
+            "add3": "BLOCK 2",
+            "add4": "PHASE 2",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "15/08/18",
+        "actualArea": "874",
+        "grossArea": "1156",
+        "price": "26.00",
+        "actualPrice": "29748",
+        "grossPrice": "22491",
+        "lat": "22.2735958702878",
+        "lng": "114.119967397221"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "22/F",
+            "add3": "TOWER 21 - ZONE 5 (STAR SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "14/08/18",
+        "actualArea": "610",
+        "grossArea": "837",
+        "price": "25.00",
+        "actualPrice": "40984",
+        "grossPrice": "29869",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "32/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "10/08/18",
+        "actualArea": "817",
+        "grossArea": "1124",
+        "price": "20.73",
+        "actualPrice": "25373",
+        "grossPrice": "18443",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "43/F",
+            "add3": "TOWER 3",
+            "add4": "PHASE 1",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "09/08/18",
+        "actualArea": "940",
+        "grossArea": "1179",
+        "price": "23.75",
+        "actualPrice": "25266",
+        "grossPrice": "20144",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "47/F",
+            "add3": "TOWER 1",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "07/08/18",
+        "actualArea": "1061",
+        "grossArea": "1455",
+        "price": "60.00",
+        "actualPrice": "56550",
+        "grossPrice": "41237",
+        "lat": "22.3030088814763",
+        "lng": "114.162084185312"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "38/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "07/08/18",
+        "actualArea": "415",
+        "grossArea": "562",
+        "price": "16.00",
+        "actualPrice": "38554",
+        "grossPrice": "28470",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "59/F",
+            "add3": "SKY TOWER (TOWER 1)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "03/08/18",
+        "actualArea": "846",
+        "grossArea": "1156",
+        "price": "30.50",
+        "actualPrice": "36052",
+        "grossPrice": "26384",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "31/F",
+            "add3": "TOWER 2",
+            "add4": "PHASE 1",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "02/08/18",
+        "actualArea": "934",
+        "grossArea": "1170",
+        "price": "23.20",
+        "actualPrice": "24839",
+        "grossPrice": "19829",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "42/F",
+            "add3": "TOWER 5",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "01/08/18",
+        "actualArea": "1996",
+        "grossArea": "2555",
+        "price": "57.00",
+        "actualPrice": "28557",
+        "grossPrice": "22309",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "66/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "31/07/18",
+        "actualArea": "2064",
+        "grossArea": "2865",
+        "price": "140.35",
+        "actualPrice": "68000",
+        "grossPrice": "48988",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "32/F",
+            "add3": "TOWER 2",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "27/07/18",
+        "actualArea": "605",
+        "grossArea": "790",
+        "price": "14.38",
+        "actualPrice": "23769",
+        "grossPrice": "18203",
+        "lat": "22.30958",
+        "lng": "114.16552"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "36/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "27/07/18",
+        "actualArea": "757",
+        "grossArea": "1016",
+        "price": "23.00",
+        "actualPrice": "30383",
+        "grossPrice": "22638",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "8/F",
+            "add3": "TOWER 6",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "23/07/18",
+        "actualArea": "322",
+        "grossArea": "403",
+        "price": "7.08",
+        "actualPrice": "21988",
+        "grossPrice": "17568",
+        "lat": "22.309261",
+        "lng": "114.165925"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "13/F",
+            "add3": "TOWER 6",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "19/07/18",
+        "actualArea": "945",
+        "grossArea": "1168",
+        "price": "25.00",
+        "actualPrice": "26455",
+        "grossPrice": "21404",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "11/F",
+            "add3": "TOWER 1",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "18/07/18",
+        "actualArea": "743",
+        "grossArea": "1035",
+        "price": "23.60",
+        "actualPrice": "31763",
+        "grossPrice": "22802",
+        "lat": "22.3030088814763",
+        "lng": "114.162084185312"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "18/F",
+            "add3": "SUN TOWER (TOWER 1A)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "13/07/18",
+        "actualArea": "960",
+        "grossArea": "1341",
+        "price": "43.98",
+        "actualPrice": "45813",
+        "grossPrice": "32796",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "25/F",
+            "add3": "TOWER 1",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "12/07/18",
+        "actualArea": "1196",
+        "grossArea": "-",
+        "price": "47.00",
+        "actualPrice": "39298",
+        "grossPrice": "-",
+        "lat": "22.30336",
+        "lng": "114.1676"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "15/F",
+            "add3": "TOWER 6",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "11/07/18",
+        "actualArea": "943",
+        "grossArea": "1188",
+        "price": "22.88",
+        "actualPrice": "24263",
+        "grossPrice": "19259",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "60/F",
+            "add3": "TOWER 21 - ZONE 5 (STAR SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "10/07/18",
+        "actualArea": "551",
+        "grossArea": "726",
+        "price": "23.80",
+        "actualPrice": "43194",
+        "grossPrice": "32782",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "35/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "10/07/18",
+        "actualArea": "548",
+        "grossArea": "747",
+        "price": "21.78",
+        "actualPrice": "39745",
+        "grossPrice": "29157",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "25/F",
+            "add3": "TOWER 1",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "10/07/18",
+        "actualArea": "1062",
+        "grossArea": "1445",
+        "price": "39.50",
+        "actualPrice": "37194",
+        "grossPrice": "27336",
+        "lat": "22.3030088814763",
+        "lng": "114.162084185312"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "63/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "10/07/18",
+        "actualArea": "2110",
+        "grossArea": "2919",
+        "price": "126.48",
+        "actualPrice": "59943",
+        "grossPrice": "43330",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "5/F",
+            "add3": "TOWER 2",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "09/07/18",
+        "actualArea": "929",
+        "grossArea": "1207",
+        "price": "21.80",
+        "actualPrice": "23466",
+        "grossPrice": "18061",
+        "lat": "22.30958",
+        "lng": "114.16552"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "63/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "09/07/18",
+        "actualArea": "1977",
+        "grossArea": "2743",
+        "price": "108.37",
+        "actualPrice": "54817",
+        "grossPrice": "39509",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "62/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "09/07/18",
+        "actualArea": "780",
+        "grossArea": "1032",
+        "price": "20.18",
+        "actualPrice": "25872",
+        "grossPrice": "19554",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "53/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "06/07/18",
+        "actualArea": "853",
+        "grossArea": "1131",
+        "price": "27.30",
+        "actualPrice": "32005",
+        "grossPrice": "24138",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "23/F",
+            "add3": "TOWER 21 - ZONE 5 (STAR SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "05/07/18",
+        "actualArea": "798",
+        "grossArea": "1122",
+        "price": "35.38",
+        "actualPrice": "44336",
+        "grossPrice": "31533",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "38/F",
+            "add3": "TOWER 21 - ZONE 5 (STAR SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "05/07/18",
+        "actualArea": "637",
+        "grossArea": "862",
+        "price": "24.00",
+        "actualPrice": "37677",
+        "grossPrice": "27842",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "17/F",
+            "add3": "SKY TOWER (TOWER 1)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "05/07/18",
+        "actualArea": "840",
+        "grossArea": "1101",
+        "price": "34.80",
+        "actualPrice": "41429",
+        "grossPrice": "31608",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "38/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "04/07/18",
+        "actualArea": "534",
+        "grossArea": "722",
+        "price": "22.68",
+        "actualPrice": "42472",
+        "grossPrice": "31413",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "26/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "03/07/18",
+        "actualArea": "772",
+        "grossArea": "1037",
+        "price": "20.00",
+        "actualPrice": "25907",
+        "grossPrice": "19286",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "21/F",
+            "add3": "TOWER 5",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "29/06/18",
+        "actualArea": "1212",
+        "grossArea": "1563",
+        "price": "36.00",
+        "actualPrice": "29703",
+        "grossPrice": "23033",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "30/F",
+            "add3": "TOWER 3",
+            "add4": "PHASE 1",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "29/06/18",
+        "actualArea": "1135",
+        "grossArea": "1479",
+        "price": "33.80",
+        "actualPrice": "29780",
+        "grossPrice": "22853",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "10/F",
+            "add3": "TOWER 5A",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "29/06/18",
+        "actualArea": "580",
+        "grossArea": "-",
+        "price": "12.45",
+        "actualPrice": "21462",
+        "grossPrice": "-",
+        "lat": "22.30336",
+        "lng": "114.1676"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "20/F",
+            "add3": "TOWER 7",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "28/06/18",
+        "actualArea": "478",
+        "grossArea": "621",
+        "price": "10.50",
+        "actualPrice": "21967",
+        "grossPrice": "16908",
+        "lat": "22.309267",
+        "lng": "114.166125"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "42/F",
+            "add3": "TOWER 7",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "28/06/18",
+        "actualArea": "936",
+        "grossArea": "1168",
+        "price": "23.60",
+        "actualPrice": "25214",
+        "grossPrice": "20205",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "12/F",
+            "add3": "TOWER 6",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "28/06/18",
+        "actualArea": "400",
+        "grossArea": "510",
+        "price": "8.68",
+        "actualPrice": "21700",
+        "grossPrice": "17020",
+        "lat": "22.309261",
+        "lng": "114.165925"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "73/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 2",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "25/06/18",
+        "actualArea": "1125",
+        "grossArea": "1445",
+        "price": "30.00",
+        "actualPrice": "26667",
+        "grossPrice": "20761",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "65/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "22/06/18",
+        "actualArea": "755",
+        "grossArea": "998",
+        "price": "23.00",
+        "actualPrice": "30464",
+        "grossPrice": "23046",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "85/F",
+            "add3": "TOWER 20 - ZONE 1 (DIAMOND SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "20/06/18",
+        "actualArea": "1361",
+        "grossArea": "-",
+        "price": "105.18",
+        "actualPrice": "77282",
+        "grossPrice": "-",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "58/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "19/06/18",
+        "actualArea": "2220",
+        "grossArea": "3062",
+        "price": "110.00",
+        "actualPrice": "49550",
+        "grossPrice": "35924",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "9/F",
+            "add3": "TOWER 1",
+            "add4": "PHASE 1",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "15/06/18",
+        "actualArea": "948",
+        "grossArea": "1169",
+        "price": "23.23",
+        "actualPrice": "24504",
+        "grossPrice": "19872",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "29/F",
+            "add3": "TOWER 6",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "15/06/18",
+        "actualArea": "400",
+        "grossArea": "510",
+        "price": "9.03",
+        "actualPrice": "22575",
+        "grossPrice": "17706",
+        "lat": "22.309261",
+        "lng": "114.165925"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "1/F",
+            "add3": "TOWER 1A",
+            "add4": "THE AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "14/06/18",
+        "actualArea": "620",
+        "grossArea": "-",
+        "price": "13.30",
+        "actualPrice": "21452",
+        "grossPrice": "-",
+        "lat": "22.304942",
+        "lng": "114.166875"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "67/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "14/06/18",
+        "actualArea": "1382",
+        "grossArea": "1790",
+        "price": "66.00",
+        "actualPrice": "47757",
+        "grossPrice": "36872",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "85/F",
+            "add3": "TOWER 20 - ZONE 1 (DIAMOND SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "08/06/18",
+        "actualArea": "1396",
+        "grossArea": "-",
+        "price": "92.30",
+        "actualPrice": "66115",
+        "grossPrice": "-",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "35/F",
+            "add3": "TOWER 6",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "08/06/18",
+        "actualArea": "454",
+        "grossArea": "587",
+        "price": "11.00",
+        "actualPrice": "24229",
+        "grossPrice": "18739",
+        "lat": "22.309261",
+        "lng": "114.165925"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "52/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 2",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "08/06/18",
+        "actualArea": "1367",
+        "grossArea": "1805",
+        "price": "44.00",
+        "actualPrice": "32187",
+        "grossPrice": "24377",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "23/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "08/06/18",
+        "actualArea": "625",
+        "grossArea": "848",
+        "price": "16.00",
+        "actualPrice": "25600",
+        "grossPrice": "18868",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "20/F",
+            "add3": "TOWER 6",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "07/06/18",
+        "actualArea": "400",
+        "grossArea": "510",
+        "price": "9.00",
+        "actualPrice": "22500",
+        "grossPrice": "17647",
+        "lat": "22.309261",
+        "lng": "114.165925"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "17/F",
+            "add3": "TOWER 3",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "07/06/18",
+        "actualArea": "794",
+        "grossArea": "1080",
+        "price": "28.52",
+        "actualPrice": "35919",
+        "grossPrice": "26407",
+        "lat": "22.3031081411421",
+        "lng": "114.161259263276"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "37/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "07/06/18",
+        "actualArea": "961",
+        "grossArea": "1274",
+        "price": "30.00",
+        "actualPrice": "31217",
+        "grossPrice": "23548",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "17/F",
+            "add3": "MOON TOWER (TOWER 2A)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "07/06/18",
+        "actualArea": "960",
+        "grossArea": "1341",
+        "price": "38.00",
+        "actualPrice": "39583",
+        "grossPrice": "28337",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "5/F",
+            "add3": "TOWER 3",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "07/06/18",
+        "actualArea": "1614",
+        "grossArea": "2053",
+        "price": "45.88",
+        "actualPrice": "28426",
+        "grossPrice": "22348",
+        "lat": "22.309606",
+        "lng": "114.165567"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "25/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "06/06/18",
+        "actualArea": "400",
+        "grossArea": "530",
+        "price": "16.50",
+        "actualPrice": "41250",
+        "grossPrice": "31132",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "38/F",
+            "add3": "TOWER 1",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "05/06/18",
+        "actualArea": "1051",
+        "grossArea": "1387",
+        "price": "42.30",
+        "actualPrice": "40247",
+        "grossPrice": "30497",
+        "lat": "22.3030088814763",
+        "lng": "114.162084185312"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "38/F",
+            "add3": "SKY TOWER (TOWER 1)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "04/06/18",
+        "actualArea": "846",
+        "grossArea": "1156",
+        "price": "33.00",
+        "actualPrice": "39007",
+        "grossPrice": "28547",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "12/F",
+            "add3": "TOWER 1",
+            "add4": "PHASE 1",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "04/06/18",
+        "actualArea": "1127",
+        "grossArea": "1468",
+        "price": "25.00",
+        "actualPrice": "22183",
+        "grossPrice": "17030",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "25/F",
+            "add3": "TOWER 2",
+            "add4": "PHASE 1",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "01/06/18",
+        "actualArea": "931",
+        "grossArea": "1168",
+        "price": "22.30",
+        "actualPrice": "23953",
+        "grossPrice": "19092",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "26/F",
+            "add3": "TOWER 21 - ZONE 6 (ASTER SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "01/06/18",
+        "actualArea": "672",
+        "grossArea": "886",
+        "price": "24.50",
+        "actualPrice": "36458",
+        "grossPrice": "27652",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "15/F",
+            "add3": "TOWER 5",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "31/05/18",
+        "actualArea": "930",
+        "grossArea": "1211",
+        "price": "26.88",
+        "actualPrice": "28903",
+        "grossPrice": "22197",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "26/F",
+            "add3": "TOWER 1",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "31/05/18",
+        "actualArea": "928",
+        "grossArea": "1207",
+        "price": "25.50",
+        "actualPrice": "27478",
+        "grossPrice": "21127",
+        "lat": "22.309797",
+        "lng": "114.1655"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "22/F",
+            "add3": "TOWER 6",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "30/05/18",
+        "actualArea": "469",
+        "grossArea": "607",
+        "price": "9.00",
+        "actualPrice": "19186",
+        "grossPrice": "14824",
+        "lat": "22.309261",
+        "lng": "114.165925"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "10/F",
+            "add3": "TOWER 7",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "30/05/18",
+        "actualArea": "1074",
+        "grossArea": "1388",
+        "price": "28.00",
+        "actualPrice": "26071",
+        "grossPrice": "20173",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "11/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "29/05/18",
+        "actualArea": "849",
+        "grossArea": "1131",
+        "price": "21.60",
+        "actualPrice": "25442",
+        "grossPrice": "19098",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "36/F",
+            "add3": "TOWER 7",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "25/05/18",
+        "actualArea": "400",
+        "grossArea": "510",
+        "price": "9.00",
+        "actualPrice": "22500",
+        "grossPrice": "17647",
+        "lat": "22.309267",
+        "lng": "114.166125"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "60/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "25/05/18",
+        "actualArea": "548",
+        "grossArea": "760",
+        "price": "21.00",
+        "actualPrice": "38321",
+        "grossPrice": "27632",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "66/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "24/05/18",
+        "actualArea": "2110",
+        "grossArea": "2919",
+        "price": "126.48",
+        "actualPrice": "59943",
+        "grossPrice": "43330",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "22/F",
+            "add3": "TOWER 21 - ZONE 6 (ASTER SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "23/05/18",
+        "actualArea": "664",
+        "grossArea": "882",
+        "price": "27.30",
+        "actualPrice": "41114",
+        "grossPrice": "30952",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "85/F",
+            "add3": "TOWER 21 - ZONE 1 (SUN SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "23/05/18",
+        "actualArea": "1035",
+        "grossArea": "1397",
+        "price": "50.00",
+        "actualPrice": "48309",
+        "grossPrice": "35791",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "85/F",
+            "add3": "TOWER 20 - ZONE 1 (DIAMOND SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "21/05/18",
+        "actualArea": "1451",
+        "grossArea": "-",
+        "price": "110.66",
+        "actualPrice": "76266",
+        "grossPrice": "-",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "25/F",
+            "add3": "TOWER 5",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "21/05/18",
+        "actualArea": "874",
+        "grossArea": "-",
+        "price": "22.00",
+        "actualPrice": "25172",
+        "grossPrice": "-",
+        "lat": "22.30432",
+        "lng": "114.1671"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "25/F",
+            "add3": "TOWER 1",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "21/05/18",
+        "actualArea": "794",
+        "grossArea": "1080",
+        "price": "31.00",
+        "actualPrice": "39043",
+        "grossPrice": "28704",
+        "lat": "22.3030088814763",
+        "lng": "114.162084185312"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "31/F",
+            "add3": "TOWER 2A",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "18/05/18",
+        "actualArea": "595",
+        "grossArea": "-",
+        "price": "18.50",
+        "actualPrice": "31092",
+        "grossPrice": "-",
+        "lat": "22.30336",
+        "lng": "114.1676"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "10/F",
+            "add3": "TOWER 5",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "17/05/18",
+        "actualArea": "513",
+        "grossArea": "676",
+        "price": "11.65",
+        "actualPrice": "22710",
+        "grossPrice": "17234",
+        "lat": "22.309353",
+        "lng": "114.165533"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "83/F",
+            "add3": "TOWER 20 - ZONE 1 (DIAMOND SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "17/05/18",
+        "actualArea": "1396",
+        "grossArea": "-",
+        "price": "87.04",
+        "actualPrice": "62352",
+        "grossPrice": "-",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "83/F",
+            "add3": "TOWER 20 - ZONE 1 (DIAMOND SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "17/05/18",
+        "actualArea": "1361",
+        "grossArea": "-",
+        "price": "93.68",
+        "actualPrice": "68835",
+        "grossPrice": "-",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "68/F",
+            "add3": "BLOCK 1",
+            "add4": "PHASE 2",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "15/05/18",
+        "actualArea": "1124",
+        "grossArea": "1445",
+        "price": "37.28",
+        "actualPrice": "33167",
+        "grossPrice": "25799",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "37/F",
+            "add3": "TOWER 2",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "15/05/18",
+        "actualArea": "1442",
+        "grossArea": "1815",
+        "price": "50.30",
+        "actualPrice": "34882",
+        "grossPrice": "27713",
+        "lat": "22.30958",
+        "lng": "114.16552"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "68/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "15/05/18",
+        "actualArea": "971",
+        "grossArea": "1274",
+        "price": "31.88",
+        "actualPrice": "32832",
+        "grossPrice": "25024",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "23/F",
+            "add3": "TOWER 21 - ZONE 6 (ASTER SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "11/05/18",
+        "actualArea": "644",
+        "grossArea": "883",
+        "price": "25.80",
+        "actualPrice": "40062",
+        "grossPrice": "29219",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "22/F",
+            "add3": "TOWER 1",
+            "add4": "PHASE 1",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "10/05/18",
+        "actualArea": "940",
+        "grossArea": "1168",
+        "price": "18.00",
+        "actualPrice": "19149",
+        "grossPrice": "15411",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "1/F",
+            "add3": "TOWER 3A",
+            "add4": "THE AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "10/05/18",
+        "actualArea": "457",
+        "grossArea": "-",
+        "price": "9.95",
+        "actualPrice": "21772",
+        "grossPrice": "-",
+        "lat": "22.304942",
+        "lng": "114.166875"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "35/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "09/05/18",
+        "actualArea": "1133",
+        "grossArea": "1568",
+        "price": "28.00",
+        "actualPrice": "24713",
+        "grossPrice": "17857",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "31/F",
+            "add3": "TOWER 2",
+            "add4": "PHASE 1",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "09/05/18",
+        "actualArea": "794",
+        "grossArea": "983",
+        "price": "19.95",
+        "actualPrice": "25126",
+        "grossPrice": "20295",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "60/F",
+            "add3": "TOWER 21 - ZONE 2 (LUNA SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "08/05/18",
+        "actualArea": "1281",
+        "grossArea": "1738",
+        "price": "60.00",
+        "actualPrice": "46838",
+        "grossPrice": "34522",
+        "lat": "22.3046071666743",
+        "lng": "114.160686505307"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "82/F",
+            "add3": "TOWER 20 - ZONE 1 (DIAMOND SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "08/05/18",
+        "actualArea": "1361",
+        "grossArea": "-",
+        "price": "85.20",
+        "actualPrice": "62598",
+        "grossPrice": "-",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "27/F",
+            "add3": "TOWER 3",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "08/05/18",
+        "actualArea": "1049",
+        "grossArea": "1454",
+        "price": "40.00",
+        "actualPrice": "38132",
+        "grossPrice": "27510",
+        "lat": "22.3031081411421",
+        "lng": "114.161259263276"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "30/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "07/05/18",
+        "actualArea": "1030",
+        "grossArea": "1427",
+        "price": "30.00",
+        "actualPrice": "29126",
+        "grossPrice": "21023",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "19/F",
+            "add3": "TOWER 21 - ZONE 6 (ASTER SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "04/05/18",
+        "actualArea": "1117",
+        "grossArea": "1533",
+        "price": "41.00",
+        "actualPrice": "36705",
+        "grossPrice": "26745",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "83/F",
+            "add3": "TOWER 20 - ZONE 1 (DIAMOND SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "04/05/18",
+        "actualArea": "1451",
+        "grossArea": "-",
+        "price": "100.74",
+        "actualPrice": "69425",
+        "grossPrice": "-",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "21/F",
+            "add3": "TOWER 5",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "04/05/18",
+        "actualArea": "933",
+        "grossArea": "1210",
+        "price": "21.71",
+        "actualPrice": "23269",
+        "grossPrice": "17942",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "11/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "03/05/18",
+        "actualArea": "802",
+        "grossArea": "1076",
+        "price": "22.00",
+        "actualPrice": "27431",
+        "grossPrice": "20446",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "58/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "02/05/18",
+        "actualArea": "1147",
+        "grossArea": "1589",
+        "price": "40.00",
+        "actualPrice": "34874",
+        "grossPrice": "25173",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "53/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "27/04/18",
+        "actualArea": "1030",
+        "grossArea": "1427",
+        "price": "41.00",
+        "actualPrice": "39806",
+        "grossPrice": "28732",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "18/F",
+            "add3": "TOWER 2",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "23/04/18",
+        "actualArea": "601",
+        "grossArea": "786",
+        "price": "12.85",
+        "actualPrice": "21381",
+        "grossPrice": "16349",
+        "lat": "22.30958",
+        "lng": "114.16552"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "23/F",
+            "add3": "TOWER 20 - ZONE 2 (OCEAN SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "19/04/18",
+        "actualArea": "900",
+        "grossArea": "-",
+        "price": "34.95",
+        "actualPrice": "38833",
+        "grossPrice": "-",
+        "lat": "22.3046071666743",
+        "lng": "114.160686505307"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "16/F",
+            "add3": "TOWER 7",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "19/04/18",
+        "actualArea": "453",
+        "grossArea": "587",
+        "price": "8.90",
+        "actualPrice": "19647",
+        "grossPrice": "15162",
+        "lat": "22.309267",
+        "lng": "114.166125"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "32/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "18/04/18",
+        "actualArea": "803",
+        "grossArea": "1071",
+        "price": "24.00",
+        "actualPrice": "29888",
+        "grossPrice": "22409",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "82/F",
+            "add3": "TOWER 20 - ZONE 1 (DIAMOND SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "11/04/18",
+        "actualArea": "1396",
+        "grossArea": "-",
+        "price": "79.26",
+        "actualPrice": "56773",
+        "grossPrice": "-",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT J",
+            "add2": "33/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "10/04/18",
+        "actualArea": "1123",
+        "grossArea": "1570",
+        "price": "30.00",
+        "actualPrice": "26714",
+        "grossPrice": "19108",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "33/F",
+            "add3": "TOWER 1A",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "06/04/18",
+        "actualArea": "942",
+        "grossArea": "-",
+        "price": "34.80",
+        "actualPrice": "36943",
+        "grossPrice": "-",
+        "lat": "22.30336",
+        "lng": "114.1676"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "20/F",
+            "add3": "TOWER 7",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "06/04/18",
+        "actualArea": "492",
+        "grossArea": "637",
+        "price": "9.25",
+        "actualPrice": "18801",
+        "grossPrice": "14521",
+        "lat": "22.309267",
+        "lng": "114.166125"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "3/F",
+            "add3": "TOWER 1A",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "04/04/18",
+        "actualArea": "594",
+        "grossArea": "-",
+        "price": "13.60",
+        "actualPrice": "22896",
+        "grossPrice": "-",
+        "lat": "22.30336",
+        "lng": "114.1676"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "15/F",
+            "add3": "TOWER 5A",
+            "add4": "THE AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "03/04/18",
+        "actualArea": "661",
+        "grossArea": "-",
+        "price": "17.38",
+        "actualPrice": "26293",
+        "grossPrice": "-",
+        "lat": "22.304942",
+        "lng": "114.166875"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "10/F",
+            "add3": "TOWER 1",
+            "add4": "THE AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "29/03/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "8.30",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.304942",
+        "lng": "114.166875"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "70/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "27/03/18",
+        "actualArea": "971",
+        "grossArea": "1274",
+        "price": "26.00",
+        "actualPrice": "26777",
+        "grossPrice": "20408",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "57/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "26/03/18",
+        "actualArea": "755",
+        "grossArea": "998",
+        "price": "23.16",
+        "actualPrice": "30675",
+        "grossPrice": "23206",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "9/F",
+            "add3": "TOWER 1A",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "21/03/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "13.00",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.30336",
+        "lng": "114.1676"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "25/F",
+            "add3": "TOWER 1A",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "20/03/18",
+        "actualArea": "575",
+        "grossArea": "-",
+        "price": "12.50",
+        "actualPrice": "21739",
+        "grossPrice": "-",
+        "lat": "22.30336",
+        "lng": "114.1676"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "23/F",
+            "add3": "TOWER 1",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "20/03/18",
+        "actualArea": "1062",
+        "grossArea": "1443",
+        "price": "38.88",
+        "actualPrice": "36610",
+        "grossPrice": "26944",
+        "lat": "22.3030088814763",
+        "lng": "114.162084185312"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "31/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "19/03/18",
+        "actualArea": "620",
+        "grossArea": "836",
+        "price": "16.93",
+        "actualPrice": "27306",
+        "grossPrice": "20251",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "26/F",
+            "add3": "TOWER 5A",
+            "add4": "THE AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "19/03/18",
+        "actualArea": "1293",
+        "grossArea": "-",
+        "price": "35.00",
+        "actualPrice": "27069",
+        "grossPrice": "-",
+        "lat": "22.304942",
+        "lng": "114.166875"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "57/F",
+            "add3": "TOWER 2",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "16/03/18",
+        "actualArea": "805",
+        "grossArea": "1070",
+        "price": "26.99",
+        "actualPrice": "33527",
+        "grossPrice": "25223",
+        "lat": "22.3030269051812",
+        "lng": "114.161676580268"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "15/F",
+            "add3": "TOWER 1A",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "16/03/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "14.50",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.30336",
+        "lng": "114.1676"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "23/F",
+            "add3": "TOWER 21 - ZONE 5 (STAR SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "09/03/18",
+        "actualArea": "635",
+        "grossArea": "837",
+        "price": "20.50",
+        "actualPrice": "32283",
+        "grossPrice": "24492",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "8/F",
+            "add3": "TOWER 1",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "09/03/18",
+        "actualArea": "743",
+        "grossArea": "1035",
+        "price": "21.85",
+        "actualPrice": "29408",
+        "grossPrice": "21111",
+        "lat": "22.3030088814763",
+        "lng": "114.162084185312"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "17/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "07/03/18",
+        "actualArea": "867",
+        "grossArea": "1176",
+        "price": "28.50",
+        "actualPrice": "32872",
+        "grossPrice": "24235",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "22/F",
+            "add3": "TOWER 1",
+            "add4": "PHASE 1",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "07/03/18",
+        "actualArea": "948",
+        "grossArea": "1169",
+        "price": "23.00",
+        "actualPrice": "24262",
+        "grossPrice": "19675",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "55/F",
+            "add3": "TOWER 21 - ZONE 5 (STAR SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "06/03/18",
+        "actualArea": "677",
+        "grossArea": "894",
+        "price": "25.88",
+        "actualPrice": "38227",
+        "grossPrice": "28949",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "32/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "02/03/18",
+        "actualArea": "1016",
+        "grossArea": "1410",
+        "price": "32.50",
+        "actualPrice": "31988",
+        "grossPrice": "23050",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "40/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "02/03/18",
+        "actualArea": "1182",
+        "grossArea": "1639",
+        "price": "39.00",
+        "actualPrice": "32995",
+        "grossPrice": "23795",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "68/F",
+            "add3": "TOWER 21 - ZONE 3 (ROYAL SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "01/03/18",
+        "actualArea": "949",
+        "grossArea": "1284",
+        "price": "38.60",
+        "actualPrice": "40674",
+        "grossPrice": "30062",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT L",
+            "add2": "51/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "28/02/18",
+        "actualArea": "1133",
+        "grossArea": "1568",
+        "price": "28.00",
+        "actualPrice": "24713",
+        "grossPrice": "17857",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "72/F",
+            "add3": "TOWER 21 - ZONE 3 (ROYAL SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "28/02/18",
+        "actualArea": "1069",
+        "grossArea": "1454",
+        "price": "40.00",
+        "actualPrice": "37418",
+        "grossPrice": "27510",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "5/F",
+            "add3": "TOWER 5",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "27/02/18",
+        "actualArea": "513",
+        "grossArea": "673",
+        "price": "10.88",
+        "actualPrice": "21209",
+        "grossPrice": "16166",
+        "lat": "22.309353",
+        "lng": "114.165533"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "67/F",
+            "add3": "BLOCK 2",
+            "add4": "PHASE 2",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "27/02/18",
+        "actualArea": "1091",
+        "grossArea": "1398",
+        "price": "28.00",
+        "actualPrice": "25665",
+        "grossPrice": "20029",
+        "lat": "22.2735958702878",
+        "lng": "114.119967397221"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "35/F",
+            "add3": "TOWER 3",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "26/02/18",
+        "actualArea": "1051",
+        "grossArea": "1385",
+        "price": "45.80",
+        "actualPrice": "43578",
+        "grossPrice": "33069",
+        "lat": "22.3031081411421",
+        "lng": "114.161259263276"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "78/F",
+            "add3": "TOWER 21 - ZONE 3 (ROYAL SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "23/02/18",
+        "actualArea": "949",
+        "grossArea": "1284",
+        "price": "39.00",
+        "actualPrice": "41096",
+        "grossPrice": "30374",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "6/F",
+            "add3": "SKY TOWER (TOWER 1)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "21/02/18",
+        "actualArea": "976",
+        "grossArea": "1302",
+        "price": "32.18",
+        "actualPrice": "32971",
+        "grossPrice": "24716",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "30/F",
+            "add3": "TOWER 2",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "21/02/18",
+        "actualArea": "974",
+        "grossArea": "-",
+        "price": "28.00",
+        "actualPrice": "28747",
+        "grossPrice": "-",
+        "lat": "22.30367",
+        "lng": "114.1675"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "48/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "20/02/18",
+        "actualArea": "856",
+        "grossArea": "1125",
+        "price": "22.38",
+        "actualPrice": "26145",
+        "grossPrice": "19893",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "32/F",
+            "add3": "TOWER 6",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "20/02/18",
+        "actualArea": "454",
+        "grossArea": "587",
+        "price": "9.38",
+        "actualPrice": "20661",
+        "grossPrice": "15980",
+        "lat": "22.309261",
+        "lng": "114.165925"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "11/F",
+            "add3": "TOWER 6",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "15/02/18",
+        "actualArea": "943",
+        "grossArea": "1188",
+        "price": "19.80",
+        "actualPrice": "20997",
+        "grossPrice": "16667",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "30/F",
+            "add3": "SKY TOWER (TOWER 1)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "15/02/18",
+        "actualArea": "1955",
+        "grossArea": "2517",
+        "price": "120.00",
+        "actualPrice": "61381",
+        "grossPrice": "47676",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "11/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "14/02/18",
+        "actualArea": "625",
+        "grossArea": "848",
+        "price": "17.00",
+        "actualPrice": "27200",
+        "grossPrice": "20047",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "38/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "14/02/18",
+        "actualArea": "772",
+        "grossArea": "1037",
+        "price": "22.38",
+        "actualPrice": "28990",
+        "grossPrice": "21581",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "23/F",
+            "add3": "TOWER 7",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "14/02/18",
+        "actualArea": "469",
+        "grossArea": "607",
+        "price": "8.38",
+        "actualPrice": "17868",
+        "grossPrice": "13806",
+        "lat": "22.309267",
+        "lng": "114.166125"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "49/F",
+            "add3": "BLOCK 3",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "14/02/18",
+        "actualArea": "633",
+        "grossArea": "848",
+        "price": "19.08",
+        "actualPrice": "30142",
+        "grossPrice": "22500",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "46/F",
+            "add3": "TOWER 2",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "14/02/18",
+        "actualArea": "1054",
+        "grossArea": "1383",
+        "price": "53.00",
+        "actualPrice": "50285",
+        "grossPrice": "38322",
+        "lat": "22.3030269051812",
+        "lng": "114.161676580268"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "32/F",
+            "add3": "TOWER 5",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "13/02/18",
+        "actualArea": "933",
+        "grossArea": "1211",
+        "price": "23.98",
+        "actualPrice": "25702",
+        "grossPrice": "19802",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "60/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "12/02/18",
+        "actualArea": "420",
+        "grossArea": "562",
+        "price": "15.68",
+        "actualPrice": "37333",
+        "grossPrice": "27900",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "37/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "12/02/18",
+        "actualArea": "939",
+        "grossArea": "1304",
+        "price": "26.50",
+        "actualPrice": "28222",
+        "grossPrice": "20322",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "23/F",
+            "add3": "TOWER 5",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "12/02/18",
+        "actualArea": "933",
+        "grossArea": "1211",
+        "price": "21.98",
+        "actualPrice": "23558",
+        "grossPrice": "18150",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "79/F",
+            "add3": "MOON TOWER (TOWER 2A)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "09/02/18",
+        "actualArea": "1023",
+        "grossArea": "1326",
+        "price": "38.00",
+        "actualPrice": "37146",
+        "grossPrice": "28658",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "26/F",
+            "add3": "MOON TOWER (TOWER 2A)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "09/02/18",
+        "actualArea": "962",
+        "grossArea": "1260",
+        "price": "38.30",
+        "actualPrice": "39813",
+        "grossPrice": "30397",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "10/F",
+            "add3": "TOWER 3A",
+            "add4": "THE AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "09/02/18",
+        "actualArea": "419",
+        "grossArea": "-",
+        "price": "10.30",
+        "actualPrice": "24582",
+        "grossPrice": "-",
+        "lat": "22.304942",
+        "lng": "114.166875"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "73/F",
+            "add3": "TOWER 3",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "09/02/18",
+        "actualArea": "818",
+        "grossArea": "1057",
+        "price": "25.00",
+        "actualPrice": "30562",
+        "grossPrice": "23652",
+        "lat": "22.3031081411421",
+        "lng": "114.161259263276"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "35/F",
+            "add3": "TOWER 1",
+            "add4": "PHASE 1",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "08/02/18",
+        "actualArea": "638",
+        "grossArea": "833",
+        "price": "17.68",
+        "actualPrice": "27712",
+        "grossPrice": "21224",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "32/F",
+            "add3": "TOWER 21 - ZONE 6 (ASTER SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "07/02/18",
+        "actualArea": "1117",
+        "grossArea": "1533",
+        "price": "45.00",
+        "actualPrice": "40286",
+        "grossPrice": "29354",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "7/F",
+            "add3": "TOWER 3",
+            "add4": "PHASE 1",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "07/02/18",
+        "actualArea": "934",
+        "grossArea": "1170",
+        "price": "21.30",
+        "actualPrice": "22805",
+        "grossPrice": "18205",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "45/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "06/02/18",
+        "actualArea": "604",
+        "grossArea": "842",
+        "price": "20.70",
+        "actualPrice": "34272",
+        "grossPrice": "24584",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "36/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "05/02/18",
+        "actualArea": "620",
+        "grossArea": "836",
+        "price": "17.00",
+        "actualPrice": "27419",
+        "grossPrice": "20335",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "50/F",
+            "add3": "TOWER 3",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "02/02/18",
+        "actualArea": "1054",
+        "grossArea": "1383",
+        "price": "54.80",
+        "actualPrice": "51992",
+        "grossPrice": "39624",
+        "lat": "22.3031081411421",
+        "lng": "114.161259263276"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "26/F",
+            "add3": "TOWER 7",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "01/02/18",
+        "actualArea": "935",
+        "grossArea": "1168",
+        "price": "21.50",
+        "actualPrice": "22995",
+        "grossPrice": "18408",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "46/F",
+            "add3": "THE MASTERPIECE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "01/02/18",
+        "actualArea": "1182",
+        "grossArea": "1639",
+        "price": "40.68",
+        "actualPrice": "34416",
+        "grossPrice": "24820",
+        "lat": "22.2974105458358",
+        "lng": "114.174040654211"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "25/F",
+            "add3": "TOWER 5",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "31/01/18",
+        "actualArea": "513",
+        "grossArea": "676",
+        "price": "9.80",
+        "actualPrice": "19103",
+        "grossPrice": "14497",
+        "lat": "22.309353",
+        "lng": "114.165533"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "36/F",
+            "add3": "TOWER 21 - ZONE 6 (ASTER SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "30/01/18",
+        "actualArea": "672",
+        "grossArea": "886",
+        "price": "22.60",
+        "actualPrice": "33631",
+        "grossPrice": "25508",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "55/F",
+            "add3": "BLOCK 6",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "29/01/18",
+        "actualArea": "853",
+        "grossArea": "1131",
+        "price": "22.50",
+        "actualPrice": "26377",
+        "grossPrice": "19894",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "30/F",
+            "add3": "SUN TOWER (TOWER 1A)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "29/01/18",
+        "actualArea": "420",
+        "grossArea": "602",
+        "price": "13.80",
+        "actualPrice": "32857",
+        "grossPrice": "22924",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "57/F",
+            "add3": "TOWER 21 - ZONE 5 (STAR SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "26/01/18",
+        "actualArea": "535",
+        "grossArea": "712",
+        "price": "19.40",
+        "actualPrice": "36262",
+        "grossPrice": "27247",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "38/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "25/01/18",
+        "actualArea": "420",
+        "grossArea": "562",
+        "price": "14.88",
+        "actualPrice": "35429",
+        "grossPrice": "26477",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "55/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "25/01/18",
+        "actualArea": "853",
+        "grossArea": "1131",
+        "price": "25.54",
+        "actualPrice": "29939",
+        "grossPrice": "22580",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "26/F",
+            "add3": "TOWER 2",
+            "add4": "PHASE 1",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "24/01/18",
+        "actualArea": "941",
+        "grossArea": "1188",
+        "price": "22.00",
+        "actualPrice": "23379",
+        "grossPrice": "18519",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "23/F",
+            "add3": "TOWER 6",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "23/01/18",
+        "actualArea": "466",
+        "grossArea": "603",
+        "price": "8.88",
+        "actualPrice": "19056",
+        "grossPrice": "14726",
+        "lat": "22.309261",
+        "lng": "114.165925"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "18/F",
+            "add3": "TOWER 1A",
+            "add4": "GRAND AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "23/01/18",
+        "actualArea": "540",
+        "grossArea": "-",
+        "price": "14.30",
+        "actualPrice": "26481",
+        "grossPrice": "-",
+        "lat": "22.30336",
+        "lng": "114.1676"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "21/F",
+            "add3": "TOWER 3",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "22/01/18",
+        "actualArea": "1195",
+        "grossArea": "1558",
+        "price": "30.00",
+        "actualPrice": "25105",
+        "grossPrice": "19255",
+        "lat": "22.309606",
+        "lng": "114.165567"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "50/F",
+            "add3": "TOWER 2",
+            "add4": "THE HARBOURSIDE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "15",
+        "date": "19/01/18",
+        "actualArea": "1054",
+        "grossArea": "1383",
+        "price": "40.00",
+        "actualPrice": "37951",
+        "grossPrice": "28923",
+        "lat": "22.3030269051812",
+        "lng": "114.161676580268"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "43/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "16/01/18",
+        "actualArea": "755",
+        "grossArea": "998",
+        "price": "20.00",
+        "actualPrice": "26490",
+        "grossPrice": "20040",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "5/F",
+            "add3": "TOWER 5A",
+            "add4": "THE AUSTIN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "12/01/18",
+        "actualArea": "890",
+        "grossArea": "-",
+        "price": "21.00",
+        "actualPrice": "23596",
+        "grossPrice": "-",
+        "lat": "22.304942",
+        "lng": "114.166875"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "27/F",
+            "add3": "TOWER 6",
+            "add4": "THE CORONATION",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "11/01/18",
+        "actualArea": "454",
+        "grossArea": "587",
+        "price": "8.40",
+        "actualPrice": "18502",
+        "grossPrice": "14310",
+        "lat": "22.309261",
+        "lng": "114.165925"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "43/F",
+            "add3": "TOWER 6",
+            "add4": "PHASE 2",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "09/01/18",
+        "actualArea": "963",
+        "grossArea": "1188",
+        "price": "19.15",
+        "actualPrice": "19886",
+        "grossPrice": "16120",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "25/F",
+            "add3": "TOWER 21 - ZONE 5 (STAR SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "09/01/18",
+        "actualArea": "637",
+        "grossArea": "864",
+        "price": "19.50",
+        "actualPrice": "30612",
+        "grossPrice": "22569",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "31/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "09/01/18",
+        "actualArea": "847",
+        "grossArea": "1131",
+        "price": "23.23",
+        "actualPrice": "27426",
+        "grossPrice": "20539",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "53/F",
+            "add3": "BLOCK 5",
+            "add4": "PHASE 1",
+            "add5": "SORRENTO"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "09/01/18",
+        "actualArea": "633",
+        "grossArea": "848",
+        "price": "16.28",
+        "actualPrice": "25719",
+        "grossPrice": "19198",
+        "lat": "22.3067565280431",
+        "lng": "114.16147237095"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "39/F",
+            "add3": "STAR TOWER (TOWER 2)",
+            "add4": "THE ARCH",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "13",
+        "date": "08/01/18",
+        "actualArea": "420",
+        "grossArea": "558",
+        "price": "14.88",
+        "actualPrice": "35429",
+        "grossPrice": "26667",
+        "lat": "22.3033882721198",
+        "lng": "114.163287548372"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "8/F",
+            "add3": "TOWER 1",
+            "add4": "PHASE 1",
+            "add5": "THE WATERFRONT"
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "08/01/18",
+        "actualArea": "638",
+        "grossArea": "833",
+        "price": "14.50",
+        "actualPrice": "22727",
+        "grossPrice": "17407",
+        "lat": "22.3045080114664",
+        "lng": "114.162627504556"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "30/F",
+            "add3": "TOWER 21 - ZONE 6 (ASTER SKY)",
+            "add4": "THE CULLINAN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Station",
+        "bRegion": "KLN",
+        "age": "11",
+        "date": "03/01/18",
+        "actualArea": "1117",
+        "grossArea": "1533",
+        "price": "40.30",
+        "actualPrice": "36079",
+        "grossPrice": "26288",
+        "lat": "22.3054560831463",
+        "lng": "114.161084312942"
+    }
+]

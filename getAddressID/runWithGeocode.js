@@ -37,7 +37,7 @@ async function editAddJson(data) {
     let adds = await JSON.parse(data);
     let count = await adds.length
     for (let i = 0; i < count; i++) {
-        if (adds[i].lat == "noLat" || adds[i].lat == "22.396428" && adds[i].lng == "114.109497") {
+        if (adds[i].lat == "noLat" || adds[i].lat == "22.396428" && adds[i].lng == "114.109497" || adds[i].lat == "22.29406" && adds[i].lng == "114.2721") {
             let location = await Object.values(adds[i]["address"]).filter((el) => el != "").slice(-2)
             location.push("HONG KONG")
             location = location.join(" ")
@@ -80,4 +80,4 @@ function cool(fileName) {
 }
 
 
-cool("NTE2018_308")
+cool("KLN2018_209")
