@@ -1,0 +1,3122 @@
+[
+    {
+        "address": {
+            "add1": "NO. 30A",
+            "add2": "3/F",
+            "add3": "30A WHAMPOA STREET",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "61",
+        "date": "28/11/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "3.30",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.3058991768801",
+        "lng": "114.184259888329"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "15/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "26/11/18",
+        "actualArea": "221",
+        "grossArea": "340",
+        "price": "4.30",
+        "actualPrice": "19457",
+        "grossPrice": "12647",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "17/F",
+            "add3": "LA LUMIERE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "26/11/18",
+        "actualArea": "429",
+        "grossArea": "-",
+        "price": "7.68",
+        "actualPrice": "17902",
+        "grossPrice": "-",
+        "lat": "22.309503",
+        "lng": "114.186889"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "7/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "26/11/18",
+        "actualArea": "221",
+        "grossArea": "340",
+        "price": "4.60",
+        "actualPrice": "20805",
+        "grossPrice": "13524",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3",
+            "add2": "7/F",
+            "add3": "FUNG YI COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "22/11/18",
+        "actualArea": "296",
+        "grossArea": "-",
+        "price": "3.90",
+        "actualPrice": "13176",
+        "grossPrice": "-",
+        "lat": "22.3060616159802",
+        "lng": "114.186395007237"
+    },
+    {
+        "address": {
+            "add1": "FLAT 10",
+            "add2": "10/F",
+            "add3": "BLOCK A",
+            "add4": "LUX THEATRE BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "22/11/18",
+        "actualArea": "360",
+        "grossArea": "-",
+        "price": "1.80",
+        "actualPrice": "5000",
+        "grossPrice": "-",
+        "lat": "22.3064228628342",
+        "lng": "114.186006828967"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "9/F",
+            "add3": "WAH BO BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "34",
+        "date": "16/11/18",
+        "actualArea": "191",
+        "grossArea": "275",
+        "price": "3.15",
+        "actualPrice": "16492",
+        "grossPrice": "11455",
+        "lat": "22.3063415438944",
+        "lng": "114.186744408685"
+    },
+    {
+        "address": {
+            "add1": "FLAT 8",
+            "add2": "6/F",
+            "add3": "FUNG YI COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "15/11/18",
+        "actualArea": "287",
+        "grossArea": "-",
+        "price": "3.75",
+        "actualPrice": "13066",
+        "grossPrice": "-",
+        "lat": "22.3060616159802",
+        "lng": "114.186395007237"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "5/F",
+            "add3": "TOWER 1",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "14/11/18",
+        "actualArea": "364",
+        "grossArea": "483",
+        "price": "6.35",
+        "actualPrice": "17445",
+        "grossPrice": "13147",
+        "lat": "22.311167",
+        "lng": "114.186003"
+    },
+    {
+        "address": {
+            "add1": "FLAT 1",
+            "add2": "2/F",
+            "add3": "HUNG KING COURT (BLOCK F)",
+            "add4": "HUNG HOM BAY CENTRE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "39",
+        "date": "02/11/18",
+        "actualArea": "411",
+        "grossArea": "500",
+        "price": "6.95",
+        "actualPrice": "16910",
+        "grossPrice": "13900",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "17/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "02/11/18",
+        "actualArea": "245",
+        "grossArea": "349",
+        "price": "5.18",
+        "actualPrice": "21143",
+        "grossPrice": "14842",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "28/F",
+            "add3": "TOWER 2",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "01/11/18",
+        "actualArea": "1262",
+        "grossArea": "1662",
+        "price": "27.00",
+        "actualPrice": "21395",
+        "grossPrice": "16245",
+        "lat": "22.310953",
+        "lng": "114.186472"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "18/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "22/10/18",
+        "actualArea": "410",
+        "grossArea": "592",
+        "price": "7.38",
+        "actualPrice": "18000",
+        "grossPrice": "12466",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT 5",
+            "add2": "9/F",
+            "add3": "BLOCK A",
+            "add4": "LUX THEATRE BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "04/10/18",
+        "actualArea": "379",
+        "grossArea": "-",
+        "price": "1.92",
+        "actualPrice": "5066",
+        "grossPrice": "-",
+        "lat": "22.3064228628342",
+        "lng": "114.186006828967"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "16/F",
+            "add3": "METRO6",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "3",
+        "date": "03/10/18",
+        "actualArea": "413",
+        "grossArea": "-",
+        "price": "8.20",
+        "actualPrice": "19855",
+        "grossPrice": "-",
+        "lat": "22.307478",
+        "lng": "114.184972"
+    },
+    {
+        "address": {
+            "add1": "FLAT 7",
+            "add2": "6/F",
+            "add3": "YIN ON COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "28/09/18",
+        "actualArea": "287",
+        "grossArea": "420",
+        "price": "3.80",
+        "actualPrice": "13240",
+        "grossPrice": "9048",
+        "lat": "22.3059261636603",
+        "lng": "114.186278537562"
+    },
+    {
+        "address": {
+            "add1": "NO. 2 (FLAT A)",
+            "add2": "5/F",
+            "add3": "2 BULKELEY STREET",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "62",
+        "date": "28/09/18",
+        "actualArea": "254",
+        "grossArea": "-",
+        "price": "1.98",
+        "actualPrice": "7795",
+        "grossPrice": "-",
+        "lat": "22.3068202373199",
+        "lng": "114.185502189769"
+    },
+    {
+        "address": {
+            "add1": "FLAT 9",
+            "add2": "13/F",
+            "add3": "BLOCK C",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "24/09/18",
+        "actualArea": "423",
+        "grossArea": "-",
+        "price": "5.17",
+        "actualPrice": "12217",
+        "grossPrice": "-",
+        "lat": "22.3062874371275",
+        "lng": "114.185395401181"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "28/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "18/09/18",
+        "actualArea": "221",
+        "grossArea": "340",
+        "price": "4.88",
+        "actualPrice": "22081",
+        "grossPrice": "14353",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT 4",
+            "add2": "1/F",
+            "add3": "HUNG LIN COURT (BLOCK C)",
+            "add4": "HUNG HOM BAY CENTRE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "39",
+        "date": "14/09/18",
+        "actualArea": "411",
+        "grossArea": "500",
+        "price": "6.95",
+        "actualPrice": "16910",
+        "grossPrice": "13900",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT 18",
+            "add2": "8/F",
+            "add3": "FUNG YI COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "05/09/18",
+        "actualArea": "309",
+        "grossArea": "-",
+        "price": "4.50",
+        "actualPrice": "14563",
+        "grossPrice": "-",
+        "lat": "22.3060616159802",
+        "lng": "114.186395007237"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "10/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "04/09/18",
+        "actualArea": "321",
+        "grossArea": "446",
+        "price": "6.00",
+        "actualPrice": "18692",
+        "grossPrice": "13453",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "17/F",
+            "add3": "METRO6",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "3",
+        "date": "29/08/18",
+        "actualArea": "420",
+        "grossArea": "-",
+        "price": "8.00",
+        "actualPrice": "19048",
+        "grossPrice": "-",
+        "lat": "22.307478",
+        "lng": "114.184972"
+    },
+    {
+        "address": {
+            "add1": "FLAT 18",
+            "add2": "3/F",
+            "add3": "FUNG YI COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "24/08/18",
+        "actualArea": "309",
+        "grossArea": "330",
+        "price": "4.00",
+        "actualPrice": "12945",
+        "grossPrice": "12121",
+        "lat": "22.3060616159802",
+        "lng": "114.186395007237"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "25/F",
+            "add3": "LA LUMIERE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "20/08/18",
+        "actualArea": "429",
+        "grossArea": "-",
+        "price": "8.78",
+        "actualPrice": "20466",
+        "grossPrice": "-",
+        "lat": "22.309503",
+        "lng": "114.186889"
+    },
+    {
+        "address": {
+            "add1": "FLAT 8",
+            "add2": "4/F",
+            "add3": "BLOCK C",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "17/08/18",
+        "actualArea": "445",
+        "grossArea": "-",
+        "price": "5.05",
+        "actualPrice": "11348",
+        "grossPrice": "-",
+        "lat": "22.3062874371275",
+        "lng": "114.185395401181"
+    },
+    {
+        "address": {
+            "add1": "FLAT 2",
+            "add2": "11/F",
+            "add3": "BLOCK A",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "15/08/18",
+        "actualArea": "398",
+        "grossArea": "-",
+        "price": "4.00",
+        "actualPrice": "10050",
+        "grossPrice": "-",
+        "lat": "22.3066937998711",
+        "lng": "114.185667168501"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "15/F",
+            "add3": "BILLION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "24",
+        "date": "14/08/18",
+        "actualArea": "384",
+        "grossArea": "597",
+        "price": "6.00",
+        "actualPrice": "15625",
+        "grossPrice": "10050",
+        "lat": "22.3066305304657",
+        "lng": "114.186627968052"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "5/F",
+            "add3": "TOWER 2",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "13/08/18",
+        "actualArea": "550",
+        "grossArea": "737",
+        "price": "9.50",
+        "actualPrice": "17273",
+        "grossPrice": "12890",
+        "lat": "22.310953",
+        "lng": "114.186472"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "23/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "13/08/18",
+        "actualArea": "227",
+        "grossArea": "324",
+        "price": "4.73",
+        "actualPrice": "20837",
+        "grossPrice": "14599",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT 5",
+            "add2": "7/F",
+            "add3": "FUNG YI COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "07/08/18",
+        "actualArea": "283",
+        "grossArea": "-",
+        "price": "4.00",
+        "actualPrice": "14134",
+        "grossPrice": "-",
+        "lat": "22.3060616159802",
+        "lng": "114.186395007237"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "35/F",
+            "add3": "TOWER 1",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "30/07/18",
+        "actualArea": "1616",
+        "grossArea": "2080",
+        "price": "35.00",
+        "actualPrice": "21658",
+        "grossPrice": "16827",
+        "lat": "22.311167",
+        "lng": "114.186003"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "12/F",
+            "add3": "LA LUMIERE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "30/07/18",
+        "actualArea": "429",
+        "grossArea": "-",
+        "price": "8.35",
+        "actualPrice": "19464",
+        "grossPrice": "-",
+        "lat": "22.309503",
+        "lng": "114.186889"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "20/F",
+            "add3": "METRO6",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "3",
+        "date": "30/07/18",
+        "actualArea": "420",
+        "grossArea": "-",
+        "price": "8.60",
+        "actualPrice": "20476",
+        "grossPrice": "-",
+        "lat": "22.307478",
+        "lng": "114.184972"
+    },
+    {
+        "address": {
+            "add1": "NO. 21B",
+            "add2": "7/F",
+            "add3": "21B WHAMPOA STREET",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "61",
+        "date": "30/07/18",
+        "actualArea": "583",
+        "grossArea": "-",
+        "price": "9.00",
+        "actualPrice": "15437",
+        "grossPrice": "-",
+        "lat": "22.3058991768801",
+        "lng": "114.184259888329"
+    },
+    {
+        "address": {
+            "add1": "FLAT 10",
+            "add2": "1/F",
+            "add3": "HUNG WAN COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "30/07/18",
+        "actualArea": "287",
+        "grossArea": "-",
+        "price": "3.88",
+        "actualPrice": "13519",
+        "grossPrice": "-",
+        "lat": "22.3057816800962",
+        "lng": "114.186171772539"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "26/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "27/07/18",
+        "actualArea": "381",
+        "grossArea": "546",
+        "price": "7.32",
+        "actualPrice": "19213",
+        "grossPrice": "13407",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "27/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "27/07/18",
+        "actualArea": "245",
+        "grossArea": "349",
+        "price": "5.25",
+        "actualPrice": "21429",
+        "grossPrice": "15043",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "NO. 46",
+            "add2": "2/F",
+            "add3": "46 GILLIES AVENUE SOUTH",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "62",
+        "date": "24/07/18",
+        "actualArea": "703",
+        "grossArea": "-",
+        "price": "7.00",
+        "actualPrice": "9957",
+        "grossPrice": "-",
+        "lat": "22.3071814989152",
+        "lng": "114.184774327758"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3",
+            "add2": "4/F",
+            "add3": "HUNG LIN COURT (BLOCK C)",
+            "add4": "HUNG HOM BAY CENTRE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "39",
+        "date": "24/07/18",
+        "actualArea": "411",
+        "grossArea": "500",
+        "price": "7.15",
+        "actualPrice": "17397",
+        "grossPrice": "14300",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT 13",
+            "add2": "1/F",
+            "add3": "BLOCK A",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "23/07/18",
+        "actualArea": "290",
+        "grossArea": "318",
+        "price": "3.55",
+        "actualPrice": "12241",
+        "grossPrice": "11164",
+        "lat": "22.3066937998711",
+        "lng": "114.185667168501"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "9/F",
+            "add3": "METRO6",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "3",
+        "date": "20/07/18",
+        "actualArea": "410",
+        "grossArea": "-",
+        "price": "7.82",
+        "actualPrice": "19073",
+        "grossPrice": "-",
+        "lat": "22.307478",
+        "lng": "114.184972"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "12/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "20/07/18",
+        "actualArea": "384",
+        "grossArea": "550",
+        "price": "7.13",
+        "actualPrice": "18568",
+        "grossPrice": "12964",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT 6",
+            "add2": "8/F",
+            "add3": "YIN ON COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "17/07/18",
+        "actualArea": "287",
+        "grossArea": "-",
+        "price": "3.00",
+        "actualPrice": "10453",
+        "grossPrice": "-",
+        "lat": "22.3059261636603",
+        "lng": "114.186278537562"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "26/F",
+            "add3": "LA LUMIERE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "12/07/18",
+        "actualArea": "431",
+        "grossArea": "-",
+        "price": "8.52",
+        "actualPrice": "19768",
+        "grossPrice": "-",
+        "lat": "22.309503",
+        "lng": "114.186889"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "35/F",
+            "add3": "TOWER 2",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "09/07/18",
+        "actualArea": "1045",
+        "grossArea": "1344",
+        "price": "21.20",
+        "actualPrice": "20287",
+        "grossPrice": "15774",
+        "lat": "22.310953",
+        "lng": "114.186472"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "21/F",
+            "add3": "TOWER 2",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "05/07/18",
+        "actualArea": "364",
+        "grossArea": "482",
+        "price": "7.40",
+        "actualPrice": "20330",
+        "grossPrice": "15353",
+        "lat": "22.310953",
+        "lng": "114.186472"
+    },
+    {
+        "address": {
+            "add1": "REAR",
+            "add2": "1/F",
+            "add3": "40 GILLIES AVENUE SOUTH",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "62",
+        "date": "05/07/18",
+        "actualArea": "481",
+        "grossArea": "-",
+        "price": "8.43",
+        "actualPrice": "17526",
+        "grossPrice": "-",
+        "lat": "22.3070099239591",
+        "lng": "114.184638446478"
+    },
+    {
+        "address": {
+            "add1": "FRONT",
+            "add2": "1/F",
+            "add3": "40 GILLIES AVENUE SOUTH",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "62",
+        "date": "05/07/18",
+        "actualArea": "728",
+        "grossArea": "-",
+        "price": "13.14",
+        "actualPrice": "18049",
+        "grossPrice": "-",
+        "lat": "22.3070099239591",
+        "lng": "114.184638446478"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "12/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "03/07/18",
+        "actualArea": "221",
+        "grossArea": "340",
+        "price": "4.50",
+        "actualPrice": "20362",
+        "grossPrice": "13235",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "11/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "03/07/18",
+        "actualArea": "241",
+        "grossArea": "347",
+        "price": "4.95",
+        "actualPrice": "20539",
+        "grossPrice": "14265",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "REAR",
+            "add2": "3/F",
+            "add3": "34 GILLIES AVENUE SOUTH",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "62",
+        "date": "03/07/18",
+        "actualArea": "481",
+        "grossArea": "-",
+        "price": "8.74",
+        "actualPrice": "18162",
+        "grossPrice": "-",
+        "lat": "22.3068834996545",
+        "lng": "114.184551093515"
+    },
+    {
+        "address": {
+            "add1": "FRONT",
+            "add2": "4/F",
+            "add3": "40 GILLIES AVENUE SOUTH",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "62",
+        "date": "03/07/18",
+        "actualArea": "728",
+        "grossArea": "-",
+        "price": "13.37",
+        "actualPrice": "18365",
+        "grossPrice": "-",
+        "lat": "22.3070099239591",
+        "lng": "114.184638446478"
+    },
+    {
+        "address": {
+            "add1": "NO. 90",
+            "add2": "3/F",
+            "add3": "90 BAKER STREET",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "61",
+        "date": "03/07/18",
+        "actualArea": "610",
+        "grossArea": "-",
+        "price": "8.50",
+        "actualPrice": "13934",
+        "grossPrice": "-",
+        "lat": "22.3067119139191",
+        "lng": "114.184638429908"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "27/F",
+            "add3": "KELLET COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "10",
+        "date": "29/06/18",
+        "actualArea": "-",
+        "grossArea": "518",
+        "price": "4.86",
+        "actualPrice": "-",
+        "grossPrice": "9373",
+        "lat": "22.3074886234311",
+        "lng": "114.182823610885"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "15/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "28/06/18",
+        "actualArea": "245",
+        "grossArea": "349",
+        "price": "4.50",
+        "actualPrice": "18367",
+        "grossPrice": "12894",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "8/F",
+            "add3": "TOWER 1",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "25/06/18",
+        "actualArea": "300",
+        "grossArea": "392",
+        "price": "5.98",
+        "actualPrice": "19933",
+        "grossPrice": "15255",
+        "lat": "22.311167",
+        "lng": "114.186003"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "23/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "22/06/18",
+        "actualArea": "321",
+        "grossArea": "446",
+        "price": "6.00",
+        "actualPrice": "18692",
+        "grossPrice": "13453",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "30/F",
+            "add3": "TOWER 1",
+            "add4": "HOMANTIN HILLSIDE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "21/06/18",
+        "actualArea": "1002",
+        "grossArea": "-",
+        "price": "37.32",
+        "actualPrice": "37250",
+        "grossPrice": "-",
+        "lat": "22.312032",
+        "lng": "114.185182"
+    },
+    {
+        "address": {
+            "add1": "FLAT 4",
+            "add2": "1/F",
+            "add3": "YIN ON COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "19/06/18",
+        "actualArea": "282",
+        "grossArea": "-",
+        "price": "3.99",
+        "actualPrice": "14149",
+        "grossPrice": "-",
+        "lat": "22.3059261636603",
+        "lng": "114.186278537562"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "21/F",
+            "add3": "TOWER 2",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "14/06/18",
+        "actualArea": "737",
+        "grossArea": "985",
+        "price": "14.00",
+        "actualPrice": "18996",
+        "grossPrice": "14213",
+        "lat": "22.310953",
+        "lng": "114.186472"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "25/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "12/06/18",
+        "actualArea": "245",
+        "grossArea": "349",
+        "price": "4.60",
+        "actualPrice": "18776",
+        "grossPrice": "13181",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "27/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "12/06/18",
+        "actualArea": "224",
+        "grossArea": "320",
+        "price": "4.60",
+        "actualPrice": "20536",
+        "grossPrice": "14375",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "21/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "11/06/18",
+        "actualArea": "241",
+        "grossArea": "367",
+        "price": "5.00",
+        "actualPrice": "20747",
+        "grossPrice": "13624",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "26/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "11/06/18",
+        "actualArea": "245",
+        "grossArea": "349",
+        "price": "5.10",
+        "actualPrice": "20816",
+        "grossPrice": "14613",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "30/F",
+            "add3": "TOWER 2",
+            "add4": "HOMANTIN HILLSIDE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "11/06/18",
+        "actualArea": "1313",
+        "grossArea": "-",
+        "price": "47.69",
+        "actualPrice": "36318",
+        "grossPrice": "-",
+        "lat": "22.31225",
+        "lng": "114.185324"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "22/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "08/06/18",
+        "actualArea": "237",
+        "grossArea": "356",
+        "price": "4.80",
+        "actualPrice": "20253",
+        "grossPrice": "13483",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT 8",
+            "add2": "9/F",
+            "add3": "HUNG WAN COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "08/06/18",
+        "actualArea": "287",
+        "grossArea": "-",
+        "price": "3.30",
+        "actualPrice": "11498",
+        "grossPrice": "-",
+        "lat": "22.3057816800962",
+        "lng": "114.186171772539"
+    },
+    {
+        "address": {
+            "add1": "FLAT 18",
+            "add2": "12/F",
+            "add3": "YIN ON COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "06/06/18",
+        "actualArea": "370",
+        "grossArea": "-",
+        "price": "4.90",
+        "actualPrice": "13243",
+        "grossPrice": "-",
+        "lat": "22.3059261636603",
+        "lng": "114.186278537562"
+    },
+    {
+        "address": {
+            "add1": "FLAT 6",
+            "add2": "12/F",
+            "add3": "FUNG YI COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "06/06/18",
+        "actualArea": "287",
+        "grossArea": "-",
+        "price": "4.25",
+        "actualPrice": "14808",
+        "grossPrice": "-",
+        "lat": "22.3060616159802",
+        "lng": "114.186395007237"
+    },
+    {
+        "address": {
+            "add1": "FLAT 14",
+            "add2": "11/F",
+            "add3": "HUNG WAN COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "04/06/18",
+        "actualArea": "287",
+        "grossArea": "-",
+        "price": "4.05",
+        "actualPrice": "14111",
+        "grossPrice": "-",
+        "lat": "22.3057816800962",
+        "lng": "114.186171772539"
+    },
+    {
+        "address": {
+            "add1": "FLAT 7",
+            "add2": "4/F",
+            "add3": "HUNG WAN COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "30/05/18",
+        "actualArea": "287",
+        "grossArea": "-",
+        "price": "4.03",
+        "actualPrice": "14035",
+        "grossPrice": "-",
+        "lat": "22.3057816800962",
+        "lng": "114.186171772539"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "27/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "30/05/18",
+        "actualArea": "241",
+        "grossArea": "367",
+        "price": "4.70",
+        "actualPrice": "19502",
+        "grossPrice": "12807",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "7/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "29/05/18",
+        "actualArea": "307",
+        "grossArea": "426",
+        "price": "5.80",
+        "actualPrice": "18893",
+        "grossPrice": "13615",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "26/F",
+            "add3": "KELLET COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "10",
+        "date": "28/05/18",
+        "actualArea": "-",
+        "grossArea": "518",
+        "price": "4.58",
+        "actualPrice": "-",
+        "grossPrice": "8842",
+        "lat": "22.3074886234311",
+        "lng": "114.182823610885"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3",
+            "add2": "14/F",
+            "add3": "HUNG LEE COURT (BLOCK E)",
+            "add4": "HUNG HOM BAY CENTRE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "39",
+        "date": "28/05/18",
+        "actualArea": "411",
+        "grossArea": "500",
+        "price": "7.32",
+        "actualPrice": "17810",
+        "grossPrice": "14640",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT 1",
+            "add2": "12/F",
+            "add3": "HUNG WAN COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "28/05/18",
+        "actualArea": "309",
+        "grossArea": "480",
+        "price": "4.30",
+        "actualPrice": "13916",
+        "grossPrice": "8958",
+        "lat": "22.3057816800962",
+        "lng": "114.186171772539"
+    },
+    {
+        "address": {
+            "add1": "FLAT 13",
+            "add2": "5/F",
+            "add3": "HUNG WAN COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "25/05/18",
+        "actualArea": "287",
+        "grossArea": "-",
+        "price": "4.28",
+        "actualPrice": "14913",
+        "grossPrice": "-",
+        "lat": "22.3057816800962",
+        "lng": "114.186171772539"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "10/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "21/05/18",
+        "actualArea": "245",
+        "grossArea": "349",
+        "price": "4.08",
+        "actualPrice": "16653",
+        "grossPrice": "11691",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT 6",
+            "add2": "9/F",
+            "add3": "LUNG TO COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "21/05/18",
+        "actualArea": "287",
+        "grossArea": "385",
+        "price": "3.70",
+        "actualPrice": "12892",
+        "grossPrice": "9610",
+        "lat": "22.3062151299993",
+        "lng": "114.186501773324"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "10/F",
+            "add3": "METRO6",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "3",
+        "date": "18/05/18",
+        "actualArea": "410",
+        "grossArea": "-",
+        "price": "7.55",
+        "actualPrice": "18415",
+        "grossPrice": "-",
+        "lat": "22.307478",
+        "lng": "114.184972"
+    },
+    {
+        "address": {
+            "add1": "FLAT 7",
+            "add2": "11/F",
+            "add3": "FUNG YI COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "17/05/18",
+        "actualArea": "287",
+        "grossArea": "-",
+        "price": "4.00",
+        "actualPrice": "13937",
+        "grossPrice": "-",
+        "lat": "22.3060616159802",
+        "lng": "114.186395007237"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "2/F",
+            "add3": "LA LUMIERE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "16/05/18",
+        "actualArea": "429",
+        "grossArea": "-",
+        "price": "8.18",
+        "actualPrice": "19068",
+        "grossPrice": "-",
+        "lat": "22.309503",
+        "lng": "114.186889"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "28/F",
+            "add3": "TOWER 1",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "15/05/18",
+        "actualArea": "1262",
+        "grossArea": "1662",
+        "price": "20.00",
+        "actualPrice": "15848",
+        "grossPrice": "12034",
+        "lat": "22.311167",
+        "lng": "114.186003"
+    },
+    {
+        "address": {
+            "add1": "FLAT 6",
+            "add2": "15/F",
+            "add3": "BLOCK C",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "15/05/18",
+        "actualArea": "386",
+        "grossArea": "-",
+        "price": "3.68",
+        "actualPrice": "9534",
+        "grossPrice": "-",
+        "lat": "22.3062874371275",
+        "lng": "114.185395401181"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3",
+            "add2": "12/F",
+            "add3": "HUNG HONG COURT (BLOCK A)",
+            "add4": "HUNG HOM BAY CENTRE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "39",
+        "date": "10/05/18",
+        "actualArea": "953",
+        "grossArea": "1090",
+        "price": "13.68",
+        "actualPrice": "14355",
+        "grossPrice": "12550",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "11/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "09/05/18",
+        "actualArea": "237",
+        "grossArea": "356",
+        "price": "4.48",
+        "actualPrice": "18903",
+        "grossPrice": "12584",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "10/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "07/05/18",
+        "actualArea": "384",
+        "grossArea": "550",
+        "price": "6.93",
+        "actualPrice": "18047",
+        "grossPrice": "12600",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT 17",
+            "add2": "1/F",
+            "add3": "HUNG WAN COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "26/04/18",
+        "actualArea": "291",
+        "grossArea": "-",
+        "price": "4.20",
+        "actualPrice": "14433",
+        "grossPrice": "-",
+        "lat": "22.3057816800962",
+        "lng": "114.186171772539"
+    },
+    {
+        "address": {
+            "add1": "FLAT 9",
+            "add2": "2/F",
+            "add3": "YIN ON COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "26/04/18",
+        "actualArea": "287",
+        "grossArea": "-",
+        "price": "3.80",
+        "actualPrice": "13240",
+        "grossPrice": "-",
+        "lat": "22.3059261636603",
+        "lng": "114.186278537562"
+    },
+    {
+        "address": {
+            "add1": "FLAT 2",
+            "add2": "4/F",
+            "add3": "LUNG TO COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "25/04/18",
+        "actualArea": "334",
+        "grossArea": "410",
+        "price": "4.20",
+        "actualPrice": "12575",
+        "grossPrice": "10244",
+        "lat": "22.3062151299993",
+        "lng": "114.186501773324"
+    },
+    {
+        "address": {
+            "add1": "FLAT 10",
+            "add2": "5/F",
+            "add3": "BLOCK B",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "25/04/18",
+        "actualArea": "394",
+        "grossArea": "-",
+        "price": "4.40",
+        "actualPrice": "11168",
+        "grossPrice": "-",
+        "lat": "22.3065131950611",
+        "lng": "114.185531286044"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "28/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "25/04/18",
+        "actualArea": "229",
+        "grossArea": "322",
+        "price": "4.92",
+        "actualPrice": "21485",
+        "grossPrice": "15280",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "20/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "24/04/18",
+        "actualArea": "227",
+        "grossArea": "324",
+        "price": "4.38",
+        "actualPrice": "19295",
+        "grossPrice": "13519",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT 11",
+            "add2": "1/F",
+            "add3": "BLOCK C",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "23/04/18",
+        "actualArea": "284",
+        "grossArea": "-",
+        "price": "3.00",
+        "actualPrice": "10563",
+        "grossPrice": "-",
+        "lat": "22.3062874371275",
+        "lng": "114.185395401181"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "28/F",
+            "add3": "TOWER 1",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "23/04/18",
+        "actualArea": "737",
+        "grossArea": "985",
+        "price": "14.00",
+        "actualPrice": "18996",
+        "grossPrice": "14213",
+        "lat": "22.311167",
+        "lng": "114.186003"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "19/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "18/04/18",
+        "actualArea": "230",
+        "grossArea": "352",
+        "price": "4.30",
+        "actualPrice": "18696",
+        "grossPrice": "12216",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "6/F",
+            "add3": "METRO6",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "3",
+        "date": "18/04/18",
+        "actualArea": "420",
+        "grossArea": "-",
+        "price": "7.15",
+        "actualPrice": "17024",
+        "grossPrice": "-",
+        "lat": "22.307478",
+        "lng": "114.184972"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "5/F",
+            "add3": "TOWER 1",
+            "add4": "HOMANTIN HILLSIDE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "18/04/18",
+        "actualArea": "372",
+        "grossArea": "-",
+        "price": "8.62",
+        "actualPrice": "23172",
+        "grossPrice": "-",
+        "lat": "22.312032",
+        "lng": "114.185182"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "9/F",
+            "add3": "TOWER 1",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "16/04/18",
+        "actualArea": "300",
+        "grossArea": "392",
+        "price": "5.80",
+        "actualPrice": "19333",
+        "grossPrice": "14796",
+        "lat": "22.311167",
+        "lng": "114.186003"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "12/F",
+            "add3": "TOWER 1",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "16/04/18",
+        "actualArea": "364",
+        "grossArea": "483",
+        "price": "6.90",
+        "actualPrice": "18956",
+        "grossPrice": "14286",
+        "lat": "22.311167",
+        "lng": "114.186003"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "28/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "16/04/18",
+        "actualArea": "363",
+        "grossArea": "512",
+        "price": "7.68",
+        "actualPrice": "21157",
+        "grossPrice": "15000",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "6/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "13/04/18",
+        "actualArea": "224",
+        "grossArea": "320",
+        "price": "4.25",
+        "actualPrice": "18973",
+        "grossPrice": "13281",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT 10",
+            "add2": "1/F",
+            "add3": "FUNG YI COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "11/04/18",
+        "actualArea": "287",
+        "grossArea": "-",
+        "price": "3.35",
+        "actualPrice": "11672",
+        "grossPrice": "-",
+        "lat": "22.3060616159802",
+        "lng": "114.186395007237"
+    },
+    {
+        "address": {
+            "add1": "FLAT 12",
+            "add2": "9/F",
+            "add3": "BLOCK B",
+            "add4": "LUX THEATRE BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "11/04/18",
+        "actualArea": "381",
+        "grossArea": "-",
+        "price": "4.28",
+        "actualPrice": "11234",
+        "grossPrice": "-",
+        "lat": "22.3061248641394",
+        "lng": "114.185803003419"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "10/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "10/04/18",
+        "actualArea": "312",
+        "grossArea": "434",
+        "price": "5.58",
+        "actualPrice": "17885",
+        "grossPrice": "12857",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "22/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "09/04/18",
+        "actualArea": "221",
+        "grossArea": "340",
+        "price": "4.48",
+        "actualPrice": "20271",
+        "grossPrice": "13176",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT 4",
+            "add2": "2/F",
+            "add3": "HUNG SHING COURT (BLOCK D)",
+            "add4": "HUNG HOM BAY CENTRE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "39",
+        "date": "09/04/18",
+        "actualArea": "415",
+        "grossArea": "500",
+        "price": "6.00",
+        "actualPrice": "14458",
+        "grossPrice": "12000",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "15/F",
+            "add3": "LA LUMIERE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "06/04/18",
+        "actualArea": "431",
+        "grossArea": "-",
+        "price": "7.60",
+        "actualPrice": "17633",
+        "grossPrice": "-",
+        "lat": "22.309503",
+        "lng": "114.186889"
+    },
+    {
+        "address": {
+            "add1": "FLAT 11",
+            "add2": "6/F",
+            "add3": "BLOCK B",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "29/03/18",
+        "actualArea": "286",
+        "grossArea": "-",
+        "price": "2.80",
+        "actualPrice": "9790",
+        "grossPrice": "-",
+        "lat": "22.3065131950611",
+        "lng": "114.185531286044"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "27/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "22/03/18",
+        "actualArea": "221",
+        "grossArea": "340",
+        "price": "4.50",
+        "actualPrice": "20362",
+        "grossPrice": "13235",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "22/F",
+            "add3": "KELLET COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "10",
+        "date": "20/03/18",
+        "actualArea": "296",
+        "grossArea": "518",
+        "price": "4.40",
+        "actualPrice": "14865",
+        "grossPrice": "8494",
+        "lat": "22.3074886234311",
+        "lng": "114.182823610885"
+    },
+    {
+        "address": {
+            "add1": "FLAT 5",
+            "add2": "5/F",
+            "add3": "BLOCK A",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "19/03/18",
+        "actualArea": "426",
+        "grossArea": "-",
+        "price": "4.20",
+        "actualPrice": "9859",
+        "grossPrice": "-",
+        "lat": "22.3066937998711",
+        "lng": "114.185667168501"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "3/F",
+            "add3": "TOWER 1",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "12/03/18",
+        "actualArea": "405",
+        "grossArea": "537",
+        "price": "6.83",
+        "actualPrice": "16864",
+        "grossPrice": "12719",
+        "lat": "22.311167",
+        "lng": "114.186003"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "23/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "09/03/18",
+        "actualArea": "312",
+        "grossArea": "434",
+        "price": "5.90",
+        "actualPrice": "18910",
+        "grossPrice": "13594",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT 6",
+            "add2": "5/F",
+            "add3": "BLOCK B",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "09/03/18",
+        "actualArea": "293",
+        "grossArea": "-",
+        "price": "2.90",
+        "actualPrice": "9898",
+        "grossPrice": "-",
+        "lat": "22.3065131950611",
+        "lng": "114.185531286044"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "15/F",
+            "add3": "TOWER 1",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "06/03/18",
+        "actualArea": "364",
+        "grossArea": "483",
+        "price": "6.60",
+        "actualPrice": "18132",
+        "grossPrice": "13665",
+        "lat": "22.311167",
+        "lng": "114.186003"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "3/F",
+            "add3": "TOWER 1",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "02/03/18",
+        "actualArea": "708",
+        "grossArea": "941",
+        "price": "10.80",
+        "actualPrice": "15254",
+        "grossPrice": "11477",
+        "lat": "22.311167",
+        "lng": "114.186003"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "18/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "02/03/18",
+        "actualArea": "307",
+        "grossArea": "426",
+        "price": "5.30",
+        "actualPrice": "17264",
+        "grossPrice": "12441",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3",
+            "add2": "8/F",
+            "add3": "BLOCK B",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "01/03/18",
+        "actualArea": "533",
+        "grossArea": "-",
+        "price": "5.00",
+        "actualPrice": "9381",
+        "grossPrice": "-",
+        "lat": "22.3065131950611",
+        "lng": "114.185531286044"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "25/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "28/02/18",
+        "actualArea": "321",
+        "grossArea": "446",
+        "price": "6.87",
+        "actualPrice": "21406",
+        "grossPrice": "15406",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "29/F",
+            "add3": "TOWER 2",
+            "add4": "HOMANTIN HILLSIDE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "28/02/18",
+        "actualArea": "1018",
+        "grossArea": "-",
+        "price": "43.87",
+        "actualPrice": "43096",
+        "grossPrice": "-",
+        "lat": "22.31225",
+        "lng": "114.185324"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "26/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "28/02/18",
+        "actualArea": "224",
+        "grossArea": "320",
+        "price": "4.36",
+        "actualPrice": "19464",
+        "grossPrice": "13625",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "27/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "27/02/18",
+        "actualArea": "321",
+        "grossArea": "446",
+        "price": "7.07",
+        "actualPrice": "22026",
+        "grossPrice": "15852",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "12/F",
+            "add3": "TOWER 2",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "26/02/18",
+        "actualArea": "405",
+        "grossArea": "537",
+        "price": "6.80",
+        "actualPrice": "16790",
+        "grossPrice": "12663",
+        "lat": "22.310953",
+        "lng": "114.186472"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "7/F",
+            "add3": "TOWER 2",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "23/02/18",
+        "actualArea": "405",
+        "grossArea": "537",
+        "price": "7.00",
+        "actualPrice": "17284",
+        "grossPrice": "13035",
+        "lat": "22.310953",
+        "lng": "114.186472"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "18/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "23/02/18",
+        "actualArea": "246",
+        "grossArea": "355",
+        "price": "4.40",
+        "actualPrice": "17886",
+        "grossPrice": "12394",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT 12",
+            "add2": "2/F",
+            "add3": "BLOCK B",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "23/02/18",
+        "actualArea": "321",
+        "grossArea": "-",
+        "price": "3.45",
+        "actualPrice": "10748",
+        "grossPrice": "-",
+        "lat": "22.3065131950611",
+        "lng": "114.185531286044"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "8/F",
+            "add3": "KELLET COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "10",
+        "date": "23/02/18",
+        "actualArea": "296",
+        "grossArea": "518",
+        "price": "4.00",
+        "actualPrice": "13514",
+        "grossPrice": "7722",
+        "lat": "22.3074886234311",
+        "lng": "114.182823610885"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "12/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "23/02/18",
+        "actualArea": "237",
+        "grossArea": "356",
+        "price": "4.25",
+        "actualPrice": "17932",
+        "grossPrice": "11938",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "15/F",
+            "add3": "TOWER 2",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "23/02/18",
+        "actualArea": "550",
+        "grossArea": "737",
+        "price": "9.20",
+        "actualPrice": "16727",
+        "grossPrice": "12483",
+        "lat": "22.310953",
+        "lng": "114.186472"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "8/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "21/02/18",
+        "actualArea": "307",
+        "grossArea": "426",
+        "price": "4.94",
+        "actualPrice": "16085",
+        "grossPrice": "11592",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3",
+            "add2": "3/F",
+            "add3": "BLOCK A",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "15/02/18",
+        "actualArea": "367",
+        "grossArea": "351",
+        "price": "4.37",
+        "actualPrice": "11907",
+        "grossPrice": "12450",
+        "lat": "22.3066937998711",
+        "lng": "114.185667168501"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "22/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "14/02/18",
+        "actualArea": "307",
+        "grossArea": "426",
+        "price": "5.45",
+        "actualPrice": "17736",
+        "grossPrice": "12782",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "12/F",
+            "add3": "KELLET COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "10",
+        "date": "14/02/18",
+        "actualArea": "-",
+        "grossArea": "518",
+        "price": "4.15",
+        "actualPrice": "-",
+        "grossPrice": "8012",
+        "lat": "22.3074886234311",
+        "lng": "114.182823610885"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "8/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "13/02/18",
+        "actualArea": "221",
+        "grossArea": "340",
+        "price": "4.45",
+        "actualPrice": "20136",
+        "grossPrice": "13088",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "21/F",
+            "add3": "WUHU RESIDENCE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "13/02/18",
+        "actualArea": "224",
+        "grossArea": "320",
+        "price": "4.25",
+        "actualPrice": "18973",
+        "grossPrice": "13281",
+        "lat": "22.307364",
+        "lng": "114.185461"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "18/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "07/02/18",
+        "actualArea": "321",
+        "grossArea": "446",
+        "price": "5.33",
+        "actualPrice": "16604",
+        "grossPrice": "11951",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "8/F",
+            "add3": "THE MET. FOCUS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "5",
+        "date": "06/02/18",
+        "actualArea": "230",
+        "grossArea": "352",
+        "price": "4.40",
+        "actualPrice": "19130",
+        "grossPrice": "12500",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "25/F",
+            "add3": "METRO6",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "3",
+        "date": "06/02/18",
+        "actualArea": "422",
+        "grossArea": "-",
+        "price": "9.31",
+        "actualPrice": "22059",
+        "grossPrice": "-",
+        "lat": "22.307478",
+        "lng": "114.184972"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "25/F",
+            "add3": "METRO6",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "3",
+        "date": "06/02/18",
+        "actualArea": "410",
+        "grossArea": "-",
+        "price": "9.12",
+        "actualPrice": "22236",
+        "grossPrice": "-",
+        "lat": "22.307478",
+        "lng": "114.184972"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "19/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "29/01/18",
+        "actualArea": "381",
+        "grossArea": "546",
+        "price": "6.81",
+        "actualPrice": "17869",
+        "grossPrice": "12469",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT 4",
+            "add2": "4/F",
+            "add3": "HUNG KING COURT (BLOCK F)",
+            "add4": "HUNG HOM BAY CENTRE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "39",
+        "date": "26/01/18",
+        "actualArea": "411",
+        "grossArea": "500",
+        "price": "6.48",
+        "actualPrice": "15766",
+        "grossPrice": "12960",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3",
+            "add2": "5/F",
+            "add3": "HUNG WAN COURT",
+            "add4": "UNITED BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "26/01/18",
+        "actualArea": "296",
+        "grossArea": "440",
+        "price": "3.20",
+        "actualPrice": "10811",
+        "grossPrice": "7273",
+        "lat": "22.3060616159802",
+        "lng": "114.186395007237"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "12/F",
+            "add3": "POLLY COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "25",
+        "date": "25/01/18",
+        "actualArea": "272",
+        "grossArea": "417",
+        "price": "4.39",
+        "actualPrice": "16140",
+        "grossPrice": "10528",
+        "lat": "22.3065582972005",
+        "lng": "114.186433861389"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "8/F",
+            "add3": "WAH BO BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "34",
+        "date": "22/01/18",
+        "actualArea": "202",
+        "grossArea": "287",
+        "price": "3.60",
+        "actualPrice": "17822",
+        "grossPrice": "12544",
+        "lat": "22.3063415438944",
+        "lng": "114.186744408685"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "21/F",
+            "add3": "STAR RUBY",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "22/01/18",
+        "actualArea": "321",
+        "grossArea": "446",
+        "price": "5.25",
+        "actualPrice": "16355",
+        "grossPrice": "11771",
+        "lat": "22.311603",
+        "lng": "114.186814"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "12/F",
+            "add3": "TOWER 1",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "19/01/18",
+        "actualArea": "300",
+        "grossArea": "392",
+        "price": "5.27",
+        "actualPrice": "17567",
+        "grossPrice": "13444",
+        "lat": "22.311167",
+        "lng": "114.186003"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "25/F",
+            "add3": "METRO6",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "3",
+        "date": "16/01/18",
+        "actualArea": "410",
+        "grossArea": "-",
+        "price": "9.28",
+        "actualPrice": "22643",
+        "grossPrice": "-",
+        "lat": "22.307478",
+        "lng": "114.184972"
+    },
+    {
+        "address": {
+            "add1": "FRONT",
+            "add2": "1/F",
+            "add3": "4 GILLIES AVENUE SOUTH",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "62",
+        "date": "16/01/18",
+        "actualArea": "725",
+        "grossArea": "-",
+        "price": "10.00",
+        "actualPrice": "13793",
+        "grossPrice": "-",
+        "lat": "22.3061339849842",
+        "lng": "114.183988159298"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "10/F",
+            "add3": "WAH BO BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "34",
+        "date": "12/01/18",
+        "actualArea": "191",
+        "grossArea": "275",
+        "price": "3.30",
+        "actualPrice": "17277",
+        "grossPrice": "12000",
+        "lat": "22.3063415438944",
+        "lng": "114.186744408685"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "8/F",
+            "add3": "TOWER 2",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "10/01/18",
+        "actualArea": "300",
+        "grossArea": "392",
+        "price": "4.80",
+        "actualPrice": "16000",
+        "grossPrice": "12245",
+        "lat": "22.310953",
+        "lng": "114.186472"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "25/F",
+            "add3": "METRO6",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "3",
+        "date": "09/01/18",
+        "actualArea": "413",
+        "grossArea": "-",
+        "price": "8.64",
+        "actualPrice": "20927",
+        "grossPrice": "-",
+        "lat": "22.307478",
+        "lng": "114.184972"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3",
+            "add2": "1/F",
+            "add3": "HUNG SHING COURT (BLOCK D)",
+            "add4": "HUNG HOM BAY CENTRE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "39",
+        "date": "08/01/18",
+        "actualArea": "415",
+        "grossArea": "500",
+        "price": "6.30",
+        "actualPrice": "15181",
+        "grossPrice": "12600",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT 2",
+            "add2": "1/F",
+            "add3": "BLOCK A",
+            "add4": "WHAMPOA BUILDING",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "51",
+        "date": "08/01/18",
+        "actualArea": "340",
+        "grossArea": "340",
+        "price": "3.50",
+        "actualPrice": "10294",
+        "grossPrice": "10294",
+        "lat": "22.3066937998711",
+        "lng": "114.185667168501"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "32/F",
+            "add3": "TOWER 1",
+            "add4": "CHATHAM GATE",
+            "add5": ""
+        },
+        "sRegion": "Hung Hom",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "04/01/18",
+        "actualArea": "1046",
+        "grossArea": "1344",
+        "price": "17.50",
+        "actualPrice": "16730",
+        "grossPrice": "13021",
+        "lat": "22.311167",
+        "lng": "114.186003"
+    }
+]

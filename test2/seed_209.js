@@ -17,7 +17,7 @@ const knex = require('knex')({
     console.log(ntwArr)
 
     //optional: if u just append then dun add this
-    await knex('alladdress').del();
+    
 
      for (let element of ntwArr) {
          arr.length = 0;
@@ -58,13 +58,3 @@ const knex = require('knex')({
     console.log("success")
     
 })();
-
-// (async function (){
-//     let data = await knex.select("address","sRegion", "actualPrice", "actualArea", "price").from("testntw").orderBy("price").where("actualPrice","<", "10000")
-//     console.log (data.length)
-//     let newData = data.filter((u)=>{
-        
-//     })
-//     await fs.writeFile("stat.json", JSON.stringify(newData))
-//     console.log (data)
-// })();

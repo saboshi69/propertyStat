@@ -8,7 +8,7 @@ async function get1LatLng(location) {
         uri: 'https://maps.googleapis.com/maps/api/geocode/json',
         qs: {
             address: location,
-            key: 'AIzaSyBQz4uq_a_mNQQrHpWtKIRDSi02mUME-s8'
+            key: 'AIzaSyBOnmwfxhlcxroJ0DiC9Q0fOY_Q6kAF43g'
         }
     }
     let body = await rp(url)
@@ -80,4 +80,4 @@ function cool(fileName) {
 }
 
 
-cool("HK2018_117")
+cool("KLN2018_209")
