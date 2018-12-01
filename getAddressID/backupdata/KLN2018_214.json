@@ -1,0 +1,5062 @@
+[
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "7/F",
+            "add3": "TOWER 19",
+            "add4": "PHASE 4",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "22/11/18",
+        "actualArea": "1451",
+        "grossArea": "1948",
+        "price": "50.00",
+        "actualPrice": "34459",
+        "grossPrice": "25667",
+        "lat": "22.3429428214245",
+        "lng": "114.176185128325"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "2/F",
+            "add3": "WELCOME GARDENS (BLOCK 1-2)",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "47",
+        "date": "22/11/18",
+        "actualArea": "700",
+        "grossArea": "-",
+        "price": "9.00",
+        "actualPrice": "12857",
+        "grossPrice": "-",
+        "lat": "22.3425002798228",
+        "lng": "114.180650611326"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "21/F",
+            "add3": "THE BLOOMSVILLE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "21/11/18",
+        "actualArea": "779",
+        "grossArea": "1078",
+        "price": "21.00",
+        "actualPrice": "26958",
+        "grossPrice": "19481",
+        "lat": "22.3287103823375",
+        "lng": "114.185872393518"
+    },
+    {
+        "address": {
+            "add1": "FLAT B2",
+            "add2": "6/F",
+            "add3": "BLOCK B",
+            "add4": "MOON BEAM TERRACE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "19/11/18",
+        "actualArea": "1211",
+        "grossArea": "-",
+        "price": "19.50",
+        "actualPrice": "16102",
+        "grossPrice": "-",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "NO. 5",
+            "add2": "G/F",
+            "add3": "NGA YUEN BUILDING",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "55",
+        "date": "16/11/18",
+        "actualArea": "721",
+        "grossArea": "-",
+        "price": "15.08",
+        "actualPrice": "20915",
+        "grossPrice": "-",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "2/F",
+            "add3": "EASTBOURNE COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "16/11/18",
+        "actualArea": "926",
+        "grossArea": "-",
+        "price": "20.23",
+        "actualPrice": "21847",
+        "grossPrice": "-",
+        "lat": "22.343803",
+        "lng": "114.176944"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "3/F",
+            "add3": "GRAND VIEW TERRACE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "29",
+        "date": "16/11/18",
+        "actualArea": "724",
+        "grossArea": "825",
+        "price": "11.40",
+        "actualPrice": "15746",
+        "grossPrice": "13818",
+        "lat": "22.3286381989544",
+        "lng": "114.184697889318"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "9/F",
+            "add3": "TOWER 2",
+            "add4": "PARC INVERNESS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "13/11/18",
+        "actualArea": "1514",
+        "grossArea": "-",
+        "price": "40.68",
+        "actualPrice": "26870",
+        "grossPrice": "-",
+        "lat": "22.333965",
+        "lng": "114.186409"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C4",
+            "add2": "4/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "13/11/18",
+        "actualArea": "753",
+        "grossArea": "-",
+        "price": "20.78",
+        "actualPrice": "27590",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "7/F",
+            "add3": "8 LASALLE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "12/11/18",
+        "actualArea": "561",
+        "grossArea": "-",
+        "price": "15.60",
+        "actualPrice": "27807",
+        "grossPrice": "-",
+        "lat": "22.3280874523107",
+        "lng": "114.181659702101"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "3/F",
+            "add3": "AVA COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "45",
+        "date": "31/10/18",
+        "actualArea": "1048",
+        "grossArea": "1133",
+        "price": "10.80",
+        "actualPrice": "10305",
+        "grossPrice": "9532",
+        "lat": "22.3425182602907",
+        "lng": "114.183213409911"
+    },
+    {
+        "address": {
+            "add1": "FLAT 1E",
+            "add2": "8/F",
+            "add3": "PHASE 1",
+            "add4": "MERRY COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "0",
+        "date": "25/10/18",
+        "actualArea": "517",
+        "grossArea": "-",
+        "price": "8.50",
+        "actualPrice": "16441",
+        "grossPrice": "-",
+        "lat": "22.2821643812754",
+        "lng": "114.148394879654"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "5/F",
+            "add3": "GAR FOOK COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "25/10/18",
+        "actualArea": "354",
+        "grossArea": "413",
+        "price": "6.23",
+        "actualPrice": "17599",
+        "grossPrice": "15085",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "12/F",
+            "add3": "TOWER 12",
+            "add4": "PHASE 3",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "24/10/18",
+        "actualArea": "990",
+        "grossArea": "1326",
+        "price": "22.50",
+        "actualPrice": "22727",
+        "grossPrice": "16968",
+        "lat": "22.3423829194895",
+        "lng": "114.175224082549"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "3/F",
+            "add3": "EASTBOURNE COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "22/10/18",
+        "actualArea": "1088",
+        "grossArea": "-",
+        "price": "21.00",
+        "actualPrice": "19301",
+        "grossPrice": "-",
+        "lat": "22.343803",
+        "lng": "114.176944"
+    },
+    {
+        "address": {
+            "add1": "NO. 28",
+            "add2": "G/F",
+            "add3": "28 LANCASHIRE ROAD",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "57",
+        "date": "18/10/18",
+        "actualArea": "1696",
+        "grossArea": "-",
+        "price": "38.80",
+        "actualPrice": "22877",
+        "grossPrice": "-",
+        "lat": "22.3299839165797",
+        "lng": "114.179961094705"
+    },
+    {
+        "address": {
+            "add1": "FLAT A2",
+            "add2": "12/F",
+            "add3": "BLOCK A",
+            "add4": "BROADWAY TOWERS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "45",
+        "date": "12/10/18",
+        "actualArea": "760",
+        "grossArea": "-",
+        "price": "13.66",
+        "actualPrice": "17974",
+        "grossPrice": "-",
+        "lat": "22.3404864183489",
+        "lng": "114.18221345236"
+    },
+    {
+        "address": {
+            "add1": "NO. 16",
+            "add2": "2/F",
+            "add3": "YEE YUEN",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "56",
+        "date": "11/10/18",
+        "actualArea": "1121",
+        "grossArea": "-",
+        "price": "18.00",
+        "actualPrice": "16057",
+        "grossPrice": "-",
+        "lat": "22.2065959386034",
+        "lng": "114.030858436102"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "5/F",
+            "add3": "GAR FOOK COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "03/10/18",
+        "actualArea": "455",
+        "grossArea": "527",
+        "price": "7.80",
+        "actualPrice": "17143",
+        "grossPrice": "14801",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "5/F",
+            "add3": "GAR FOOK COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "02/10/18",
+        "actualArea": "455",
+        "grossArea": "527",
+        "price": "7.43",
+        "actualPrice": "16330",
+        "grossPrice": "14099",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "NO. 5",
+            "add2": "NO. 5",
+            "add3": "NO. 5 RUTLAND QUADRANT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "0",
+        "date": "28/09/18",
+        "actualArea": "-",
+        "grossArea": "-",
+        "price": "290.00",
+        "actualPrice": "-",
+        "grossPrice": "-",
+        "lat": "22.3334245971496",
+        "lng": "114.177388832628"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "G/F",
+            "add3": "TOWER 5",
+            "add4": "PARC INVERNESS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "24/09/18",
+        "actualArea": "1601",
+        "grossArea": "-",
+        "price": "46.00",
+        "actualPrice": "28732",
+        "grossPrice": "-",
+        "lat": "22.333461",
+        "lng": "114.186326"
+    },
+    {
+        "address": {
+            "add1": "FLAT 2D",
+            "add2": "8/F",
+            "add3": "PHASE 2",
+            "add4": "MERRY COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "43",
+        "date": "19/09/18",
+        "actualArea": "685",
+        "grossArea": "760",
+        "price": "10.90",
+        "actualPrice": "15912",
+        "grossPrice": "14342",
+        "lat": "22.2821643812754",
+        "lng": "114.148394879654"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "6/F",
+            "add3": "TOWER 6",
+            "add4": "PHASE 2",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "18/09/18",
+        "actualArea": "1026",
+        "grossArea": "1378",
+        "price": "28.10",
+        "actualPrice": "27388",
+        "grossPrice": "20392",
+        "lat": "22.3410464012529",
+        "lng": "114.176058940003"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "2/F",
+            "add3": "TOWER 19",
+            "add4": "PHASE 4",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "18/09/18",
+        "actualArea": "1451",
+        "grossArea": "1948",
+        "price": "46.00",
+        "actualPrice": "31702",
+        "grossPrice": "23614",
+        "lat": "22.3429428214245",
+        "lng": "114.176185128325"
+    },
+    {
+        "address": {
+            "add1": "FLAT H2",
+            "add2": "3/F",
+            "add3": "BLOCK H",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "13/09/18",
+        "actualArea": "617",
+        "grossArea": "747",
+        "price": "10.28",
+        "actualPrice": "16661",
+        "grossPrice": "13762",
+        "lat": "22.341922281553",
+        "lng": "114.182135847256"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "8/F",
+            "add3": "MARCONI COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "43",
+        "date": "13/09/18",
+        "actualArea": "652",
+        "grossArea": "-",
+        "price": "9.60",
+        "actualPrice": "14724",
+        "grossPrice": "-",
+        "lat": "22.3413443088306",
+        "lng": "114.182611492266"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "8/F",
+            "add3": "PHASE II",
+            "add4": "BOLAND COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "43",
+        "date": "11/09/18",
+        "actualArea": "531",
+        "grossArea": "-",
+        "price": "10.05",
+        "actualPrice": "18927",
+        "grossPrice": "-",
+        "lat": "22.3409650650352",
+        "lng": "114.181349506702"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "15/F",
+            "add3": "TOWER 6",
+            "add4": "PHASE 2",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "11/09/18",
+        "actualArea": "1040",
+        "grossArea": "1416",
+        "price": "35.00",
+        "actualPrice": "33654",
+        "grossPrice": "24718",
+        "lat": "22.3410464012529",
+        "lng": "114.176058940003"
+    },
+    {
+        "address": {
+            "add1": "FLAT H3",
+            "add2": "2/F",
+            "add3": "BLOCK H",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "10/09/18",
+        "actualArea": "649",
+        "grossArea": "793",
+        "price": "11.18",
+        "actualPrice": "17227",
+        "grossPrice": "14098",
+        "lat": "22.341922281553",
+        "lng": "114.182135847256"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "G/F",
+            "add3": "TOWER 5",
+            "add4": "PARC INVERNESS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "07/09/18",
+        "actualArea": "1650",
+        "grossArea": "-",
+        "price": "59.00",
+        "actualPrice": "35758",
+        "grossPrice": "-",
+        "lat": "22.333461",
+        "lng": "114.186326"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "2/F",
+            "add3": "WELCOME GARDENS (BLOCK 1-2)",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "47",
+        "date": "07/09/18",
+        "actualArea": "700",
+        "grossArea": "-",
+        "price": "10.80",
+        "actualPrice": "15429",
+        "grossPrice": "-",
+        "lat": "22.3425002798228",
+        "lng": "114.180650611326"
+    },
+    {
+        "address": {
+            "add1": "NO. 62",
+            "add2": "G/F",
+            "add3": "LAFORD COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "60",
+        "date": "06/09/18",
+        "actualArea": "1415",
+        "grossArea": "-",
+        "price": "30.15",
+        "actualPrice": "21307",
+        "grossPrice": "-",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "9/F",
+            "add3": "TOWER 1",
+            "add4": "PARC INVERNESS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "04/09/18",
+        "actualArea": "1583",
+        "grossArea": "-",
+        "price": "58.06",
+        "actualPrice": "36677",
+        "grossPrice": "-",
+        "lat": "22.333849",
+        "lng": "114.186144"
+    },
+    {
+        "address": {
+            "add1": "FLAT C1",
+            "add2": "10/F",
+            "add3": "BLOCK C",
+            "add4": "CHERMAIN HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "49",
+        "date": "29/08/18",
+        "actualArea": "761",
+        "grossArea": "-",
+        "price": "10.00",
+        "actualPrice": "13141",
+        "grossPrice": "-",
+        "lat": "22.343875",
+        "lng": "114.177236"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "7/F",
+            "add3": "THE GRAMPIAN",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "28/08/18",
+        "actualArea": "2135",
+        "grossArea": "-",
+        "price": "106.00",
+        "actualPrice": "49649",
+        "grossPrice": "-",
+        "lat": "22.328794",
+        "lng": "114.186208"
+    },
+    {
+        "address": {
+            "add1": "FLAT B3",
+            "add2": "5/F",
+            "add3": "BLOCK B",
+            "add4": "JADE COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "28/08/18",
+        "actualArea": "385",
+        "grossArea": "431",
+        "price": "8.94",
+        "actualPrice": "23221",
+        "grossPrice": "20742",
+        "lat": "22.4641190508094",
+        "lng": "114.019931719486"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "8/F",
+            "add3": "TOWER 2",
+            "add4": "ONE MAYFAIR",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "27/08/18",
+        "actualArea": "1661",
+        "grossArea": "2147",
+        "price": "60.00",
+        "actualPrice": "36123",
+        "grossPrice": "27946",
+        "lat": "22.3398723589336",
+        "lng": "114.181592156128"
+    },
+    {
+        "address": {
+            "add1": "TERRACE HOUSE B",
+            "add2": "NO. 21A",
+            "add3": "LOUISE GARDEN",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "20",
+        "date": "27/08/18",
+        "actualArea": "4918",
+        "grossArea": "-",
+        "price": "150.00",
+        "actualPrice": "30500",
+        "grossPrice": "-",
+        "lat": "22.3304354007781",
+        "lng": "114.181766556973"
+    },
+    {
+        "address": {
+            "add1": "FLAT B1",
+            "add2": "1/F",
+            "add3": "BLOCK B",
+            "add4": "SUNDERLAND ESTATE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "35",
+        "date": "23/08/18",
+        "actualArea": "1912",
+        "grossArea": "2009",
+        "price": "43.15",
+        "actualPrice": "22568",
+        "grossPrice": "21478",
+        "lat": "22.334467",
+        "lng": "114.180636"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "1/F",
+            "add3": "MAN YUEN MANSION (BUILDING)",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "21/08/18",
+        "actualArea": "481",
+        "grossArea": "-",
+        "price": "6.95",
+        "actualPrice": "14449",
+        "grossPrice": "-",
+        "lat": "22.3291979846151",
+        "lng": "114.186716903193"
+    },
+    {
+        "address": {
+            "add1": "FLAT C1",
+            "add2": "6/F",
+            "add3": "BLOCK C",
+            "add4": "FABER GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "21/08/18",
+        "actualArea": "445",
+        "grossArea": "530",
+        "price": "7.80",
+        "actualPrice": "17528",
+        "grossPrice": "14717",
+        "lat": "22.3416604009508",
+        "lng": "114.181951394675"
+    },
+    {
+        "address": {
+            "add1": "FLAT B1",
+            "add2": "4/F",
+            "add3": "BLOCK B",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "16/08/18",
+        "actualArea": "800",
+        "grossArea": "900",
+        "price": "12.80",
+        "actualPrice": "16000",
+        "grossPrice": "14222",
+        "lat": "22.3422925526473",
+        "lng": "114.181563115642"
+    },
+    {
+        "address": {
+            "add1": "FLAT D2",
+            "add2": "8/F",
+            "add3": "BLOCK D",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "15/08/18",
+        "actualArea": "648",
+        "grossArea": "745",
+        "price": "11.00",
+        "actualPrice": "16975",
+        "grossPrice": "14765",
+        "lat": "22.3420306624353",
+        "lng": "114.181689304756"
+    },
+    {
+        "address": {
+            "add1": "FLAT 2",
+            "add2": "3/F",
+            "add3": "BLOCK D",
+            "add4": "LUSO APARTMENTS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "54",
+        "date": "10/08/18",
+        "actualArea": "1318",
+        "grossArea": "1350",
+        "price": "30.00",
+        "actualPrice": "22762",
+        "grossPrice": "22222",
+        "lat": "22.3421661925233",
+        "lng": "114.177466527737"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "6/F",
+            "add3": "BLOCK 2",
+            "add4": "MERIDIAN HILL",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "09/08/18",
+        "actualArea": "991",
+        "grossArea": "1296",
+        "price": "20.18",
+        "actualPrice": "20363",
+        "grossPrice": "15571",
+        "lat": "22.3427169079588",
+        "lng": "114.183815289055"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "2/F",
+            "add3": "TOWER 1",
+            "add4": "PHASE 1",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "09/08/18",
+        "actualArea": "1029",
+        "grossArea": "1391",
+        "price": "29.00",
+        "actualPrice": "28183",
+        "grossPrice": "20848",
+        "lat": "22.3410554331701",
+        "lng": "114.176418116242"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "5/F",
+            "add3": "KALAM COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "08/08/18",
+        "actualArea": "1027",
+        "grossArea": "-",
+        "price": "14.80",
+        "actualPrice": "14411",
+        "grossPrice": "-",
+        "lat": "22.3283762303259",
+        "lng": "114.186231515803"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "1/F",
+            "add3": "ALICE COURT (BLOCK A-B)",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "47",
+        "date": "07/08/18",
+        "actualArea": "442",
+        "grossArea": "-",
+        "price": "7.47",
+        "actualPrice": "16900",
+        "grossPrice": "-",
+        "lat": "22.2905816395839",
+        "lng": "114.200862583888"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "5/F",
+            "add3": "CLIFFORD MANSION",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "40",
+        "date": "06/08/18",
+        "actualArea": "742",
+        "grossArea": "815",
+        "price": "10.50",
+        "actualPrice": "14151",
+        "grossPrice": "12883",
+        "lat": "22.3428433812526",
+        "lng": "114.182669799611"
+    },
+    {
+        "address": {
+            "add1": "NO. 6",
+            "add2": "G/F",
+            "add3": "6 MORAY ROAD",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "63",
+        "date": "06/08/18",
+        "actualArea": "1177",
+        "grossArea": "-",
+        "price": "50.00",
+        "actualPrice": "42481",
+        "grossPrice": "-",
+        "lat": "22.3308418136958",
+        "lng": "114.180359091022"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "8/F",
+            "add3": "AVON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "44",
+        "date": "03/08/18",
+        "actualArea": "595",
+        "grossArea": "750",
+        "price": "10.80",
+        "actualPrice": "18151",
+        "grossPrice": "14400",
+        "lat": "22.2801875518887",
+        "lng": "114.153964950352"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "2/F",
+            "add3": "MAN YUEN MANSION (BUILDING)",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "03/08/18",
+        "actualArea": "481",
+        "grossArea": "-",
+        "price": "8.00",
+        "actualPrice": "16632",
+        "grossPrice": "-",
+        "lat": "22.3291979846151",
+        "lng": "114.186716903193"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "1/F",
+            "add3": "TOWER 1",
+            "add4": "PHASE 1",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "31/07/18",
+        "actualArea": "1141",
+        "grossArea": "1493",
+        "price": "29.68",
+        "actualPrice": "26012",
+        "grossPrice": "19879",
+        "lat": "22.3410554331701",
+        "lng": "114.176418116242"
+    },
+    {
+        "address": {
+            "add1": "BLOCK D1",
+            "add2": "2/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "31/07/18",
+        "actualArea": "925",
+        "grossArea": "1050",
+        "price": "23.20",
+        "actualPrice": "25082",
+        "grossPrice": "22096",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "4/F",
+            "add3": "BLOCK 7",
+            "add4": "BEVERLY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "30/07/18",
+        "actualArea": "1211",
+        "grossArea": "1308",
+        "price": "22.50",
+        "actualPrice": "18580",
+        "grossPrice": "17202",
+        "lat": "22.3274462560616",
+        "lng": "114.182426495539"
+    },
+    {
+        "address": {
+            "add1": "FLAT 4A",
+            "add2": "2/F",
+            "add3": "HAMBURG VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "30/07/18",
+        "actualArea": "870",
+        "grossArea": "-",
+        "price": "21.32",
+        "actualPrice": "24500",
+        "grossPrice": "-",
+        "lat": "22.3433401675169",
+        "lng": "114.177078228035"
+    },
+    {
+        "address": {
+            "add1": "FLAT B1",
+            "add2": "4/F",
+            "add3": "BLOCK B",
+            "add4": "INVERNESS VILLA",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "26/07/18",
+        "actualArea": "651",
+        "grossArea": "760",
+        "price": "11.57",
+        "actualPrice": "17773",
+        "grossPrice": "15224",
+        "lat": "22.331194",
+        "lng": "114.185994"
+    },
+    {
+        "address": {
+            "add1": "FLAT C3",
+            "add2": "3/F",
+            "add3": "BLOCK C",
+            "add4": "JADE COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "26/07/18",
+        "actualArea": "385",
+        "grossArea": "431",
+        "price": "6.69",
+        "actualPrice": "17371",
+        "grossPrice": "15517",
+        "lat": "22.4641913978792",
+        "lng": "114.020038513981"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "2/F",
+            "add3": "CLIFFORD MANSION",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "40",
+        "date": "25/07/18",
+        "actualArea": "546",
+        "grossArea": "600",
+        "price": "10.88",
+        "actualPrice": "19927",
+        "grossPrice": "18133",
+        "lat": "22.3428433812526",
+        "lng": "114.182669799611"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "7/F",
+            "add3": "TOWER 5",
+            "add4": "PARC INVERNESS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "24/07/18",
+        "actualArea": "1534",
+        "grossArea": "-",
+        "price": "44.76",
+        "actualPrice": "29179",
+        "grossPrice": "-",
+        "lat": "22.333461",
+        "lng": "114.186326"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "7/F",
+            "add3": "COMFORT COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "23/07/18",
+        "actualArea": "1057",
+        "grossArea": "1440",
+        "price": "15.90",
+        "actualPrice": "15043",
+        "grossPrice": "11042",
+        "lat": "22.2855316296429",
+        "lng": "114.142319727626"
+    },
+    {
+        "address": {
+            "add1": "FLAT H1",
+            "add2": "4/F",
+            "add3": "BLOCK H",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "23/07/18",
+        "actualArea": "556",
+        "grossArea": "687",
+        "price": "8.60",
+        "actualPrice": "15468",
+        "grossPrice": "12518",
+        "lat": "22.341922281553",
+        "lng": "114.182135847256"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "2/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "20/07/18",
+        "actualArea": "762",
+        "grossArea": "-",
+        "price": "16.00",
+        "actualPrice": "20997",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT H1",
+            "add2": "5/F",
+            "add3": "BLOCK H",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "19/07/18",
+        "actualArea": "556",
+        "grossArea": "687",
+        "price": "9.70",
+        "actualPrice": "17446",
+        "grossPrice": "14119",
+        "lat": "22.341922281553",
+        "lng": "114.182135847256"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "3/F",
+            "add3": "TOWER 10",
+            "add4": "PHASE 1",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "19/07/18",
+        "actualArea": "990",
+        "grossArea": "1326",
+        "price": "26.20",
+        "actualPrice": "26465",
+        "grossPrice": "19759",
+        "lat": "22.3410554331701",
+        "lng": "114.176418116242"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "1/F",
+            "add3": "MARPLE COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "19/07/18",
+        "actualArea": "781",
+        "grossArea": "-",
+        "price": "11.30",
+        "actualPrice": "14469",
+        "grossPrice": "-",
+        "lat": "22.342789250923",
+        "lng": "114.180941846817"
+    },
+    {
+        "address": {
+            "add1": "HOUSE A",
+            "add2": "NO. 38",
+            "add3": "HOUSE A",
+            "add4": "PARC INVERNESS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "18/07/18",
+        "actualArea": "4380",
+        "grossArea": "-",
+        "price": "296.30",
+        "actualPrice": "67648",
+        "grossPrice": "-",
+        "lat": "22.333774",
+        "lng": "114.185868"
+    },
+    {
+        "address": {
+            "add1": "FLAT A1",
+            "add2": "8/F",
+            "add3": "BLOCK A",
+            "add4": "SHEFFIELD GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "44",
+        "date": "17/07/18",
+        "actualArea": "1081",
+        "grossArea": "1237",
+        "price": "16.88",
+        "actualPrice": "15615",
+        "grossPrice": "13646",
+        "lat": "22.3273920207898",
+        "lng": "114.183765993364"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "G/F",
+            "add3": "MING YUEN COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "16/07/18",
+        "actualArea": "1123",
+        "grossArea": "1400",
+        "price": "21.00",
+        "actualPrice": "18700",
+        "grossPrice": "15000",
+        "lat": "22.3292702903354",
+        "lng": "114.185658883268"
+    },
+    {
+        "address": {
+            "add1": "FLAT D3",
+            "add2": "1/F",
+            "add3": "BLOCK D",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "16/07/18",
+        "actualArea": "457",
+        "grossArea": "550",
+        "price": "6.68",
+        "actualPrice": "14617",
+        "grossPrice": "12145",
+        "lat": "22.3420306624353",
+        "lng": "114.181689304756"
+    },
+    {
+        "address": {
+            "add1": "FLAT B2",
+            "add2": "2/F",
+            "add3": "BLOCK B",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "12/07/18",
+        "actualArea": "765",
+        "grossArea": "870",
+        "price": "15.20",
+        "actualPrice": "19869",
+        "grossPrice": "17471",
+        "lat": "22.3422925526473",
+        "lng": "114.181563115642"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "5/F",
+            "add3": "ALICE COURT (BLOCK A-B)",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "47",
+        "date": "12/07/18",
+        "actualArea": "777",
+        "grossArea": "-",
+        "price": "15.98",
+        "actualPrice": "20566",
+        "grossPrice": "-",
+        "lat": "22.2905816395839",
+        "lng": "114.200862583888"
+    },
+    {
+        "address": {
+            "add1": "FLAT B4",
+            "add2": "4/F",
+            "add3": "BLOCK B",
+            "add4": "INVERNESS VILLA",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "12/07/18",
+        "actualArea": "537",
+        "grossArea": "-",
+        "price": "9.40",
+        "actualPrice": "17505",
+        "grossPrice": "-",
+        "lat": "22.331194",
+        "lng": "114.185994"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "G/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "12/07/18",
+        "actualArea": "762",
+        "grossArea": "-",
+        "price": "16.50",
+        "actualPrice": "21654",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "5/F",
+            "add3": "ONE LA SALLE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "9",
+        "date": "10/07/18",
+        "actualArea": "2181",
+        "grossArea": "3025",
+        "price": "70.80",
+        "actualPrice": "32462",
+        "grossPrice": "23405",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "9/F",
+            "add3": "BLOCK 3",
+            "add4": "MERIDIAN HILL",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "06/07/18",
+        "actualArea": "1601",
+        "grossArea": "2084",
+        "price": "43.68",
+        "actualPrice": "27283",
+        "grossPrice": "20960",
+        "lat": "22.3424821160872",
+        "lng": "114.183747324397"
+    },
+    {
+        "address": {
+            "add1": "FLAT B2",
+            "add2": "12/F",
+            "add3": "BLOCK B",
+            "add4": "CHERMAIN HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "49",
+        "date": "06/07/18",
+        "actualArea": "758",
+        "grossArea": "-",
+        "price": "15.00",
+        "actualPrice": "19789",
+        "grossPrice": "-",
+        "lat": "22.343875",
+        "lng": "114.177236"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "MING YUEN COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "05/07/18",
+        "actualArea": "1082",
+        "grossArea": "1330",
+        "price": "18.68",
+        "actualPrice": "17264",
+        "grossPrice": "14045",
+        "lat": "22.3292702903354",
+        "lng": "114.185658883268"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "G/F-1/F",
+            "add3": "LE CHATEAU",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "6",
+        "date": "05/07/18",
+        "actualArea": "1352",
+        "grossArea": "1701",
+        "price": "24.30",
+        "actualPrice": "17973",
+        "grossPrice": "14286",
+        "lat": "22.3431956723584",
+        "lng": "114.178252849251"
+    },
+    {
+        "address": {
+            "add1": "FLAT C (NO. 7)",
+            "add2": "3/F",
+            "add3": "PEARL COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "52",
+        "date": "04/07/18",
+        "actualArea": "1190",
+        "grossArea": "-",
+        "price": "18.00",
+        "actualPrice": "15126",
+        "grossPrice": "-",
+        "lat": "22.2845986644797",
+        "lng": "114.130966787967"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "15/F",
+            "add3": "THE BLOOMSVILLE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "04/07/18",
+        "actualArea": "704",
+        "grossArea": "955",
+        "price": "14.00",
+        "actualPrice": "19886",
+        "grossPrice": "14660",
+        "lat": "22.3287103823375",
+        "lng": "114.185872393518"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "6/F",
+            "add3": "TOWER 2",
+            "add4": "EDEN GATE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "03/07/18",
+        "actualArea": "1464",
+        "grossArea": "-",
+        "price": "66.40",
+        "actualPrice": "45353",
+        "grossPrice": "-",
+        "lat": "22.341133",
+        "lng": "114.177886"
+    },
+    {
+        "address": {
+            "add1": "FLAT H3",
+            "add2": "4/F",
+            "add3": "BLOCK H",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "03/07/18",
+        "actualArea": "649",
+        "grossArea": "793",
+        "price": "10.90",
+        "actualPrice": "16795",
+        "grossPrice": "13745",
+        "lat": "22.341922281553",
+        "lng": "114.182135847256"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "6/F",
+            "add3": "BLOCK 2",
+            "add4": "MERIDIAN HILL",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "29/06/18",
+        "actualArea": "1542",
+        "grossArea": "2029",
+        "price": "31.80",
+        "actualPrice": "20623",
+        "grossPrice": "15673",
+        "lat": "22.3427169079588",
+        "lng": "114.183815289055"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "G/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "29/06/18",
+        "actualArea": "755",
+        "grossArea": "-",
+        "price": "18.00",
+        "actualPrice": "23841",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT B4",
+            "add2": "9/F",
+            "add3": "BLOCK B",
+            "add4": "BROADWAY TOWERS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "45",
+        "date": "29/06/18",
+        "actualArea": "432",
+        "grossArea": "497",
+        "price": "8.45",
+        "actualPrice": "19560",
+        "grossPrice": "17002",
+        "lat": "22.3404864183489",
+        "lng": "114.18221345236"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3A",
+            "add2": "1/F",
+            "add3": "HAMBURG VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "29/06/18",
+        "actualArea": "834",
+        "grossArea": "-",
+        "price": "20.43",
+        "actualPrice": "24500",
+        "grossPrice": "-",
+        "lat": "22.3433401675169",
+        "lng": "114.177078228035"
+    },
+    {
+        "address": {
+            "add1": "FLAT A2",
+            "add2": "7/F",
+            "add3": "BLOCK A",
+            "add4": "MOON BEAM TERRACE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "49",
+        "date": "28/06/18",
+        "actualArea": "1089",
+        "grossArea": "-",
+        "price": "16.70",
+        "actualPrice": "15335",
+        "grossPrice": "-",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "9/F",
+            "add3": "MARCONI COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "43",
+        "date": "22/06/18",
+        "actualArea": "712",
+        "grossArea": "-",
+        "price": "12.38",
+        "actualPrice": "17388",
+        "grossPrice": "-",
+        "lat": "22.3413443088306",
+        "lng": "114.182611492266"
+    },
+    {
+        "address": {
+            "add1": "FLAT A3",
+            "add2": "4/F",
+            "add3": "BLOCK A",
+            "add4": "CHERMAIN HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "49",
+        "date": "21/06/18",
+        "actualArea": "803",
+        "grossArea": "1052",
+        "price": "15.60",
+        "actualPrice": "19427",
+        "grossPrice": "14829",
+        "lat": "22.343875",
+        "lng": "114.177236"
+    },
+    {
+        "address": {
+            "add1": "HOUSE B",
+            "add2": "NO. 5-11",
+            "add3": "HOUSE B",
+            "add4": "EDEN GATE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "21/06/18",
+        "actualArea": "3198",
+        "grossArea": "-",
+        "price": "200.00",
+        "actualPrice": "62539",
+        "grossPrice": "-",
+        "lat": "22.340978",
+        "lng": "114.178081"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "7/F",
+            "add3": "TOWER 3",
+            "add4": "PARC INVERNESS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "20/06/18",
+        "actualArea": "883",
+        "grossArea": "-",
+        "price": "24.28",
+        "actualPrice": "27498",
+        "grossPrice": "-",
+        "lat": "22.333804",
+        "lng": "114.186466"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "10/F",
+            "add3": "EASTBOURNE COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "20/06/18",
+        "actualArea": "1088",
+        "grossArea": "-",
+        "price": "23.08",
+        "actualPrice": "21213",
+        "grossPrice": "-",
+        "lat": "22.343803",
+        "lng": "114.176944"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "TOWER 8",
+            "add4": "PHASE 3",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "15/06/18",
+        "actualArea": "1161",
+        "grossArea": "1505",
+        "price": "31.80",
+        "actualPrice": "27390",
+        "grossPrice": "21130",
+        "lat": "22.3410915519688",
+        "lng": "114.175690055903"
+    },
+    {
+        "address": {
+            "add1": "FLAT 1",
+            "add2": "2/F",
+            "add3": "HAMBURG VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "15/06/18",
+        "actualArea": "1239",
+        "grossArea": "-",
+        "price": "30.98",
+        "actualPrice": "25000",
+        "grossPrice": "-",
+        "lat": "22.3433401675169",
+        "lng": "114.177078228035"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "7/F",
+            "add3": "TOWER 5",
+            "add4": "PHASE 2",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "14/06/18",
+        "actualArea": "1086",
+        "grossArea": "1473",
+        "price": "34.48",
+        "actualPrice": "31750",
+        "grossPrice": "23408",
+        "lat": "22.3410464012529",
+        "lng": "114.176058940003"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "5/F",
+            "add3": "COMFORT COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "14/06/18",
+        "actualArea": "1057",
+        "grossArea": "1440",
+        "price": "16.55",
+        "actualPrice": "15658",
+        "grossPrice": "11493",
+        "lat": "22.2855316296429",
+        "lng": "114.142319727626"
+    },
+    {
+        "address": {
+            "add1": "FLAT B1",
+            "add2": "6/F",
+            "add3": "BLOCK B",
+            "add4": "CHERMAIN HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "49",
+        "date": "14/06/18",
+        "actualArea": "761",
+        "grossArea": "1050",
+        "price": "12.50",
+        "actualPrice": "16426",
+        "grossPrice": "11905",
+        "lat": "22.343875",
+        "lng": "114.177236"
+    },
+    {
+        "address": {
+            "add1": "FLAT 105",
+            "add2": "NO. 165",
+            "add3": "BOUNDARY COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "62",
+        "date": "13/06/18",
+        "actualArea": "756",
+        "grossArea": "-",
+        "price": "11.50",
+        "actualPrice": "15212",
+        "grossPrice": "-",
+        "lat": "22.3274461692033",
+        "lng": "114.184542518071"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "10/F",
+            "add3": "BLOCK 5",
+            "add4": "BEVERLY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "13/06/18",
+        "actualArea": "1609",
+        "grossArea": "1742",
+        "price": "35.00",
+        "actualPrice": "21753",
+        "grossPrice": "20092",
+        "lat": "22.3278525932801",
+        "lng": "114.183465112971"
+    },
+    {
+        "address": {
+            "add1": "FLAT B1",
+            "add2": "11/F",
+            "add3": "VISTA PANORAMA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "52",
+        "date": "13/06/18",
+        "actualArea": "1631",
+        "grossArea": "-",
+        "price": "38.00",
+        "actualPrice": "23299",
+        "grossPrice": "-",
+        "lat": "22.3439903564808",
+        "lng": "114.178806194524"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "7/F",
+            "add3": "TOWER 8",
+            "add4": "PHASE 3",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "12/06/18",
+        "actualArea": "1103",
+        "grossArea": "1435",
+        "price": "29.00",
+        "actualPrice": "26292",
+        "grossPrice": "20209",
+        "lat": "22.3410915519688",
+        "lng": "114.175690055903"
+    },
+    {
+        "address": {
+            "add1": "FLAT A1",
+            "add2": "11/F",
+            "add3": "VISTA PANORAMA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "52",
+        "date": "11/06/18",
+        "actualArea": "1631",
+        "grossArea": "-",
+        "price": "30.00",
+        "actualPrice": "18394",
+        "grossPrice": "-",
+        "lat": "22.3439903564808",
+        "lng": "114.178806194524"
+    },
+    {
+        "address": {
+            "add1": "FLAT C2",
+            "add2": "6/F",
+            "add3": "BLOCK C",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "08/06/18",
+        "actualArea": "575",
+        "grossArea": "673",
+        "price": "8.60",
+        "actualPrice": "14957",
+        "grossPrice": "12779",
+        "lat": "22.3418590844549",
+        "lng": "114.181592223583"
+    },
+    {
+        "address": {
+            "add1": "FLAT B3",
+            "add2": "1/F",
+            "add3": "BLOCK B",
+            "add4": "BEVERLEY HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "08/06/18",
+        "actualArea": "939",
+        "grossArea": "-",
+        "price": "14.30",
+        "actualPrice": "15229",
+        "grossPrice": "-",
+        "lat": "22.2872045567919",
+        "lng": "114.198203180593"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "3/F",
+            "add3": "MAN YUEN MANSION (BUILDING)",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "46",
+        "date": "08/06/18",
+        "actualArea": "481",
+        "grossArea": "420",
+        "price": "7.28",
+        "actualPrice": "15135",
+        "grossPrice": "17333",
+        "lat": "22.3291979846151",
+        "lng": "114.186716903193"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "1/F",
+            "add3": "GLADLAND COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "37",
+        "date": "07/06/18",
+        "actualArea": "894",
+        "grossArea": "978",
+        "price": "14.30",
+        "actualPrice": "15996",
+        "grossPrice": "14622",
+        "lat": "22.3286472132029",
+        "lng": "114.185027914511"
+    },
+    {
+        "address": {
+            "add1": "BLOCK A2",
+            "add2": "4/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "07/06/18",
+        "actualArea": "912",
+        "grossArea": "-",
+        "price": "25.16",
+        "actualPrice": "27590",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "G/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "06/06/18",
+        "actualArea": "762",
+        "grossArea": "-",
+        "price": "15.10",
+        "actualPrice": "19816",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "1/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "06/06/18",
+        "actualArea": "762",
+        "grossArea": "-",
+        "price": "15.00",
+        "actualPrice": "19685",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "06/06/18",
+        "actualArea": "755",
+        "grossArea": "-",
+        "price": "15.70",
+        "actualPrice": "20795",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "2/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "06/06/18",
+        "actualArea": "755",
+        "grossArea": "-",
+        "price": "16.00",
+        "actualPrice": "21192",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "3/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "06/06/18",
+        "actualArea": "755",
+        "grossArea": "-",
+        "price": "18.00",
+        "actualPrice": "23841",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "4/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "06/06/18",
+        "actualArea": "762",
+        "grossArea": "-",
+        "price": "16.40",
+        "actualPrice": "21522",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "4/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "06/06/18",
+        "actualArea": "755",
+        "grossArea": "-",
+        "price": "16.20",
+        "actualPrice": "21457",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "4/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "06/06/18",
+        "actualArea": "755",
+        "grossArea": "-",
+        "price": "16.40",
+        "actualPrice": "21722",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "1/F",
+            "add3": "LOK YUEN",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "57",
+        "date": "06/06/18",
+        "actualArea": "1152",
+        "grossArea": "-",
+        "price": "21.30",
+        "actualPrice": "18490",
+        "grossPrice": "-",
+        "lat": "22.4640853365487",
+        "lng": "114.153721138204"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "12/F",
+            "add3": "CRYSTAL MANSION",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "47",
+        "date": "06/06/18",
+        "actualArea": "922",
+        "grossArea": "-",
+        "price": "18.00",
+        "actualPrice": "19523",
+        "grossPrice": "-",
+        "lat": "22.3436201148251",
+        "lng": "114.176427816323"
+    },
+    {
+        "address": {
+            "add1": "FLAT B2",
+            "add2": "3/F",
+            "add3": "BLOCK B",
+            "add4": "INVERNESS VILLA",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "06/06/18",
+        "actualArea": "651",
+        "grossArea": "-",
+        "price": "11.38",
+        "actualPrice": "17481",
+        "grossPrice": "-",
+        "lat": "22.331194",
+        "lng": "114.185994"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "TOWER 2",
+            "add4": "EDEN GATE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "06/06/18",
+        "actualArea": "1260",
+        "grossArea": "-",
+        "price": "51.64",
+        "actualPrice": "40985",
+        "grossPrice": "-",
+        "lat": "22.341133",
+        "lng": "114.177886"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "1/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "05/06/18",
+        "actualArea": "762",
+        "grossArea": "-",
+        "price": "15.10",
+        "actualPrice": "19816",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "1/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "05/06/18",
+        "actualArea": "755",
+        "grossArea": "-",
+        "price": "15.00",
+        "actualPrice": "19868",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "2/F",
+            "add3": "BLOCK 2",
+            "add4": "JOY GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "43",
+        "date": "05/06/18",
+        "actualArea": "821",
+        "grossArea": "-",
+        "price": "13.48",
+        "actualPrice": "16419",
+        "grossPrice": "-",
+        "lat": "22.3432679200697",
+        "lng": "114.177825714683"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "3/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "04/06/18",
+        "actualArea": "755",
+        "grossArea": "-",
+        "price": "15.00",
+        "actualPrice": "19868",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "3/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "04/06/18",
+        "actualArea": "762",
+        "grossArea": "-",
+        "price": "15.00",
+        "actualPrice": "19685",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "3/F",
+            "add3": "CHAMPION COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "04/06/18",
+        "actualArea": "762",
+        "grossArea": "-",
+        "price": "15.00",
+        "actualPrice": "19685",
+        "grossPrice": "-",
+        "lat": "22.3307692988626",
+        "lng": "114.186833494986"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "2/F",
+            "add3": "BLOCK 1",
+            "add4": "JOY GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "43",
+        "date": "01/06/18",
+        "actualArea": "821",
+        "grossArea": "-",
+        "price": "14.10",
+        "actualPrice": "17174",
+        "grossPrice": "-",
+        "lat": "22.3434304687328",
+        "lng": "114.178058698996"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "5/F",
+            "add3": "MARCONI COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "43",
+        "date": "01/06/18",
+        "actualArea": "670",
+        "grossArea": "-",
+        "price": "11.10",
+        "actualPrice": "16567",
+        "grossPrice": "-",
+        "lat": "22.3413443088306",
+        "lng": "114.182611492266"
+    },
+    {
+        "address": {
+            "add1": "FLAT B3",
+            "add2": "9/F",
+            "add3": "BLOCK B",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "01/06/18",
+        "actualArea": "578",
+        "grossArea": "711",
+        "price": "10.50",
+        "actualPrice": "18166",
+        "grossPrice": "14768",
+        "lat": "22.3422925526473",
+        "lng": "114.181563115642"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3A",
+            "add2": "4/F",
+            "add3": "HAMBURG VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "01/06/18",
+        "actualArea": "834",
+        "grossArea": "-",
+        "price": "20.43",
+        "actualPrice": "24500",
+        "grossPrice": "-",
+        "lat": "22.3433401675169",
+        "lng": "114.177078228035"
+    },
+    {
+        "address": {
+            "add1": "FLAT 4B",
+            "add2": "3/F",
+            "add3": "HAMBURG VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "01/06/18",
+        "actualArea": "872",
+        "grossArea": "-",
+        "price": "21.36",
+        "actualPrice": "24500",
+        "grossPrice": "-",
+        "lat": "22.3433401675169",
+        "lng": "114.177078228035"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "1/F",
+            "add3": "15 GRAMPIAN ROAD",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "52",
+        "date": "01/06/18",
+        "actualArea": "634",
+        "grossArea": "-",
+        "price": "10.23",
+        "actualPrice": "16136",
+        "grossPrice": "-",
+        "lat": "22.328794",
+        "lng": "114.186208"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "7/F",
+            "add3": "TOWER 2",
+            "add4": "EDEN GATE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "31/05/18",
+        "actualArea": "1464",
+        "grossArea": "-",
+        "price": "63.92",
+        "actualPrice": "43661",
+        "grossPrice": "-",
+        "lat": "22.341133",
+        "lng": "114.177886"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "8/F",
+            "add3": "TOWER 2",
+            "add4": "PARC INVERNESS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "29/05/18",
+        "actualArea": "1514",
+        "grossArea": "-",
+        "price": "37.59",
+        "actualPrice": "24827",
+        "grossPrice": "-",
+        "lat": "22.333965",
+        "lng": "114.186409"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C3",
+            "add2": "1/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "29/05/18",
+        "actualArea": "675",
+        "grossArea": "950",
+        "price": "16.93",
+        "actualPrice": "25082",
+        "grossPrice": "17821",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "12/F",
+            "add3": "TOWER 1",
+            "add4": "EDEN GATE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "28/05/18",
+        "actualArea": "3029",
+        "grossArea": "-",
+        "price": "185.73",
+        "actualPrice": "61316",
+        "grossPrice": "-",
+        "lat": "22.341267",
+        "lng": "114.178122"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "8/F",
+            "add3": "ALICE COURT (BLOCK A-B)",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "47",
+        "date": "28/05/18",
+        "actualArea": "654",
+        "grossArea": "-",
+        "price": "10.10",
+        "actualPrice": "15443",
+        "grossPrice": "-",
+        "lat": "22.2905816395839",
+        "lng": "114.200862583888"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "15/F",
+            "add3": "THE PALACE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "28/05/18",
+        "actualArea": "673",
+        "grossArea": "900",
+        "price": "15.00",
+        "actualPrice": "22288",
+        "grossPrice": "16667",
+        "lat": "22.3420215640188",
+        "lng": "114.1835822736"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C2",
+            "add2": "3/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "645",
+        "grossArea": "-",
+        "price": "16.18",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK A1",
+            "add2": "4/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "972",
+        "grossArea": "-",
+        "price": "26.82",
+        "actualPrice": "27590",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C3",
+            "add2": "2/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "675",
+        "grossArea": "-",
+        "price": "16.93",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C1",
+            "add2": "2/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "662",
+        "grossArea": "-",
+        "price": "16.60",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK D3",
+            "add2": "4/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "1101",
+        "grossArea": "1350",
+        "price": "30.38",
+        "actualPrice": "27590",
+        "grossPrice": "22501",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK D1",
+            "add2": "1/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "925",
+        "grossArea": "1150",
+        "price": "23.20",
+        "actualPrice": "25082",
+        "grossPrice": "20175",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C4",
+            "add2": "3/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "753",
+        "grossArea": "-",
+        "price": "18.89",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK B2",
+            "add2": "4/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "759",
+        "grossArea": "-",
+        "price": "20.94",
+        "actualPrice": "27590",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C1",
+            "add2": "1/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "662",
+        "grossArea": "-",
+        "price": "16.60",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C3",
+            "add2": "3/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "675",
+        "grossArea": "-",
+        "price": "16.93",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK B2",
+            "add2": "2/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "759",
+        "grossArea": "-",
+        "price": "19.04",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C2",
+            "add2": "4/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "645",
+        "grossArea": "-",
+        "price": "17.80",
+        "actualPrice": "27590",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK B1",
+            "add2": "3/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "755",
+        "grossArea": "-",
+        "price": "18.94",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK B1",
+            "add2": "4/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "755",
+        "grossArea": "-",
+        "price": "20.83",
+        "actualPrice": "27590",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK B1",
+            "add2": "2/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "755",
+        "grossArea": "-",
+        "price": "18.94",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK A2",
+            "add2": "1/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "912",
+        "grossArea": "-",
+        "price": "22.87",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK A1",
+            "add2": "1/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "972",
+        "grossArea": "-",
+        "price": "24.38",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK A2",
+            "add2": "2/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "912",
+        "grossArea": "-",
+        "price": "22.87",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK D3",
+            "add2": "3/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "1101",
+        "grossArea": "-",
+        "price": "27.62",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK D3",
+            "add2": "2/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "1101",
+        "grossArea": "-",
+        "price": "27.62",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK A2",
+            "add2": "3/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "28/05/18",
+        "actualArea": "912",
+        "grossArea": "-",
+        "price": "22.87",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "FLAT B1",
+            "add2": "1/F",
+            "add3": "BLOCK B",
+            "add4": "TWILIGHT COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "43",
+        "date": "28/05/18",
+        "actualArea": "638",
+        "grossArea": "-",
+        "price": "9.48",
+        "actualPrice": "14859",
+        "grossPrice": "-",
+        "lat": "22.2945280090665",
+        "lng": "114.021810278396"
+    },
+    {
+        "address": {
+            "add1": "FLAT 6B",
+            "add2": "1/F",
+            "add3": "HAMBURG VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "25/05/18",
+        "actualArea": "1046",
+        "grossArea": "1100",
+        "price": "25.84",
+        "actualPrice": "24700",
+        "grossPrice": "23487",
+        "lat": "22.3433401675169",
+        "lng": "114.177078228035"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "8/F",
+            "add3": "TOWER 2",
+            "add4": "EDEN GATE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "25/05/18",
+        "actualArea": "1464",
+        "grossArea": "-",
+        "price": "65.35",
+        "actualPrice": "44637",
+        "grossPrice": "-",
+        "lat": "22.341133",
+        "lng": "114.177886"
+    },
+    {
+        "address": {
+            "add1": "FLAT 5",
+            "add2": "2/F",
+            "add3": "HAMBURG VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "25/05/18",
+        "actualArea": "1077",
+        "grossArea": "-",
+        "price": "26.41",
+        "actualPrice": "24523",
+        "grossPrice": "-",
+        "lat": "22.3433401675169",
+        "lng": "114.177078228035"
+    },
+    {
+        "address": {
+            "add1": "FLAT 3A",
+            "add2": "2/F",
+            "add3": "HAMBURG VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "25/05/18",
+        "actualArea": "834",
+        "grossArea": "-",
+        "price": "20.43",
+        "actualPrice": "24500",
+        "grossPrice": "-",
+        "lat": "22.3433401675169",
+        "lng": "114.177078228035"
+    },
+    {
+        "address": {
+            "add1": "FLAT A4",
+            "add2": "4/F",
+            "add3": "BLOCK A",
+            "add4": "BROADWAY TOWERS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "45",
+        "date": "24/05/18",
+        "actualArea": "432",
+        "grossArea": "-",
+        "price": "8.03",
+        "actualPrice": "18588",
+        "grossPrice": "-",
+        "lat": "22.3404864183489",
+        "lng": "114.18221345236"
+    },
+    {
+        "address": {
+            "add1": "FLAT H",
+            "add2": "2/F",
+            "add3": "PHASE II",
+            "add4": "BOLAND COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "43",
+        "date": "24/05/18",
+        "actualArea": "440",
+        "grossArea": "-",
+        "price": "7.00",
+        "actualPrice": "15909",
+        "grossPrice": "-",
+        "lat": "22.3409650650352",
+        "lng": "114.181349506702"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "6/F",
+            "add3": "TOWER 2",
+            "add4": "NO. 1 & 3 EDE ROAD",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "24/05/18",
+        "actualArea": "1409",
+        "grossArea": "-",
+        "price": "50.00",
+        "actualPrice": "35486",
+        "grossPrice": "-",
+        "lat": "22.330533",
+        "lng": "114.180564"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "8/F",
+            "add3": "PHASE II",
+            "add4": "BOLAND COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "43",
+        "date": "23/05/18",
+        "actualArea": "531",
+        "grossArea": "-",
+        "price": "9.38",
+        "actualPrice": "17665",
+        "grossPrice": "-",
+        "lat": "22.3409650650352",
+        "lng": "114.181349506702"
+    },
+    {
+        "address": {
+            "add1": "FLAT 6B",
+            "add2": "2/F",
+            "add3": "HAMBURG VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "21/05/18",
+        "actualArea": "1046",
+        "grossArea": "1300",
+        "price": "25.63",
+        "actualPrice": "24500",
+        "grossPrice": "19713",
+        "lat": "22.3433401675169",
+        "lng": "114.177078228035"
+    },
+    {
+        "address": {
+            "add1": "NO. 18",
+            "add2": "NO. 18",
+            "add3": "NO. 18 HAMPSHIRE ROAD",
+            "add4": "NO. 16-22 HAMPSHIRE ROAD",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "18/05/18",
+        "actualArea": "5180",
+        "grossArea": "-",
+        "price": "195.50",
+        "actualPrice": "37741",
+        "grossPrice": "-",
+        "lat": "22.3316816579935",
+        "lng": "114.180349405327"
+    },
+    {
+        "address": {
+            "add1": "FLAT A1",
+            "add2": "12/F",
+            "add3": "BLOCK A",
+            "add4": "BEVERLEY HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "18/05/18",
+        "actualArea": "1058",
+        "grossArea": "-",
+        "price": "17.70",
+        "actualPrice": "16730",
+        "grossPrice": "-",
+        "lat": "22.2872045567919",
+        "lng": "114.198203180593"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "2/F",
+            "add3": "KWONG FAI COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "42",
+        "date": "18/05/18",
+        "actualArea": "702",
+        "grossArea": "800",
+        "price": "11.50",
+        "actualPrice": "16382",
+        "grossPrice": "14375",
+        "lat": "22.3416694015896",
+        "lng": "114.182825070883"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "TOWER 10",
+            "add4": "PHASE 1",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "17/05/18",
+        "actualArea": "1086",
+        "grossArea": "1469",
+        "price": "31.28",
+        "actualPrice": "28803",
+        "grossPrice": "21293",
+        "lat": "22.3410554331701",
+        "lng": "114.176418116242"
+    },
+    {
+        "address": {
+            "add1": "FLAT E3",
+            "add2": "1/F",
+            "add3": "BLOCK E",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "17/05/18",
+        "actualArea": "612",
+        "grossArea": "746",
+        "price": "9.25",
+        "actualPrice": "15114",
+        "grossPrice": "12399",
+        "lat": "22.3421390230152",
+        "lng": "114.181893166899"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "9/F",
+            "add3": "TOWER 2",
+            "add4": "PARC INVERNESS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "11/05/18",
+        "actualArea": "1149",
+        "grossArea": "-",
+        "price": "40.93",
+        "actualPrice": "35626",
+        "grossPrice": "-",
+        "lat": "22.333965",
+        "lng": "114.186409"
+    },
+    {
+        "address": {
+            "add1": "HOUSE 10",
+            "add2": "NO. 1",
+            "add3": "HOUSE 10",
+            "add4": "SUNDERLAND ESTATE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "35",
+        "date": "10/05/18",
+        "actualArea": "2059",
+        "grossArea": "2104",
+        "price": "58.80",
+        "actualPrice": "28558",
+        "grossPrice": "27947",
+        "lat": "22.334467",
+        "lng": "114.180636"
+    },
+    {
+        "address": {
+            "add1": "FLAT C (NO. 7)",
+            "add2": "7/F",
+            "add3": "PEARL COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "52",
+        "date": "10/05/18",
+        "actualArea": "1190",
+        "grossArea": "1400",
+        "price": "22.18",
+        "actualPrice": "18639",
+        "grossPrice": "15843",
+        "lat": "22.2845986644797",
+        "lng": "114.130966787967"
+    },
+    {
+        "address": {
+            "add1": "FLAT A4",
+            "add2": "10/F",
+            "add3": "BLOCK A",
+            "add4": "BROADWAY TOWERS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "45",
+        "date": "09/05/18",
+        "actualArea": "432",
+        "grossArea": "-",
+        "price": "8.48",
+        "actualPrice": "19630",
+        "grossPrice": "-",
+        "lat": "22.3404864183489",
+        "lng": "114.18221345236"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "2/F",
+            "add3": "BLOCK 2",
+            "add4": "MERIDIAN HILL",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "04/05/18",
+        "actualArea": "991",
+        "grossArea": "1296",
+        "price": "20.88",
+        "actualPrice": "21070",
+        "grossPrice": "16111",
+        "lat": "22.3427169079588",
+        "lng": "114.183815289055"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "3/F",
+            "add3": "AVON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "44",
+        "date": "04/05/18",
+        "actualArea": "823",
+        "grossArea": "1000",
+        "price": "15.41",
+        "actualPrice": "18724",
+        "grossPrice": "15410",
+        "lat": "22.2801875518887",
+        "lng": "114.153964950352"
+    },
+    {
+        "address": {
+            "add1": "FLAT B2",
+            "add2": "4/F",
+            "add3": "BLOCK B",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "30/04/18",
+        "actualArea": "802",
+        "grossArea": "907",
+        "price": "12.50",
+        "actualPrice": "15586",
+        "grossPrice": "13782",
+        "lat": "22.3422925526473",
+        "lng": "114.181563115642"
+    },
+    {
+        "address": {
+            "add1": "FLAT D (NO. 9)",
+            "add2": "6/F",
+            "add3": "PEARL COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "52",
+        "date": "30/04/18",
+        "actualArea": "1190",
+        "grossArea": "-",
+        "price": "22.00",
+        "actualPrice": "18487",
+        "grossPrice": "-",
+        "lat": "22.2845986644797",
+        "lng": "114.130966787967"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "4/F",
+            "add3": "BLOCK 3",
+            "add4": "BEVERLY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "27/04/18",
+        "actualArea": "1211",
+        "grossArea": "1308",
+        "price": "20.30",
+        "actualPrice": "16763",
+        "grossPrice": "15520",
+        "lat": "22.3277261903954",
+        "lng": "114.182814768495"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "11/F",
+            "add3": "PINE TREE GARDENS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "45",
+        "date": "27/04/18",
+        "actualArea": "1859",
+        "grossArea": "-",
+        "price": "39.80",
+        "actualPrice": "21409",
+        "grossPrice": "-",
+        "lat": "22.3403149128707",
+        "lng": "114.178961461417"
+    },
+    {
+        "address": {
+            "add1": "FLAT A2",
+            "add2": "2/F",
+            "add3": "BLOCK A",
+            "add4": "COLLEGE CREST",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "40",
+        "date": "27/04/18",
+        "actualArea": "845",
+        "grossArea": "964",
+        "price": "16.90",
+        "actualPrice": "20000",
+        "grossPrice": "17531",
+        "lat": "22.3282138007326",
+        "lng": "114.183843686613"
+    },
+    {
+        "address": {
+            "add1": "FLAT B2",
+            "add2": "4/F",
+            "add3": "BLOCK B",
+            "add4": "BEVERLEY HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "27/04/18",
+        "actualArea": "1090",
+        "grossArea": "1084",
+        "price": "16.00",
+        "actualPrice": "14679",
+        "grossPrice": "14760",
+        "lat": "22.2872045567919",
+        "lng": "114.198203180593"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "9/F",
+            "add3": "TOWER 11",
+            "add4": "PHASE 3",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "23/04/18",
+        "actualArea": "990",
+        "grossArea": "1326",
+        "price": "26.90",
+        "actualPrice": "27172",
+        "grossPrice": "20287",
+        "lat": "22.3410915519688",
+        "lng": "114.175690055903"
+    },
+    {
+        "address": {
+            "add1": "NO. 52",
+            "add2": "3/F",
+            "add3": "48-54 GRAMPIAN ROAD",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "63",
+        "date": "20/04/18",
+        "actualArea": "966",
+        "grossArea": "-",
+        "price": "12.47",
+        "actualPrice": "12907",
+        "grossPrice": "-",
+        "lat": "22.328794",
+        "lng": "114.186208"
+    },
+    {
+        "address": {
+            "add1": "NO. 18",
+            "add2": "G/F",
+            "add3": "YEE YUEN",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "56",
+        "date": "20/04/18",
+        "actualArea": "1111",
+        "grossArea": "-",
+        "price": "19.32",
+        "actualPrice": "17390",
+        "grossPrice": "-",
+        "lat": "22.2065959386034",
+        "lng": "114.030858436102"
+    },
+    {
+        "address": {
+            "add1": "FLAT 7",
+            "add2": "2/F",
+            "add3": "BLOCK B",
+            "add4": "PENINSULA HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "20/04/18",
+        "actualArea": "1232",
+        "grossArea": "1578",
+        "price": "22.80",
+        "actualPrice": "18506",
+        "grossPrice": "14449",
+        "lat": "22.3433400473115",
+        "lng": "114.183077540562"
+    },
+    {
+        "address": {
+            "add1": "FLAT A3",
+            "add2": "6/F",
+            "add3": "BLOCK A",
+            "add4": "FABER GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "17/04/18",
+        "actualArea": "445",
+        "grossArea": "-",
+        "price": "7.20",
+        "actualPrice": "16180",
+        "grossPrice": "-",
+        "lat": "22.3416604009508",
+        "lng": "114.181951394675"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "42/F",
+            "add3": "THE PALACE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "12/04/18",
+        "actualArea": "1764",
+        "grossArea": "2300",
+        "price": "52.80",
+        "actualPrice": "29932",
+        "grossPrice": "22957",
+        "lat": "22.3420215640188",
+        "lng": "114.1835822736"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "4/F",
+            "add3": "LILAC COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "40",
+        "date": "12/04/18",
+        "actualArea": "1012",
+        "grossArea": "1100",
+        "price": "14.80",
+        "actualPrice": "14625",
+        "grossPrice": "13455",
+        "lat": "22.3275545009952",
+        "lng": "114.185251100925"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "31/F",
+            "add3": "THE PALACE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "12/04/18",
+        "actualArea": "1764",
+        "grossArea": "2300",
+        "price": "44.00",
+        "actualPrice": "24943",
+        "grossPrice": "19130",
+        "lat": "22.3420215640188",
+        "lng": "114.1835822736"
+    },
+    {
+        "address": {
+            "add1": "HOUSE A",
+            "add2": "NO. 5 & 7 & 9",
+            "add3": "HOUSE A",
+            "add4": "EDEN GATE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "12/04/18",
+        "actualArea": "3099",
+        "grossArea": "-",
+        "price": "193.80",
+        "actualPrice": "62536",
+        "grossPrice": "-",
+        "lat": "22.341025",
+        "lng": "114.178108"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "7/F",
+            "add3": "TOWER 8",
+            "add4": "PHASE 3",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "11/04/18",
+        "actualArea": "1161",
+        "grossArea": "1505",
+        "price": "33.70",
+        "actualPrice": "29027",
+        "grossPrice": "22392",
+        "lat": "22.3410915519688",
+        "lng": "114.175690055903"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "TOWER 17",
+            "add4": "PHASE 1",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "09/04/18",
+        "actualArea": "1451",
+        "grossArea": "1947",
+        "price": "36.50",
+        "actualPrice": "25155",
+        "grossPrice": "18747",
+        "lat": "22.3410554331701",
+        "lng": "114.176418116242"
+    },
+    {
+        "address": {
+            "add1": "FLAT B1",
+            "add2": "1/F",
+            "add3": "BLOCK B",
+            "add4": "HAPPY GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "42",
+        "date": "09/04/18",
+        "actualArea": "795",
+        "grossArea": "954",
+        "price": "12.20",
+        "actualPrice": "15346",
+        "grossPrice": "12788",
+        "lat": "22.3415429580278",
+        "lng": "114.18323278052"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "12/F",
+            "add3": "TOWER 15",
+            "add4": "PHASE 4",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "09/04/18",
+        "actualArea": "2276",
+        "grossArea": "2900",
+        "price": "72.00",
+        "actualPrice": "31634",
+        "grossPrice": "24828",
+        "lat": "22.3426267458452",
+        "lng": "114.17533086309"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "3/F",
+            "add3": "TOWER 1",
+            "add4": "EDEN GATE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "09/04/18",
+        "actualArea": "1465",
+        "grossArea": "-",
+        "price": "57.10",
+        "actualPrice": "38974",
+        "grossPrice": "-",
+        "lat": "22.341267",
+        "lng": "114.178122"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "21/F",
+            "add3": "THE PALACE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "06/04/18",
+        "actualArea": "1039",
+        "grossArea": "1368",
+        "price": "26.30",
+        "actualPrice": "25313",
+        "grossPrice": "19225",
+        "lat": "22.3420215640188",
+        "lng": "114.1835822736"
+    },
+    {
+        "address": {
+            "add1": "NO. 48",
+            "add2": "2/F",
+            "add3": "48-54 GRAMPIAN ROAD",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "63",
+        "date": "06/04/18",
+        "actualArea": "908",
+        "grossArea": "-",
+        "price": "11.00",
+        "actualPrice": "12115",
+        "grossPrice": "-",
+        "lat": "22.328794",
+        "lng": "114.186208"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "TOWER 11",
+            "add4": "PHASE 3",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "29/03/18",
+        "actualArea": "1086",
+        "grossArea": "1469",
+        "price": "30.88",
+        "actualPrice": "28435",
+        "grossPrice": "21021",
+        "lat": "22.3410915519688",
+        "lng": "114.175690055903"
+    },
+    {
+        "address": {
+            "add1": "NO. 181B",
+            "add2": "3/F",
+            "add3": "181B BOUNDARY STREET",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "61",
+        "date": "29/03/18",
+        "actualArea": "839",
+        "grossArea": "-",
+        "price": "8.68",
+        "actualPrice": "10346",
+        "grossPrice": "-",
+        "lat": "22.3262449554177",
+        "lng": "114.166498175853"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "4/F",
+            "add3": "BLOCK 2",
+            "add4": "JOY GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "43",
+        "date": "26/03/18",
+        "actualArea": "821",
+        "grossArea": "-",
+        "price": "13.30",
+        "actualPrice": "16200",
+        "grossPrice": "-",
+        "lat": "22.3432679200697",
+        "lng": "114.177825714683"
+    },
+    {
+        "address": {
+            "add1": "FLAT 1G",
+            "add2": "8/F",
+            "add3": "PHASE 1",
+            "add4": "MERRY COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "0",
+        "date": "26/03/18",
+        "actualArea": "547",
+        "grossArea": "-",
+        "price": "8.55",
+        "actualPrice": "15631",
+        "grossPrice": "-",
+        "lat": "22.2821643812754",
+        "lng": "114.148394879654"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "6/F",
+            "add3": "EASTLAND HEIGHTS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "42",
+        "date": "23/03/18",
+        "actualArea": "830",
+        "grossArea": "900",
+        "price": "11.10",
+        "actualPrice": "13373",
+        "grossPrice": "12333",
+        "lat": "22.3432678428374",
+        "lng": "114.181932038133"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "3/F",
+            "add3": "BLOCK 2",
+            "add4": "MERIDIAN HILL",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "20/03/18",
+        "actualArea": "991",
+        "grossArea": "1296",
+        "price": "20.56",
+        "actualPrice": "20747",
+        "grossPrice": "15864",
+        "lat": "22.3427169079588",
+        "lng": "114.183815289055"
+    },
+    {
+        "address": {
+            "add1": "NO. 42",
+            "add2": "5/F",
+            "add3": "CARMEN GARDEN",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "27",
+        "date": "19/03/18",
+        "actualArea": "1082",
+        "grossArea": "1488",
+        "price": "17.00",
+        "actualPrice": "15712",
+        "grossPrice": "11425",
+        "lat": "noLat",
+        "lng": "noLng"
+    },
+    {
+        "address": {
+            "add1": "FLAT 5",
+            "add2": "G/F",
+            "add3": "BLOCK B",
+            "add4": "PENINSULA HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "19/03/18",
+        "actualArea": "1101",
+        "grossArea": "1405",
+        "price": "23.68",
+        "actualPrice": "21508",
+        "grossPrice": "16854",
+        "lat": "22.3433400473115",
+        "lng": "114.183077540562"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "5/F",
+            "add3": "KALAM COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "13/03/18",
+        "actualArea": "1032",
+        "grossArea": "-",
+        "price": "17.90",
+        "actualPrice": "17345",
+        "grossPrice": "-",
+        "lat": "22.3283762303259",
+        "lng": "114.186231515803"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "2/F",
+            "add3": "BOUNDARY CREST",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "40",
+        "date": "12/03/18",
+        "actualArea": "574",
+        "grossArea": "-",
+        "price": "7.10",
+        "actualPrice": "12369",
+        "grossPrice": "-",
+        "lat": "22.3275364296485",
+        "lng": "114.185445230473"
+    },
+    {
+        "address": {
+            "add1": "NO. 2E",
+            "add2": "3/F",
+            "add3": "CORNWALL TERRACE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "61",
+        "date": "08/03/18",
+        "actualArea": "1786",
+        "grossArea": "-",
+        "price": "28.00",
+        "actualPrice": "15677",
+        "grossPrice": "-",
+        "lat": "22.3403149183258",
+        "lng": "114.178495505449"
+    },
+    {
+        "address": {
+            "add1": "HOUSE C",
+            "add2": "NO. 5 & 7 & 9",
+            "add3": "HOUSE C",
+            "add4": "EDEN GATE",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "07/03/18",
+        "actualArea": "3533",
+        "grossArea": "-",
+        "price": "221.20",
+        "actualPrice": "62610",
+        "grossPrice": "-",
+        "lat": "22.340922",
+        "lng": "114.178019"
+    },
+    {
+        "address": {
+            "add1": "FLAT E3",
+            "add2": "5/F",
+            "add3": "BLOCK E",
+            "add4": "PHOENIX COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "06/03/18",
+        "actualArea": "612",
+        "grossArea": "746",
+        "price": "9.84",
+        "actualPrice": "16078",
+        "grossPrice": "13190",
+        "lat": "22.3421390230152",
+        "lng": "114.181893166899"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "TOWER 9",
+            "add4": "PHASE 3",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "06/03/18",
+        "actualArea": "1091",
+        "grossArea": "1475",
+        "price": "28.00",
+        "actualPrice": "25665",
+        "grossPrice": "18983",
+        "lat": "22.3410915519688",
+        "lng": "114.175690055903"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "11/F",
+            "add3": "THE PALACE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "02/03/18",
+        "actualArea": "673",
+        "grossArea": "900",
+        "price": "14.90",
+        "actualPrice": "22140",
+        "grossPrice": "16556",
+        "lat": "22.3420215640188",
+        "lng": "114.1835822736"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "8/F",
+            "add3": "MERLIN COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "43",
+        "date": "28/02/18",
+        "actualArea": "918",
+        "grossArea": "960",
+        "price": "13.07",
+        "actualPrice": "14235",
+        "grossPrice": "13613",
+        "lat": "22.3426808209705",
+        "lng": "114.182941605076"
+    },
+    {
+        "address": {
+            "add1": "FLAT F",
+            "add2": "5/F",
+            "add3": "TOWER 1",
+            "add4": "PHASE 1",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "28/02/18",
+        "actualArea": "1029",
+        "grossArea": "1391",
+        "price": "27.30",
+        "actualPrice": "26531",
+        "grossPrice": "19626",
+        "lat": "22.3410554331701",
+        "lng": "114.176418116242"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "2/F",
+            "add3": "BLOCK 1",
+            "add4": "LUNG CHEUNG COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "48",
+        "date": "28/02/18",
+        "actualArea": "803",
+        "grossArea": "-",
+        "price": "11.68",
+        "actualPrice": "14545",
+        "grossPrice": "-",
+        "lat": "22.3293602843054",
+        "lng": "114.190211311417"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "8/F",
+            "add3": "TOWER 2",
+            "add4": "PARC INVERNESS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "2",
+        "date": "27/02/18",
+        "actualArea": "1286",
+        "grossArea": "-",
+        "price": "39.44",
+        "actualPrice": "30673",
+        "grossPrice": "-",
+        "lat": "22.333965",
+        "lng": "114.186409"
+    },
+    {
+        "address": {
+            "add1": "FLAT E",
+            "add2": "5/F",
+            "add3": "TOWER 5",
+            "add4": "PHASE 2",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "27/02/18",
+        "actualArea": "1086",
+        "grossArea": "1473",
+        "price": "30.60",
+        "actualPrice": "28177",
+        "grossPrice": "20774",
+        "lat": "22.3410464012529",
+        "lng": "114.176058940003"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "3/F",
+            "add3": "TOWER 5",
+            "add4": "PHASE 2",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "27/02/18",
+        "actualArea": "1121",
+        "grossArea": "1509",
+        "price": "29.80",
+        "actualPrice": "26583",
+        "grossPrice": "19748",
+        "lat": "22.3410464012529",
+        "lng": "114.176058940003"
+    },
+    {
+        "address": {
+            "add1": "FLAT 7",
+            "add2": "G/F",
+            "add3": "BLOCK A",
+            "add4": "PENINSULA HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "27/02/18",
+        "actualArea": "-",
+        "grossArea": "1581",
+        "price": "25.80",
+        "actualPrice": "-",
+        "grossPrice": "16319",
+        "lat": "22.3435206696248",
+        "lng": "114.18278631947"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "8/F",
+            "add3": "TOWER 10",
+            "add4": "PHASE 1",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "26/02/18",
+        "actualArea": "1104",
+        "grossArea": "1473",
+        "price": "35.00",
+        "actualPrice": "31703",
+        "grossPrice": "23761",
+        "lat": "22.3410554331701",
+        "lng": "114.176418116242"
+    },
+    {
+        "address": {
+            "add1": "FLAT A3",
+            "add2": "3/F",
+            "add3": "BLOCK A",
+            "add4": "FABER GARDEN",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "41",
+        "date": "21/02/18",
+        "actualArea": "445",
+        "grossArea": "-",
+        "price": "6.85",
+        "actualPrice": "15393",
+        "grossPrice": "-",
+        "lat": "22.3416604009508",
+        "lng": "114.181951394675"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "12/F",
+            "add3": "EASTBOURNE COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "53",
+        "date": "13/02/18",
+        "actualArea": "926",
+        "grossArea": "-",
+        "price": "23.30",
+        "actualPrice": "25162",
+        "grossPrice": "-",
+        "lat": "22.343803",
+        "lng": "114.176944"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "NO. 142",
+            "add3": "LA VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "32",
+        "date": "13/02/18",
+        "actualArea": "3863",
+        "grossArea": "4784",
+        "price": "83.80",
+        "actualPrice": "21693",
+        "grossPrice": "17517",
+        "lat": "22.331989",
+        "lng": "114.181983"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "12/F",
+            "add3": "BLOCK 6",
+            "add4": "BEVERLY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "12/02/18",
+        "actualArea": "1212",
+        "grossArea": "1308",
+        "price": "19.00",
+        "actualPrice": "15677",
+        "grossPrice": "14526",
+        "lat": "22.3273469291433",
+        "lng": "114.18214500254"
+    },
+    {
+        "address": {
+            "add1": "BLOCK A1",
+            "add2": "2/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "07/02/18",
+        "actualArea": "972",
+        "grossArea": "-",
+        "price": "24.38",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK A1",
+            "add2": "3/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "07/02/18",
+        "actualArea": "972",
+        "grossArea": "-",
+        "price": "24.38",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C4",
+            "add2": "1/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "07/02/18",
+        "actualArea": "753",
+        "grossArea": "-",
+        "price": "18.89",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK B2",
+            "add2": "3/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "07/02/18",
+        "actualArea": "759",
+        "grossArea": "-",
+        "price": "19.04",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C2",
+            "add2": "2/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "07/02/18",
+        "actualArea": "645",
+        "grossArea": "-",
+        "price": "16.18",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C4",
+            "add2": "4/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "07/02/18",
+        "actualArea": "753",
+        "grossArea": "-",
+        "price": "20.78",
+        "actualPrice": "27590",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK D3",
+            "add2": "1/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "07/02/18",
+        "actualArea": "1101",
+        "grossArea": "-",
+        "price": "27.62",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C1",
+            "add2": "3/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "07/02/18",
+        "actualArea": "662",
+        "grossArea": "-",
+        "price": "16.60",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "BLOCK C4",
+            "add2": "2/F",
+            "add3": "DRAGON COURT",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "50",
+        "date": "07/02/18",
+        "actualArea": "753",
+        "grossArea": "-",
+        "price": "18.89",
+        "actualPrice": "25082",
+        "grossPrice": "-",
+        "lat": "22.2816783876334",
+        "lng": "114.19323421865"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "10/F",
+            "add3": "8 LASALLE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "4",
+        "date": "05/02/18",
+        "actualArea": "875",
+        "grossArea": "-",
+        "price": "21.50",
+        "actualPrice": "24571",
+        "grossPrice": "-",
+        "lat": "22.3280874523107",
+        "lng": "114.181659702101"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "NO. 142",
+            "add3": "LA VILLA",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "32",
+        "date": "02/02/18",
+        "actualArea": "3899",
+        "grossArea": "4805",
+        "price": "82.88",
+        "actualPrice": "21257",
+        "grossPrice": "17249",
+        "lat": "22.331989",
+        "lng": "114.181983"
+    },
+    {
+        "address": {
+            "add1": "FLAT 1H",
+            "add2": "2/F",
+            "add3": "PHASE 1",
+            "add4": "MERRY COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "0",
+        "date": "01/02/18",
+        "actualArea": "547",
+        "grossArea": "-",
+        "price": "8.93",
+        "actualPrice": "16325",
+        "grossPrice": "-",
+        "lat": "22.2821643812754",
+        "lng": "114.148394879654"
+    },
+    {
+        "address": {
+            "add1": "FLAT G",
+            "add2": "5/F",
+            "add3": "WELCOME GARDENS (BLOCK 1-2)",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "47",
+        "date": "30/01/18",
+        "actualArea": "698",
+        "grossArea": "-",
+        "price": "10.18",
+        "actualPrice": "14585",
+        "grossPrice": "-",
+        "lat": "22.3425002798228",
+        "lng": "114.180650611326"
+    },
+    {
+        "address": {
+            "add1": "FLAT D1",
+            "add2": "3/F",
+            "add3": "BLOCK D",
+            "add4": "CHERMAIN HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "49",
+        "date": "26/01/18",
+        "actualArea": "761",
+        "grossArea": "-",
+        "price": "13.80",
+        "actualPrice": "18134",
+        "grossPrice": "-",
+        "lat": "22.343875",
+        "lng": "114.177236"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "17/F",
+            "add3": "THE BLOOMSVILLE",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "16",
+        "date": "25/01/18",
+        "actualArea": "704",
+        "grossArea": "955",
+        "price": "16.20",
+        "actualPrice": "23011",
+        "grossPrice": "16963",
+        "lat": "22.3287103823375",
+        "lng": "114.185872393518"
+    },
+    {
+        "address": {
+            "add1": "FLAT A",
+            "add2": "7/F",
+            "add3": "LOCKOO GARDENS",
+            "add4": "",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "30",
+        "date": "23/01/18",
+        "actualArea": "1171",
+        "grossArea": "1319",
+        "price": "23.20",
+        "actualPrice": "19812",
+        "grossPrice": "17589",
+        "lat": "22.340459416008",
+        "lng": "114.176728755631"
+    },
+    {
+        "address": {
+            "add1": "FLAT D",
+            "add2": "4/F",
+            "add3": "BLOCK 4",
+            "add4": "BEVERLY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "22/01/18",
+        "actualArea": "1212",
+        "grossArea": "1308",
+        "price": "19.00",
+        "actualPrice": "15677",
+        "grossPrice": "14526",
+        "lat": "22.327744238644",
+        "lng": "114.183154498375"
+    },
+    {
+        "address": {
+            "add1": "FLAT B",
+            "add2": "8/F",
+            "add3": "TOWER 11",
+            "add4": "PHASE 3",
+            "add5": "ONE BEACON HILL"
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "14",
+        "date": "22/01/18",
+        "actualArea": "1086",
+        "grossArea": "1469",
+        "price": "28.00",
+        "actualPrice": "25783",
+        "grossPrice": "19061",
+        "lat": "22.3410915519688",
+        "lng": "114.175690055903"
+    },
+    {
+        "address": {
+            "add1": "FLAT 2A",
+            "add2": "3/F",
+            "add3": "PHASE 2",
+            "add4": "MERRY COURT",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "43",
+        "date": "19/01/18",
+        "actualArea": "685",
+        "grossArea": "-",
+        "price": "11.20",
+        "actualPrice": "16350",
+        "grossPrice": "-",
+        "lat": "22.2821643812754",
+        "lng": "114.148394879654"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "2/F",
+            "add3": "BLOCK 2",
+            "add4": "MERIDIAN HILL",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "7",
+        "date": "16/01/18",
+        "actualArea": "990",
+        "grossArea": "1293",
+        "price": "20.00",
+        "actualPrice": "20202",
+        "grossPrice": "15468",
+        "lat": "22.3427169079588",
+        "lng": "114.183815289055"
+    },
+    {
+        "address": {
+            "add1": "FLAT C",
+            "add2": "8/F",
+            "add3": "BLOCK 4",
+            "add4": "BEVERLY VILLA",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "38",
+        "date": "12/01/18",
+        "actualArea": "1211",
+        "grossArea": "1308",
+        "price": "19.70",
+        "actualPrice": "16268",
+        "grossPrice": "15061",
+        "lat": "22.327744238644",
+        "lng": "114.183154498375"
+    },
+    {
+        "address": {
+            "add1": "FLAT 1",
+            "add2": "9/F",
+            "add3": "BLOCK A",
+            "add4": "PENINSULA HEIGHTS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "18",
+        "date": "10/01/18",
+        "actualArea": "1241",
+        "grossArea": "1593",
+        "price": "18.00",
+        "actualPrice": "14504",
+        "grossPrice": "11299",
+        "lat": "22.3435206696248",
+        "lng": "114.18278631947"
+    },
+    {
+        "address": {
+            "add1": "FLAT B3",
+            "add2": "9/F",
+            "add3": "BLOCK B",
+            "add4": "BROADWAY TOWERS",
+            "add5": ""
+        },
+        "sRegion": "Kowloon Tong/Beacon Hill",
+        "bRegion": "KLN",
+        "age": "45",
+        "date": "08/01/18",
+        "actualArea": "570",
+        "grossArea": "-",
+        "price": "9.60",
+        "actualPrice": "16842",
+        "grossPrice": "-",
+        "lat": "22.3404864183489",
+        "lng": "114.18221345236"
+    }
+]
