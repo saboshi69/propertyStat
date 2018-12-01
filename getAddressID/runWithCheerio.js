@@ -222,7 +222,7 @@ async function grabAll(bRegion, sRegion, year, today) {
         console.log("THE END")
 }
 
-grabAll("KLN", "209", 2018, "29/11/2018")
+grabAll("NTE", "308", 2018, "29/11/2018")
     .catch(err => console.log(err))
 
     // "KLN": {
