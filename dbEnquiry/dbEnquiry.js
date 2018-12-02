@@ -11,7 +11,7 @@ const knex = require('knex')({
 });
 
 async function dbData (){
-    let HK = await knex.select("sRegion", "price").from("alladdress").orderBy("price").where("bRegion", "HK")
+    let HK = await knex.select("sRegion", "price").from("alladdress").orderBy("price").where("bRegion", "HK").andWhere("price", "<=", "30")
     let HKarr = HK.map((u)=>{
         return [u.sRegion, u.price]
     })
