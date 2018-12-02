@@ -2,8 +2,9 @@
 
 async function realGraph (){
     let json = await axios.get("/")
-    let HK = JSON.parse(json).HKdata;
-    let NTW = JSON.parse(json).NTWdata;
+    console.log (json)
+    let HK = json.HKdata;
+    //let NTW = JSON.parse(json).NTWdata;
     await google.charts.load("current", {packages:["corechart"]});
     google.charts.setOnLoadCallback(drawChart);
     function drawChart(){
