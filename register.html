@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>RegEx Form</title>
+    <link rel="stylesheet" href="/public/register.css">
+</head>
+
+<body>
+    <h1>New User Signup</h1>
+
+    <div class="reg">
+        <form>
+
+            <input type="text" name="username" placeholder="username">
+            <p>Username must be and contain 5 - 12 characters</p>
+
+            <input type="text" name="email" placeholder="email">
+            <p>Email must be a valid address, e.g. me@mydomain.com</p>
+
+            <input type="password" name="password" placeholder="password">
+            <p>Password must alphanumeric (@, _ and - are also allowed) and be 8 - 20 characters</p>
+
+            <input type="text" name="telephone" placeholder="telephone">
+            <p>Telephone must be a valid HK telephone number (8 digits)</p>
+
+        </form>
+    </div>
+    <script type="text/javascript" src="/public/validation.js"></script>
+</body>
+
+</html>
