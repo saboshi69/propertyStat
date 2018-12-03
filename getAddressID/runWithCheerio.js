@@ -224,25 +224,3 @@ async function grabAll(bRegion, sRegion, year, today) {
 
 grabAll("KLN", "209", 2018, "06/03/2018")
     .catch(err => console.log(err))
-
-    // "KLN": {
-    //     "Olympic Station": "201",
-    //     "Kowloon Station": "202",
-    //     "Mongkok/Yaumatei": "203",
-    //     "Tsimshatsui/Jordan": "204",
-    //     "Ho Man Tin/King's Park": "205",
-    //     "To Kwa Wan": "206",
-    //     "To Kwa Wan East": "219",
-    //     "Whampoa/Laguna Verde": "207", ok
-    //     "Hung Hom": "220",ok
-    //     "Tseung Kwan O": "209",ok rescrape ok
-    //     "Mei Foo/Wonderland": "210",ok rescrape ok
-    //     "Cheung Sha Wan/Shum Shui Po": "212",ok
-    //     "Cheung Sha Wan West": "211",ok
-    //     "Yau Yat Tsuen/Shek Kip Mei": "213",ok
-    //     "Kowloon Tong/Beacon Hill": "214",ok
-    //     "Lam Tin/Yau Tong": "215",ok
-    //     "Kowloon Bay/Ngau Chi Wan": "216",ok
-    //     "Kwun Tong": "217",ok
-    //     "Diamond Hill/Wong Tai Sin": "218"
-    // }
