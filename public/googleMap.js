@@ -39,17 +39,6 @@ function initMap() {
 
 
 function processSearchData(data) {
-  
-    // initialize google map
-    let centerLocation = {
-        lat: 22.2870875,
-        lng: 114.194573
-    }
-     map = new google.maps.Map(document.getElementById('mappy'), {
-        center: centerLocation,
-        zoom: 10
-    })
-
     // function to add a single marker
     function addMarker(latlng) {
         let marker = new google.maps.Marker({
