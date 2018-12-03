@@ -1,0 +1,23 @@
+.regions {
+    display: grid;
+    position: relative;
+    grid-template-columns: repeat(4, 300px);
+    grid-template-areas: 
+    'a b c d';
+    background-color: aquamarine
+}
+
+#HK { grid-area: a } #KLN {grid-area: b} #NTE {grid-area: c} #NTW{grid-area: d}
+
+.others {
+    display: grid;
+    position: relative;
+    grid-template-columns: repeat(4, 300px);
+    grid-template-areas: 
+    'e f g h';
+    background-color: skyblue
+}
+
+.actualArea {grid-area: e} .price{grid-area: f} .actualPrice{grid-area: g}
+
+p{margin-top: 0;margin-bottom: 0}
