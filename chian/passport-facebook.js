@@ -18,6 +18,8 @@ module.exports = (app) => {
 		clientSecret: process.env.FACEBOOK_CLIENT_SECRET,
 		callbackURL: `/auth/facebook/callback`
 	}, async (accessToken, refreshToken, profile, done) => {
+		console.log(profile);
+		console.log(accessToken)
 		try {
 			let userResult = await knex('users').where({facebookid: profile.id});
 			if(userResult.length === 0) {
