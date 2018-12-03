@@ -11,13 +11,23 @@ module.exports = (express) => {
 		res.redirect('/login');
 	}
 
-	router.get('/', isLoggedIn, (req, res) => {
+	router.get('/', (req, res) => {
 		res.render(__dirname + '/public/index.html')
 	});
 
 	router.get('/secret', isLoggedIn, (req, res) => {
 		res.send('Here you go, a secret')
 	});
+
+	// register 
+	router.get('/signup', (req, res) => {
+		res.render(__dirname + '/public/signup.html');
+	});
+
+	router.post('/signup', passport.authenticate('local-signup', {
+		successRedirect: '/',
+		failureRedirect: '/error_signup'
+	}));
 
 	// log in
 	router.get('/login', (req, res) => {
@@ -33,17 +43,11 @@ module.exports = (express) => {
 		res.render(__dirname + '/public/error_login.html')
 	});
 
-	// register 
-	router.get('/register', (req, res) => {
-		res.render(__dirname + '/public/register.html')
+	router.get('/error_signup', (req, res) => {
+		res.render(__dirname + '/public/error_signup.html')
 	});
 
-	router.post('/register', (req, res) => {
-		
-		const username = req.body.username;
-		const password = req.body.password;
-		
-	});
+
 
 	// facebook
 

@@ -1,7 +1,6 @@
 const passport = require('passport');
 const FacebookStrategy = require('passport-facebook').Strategy;
 require('dotenv').config();
-
 const knex = require('knex')({
 	client: 'postgresql',
 	connection: {
@@ -11,38 +10,51 @@ const knex = require('knex')({
 });
 
 module.exports = (app) => {
+   app.use(passport.initialize());
+   app.use(passport.session());
+
 	passport.use('facebook', new FacebookStrategy({
 		clientID: process.env.FACEBOOK_ID,
 		clientSecret: process.env.FACEBOOK_CLIENT_SECRET,
 		callbackURL: `/auth/facebook/callback`
-	}, (accessToken, refreshToken, profile, done) => {
-//we will need to add additional columns into your database for this to work, currently the table users does not have a facebookID column, nor an accessToken column
-		// let userResult = await knex('users').where({facebookID: profile.id});
-		// if(userResult === 0) {
-		// 	console.log(profile, accessToken)
-		// 	let user = {
-		// 		facebookID: profile.id,
-		// 		email: profile.displayName,
-		// 		accessToken: accessToken
-		// 	}
-		// 	let query = await knex('users').insert(user).returning('id');
+	}, async (accessToken, refreshToken, profile, done) => {
+		try {
+			let userResult = await knex('users').where({facebookid: profile.id});
+			if(userResult.length === 0) {
+				console.log(profile);
+				let user = {
+					facebookid: profile.id,
+					accesstoken: accessToken
+				}
+				let query = await knex('users').insert(user).returning('id');
 
-		// 	user.id = query[0];
-		// 	done(null,user);
-		// } else {
-		// 	done(null, userResult[0])
-		// }
+				user.id = query[0];
+				done(null,user);
+			} else {
+				done(null, userResult[0])
+			} 			
+		} catch(err) {
+			return done(err);
+		}
+		
+    
+	}));
 
-		return done(null,{profile:profile,accessToken:accessToken});	
-      
-    }
-	));
 
 	passport.serializeUser((user, done) => {
-		done(null, user);
+		done(null, user.profile.id);
+
 	});
 
-	passport.deserializeUser((user,done)=>{
-    done(null,user);
+	passport.deserializeUser( async (id,done)=>{
+    let users = await knex('users').where({facebookid:id});
+    if (users.length == 0) {
+        return done(new Error(`Wrong user id ${id}`));
+    }
+    let user = users[0];
+    return done(null, user);
   });
+
+
+
 }

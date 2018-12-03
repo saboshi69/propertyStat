@@ -1,8 +1,8 @@
 const express = require('express');
 const app = express();
 const session = require('express-session');
-const passportLocal = require('./passport-local');
-const passportFacebook = require('./passport-facebook');
+const setupPassport = require('./passport');
+const setupPassportFb = require('./passport-facebook');
 const bodyParser = require('body-parser');
 const userRouter = require('./user-router')(express);
 const fs = require('fs');
@@ -16,6 +16,9 @@ app.use(session({
 	secret: 'supersecret'
 }));
 
+setupPassport(app);
+setupPassportFb(app);
+
 
 
 // to be remove when combined to main app.
@@ -25,11 +28,8 @@ app.set('view engine', 'html');
 app.use(bodyParser());
 
 // local passport + facebook passport + user route
-app.use(passport.initialize());
-app.use(passport.session());
+
 app.use('/', userRouter);
-passportLocal(app);
-passportFacebook(app);
 
 
 const httpsOptions = {
