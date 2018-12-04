@@ -13,7 +13,7 @@ const knex = require('knex')({
 (async function exp() {
     let arr = [];
     //change it plzzzzzzzzzzzzzzzzzz
-    let dir = await fs.readdir(`/mnt/c/Users/Matthew/Documents/Github/matthewlee/2ndProj/pullSamuel/getAddressID/data`)
+    let dir = await fs.readdir(`__dirname/../../getAddressID/data`)
 //     let ntwArr = dir.filter((u) => u.includes("NTW") || u.includes("KLN"))
 //     console.log(ntwArr)
 
@@ -23,7 +23,7 @@ const knex = require('knex')({
      for (let element of dir) {
         arr.length = 0;
          //change it plzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-        let data = await fs.readFile(`/mnt/c/Users/Matthew/Documents/Github/matthewlee/2ndProj/pullSamuel/getAddressID/data/${element}`, "utf8")
+        let data = await fs.readFile(`__dirname/../../getAddressID/data/${element}`, "utf8")
         //let data = await fs.readFile(`/mnt/c/Users/Matthew/Documents/Github/matthewlee/2ndProj/pullSamuel/getAddressID/temp209.json`, "utf8")
         let parsed = JSON.parse(data);
         console.log(parsed.length);

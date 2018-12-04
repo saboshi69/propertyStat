@@ -1,44 +1,28 @@
 {
-<<<<<<< HEAD
-  "name": "pullsamuel",
-=======
   "name": "propertystat",
->>>>>>> chian2
   "version": "1.0.0",
   "description": "",
   "main": "map.js",
   "dependencies": {
-<<<<<<< HEAD
-    "axios": "^0.18.0",
-    "cheerio": "^1.0.0-rc.2",
-    "cors": "^2.8.5",
-=======
     "bcrypt": "^3.0.2",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
     "connect-flash": "^0.1.1",
->>>>>>> chian2
+    "cors": "^2.8.5",
     "dotenv": "^6.1.0",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
-<<<<<<< HEAD
-    "express-router": "0.0.1",
-    "knex": "^0.15.2",
-    "lodash": "^4.17.11",
-    "nano-fs": "^1.2.5",
-    "pg": "^7.7.1",
-=======
     "express-session": "^1.15.6",
     "fs": "^0.0.1-security",
     "https": "^1.0.0",
     "knex": "^0.15.2",
     "lodash": "^4.17.11",
+    "nano-fs": "^1.2.5",
     "passport": "^0.4.0",
     "passport-facebook": "^2.1.1",
     "passport-local": "^1.0.0",
     "pg": "^7.6.1",
->>>>>>> chian2
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
   },
@@ -46,10 +30,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-<<<<<<< HEAD
-  "author": "",
-  "license": "ISC"
-=======
   "repository": {
     "type": "git",
     "url": "git+https://github.com/saboshi69/propertyStat.git"
@@ -60,5 +40,4 @@
     "url": "https://github.com/saboshi69/propertyStat/issues"
   },
   "homepage": "https://github.com/saboshi69/propertyStat#readme"
->>>>>>> chian2
 }
