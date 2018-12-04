@@ -33,13 +33,25 @@ function measure(lat1, lng1, lat2, lng2) {  // generally used geo measurement fu
 async function dbGeocode(code) {
     let clat = code[1];
     let clng = code[2];
-    let result = await knex.select("sRegion", "address", "lat", "lng").from("alladdress")
-    let x = result.filter((u) => {
-        let lat = Number(u.lat);
-        let lng = Number(u.lng);
-        let distance = measure(lat, lng, clat, clng)
-        return distance < 500
-    })
+    let result = await knex.select("sRegion", "address", "actualArea", "actualPrice", "lat", "lng").from("alladdress")
+    let x = result
+        .filter((u) => {
+            let lat = Number(u.lat);
+            let lng = Number(u.lng);
+            let distance = measure(lat, lng, clat, clng)
+            return distance < 500
+        })
+        .map((u)=>{
+            let address = Object.values(u.address).filter((a)=>{return a.length > 0}).join()
+            return {
+                sRegion: u.sRegion,
+                address: address,
+                actualArea: u.actualArea,
+                actualPrice: u.actualPrice,
+                lat: u.lat,
+                lng: u.lng
+            }
+        })
     return x
 }
 
@@ -48,3 +60,5 @@ dbGeocode(dummy)
         console.log(data);
         fs.writeFile("test.json", JSON.stringify(data))
     })
+
+module.exports = dbGeocode
