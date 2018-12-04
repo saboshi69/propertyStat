@@ -88,16 +88,16 @@ console.log (document.querySelector(".button > #good").innerHTML)
 document.querySelector(".button > #good").addEventListener("click", async (e) => {
     e.preventDefault();
     let x = Array.from (document.querySelectorAll("input[type='checkbox']"))
-    let sRegions = x.filter((u)=>{return u.checked == true}).map((u)=>{return u.getAttribute("value")})
-    let aA = Array.from(document.querySelectorAll("input[name='aA']")).filter((u)=>{return u.checked == true}).map((u)=>{return u.getAttribute("value")})
-    let p = Array.from(document.querySelectorAll("input[name='p']")).filter((u)=>{return u.checked == true}).map((u)=>{return u.getAttribute("value")})
-    let aP = Array.from(document.querySelectorAll("input[name='aP']")).filter((u)=>{return u.checked == true}).map((u)=>{return u.getAttribute("value")})
-    
+    let sRegion = x.filter((u)=>{return u.checked == true}).map((u)=>{return u.getAttribute("value")})
+    let aA = Array.from(document.querySelectorAll("input[name='actualArea']")).filter((u)=>{return u.checked == true}).map((u)=>{return u.getAttribute("value")})
+    let p = Array.from(document.querySelectorAll("input[name='price']")).filter((u)=>{return u.checked == true}).map((u)=>{return u.getAttribute("value")})
+    let aP = Array.from(document.querySelectorAll("input[name='actualPrice']")).filter((u)=>{return u.checked == true}).map((u)=>{return u.getAttribute("value")})
+
     let json = await axios.post("/", {
-        sRegions: sRegions,
-        aA: aA,
-        p: p,
-        aP: aP
+        sRegion: sRegion,
+        actualArea: aA,
+        price: p,
+        actualPrice: aP
     })
     //got data without redirect!
     console.log(json.data)

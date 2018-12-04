@@ -10,28 +10,50 @@ const knex = require('knex')({
     }
 });
 
-
-
-// function singleSort (column){
-//     if (element[1].includes("<") || element[1].includes(">")){
-//         result = result.where(`${column}`,element[1][0], element[1].slice(1))
-//     } else {
-//         let arr = element[1].split("-");
-//         result = result.where(`${column}`, ">", arr[0]).andWhere(`${column}`, "<", arr[1])
-//     } 
-// }
-
-async function dbData (data){
-    let json = JSON.parse(data)
-    let sRegions = json.sRegions;
-    let aA = json.aA;
-    let p = json.p;
-    let aP = json.aP;
-    let length = Object.values(json).map((u)=>{return u[0]}).filter((u)=>{return u != undefined}).length;
-    let jsonArr = _.toPairs(json).filter((u)=>{return u[1]>0})
-    let result = await knex.select("sRegion", "price").from("alladdress")
-    
+function filterRegion(arr, u){
+    let x = false;
+    for (let element of arr){
+        if (u.sRegion == element){
+            x = true
+        }
+    }
+    return x
 }
+
+ let dummy = { sRegion: [ 'Mid Level West', 'Olympic Station', 'Kowloon Station' ],
+  actualArea: [ '600-1000' ],
+  price: [ '>10' ],
+  actualPrice: [] }
+
+async function dbData (json){
+    let jsonArr = await _.toPairs(json).filter((u)=>{return u[1][0] != undefined})
+    let result = await knex.select("sRegion","actualArea", "price", "actualPrice").from("alladdress")
+    for (let col of jsonArr){
+        // console.log (col[0], col[1][0])
+        if (col[0] == "sRegion"){
+             result = await result.filter((u)=>{
+                 return filterRegion(col[1], u)
+             })
+        } else {
+            if (col[1][0].includes("<")){
+                result = await result.filter((u)=>{
+                    return u[`${col[0]}`] < Number(col[1][0].slice(1))
+                })
+            } else if (col[1][0].includes(">")){
+                result = await result.filter((u)=>{
+                    return u[`${col[0]}`] > Number(col[1][0].slice(1))
+                })
+            } else {
+                let arr = col[1][0].split("-");
+                result = await result.filter((u)=>{
+                    return u[`${col[0]}`] > Number(arr[0]) && u[`${col[0]}`] < Number(arr[1])
+                })
+            } 
+        }
+    }
+    return result
+}
+
 
 module.exports = dbData;
 

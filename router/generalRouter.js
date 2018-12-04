@@ -15,12 +15,10 @@ router.get("/", (req, res)=>{
 //     res.json(NTWdata);
 // })
 
-router.post("/", (req, res)=>{
+router.post("/", async (req, res)=>{
     console.log (req.body);
-    let x = _.toPairs(req.body).filter((u)=>{return u[1].length > 0})
-    console.log (x)
-    console.log (Object.values(req.body).map((u)=>{return u[0]}).filter((u)=>{return u != undefined}).length)
-    res.json(req.body);
+    let data = await dbData(req.body);
+    res.json(JSON.stringify(data))
 })
 
 module.exports = router;
