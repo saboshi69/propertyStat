@@ -8,16 +8,16 @@ router.get("/", (req, res)=>{
     res.render("index");
 })
 
-// router.get("/HK", async (req, res)=>{
-//     let data = await dbData();
-//     let HKdata = JSON.stringify([["sRegion" , "Price"], ...data.HK])
-//     let NTWdata = JSON.stringify([["sRegion" , "Price"], ...data.NTW])
-//     res.json(NTWdata);
-// })
-
 router.post("/", async (req, res)=>{
     console.log (req.body);
     let data = await dbData(req.body);
+    res.json(JSON.stringify(data))
+})
+
+router.post("/searchResult", (req, res)=>{
+    console.log (req.body);
+    //req.body should be in the format like this: ["postionA", 22.333147, 114.193441]
+    let data = await dbGeocode(req.body);
     res.json(JSON.stringify(data))
 })
 
