@@ -1,17 +1,17 @@
 module.exports =  {
     "HK": {
-        "Kennedy Town/Sai Yin Pun": "101", 
-        "Sheung Wan/Central/Admiralty": "117",
-        "South Horizon": "102",
-        "Cyber-port": "104",
-        "Aberdeen/Ap Lei Chau": "105",
-        "Mid Level West": "106",
-        "Happy Valley/Tai Hang": "110",
-        "Mid Level North Point": "112",
-        "Quarry Bay/Kornhill": "113",
-        "Taikoo Shing": "114",
-        "Shau Kei Wan/Chai Wan": "115",
-        "Heng Fa Chuen": "116"
+        "Kennedy Town/Sai Yin Pun": "101", //
+        "Sheung Wan/Central/Admiralty": "117", // 
+        "South Horizon": "102", //
+        "Cyber-port": "104",// problem with latlng
+        "Aberdeen/Ap Lei Chau": "105", //
+        "Mid Level West": "106", //
+        "Happy Valley/Tai Hang": "110", //
+        "Mid Level North Point": "112", //
+        "Quarry Bay/Kornhill": "113", //
+        "Taikoo Shing": "114", //
+        "Shau Kei Wan/Chai Wan": "115", // 
+        "Heng Fa Chuen": "116" //
     },
     "KLN": {
         "Olympic Station": "201",
