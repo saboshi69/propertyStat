@@ -27,6 +27,16 @@ app.use(bodyParser.json());
 app.use(cors());
 
 app.use("/", router)
+app.get('/register', function (req, res) {
+    res.sendFile(__dirname + '/register.html')
+});
+app.get('/mainmap', function (req, res) {
+    res.sendFile(__dirname + '/googleMap.html')
+});
+
+app.get('/search', function (req, res) {
+    res.sendFile(__dirname + '/quicksearch.html')
+});
 
 app.listen(8080, ()=>{
     console.log ("you are now on 8080")
