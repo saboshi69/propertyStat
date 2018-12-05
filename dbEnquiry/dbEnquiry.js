@@ -20,14 +20,9 @@ function filterRegion(arr, u){
     return x
 }
 
- let dummy = { sRegion: [ 'Mid Level West', 'Olympic Station', 'Kowloon Station' ],
-  actualArea: [ '600-1000' ],
-  price: [ '>10' ],
-  actualPrice: [] }
-
 async function dbData (json){
     let jsonArr = await _.toPairs(json).filter((u)=>{return u[1][0] != undefined})
-    let result = await knex.select("sRegion","actualArea", "price", "actualPrice", "lat", "lng").from("alladdress")
+    let result = await knex.select("sRegion","actualArea", "price", "actualPrice", "date").from("alladdress")
     for (let col of jsonArr){
         // console.log (col[0], col[1][0])
         if (col[0] == "sRegion"){
@@ -57,8 +52,3 @@ async function dbData (json){
 
 module.exports = dbData;
 
-
-
-//latlng as number
-//address as single line
-//db include phone
