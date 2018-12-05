@@ -27,7 +27,7 @@ function filterRegion(arr, u){
 
 async function dbData (json){
     let jsonArr = await _.toPairs(json).filter((u)=>{return u[1][0] != undefined})
-    let result = await knex.select("sRegion","actualArea", "price", "actualPrice").from("alladdress")
+    let result = await knex.select("sRegion","actualArea", "price", "actualPrice", "lat", "lng").from("alladdress")
     for (let col of jsonArr){
         // console.log (col[0], col[1][0])
         if (col[0] == "sRegion"){
@@ -58,24 +58,7 @@ async function dbData (json){
 module.exports = dbData;
 
 
-// if (jsonArr.length == 1){
-//     for (let element of jsonArr){
-//         if (element[0] == "sRegions"){
-//             result = result.whereIn("sRegions", element[1])
-//         } else if (element[0] == "aA"){
-//             sort("actualArea")
-//         } else if (element[0] == "p"){
-//             sort("price")
-//         } else if (element[0] == "aP"){
-//             sort("actualPrice")
-//         }
-//     }
-// } else if (jsonArr.length > 1) {
-//     for (let i = 0; i<jsonArr.length; i++){
-//         if (i == 0){
-            
-//         }
-//     }
-// } else {
-//     reject();
-// }
+
+//latlng as number
+//address as single line
+//db include number
