@@ -102,11 +102,7 @@ async function singlePage(url, bRegion, sRegion, year) {
         json["lng"] = String(number[1]);
         delete json["tempStreetSearchKey"]
         delete json["tempEstateSearchKey"]
-<<<<<<< HEAD
         await fs.appendFile(`./data/${bRegion}${year}_${sRegion}.json`, JSON.stringify(json) + ',', err => (err) ? console.log(err) : console.log("writeFile success"))
-=======
-        await fs.appendFile(`HK2018_101.json`, JSON.stringify(json) + ',', err => (err) ? console.log(err) : console.log("writeFile success"))
->>>>>>> chian2
     }
 }
 
@@ -216,28 +212,15 @@ function matchAddress(a, b) {
 }
 
 async function grabAll(bRegion, sRegion, year, today) {
-<<<<<<< HEAD
         console.log("initializing...")
         console.log("Are you ready?")
-=======
-    //const regions = Object.values(key[`${bRegion}`])
-    //for (let sRegion of regions) {
->>>>>>> chian2
         isLast = false;
         for (let page = 0; isLast == false; page++) {
             let url = `http://www.ricacorp.com/ricadata/eptest.aspx?type=22&code=${sRegion}&info=tr&code2=rdoreg:0~regidx:6~regdatemin:01/01/${year}~regdatemax:06/03/${year}~regperiod:2018~insdatemin:~insdatemax:~insperiod:730~upricemin:~upricemax:~considermin:~considermax:~areamin:~areamax:~bldgagemin:~bldgagemax:~lord:namec~lordtype:desc~tabIdx:0~mkttype:0~rdogainper:0~gainperidx:0~gainpermin:~gainpermindir:0~gainpermax:~gainpermaxdir:0~rdoltins:0~ltinsidx:0~ltinsdatemin:01/01/1900~ltinsdatemax:${today}~ltinsperiod:1900&page=${page*40}#txtab`
             await singlePage(url, bRegion, sRegion, year)
         }
-<<<<<<< HEAD
         console.log("THE END")
 }
 
 grabAll("KLN", "209", 2018, "06/03/2018")
     .catch(err => console.log(err))
-=======
-    //}
-}
-
-grabAll("HK", "116",2018, "27/11/2018")
-    .catch(err => console.log(err))
->>>>>>> chian2

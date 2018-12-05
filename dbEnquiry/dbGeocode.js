@@ -55,10 +55,10 @@ async function dbGeocode(code) {
     return x
 }
 
-dbGeocode(dummy)
-    .then((data) => {
-        console.log(data);
-        fs.writeFile("test.json", JSON.stringify(data))
-    })
+// dbGeocode(dummy)
+//     .then((data) => {
+//         console.log(data);
+//         fs.writeFile("test.json", JSON.stringify(data))
+//     })
 
 module.exports = dbGeocode

@@ -61,4 +61,4 @@ module.exports = dbData;
 
 //latlng as number
 //address as single line
-//db include number
+//db include phone

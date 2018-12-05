@@ -100,7 +100,8 @@ document.querySelector(".button > #good").addEventListener("click", async (e) =>
         actualPrice: aP
     })
     //got data without redirect!
-    console.log(json.data)
+    histogram(json.data, sRegion)
+    console.log (json.data)
 })
 
 
