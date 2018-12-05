@@ -13,7 +13,6 @@ const knex = require('knex')({
         password: "test2"
     }
 });
-
 const app = express();
 
 //view engine setup

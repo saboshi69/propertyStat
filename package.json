@@ -18,6 +18,7 @@
     "https": "^1.0.0",
     "knex": "^0.15.2",
     "lodash": "^4.17.11",
+    "mortgage-calculator": "^1.1.2",
     "nano-fs": "^1.2.5",
     "passport": "^0.4.0",
     "passport-facebook": "^2.1.1",
@@ -30,12 +31,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/saboshi69/propertyStat.git"
   },
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/saboshi69/propertyStat/issues"
   },
