@@ -6,7 +6,20 @@ const _ = require("lodash")
 
 router.get("/", (req, res)=>{
     res.render("index");
-})
+});
+
+
+var testUser = { 
+	name: "Lee",
+	email: "lee@example.com",
+	age: "20",
+	occupation: "software engineer",
+	bookmark: ['PropertyA', 'PropertyB', 'PropertyC']
+}
+
+router.get('/users/:id', (req, res) => {
+	res.render("user", testUser);
+});
 
 // router.get("/HK", async (req, res)=>{
 //     let data = await dbData();
@@ -16,7 +29,6 @@ router.get("/", (req, res)=>{
 // })
 
 router.post("/", async (req, res)=>{
-    console.log (req.body);
     let data = await dbData(req.body);
     res.json(JSON.stringify(data))
 })

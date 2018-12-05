@@ -31,6 +31,10 @@ app.use(bodyParser());
 
 app.use('/', userRouter);
 
+app.get('/search', (req, res) => {
+	res.render('search.html');
+})
+
 
 const httpsOptions = {
   key: fs.readFileSync('./localhost.key'),
