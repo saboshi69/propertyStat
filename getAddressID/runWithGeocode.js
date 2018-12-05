@@ -9,7 +9,7 @@ async function get1LatLng(location) {
         uri: 'https://maps.googleapis.com/maps/api/geocode/json',
         qs: {
             address: location,
-            key: process.env.GOOGLE
+            key: 'AIzaSyBQz4uq_a_mNQQrHpWtKIRDSi02mUME-s8'
         }
     }
     let body = await rp(url)
