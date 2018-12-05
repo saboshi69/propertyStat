@@ -92,16 +92,19 @@ document.querySelector(".button > #good").addEventListener("click", async (e) =>
     let aA = Array.from(document.querySelectorAll("input[name='actualArea']")).filter((u)=>{return u.checked == true}).map((u)=>{return u.getAttribute("value")})
     let p = Array.from(document.querySelectorAll("input[name='price']")).filter((u)=>{return u.checked == true}).map((u)=>{return u.getAttribute("value")})
     let aP = Array.from(document.querySelectorAll("input[name='actualPrice']")).filter((u)=>{return u.checked == true}).map((u)=>{return u.getAttribute("value")})
-
+    let date = Array.from(document.querySelectorAll("input[name='date']")).filter((u)=>{return u.checked == true}).map((u)=>{return u.getAttribute("value")})
+    let chart = Array.from(document.querySelectorAll("input[name='chart']")).filter((u)=>{return u.checked == true}).map((u)=>{return u.getAttribute("value")})
+    
     let json = await axios.post("/", {
         sRegion: sRegion,
         actualArea: aA,
         price: p,
-        actualPrice: aP
+        actualPrice: aP,
+        date: date
     })
     //got data without redirect!
-    histogram(json.data, sRegion)
-    console.log (json.data)
+    chartType(chart, json.data, sRegion, date)
+    //console.log (json.data)
 })
 
 

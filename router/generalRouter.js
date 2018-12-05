@@ -10,7 +10,7 @@ router.get("/", (req, res)=>{
 });
 
 
-var testUser = { 
+const testUser = { 
 	name: "Lee",
 	email: "lee@example.com",
 	age: "20",
@@ -26,8 +26,6 @@ router.post("/", async (req, res)=>{
     let data = await dbData(req.body);
     res.json(JSON.stringify(data))
 })
-
-
 
 router.post("/searchResult", async(req, res)=>{
     console.log (req.body);

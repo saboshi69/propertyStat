@@ -39,6 +39,17 @@
             <input type="radio" name="actualPrice" value="15000-20000">15000-20000<br>
             <input type="radio" name="actualPrice" value=">20000">above 20000<br>
         </div>
+        <div class="date">
+            <p><strong>Time Range</strong></p><br>
+            <input type="radio" name="date" value="30">Last 30 days<br>
+            <input type="radio" name="date" value="180">Last 180 days<br>
+            <input type="radio" name="date" value="365">Whole Year
+        </div>
+        <div class="charts">
+            <p><strong>Chart type</strong></p><br>
+            <input type="radio" name="chart" value="histogram">histogram<br>
+            <input type="radio" name="chart" value="candle">candle<br>
+        </div>
     </div>
 
     <div class="button">
@@ -47,4 +58,5 @@
 
 </form>
 
-<div id="chart" style="width: 800px; height: 600px;"></div>
+<div id="histogram" style="width: 800px; height: 600px;"></div>
+<div id="candle" style="width: 800px; height: 600px;"></div>

@@ -12,12 +12,12 @@
 .others {
     display: grid;
     position: relative;
-    grid-template-columns: repeat(4, 300px);
+    grid-template-columns: repeat(5, 300px);
     grid-template-areas: 
-    'e f g h';
+    'e f g h i';
     background-color: skyblue
 }
 
-.actualArea {grid-area: e} .price{grid-area: f} .actualPrice{grid-area: g}
+.actualArea {grid-area: e} .price{grid-area: f} .actualPrice{grid-area: g} .date{grid-area: h} .charts{grid-area: i}
 
 p{margin-top: 0;margin-bottom: 0}
