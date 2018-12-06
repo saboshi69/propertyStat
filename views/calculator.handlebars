@@ -1,0 +1,34 @@
+<body>
+	<form method="POST" action="/calculator" id="calc">
+		<div>
+		<label>Price of Home (HKD)</label>
+		<input type="number" name="price">
+		</div>
+
+		<div>
+
+		<label>Interest rates (please enter %)</label>
+		<input type="number" name="interest_rate">
+		</div>
+
+		<div>
+
+		<label>Months</label>
+		<input type="number" name="month">
+		</div>
+
+		<div id="result"></div>
+
+		<input type="submit" value="Submit">
+
+		<p>Your monthly instalment is {{result}}.</p>
+
+	</form>
+    <script type="text/javascript" src="main.js"></script>	
+    <script type="text/javascript">
+    	$('#calc').on('submit', function() {
+    		debugger;
+    	})
+    </script>
+ </body>
+</html>

@@ -17,6 +17,7 @@
     "fs": "^0.0.1-security",
     "https": "^1.0.0",
     "knex": "^0.15.2",
+    "loan-calc": "^0.2.1",
     "lodash": "^4.17.11",
     "mortgage-calculator": "^1.1.2",
     "nano-fs": "^1.2.5",
