@@ -33,3 +33,16 @@ p{margin-top: 0;margin-bottom: 0}
 .user .mainbar {
     border: 1px solid #000;
 }    
+
+
+/* calculator page */
+
+.calculator > div {
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+
+
+.calculator h1 {
+    padding: 20px 0;
+}
