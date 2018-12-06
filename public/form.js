@@ -156,7 +156,11 @@ function makeRegion() {
     }
 }
 
+<<<<<<< HEAD
 console.log(document.querySelector(".button > #good").innerHTML)
+=======
+console.log(document.querySelector(".button > #good") || document.querySelector(".button > #good").innerHTML)
+>>>>>>> chian3
 
 document.querySelector(".button > #good").addEventListener("click", async (e) => {
     e.preventDefault();

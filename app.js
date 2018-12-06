@@ -13,17 +13,24 @@ const knex = require('knex')({
         password: "test2"
     }
 });
+
 const app = express();
 
-//view engine setup
+//view engine setupm
 app.engine("handlebars", hbs({ extname: "handlebars", defaultLayout: "main", layoutsDir: `${__dirname}/views/layouts` }));
 app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "handlebars");
 
+
 app.use(express.static('public'));
-app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
+
 app.use(cors());
+
+// calculator 
+require('./calculator')(app)
+
 
 app.use("/", router)
 app.get('/register', function (req, res) {
@@ -36,6 +43,7 @@ app.get('/mainmap', function (req, res) {
 app.get('/search', function (req, res) {
     res.sendFile(__dirname + '/quicksearch.html')
 });
+
 
 app.listen(8080, ()=>{
     console.log ("you are now on 8080")
