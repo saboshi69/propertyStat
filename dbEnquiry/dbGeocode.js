@@ -14,7 +14,7 @@ const knex = require('knex')({
 
 
 
-let dummy = ["postionA", 22.333147, 114.193441]
+
 
 
 function measure(lat1, lng1, lat2, lng2) {  // generally used geo measurement function
@@ -31,9 +31,11 @@ function measure(lat1, lng1, lat2, lng2) {  // generally used geo measurement fu
 }
 
 
-async function dbGeocode(code) {
-    let clat = code[1];
-    let clng = code[2];
+
+async function dbGeocode(location) {
+    //let code = await dBgetLatLng(location)
+    let clat = location[0];
+    let clng = location[1];
     let result = await knex.select("sRegion", "address", "actualArea", "actualPrice", "lat", "lng").from("alladdress")
     let x = result
         .filter((u) => {
@@ -53,8 +55,10 @@ async function dbGeocode(code) {
                 lng: u.lng
             }
         })
+        
     return x
 }
+
 async function dBgetLatLng(location) {
     let url = {
         uri: 'https://maps.googleapis.com/maps/api/geocode/json',
@@ -77,6 +81,9 @@ async function dBgetLatLng(location) {
     }
 
 }
+
+let dummy = [22.333147, 114.193441]
+dbGeocode(dummy)
 
 module.exports = dbGeocode
 module.exports = dBgetLatLng

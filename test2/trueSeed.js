@@ -14,9 +14,6 @@ const knex = require('knex')({
     let arr = [];
     // please dont change the fking path, this path work
     let dir = await fs.readdir(`__dirname/../../getAddressID/data`)
-//     let ntwArr = dir.filter((u) => u.includes("NTW") || u.includes("KLN"))
-//     console.log(ntwArr)
-
     //optional: if u just append then dun add this
     await knex('alladdress').del();
 
@@ -52,10 +49,11 @@ const knex = require('knex')({
             u.lat = (lat != "nolng") ? Number(lat) : null;
             u.lng = (lat != "nolng") ? Number(lng) : null;
         })
-        console.log(arr)
 
         //type yout table name here
         await knex("alladdress").insert(arr)
+
+        console.log(arr)
     }
     console.log("success")
     
