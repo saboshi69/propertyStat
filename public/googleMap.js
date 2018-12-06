@@ -39,6 +39,15 @@ function initMap() {
 
 
 function processSearchData(data) {
+    //change new center
+    map.setCenter({
+		lat : newLat,   //not define
+		lng : newLng
+	});
+    //change zoom
+    map.setZoom(13)
+
+
     // function to add a single marker
     function addMarker(latlng) {
         let marker = new google.maps.Marker({
@@ -53,7 +62,11 @@ function processSearchData(data) {
     // pop up info and retarget center of google map when clicking marker    
         marker.addListener('click', function () {
             markers.forEach((mk)=>mk.info.close())
-            map.setZoom(15);
+            let zoomLevel = map.getZoom()
+            // if user already zoom in, then no need to change zoom, else zoom it
+            if (zoomLevel < 15){
+                map.setZoom(15);
+            }
             map.setCenter(marker.getPosition());
             marker.info.open(map, marker);
         });

@@ -12,7 +12,8 @@ const knex = require('knex')({
 
 (async function exp() {
     let arr = [];
-    let dir = await fs.readdir(`/Users/chian/Desktop/accel/chianlee/propertyStat/getAddressID/data`)
+    // please dont change the fking path, this path work
+    let dir = await fs.readdir(`__dirname/../../getAddressID/data`)
 //     let ntwArr = dir.filter((u) => u.includes("NTW") || u.includes("KLN"))
 //     console.log(ntwArr)
 
@@ -21,7 +22,8 @@ const knex = require('knex')({
 
      for (let element of dir) {
          arr.length = 0;
-        let data = await fs.readFile(`/Users/chian/Desktop/accel/chianlee/propertyStat/getAddressID/data/${element}`, "utf8")
+         // please dont change the fking path, this path work
+        let data = await fs.readFile(`__dirname/../../getAddressID/data/${element}`, "utf8")
         //let data = await fs.readFile(`/mnt/c/Users/Matthew/Documents/Github/matthewlee/2ndProj/pullSamuel/getAddressID/data/KLN2018_209.json`, "utf8")
         let parsed = JSON.parse(data);
         console.log(parsed.length);
@@ -58,3 +60,17 @@ const knex = require('knex')({
     console.log("success")
     
 })();
+
+// (async function (){
+//     let HK = await knex.select("price").from("alladdress").orderBy("price").where("bRegion", "HK")
+//     let HKarr = HK.map(u=>Object.values(u)[0])
+//     console.log (HKarr)
+//     let NTW = await knex.select("price").from("alladdress").orderBy("price").where("bRegion", "NTW")
+//     let NTWarr = NTW.map(u=>Object.values(u)[0])
+//     console.log (NTWarr)
+//     let newData = data.filter((u)=>{
+        
+//     })
+//     await fs.writeFile("stat.json", JSON.stringify(newData))
+//     console.log (data)
+// })();
