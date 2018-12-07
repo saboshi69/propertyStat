@@ -30,7 +30,7 @@ async function dbSearchBarGeocode(latlng) {
             let lat = Number(u.lat);
             let lng = Number(u.lng);
             let distance = measure(lat, lng, clat, clng)
-            return distance < 500
+            return distance < 1050
         })
         .map((u)=>{
             let address = Object.values(u.address).filter((a)=>{return a.length > 0}).join()

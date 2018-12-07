@@ -53,18 +53,12 @@ img {
 
 #mappy {
     height: 370px;
-    width: 500px;
+    width: 800px;
     margin: 20px;
 
 }
 
-#gram {
-    position: relative;
-    height: 370px;
-    right: 50%px;
-    background-color: rgb(24, 151, 88);
-    margin-left: 10px;
-}
+
 
 .others {
     display: grid;
