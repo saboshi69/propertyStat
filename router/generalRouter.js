@@ -25,6 +25,7 @@ router.get('/users/:id', (req, res) => {
 });
 
 router.post("/", async (req, res)=>{
+    console.log (req.body)
     let data = await dbData(req.body);
     res.json(JSON.stringify(data))
 })
