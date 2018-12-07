@@ -10,13 +10,12 @@ google.maps.event.addDomListener(window, 'load', searchinit);
 async function searchByAutofill (){
 	let input = document.getElementById('locationName');
 	let add = input.value
-	axios.post("/searchGeo", add)
-	console.log(add)
+	let json = await axios.post("/searchGeo", add)
+	return JSON.parse(json.data)
 }
-
-
 
 let searchBar = document.querySelector ('#letssearch')
 searchBar.addEventListener("click", ()=>{
 	searchByAutofill()
+	.then((data)=>processSearchData(data))
 })

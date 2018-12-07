@@ -1,7 +1,14 @@
-<h1>testing</h1>
+<div id="graphic">
+    <div>
+        <div id="mappy"></div>
+        <div id="histogram" style="width: 800px; height: 370px;"></div>
+        <div id="candle" style="width: 800px; height: 370ppx;"></div>
+    </div>
+</div>
 
+<button onclick="clusterMode()">Cluster Mode</button>
+<button onclick="clearCluster()">Clear Cluster</button>
 <form action="/" method="POST">
-
     <div class="regions">
         <div class="bRegion" id="HK">
             <label for="HK"><strong>HK</strong></label><br>
@@ -55,8 +62,4 @@
     <div class="button">
         <button id="good">Submit</button>
     </div>
-
 </form>
-
-<div id="histogram" style="width: 800px; height: 600px;"></div>
-<div id="candle" style="width: 800px; height: 600px;"></div>
