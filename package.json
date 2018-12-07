@@ -24,7 +24,7 @@
     "passport": "^0.4.0",
     "passport-facebook": "^2.1.1",
     "passport-local": "^1.0.0",
-    "pg": "^7.6.1",
+    "pg": "^7.7.1",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
   },
