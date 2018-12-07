@@ -1,3 +1,36 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#searchbar {
+    height: 60px;
+    width:200px;
+}
+#searchbar > div {
+    display: flex;
+}
+
+#logo {
+    margin-right:10px; 
+    margin-left:10px; 
+    height:60px;
+    width:60px;
+}
+
+img {
+
+    object-fit: cover;
+}
+
+
 .regions {
     display: grid;
     position: relative;
@@ -8,6 +41,30 @@
 }
 
 #HK { grid-area: a } #KLN {grid-area: b} #NTE {grid-area: c} #NTW{grid-area: d}
+
+
+#graphic {
+    height:400px;
+    width:100%;
+}
+#graphic > div{
+    display: flex;
+}
+
+#mappy {
+    height: 370px;
+    width: 500px;
+    margin: 20px;
+
+}
+
+#gram {
+    position: relative;
+    height: 370px;
+    right: 50%px;
+    background-color: rgb(24, 151, 88);
+    margin-left: 10px;
+}
 
 .others {
     display: grid;

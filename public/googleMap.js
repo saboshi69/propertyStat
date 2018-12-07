@@ -39,13 +39,16 @@ function initMap() {
 
 
 function processSearchData(data) {
+    markers = []
+    let newLat = parseFloat(data[0][0])
+    let newLng = parseFloat(data[0][1])
     //change new center
     map.setCenter({
 		lat : newLat,   //not define
 		lng : newLng
 	});
     //change zoom
-    map.setZoom(13)
+    map.setZoom(17)
 
 
     // function to add a single marker
@@ -64,8 +67,8 @@ function processSearchData(data) {
             markers.forEach((mk)=>mk.info.close())
             let zoomLevel = map.getZoom()
             // if user already zoom in, then no need to change zoom, else zoom it
-            if (zoomLevel < 15){
-                map.setZoom(15);
+            if (zoomLevel < 17){
+                map.setZoom(17);
             }
             map.setCenter(marker.getPosition());
             marker.info.open(map, marker);
@@ -75,17 +78,20 @@ function processSearchData(data) {
     }
     
     // create all markers according to input data
-    for (let i = 0; i < data.length; i++) {
-        addMarker(data[i])
+    for (let i = 1; i < data.length; i++) {
+        let arrFormData = [data[i].address, data[i].lat, data[i].lng]
+        addMarker(arrFormData)
     }
+
+    var markerCluster = new MarkerClusterer(map, markers,
+        {imagePath: 'markercluster/m'});
 }
 
-//onclick function for search bar
-function search(){
-      //some aJax request to get DATA from backend
-      let aJaxdata = testLoc2
-
-      //.then use that data
-      markers = []
-      processSearchData(aJaxdata)
-}
+// //onclick function for search bar
+// function search(){
+//       //some aJax request to get DATA from backend
+//       let aJaxdata = testLoc2
+//       //.then use that data
+//       markers = []
+//       processSearchData(aJaxdata)
+// }
