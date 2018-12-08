@@ -168,6 +168,27 @@ function makeRegion() {
     }
 }
 
+function calCenter(arr){
+    let c = arr.length
+    let lat = 0
+    let lng = 0
+    for (let ll of arr){
+        lat = lat + (ll.split(',')[0]) / c
+        lng = lng + (ll.split(',')[1]) / c
+    }
+    return [lat, lng]
+}
+
+function zoomAdjust(arr){
+    let c = arr.length
+    if (c =! 1 || c > 3){
+        return 0 - c 
+    }else if (c == 1){
+        return 0
+    }else{
+        return -3
+    }
+}
 
 document.querySelector(".button > #good").addEventListener("click", async (e) => {
     e.preventDefault();
@@ -214,11 +235,38 @@ document.querySelector(".button > #good").addEventListener("click", async (e) =>
         price: p,
         actualPrice: aP,
         date: date,
-        latlng: latlng
+        latlng: latlng   // vvv this one no need to use post req for me, ill use it below vvvv
     })
+
+    //calculate center for map
+    let center = calCenter(latlng)    // i still not test this if breaks just comment it
+    let zAdjust = zoomAdjust(sRegion) // i still not test this if breaks just comment it
+    /*
+
+    I need the Address and latlng of the filtered result on await json so i can connect jour data to my map
+    I think it wont change your dbEbquiry Algo, but just add the latlng and the address when knex enquiry, so it returns tgt after your filter
+    SOmething like:    Dont know if this possible
+    FROM:
+    let result = await knex.select("sRegion", "actualArea", "price", "actualPrice", "date").from("alladdress")
+
+    TO:
+    let result = await knex.select("sRegion", "actualArea", "price", "actualPrice", "date", "address", "lat", "lng").from("alladdress")
+
+
+    But since your dbenquiry got some problem and not yet fixed, I didnt want to mess it up 
+
+     -- Below is what I want to do with your await json  --    
+
+    let requiredInfo = [...center, zAdjust]
+    let myJosn = json
+    myJson.unshift(requiredInfo) // add the latlng center && zoom into json
+    processSearchData(myJosn) //  connect it to my map
+
+    slack me if u have any good solution
+    */
+
     //got data without redirect!
     chartType(chart, json.data, sRegion, date)
-    console.log (json.data)
 })
 
 

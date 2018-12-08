@@ -35,6 +35,15 @@ function filterTime(duration, u) {
     }
 }
 
+let dummy = { sRegion: [ 'Ma Wan/Park Island' ],
+  actualArea: [],
+  price: [ '3-6' ],
+  actualPrice: [],
+  date: [ '365' ],
+  latlng: [ '22.350075,114.059207' ] }
+
+  //dbData(dummy).then((data)=>{console.log (data)})
+
 async function dbData(json) {
     let jsonArr = await _.toPairs(json).filter((u) => { return u[1][0] != undefined })
     let result = await knex.select("sRegion", "actualArea", "price", "actualPrice", "date").from("alladdress")
@@ -57,7 +66,7 @@ async function dbData(json) {
                 result = await result.filter((u) => {
                     return u[`${col[0]}`] > Number(arr[0]) && u[`${col[0]}`] < Number(arr[1])
                 })
-            } else {
+            } else if (!col[1][0].includes(",")){
                 let duration = Number(col[1][0])
                 result = await result.filter((u) => {
                     return filterTime(duration, u)
