@@ -218,7 +218,7 @@ document.querySelector(".button > #good").addEventListener("click", async (e) =>
     })
     //got data without redirect!
     chartType(chart, json.data, sRegion, date)
-    //console.log (json.data)
+    console.log (json.data)
 })
 
 
