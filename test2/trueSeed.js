@@ -49,8 +49,8 @@ const knex = require('knex')({
             u.price = (p != "-") ? Number(p) : null;
             u.actualPrice = (aP != "-") ? Number(aP) : null;
             u.grossPrice = (gP != "-") ? Number(gP) : null;
-            u.lat = (lat != "nolng") ? Number(lat) : null;
-            u.lng = (lat != "nolng") ? Number(lng) : null;
+            u.lat = (lat != "nolng") ? String(lat) : null;
+            u.lng = (lat != "nolng") ? String(lng) : null;
         })
         console.log(arr)
 
@@ -62,15 +62,16 @@ const knex = require('knex')({
 })();
 
 // (async function (){
-//     let HK = await knex.select("price").from("alladdress").orderBy("price").where("bRegion", "HK")
-//     let HKarr = HK.map(u=>Object.values(u)[0])
-//     console.log (HKarr)
-//     let NTW = await knex.select("price").from("alladdress").orderBy("price").where("bRegion", "NTW")
-//     let NTWarr = NTW.map(u=>Object.values(u)[0])
-//     console.log (NTWarr)
-//     let newData = data.filter((u)=>{
+//     //let HK = await knex.select("price").from("alladdress").orderBy("price").where("bRegion", "HK")
+//     // let HKarr = HK.map(u=>Object.values(u)[0])
+//     // console.log (HKarr)
+//     // let NTW = await knex.select("price").from("alladdress").orderBy("price").where("bRegion", "NTW")
+//     // let NTWarr = NTW.map(u=>Object.values(u)[0])
+//     // console.log (NTWarr)
+//     // let newData = data.filter((u)=>{
         
-//     })
-//     await fs.writeFile("stat.json", JSON.stringify(newData))
+//     // })
+//     // await fs.writeFile("stat.json", JSON.stringify(newData))
+//     let data = await knex.select("lat", "lng").from("alladdress").where("sRegion", "Tuen Mun")
 //     console.log (data)
 // })();

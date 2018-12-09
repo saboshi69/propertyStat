@@ -44,7 +44,7 @@ let dummy = {
     latlng: ['22.350075,114.059207']
 }
 
-//dbData(dummy).then((data) => { console.log(data) })
+dbData(dummy).then((data) => { console.log(data) })
 
 async function dbData(json) {
     let jsonArr = await _.toPairs(json).filter((u) => { return u[1][0] != undefined })
@@ -69,7 +69,7 @@ async function dbData(json) {
                     return u[`${col[0]}`] > Number(arr[0]) && u[`${col[0]}`] < Number(arr[1])
                 })
             } else if (!col[1][0].includes(",")) {
-                let duration = Number(col[1][0])
+                let duration = parseFloat(col[1][0])
                 result = await result.filter((u) => {
                     return filterTime(duration, u)
                 })
