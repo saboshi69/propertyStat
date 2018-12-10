@@ -44,7 +44,7 @@ let dummy = {
     latlng: ['22.350075,114.059207']
 }
 
-dbData(dummy).then((data) => { console.log(data) })
+//dbData(dummy).then((data) => { console.log(data) })
 
 async function dbData(json) {
     let jsonArr = await _.toPairs(json).filter((u) => { return u[1][0] != undefined })
@@ -82,8 +82,8 @@ async function dbData(json) {
                 let clng = latlng[1];
                 result = await result
                     .filter((u) => {
-                        let lat = Number(u.lat);
-                        let lng = Number(u.lng);
+                        let lat = parseFloat(u.lat);
+                        let lng = parseFloat(u.lng);
                         let distance = measure(lat, lng, clat, clng)
                         return distance < 1500
                     })
