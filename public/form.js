@@ -171,36 +171,20 @@ document.querySelector(".button > #good").addEventListener("click", async (e) =>
         price: p,
         actualPrice: aP,
         date: date,
-        latlng: latlng   // vvv this one no need to use post req for me, ill use it below vvvv
+        latlng: latlng   
     })
 
     //calculate center for map
+    let mapData = JSON.parse(json.data)
     let center = calCenter(latlng)    // i still not test this if breaks just comment it
-    let zAdjust = zoomAdjust(sRegion) // i still not test this if breaks just comment it
-    /*
-
-    I need the Address and latlng of the filtered result on await json so i can connect jour data to my map
-    I think it wont change your dbEbquiry Algo, but just add the latlng and the address when knex enquiry, so it returns tgt after your filter
-    SOmething like:    Dont know if this possible
-    FROM:
-    let result = await knex.select("sRegion", "actualArea", "price", "actualPrice", "date").from("alladdress")
-
-    TO:
-    let result = await knex.select("sRegion", "actualArea", "price", "actualPrice", "date", "address", "lat", "lng").from("alladdress")
-
-
-    But since your dbenquiry got some problem and not yet fixed, I didnt want to mess it up 
-
-     -- Below is what I want to do with your await json  --    
-
+    let zAdjust = "coool" // i still not test this if breaks just comment it
     let requiredInfo = [...center, zAdjust]
-    let myJosn = json
-    myJson.unshift(requiredInfo) // add the latlng center && zoom into json
-    processSearchData(myJosn) //  connect it to my map
 
-    slack me if u have any good solution
-    */
-
+    mapData.unshift(requiredInfo) // add the latlng center && zoom into json
+    processSearchData(mapData) //  connect it to my map
+  
+  
+    console.log(mapData)
     //got data without redirect!
     chartType(chart, json.data, sRegion, date)
 })
