@@ -1,5 +1,0 @@
-class Search {
-	constructor() {
-		
-	}
-}
