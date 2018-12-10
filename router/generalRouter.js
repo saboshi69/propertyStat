@@ -37,7 +37,6 @@ router.post("/searchResult", async(req, res)=>{
     res.json(JSON.stringify(data))
 })
 
-
 //still inprogress
 router.post("/searchGeo", async(req, res)=>{
     let body = Object.keys(req.body)[0]
@@ -46,7 +45,5 @@ router.post("/searchGeo", async(req, res)=>{
     let data = await dbSearchBarGeocode(latlng);
     res.json(JSON.stringify(data))
 })
-
-
 
 module.exports = router;
