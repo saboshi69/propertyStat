@@ -27,8 +27,8 @@ async function dbSearchBarGeocode(latlng) {
     let result = await knex.select("sRegion", "address", "actualArea", "actualPrice", "lat", "lng").from("alladdress")
     let x = result
         .filter((u) => {
-            let lat = Number(u.lat);
-            let lng = Number(u.lng);
+            let lat = parseFloat(u.lat);
+            let lng = parseFloat(u.lng);
             let distance = measure(lat, lng, clat, clng)
             return distance < 1050
         })
