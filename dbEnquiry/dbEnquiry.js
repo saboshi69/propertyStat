@@ -44,7 +44,8 @@ let dummy = {
     latlng: ['22.350075,114.059207']
 }
 
-dbData(dummy).then((data) => { console.log(data) })
+//dbData(dummy).then((data) => { console.log(data) })
+//fdsfadsfsdafadfasdfdsafdsafasdf
 
 async function dbData(json) {
     let jsonArr = await _.toPairs(json).filter((u) => { return u[1][0] != undefined })
@@ -107,14 +108,14 @@ async function dbData(json) {
 }
 
 function measure(lat1, lng1, lat2, lng2) {  // generally used geo measurement function
-    var R = 6378.137; // Radius of earth in KM
-    var dLat = lat2 * Math.PI / 180 - lat1 * Math.PI / 180;
-    var dLng = lng2 * Math.PI / 180 - lng1 * Math.PI / 180;
-    var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+    let R = 6378.137; // Radius of earth in KM
+    let dLat = lat2 * Math.PI / 180 - lat1 * Math.PI / 180;
+    let dLng = lng2 * Math.PI / 180 - lng1 * Math.PI / 180;
+    let a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
         Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
         Math.sin(dLng / 2) * Math.sin(dLng / 2);
-    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-    var d = R * c;
+    let c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    let d = R * c;
 
     return d * 1000; // meters
 }

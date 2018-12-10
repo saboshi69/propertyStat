@@ -6,25 +6,24 @@ const dBgetLatLng = require("../dbEnquiry/dBgetLatLng.js")
 const dbSearchBarGeocode = require("../dbEnquiry/dbSearchBarGeocode.js")
 const bodyParser = require("body-parser");
 const _ = require("lodash")
+const passport = require('passport');
+
+function isLoggedIn(req, res, next) {
+    if (req.isAuthenticated()) {
+        return next();
+    }
+    res.redirect('/login');
+}
 
 router.get("/", (req, res)=>{
     res.render("index");
 });
 
-
-const testUser = { 
-	name: "Lee",
-	email: "lee@example.com",
-	age: "20",
-	occupation: "software engineer",
-	bookmark: ['PropertyA', 'PropertyB', 'PropertyC']
-}
-
 router.get('/users/:id', (req, res) => {
 	res.render("user", testUser);
 });
 
-router.post("/", async (req, res)=>{
+router.post("/", isLoggedIn,async (req, res)=>{
     console.log (req.body)
     let data = await dbData(req.body);
     res.json(JSON.stringify(data))
@@ -46,4 +45,22 @@ router.post("/searchGeo", async(req, res)=>{
     res.json(JSON.stringify(data))
 })
 
+router.get("/login", async(req,res)=>{
+    res.render("login")
+})
+router.post("/login", passport.authenticate('local-login', {
+    successRedirect: '/',
+    failureRedirect: '/err'
+}))
+router.get("/register", async(req, res)=>{
+    res.render("register")
+})
+router.post("/register", passport.authenticate('local-signup', {
+    successRedirect: '/',
+    failureRedirect: '/err'
+}))
+
+router.get("/err", async(req, res)=>{
+    res.render("err")
+})
 module.exports = router;
