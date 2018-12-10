@@ -7,6 +7,7 @@ const dbSearchBarGeocode = require("../dbEnquiry/dbSearchBarGeocode.js")
 const bodyParser = require("body-parser");
 const _ = require("lodash")
 const passport = require('passport');
+const dbGetUser = require("../dbEnquiry/dbGetUser")
 
 function isLoggedIn(req, res, next) {
     if (req.isAuthenticated()) {
@@ -15,8 +16,13 @@ function isLoggedIn(req, res, next) {
     res.redirect('/login');
 }
 
-router.get("/", (req, res)=>{
-    res.render("index");
+router.get("/", async (req, res)=>{
+    if (req.session.passport){
+        let user = await dbGetUser(req.session.passport.user)
+        res.render("index", ({user:user}));
+    } else {
+        res.render("index", ({user: "not yet login"}))
+    }
 });
 
 router.get('/users/:id', (req, res) => {
@@ -51,14 +57,20 @@ router.get("/login", async(req,res)=>{
 router.post("/login", passport.authenticate('local-login', {
     successRedirect: '/',
     failureRedirect: '/err'
-}))
+}),(req, res)=>{
+    //console.log (req.session)
+    console.log (req.session.session)
+})
 router.get("/register", async(req, res)=>{
     res.render("register")
 })
 router.post("/register", passport.authenticate('local-signup', {
     successRedirect: '/',
     failureRedirect: '/err'
-}))
+}), (req, res)=>{
+    //console.log (req.session)
+    //console.log (req.session.user)
+})
 
 router.get("/err", async(req, res)=>{
     res.render("err")

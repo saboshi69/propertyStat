@@ -10,7 +10,7 @@ const setupPassport = require('./passport/passport');
 //const setupPassportFb = require('./passport/passport-facebook');
 const passport = require('passport');
 const https = require('https')
-
+const cookieSession = require("cookie-session")
 
 const knex = require('knex')({
     client: 'postgresql',
@@ -26,6 +26,11 @@ const app = express();
 app.use(session({
 	secret: 'supersecret'
 }));
+
+// app.use(cookieSession({
+//     maxAge:1000*60*30,
+//     keys:['shortasfuck']
+// }))
 
 setupPassport(app);
 //setupPassportFb(app);
