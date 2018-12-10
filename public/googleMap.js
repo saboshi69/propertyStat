@@ -34,6 +34,7 @@ function processSearchData(data) {
     // let ran = (10000 - (Math.random() * p)) / 10000
     let newLat = parseFloat(data[0][0])
     let newLng = parseFloat(data[0][1])
+    let zoomAdj = parseFloat(data[0][2])
     //change new center
     map.setCenter({
         lat: newLat, //not define
@@ -57,7 +58,12 @@ function processSearchData(data) {
         maxZoom: 19
     };
     map.setOptions(zoomLv);
-    map.setZoom(17)
+    if(zoomAdj =! undefined){
+        map.setZoom(10)
+    }else{        
+        map.setZoom(17)
+    }
+
 
 
     // function to add a single marker
