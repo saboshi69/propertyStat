@@ -45,10 +45,6 @@ let dummy = {
 }
 
 //dbData(dummy).then((data) => { console.log(data) })
-<<<<<<< HEAD
-//fdsfadsfsdafadfasdfdsafdsafasdf
-=======
->>>>>>> master
 
 async function dbData(json) {
     let jsonArr = await _.toPairs(json).filter((u) => { return u[1][0] != undefined })
