@@ -127,7 +127,6 @@ async function listSearchData(data) {
             })
         })
     }
-
 }
 
 function measure(lat1, lng1, lat2, lng2) {  // generally used geo measurement function
