@@ -15,16 +15,18 @@ module.exports = (app) => {
    app.use(passport.session());
 
 	passport.use('facebook', new FacebookStrategy({
-		clientID: process.env.FACEBOOK_ID,
-		clientSecret: process.env.FACEBOOK_CLIENT_SECRET,
+		clientID: 289758044991602,
+		clientSecret: "53e8476472cb881dfd57baea2ca1b5eb",
 		callbackURL: `/auth/facebook/callback`
 	}, async (accessToken, refreshToken, profile, done) => {
 		try {
-			let userResult = await knex('testusers').where({username: profile.id});
+			let userResult = await knex('testusers').where({password: profile.id});
 			if(userResult.length === 0) {
 	
 				let user = {
-					username: profile.id
+					password: profile.id,
+					username: profile.displayName,
+					//accesstoken: accessToken
 				}
 				let query = await knex('testusers').insert(user).returning('id');
 
@@ -42,12 +44,12 @@ module.exports = (app) => {
 
 
 	passport.serializeUser((user, done) => {
-		done(null, user.profile.id);
+		done(null, user.id);
 
 	});
 
 	passport.deserializeUser( async (id,done)=>{
-    let users = await knex('testusers').where({username:id});
+    let users = await knex('testusers').where({id:id});
     if (users.length == 0) {
         return done(new Error(`Wrong user id ${id}`));
     }

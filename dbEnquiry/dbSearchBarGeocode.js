@@ -24,7 +24,7 @@ function measure(lat1, lng1, lat2, lng2) {  // generally used geo measurement fu
 async function dbSearchBarGeocode(latlng) {
     let clat = latlng[0];
     let clng = latlng[1];
-    let result = await knex.select("sRegion", "address", "actualArea", "actualPrice", "lat", "lng").from("alladdress")
+    let result = await knex.select("sRegion", "address", "actualArea", "actualPrice", "price", "lat", "lng").from("alladdress")
     let x = result
         .filter((u) => {
             let lat = parseFloat(u.lat);
@@ -39,6 +39,7 @@ async function dbSearchBarGeocode(latlng) {
                 address: address,
                 actualArea: u.actualArea,
                 actualPrice: u.actualPrice,
+                price: u.price,
                 lat: u.lat,
                 lng: u.lng
             }

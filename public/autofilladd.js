@@ -15,7 +15,11 @@ async function searchByAutofill (){
 }
 
 let searchBar = document.querySelector ('#letssearch')
-searchBar.addEventListener("click", ()=>{
-	searchByAutofill()
-	.then((data)=>processSearchData(data))
+searchBar.addEventListener("click", async ()=>{
+	let data = await searchByAutofill();
+	console.log('data' + JSON.stringify(data[0]));
+
+	processSearchData(data);
+
+	// createColumm(data);
 })
