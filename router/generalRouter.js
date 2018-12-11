@@ -37,6 +37,7 @@ router.get("/", async (req, res) => {
 router.post("/", isLoggedIn, async (req, res) => {
     console.log(req.body)
     let data = await dbData(req.body);
+    console.log(data)
     res.json(JSON.stringify(data))
 })
 
