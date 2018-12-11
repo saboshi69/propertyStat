@@ -16,34 +16,38 @@ function isLoggedIn(req, res, next) {
     res.redirect('/login');
 }
 
-router.get("/", async (req, res)=>{
-    if (req.session.passport){
+router.get("/realIndex", (req, res) => {
+    res.sendFile("realIndex.html");
+})
+
+router.get("/", async (req, res) => {
+    if (req.session.passport) {
         let user = await dbGetUser(req.session.passport.user)
-        res.render("index", ({user:user.ac}));
+        res.render("index", ({ user: user.ac }));
     } else {
-        res.render("index", ({user: "not yet login"}))
+        res.render("index", ({ user: "not yet login" }))
     }
 });
 
 router.get('/users/:id', (req, res) => {
-	res.render("user", testUser);
+    res.render("user", testUser);
 });
 
-router.post("/", isLoggedIn,async (req, res)=>{
-    console.log (req.body)
+router.post("/", isLoggedIn, async (req, res) => {
+    console.log(req.body)
     let data = await dbData(req.body);
     res.json(JSON.stringify(data))
 })
 
-router.post("/searchResult", async(req, res)=>{
-    console.log (req.body);
+router.post("/searchResult", async (req, res) => {
+    console.log(req.body);
     //req.body should be in the format like this: ["postionA", 22.333147, 114.193441]
     let data = await dbGeocode(req.body);
     res.json(JSON.stringify(data))
 })
 
 //still inprogress
-router.post("/searchGeo", async(req, res)=>{
+router.post("/searchGeo", async (req, res) => {
     let body = Object.keys(req.body)[0]
     console.log("passing front end add:" + body)
     let latlng = await dBgetLatLng(body)
@@ -51,37 +55,46 @@ router.post("/searchGeo", async(req, res)=>{
     res.json(JSON.stringify(data))
 })
 
-router.get("/login", async(req,res)=>{
+router.get("/login", async (req, res) => {
     res.render("login")
 })
 router.post("/login", passport.authenticate('local-login', {
     successRedirect: '/',
     failureRedirect: '/err'
-}),(req, res)=>{
+}), (req, res) => {
     //console.log (req.session)
-    console.log (req.session.session)
+    console.log(req.session.session)
 })
-router.get("/register", async(req, res)=>{
+router.get("/register", async (req, res) => {
     res.render("register")
 })
 router.post("/register", passport.authenticate('local-signup', {
     successRedirect: '/',
     failureRedirect: '/err'
-}), (req, res)=>{
+}), (req, res) => {
     //console.log (req.session)
     //console.log (req.session.user)
 })
 
-router.get("/err", async(req, res)=>{
+router.get("/err", async (req, res) => {
     res.render("err")
 })
 
-router.get("/user", async(req, res)=>{
-    if (req.session.passport){
+router.get("/user", async (req, res) => {
+    if (req.session.passport) {
         let user = await dbGetUser(req.session.passport.user)
-        res.render("user", ({user:user.ac, email:user.email, phone: user.phone}));
+        res.render("user", ({ user: user.ac, email: user.email, phone: user.phone }));
     } else {
-        res.render("index", ({user: "not yet login"}))
+        res.render("index", ({ user: "not yet login" }))
     }
 })
+
+
+//facebook
+router.get("/auth/facebook", passport.authenticate('facebook', { scope: ['email'] }));
+
+router.get("/auth/facebook/callback", passport.authenticate('facebook', {
+    failureRedirect: "/login"
+}), (req, res) => res.redirect('/'));
+
 module.exports = router;

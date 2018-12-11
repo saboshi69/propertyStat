@@ -7,7 +7,7 @@ const router = require("./router/generalRouter")
 const hbs = require("express-handlebars")
 const session = require('express-session');
 const setupPassport = require('./passport/passport');
-//const setupPassportFb = require('./passport/passport-facebook');
+const setupPassportFb = require('./passport/passport-facebook');
 const passport = require('passport');
 const https = require('https')
 const cookieSession = require("cookie-session")
@@ -33,7 +33,7 @@ app.use(session({
 // }))
 
 setupPassport(app);
-//setupPassportFb(app);
+setupPassportFb(app);
 
 //view engine setup
 app.engine("handlebars", hbs({ extname: "handlebars", defaultLayout: "main", layoutsDir: `${__dirname}/views/layouts` }));
