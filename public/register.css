@@ -8,6 +8,9 @@ h1{
     text-align: center;
 }
 
+#redWarning{
+    color: red;
+}
 
 form{
     width: 500px;

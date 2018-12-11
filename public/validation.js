@@ -1,5 +1,5 @@
 const pattern = {
-    telephone: /^\d{8}$/,
+    phone: /^\d{8}$/,
     username: /^[a-z\d]{5,12}$/i,
     password: /^[\w@-]{8,20}$/,
     email: /^([a-z\d\.-_]{1,35})@([a-z\d-_]+)\.([a-z]{2,10})(\.[a-z]{2,8})?$/
