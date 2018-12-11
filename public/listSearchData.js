@@ -30,14 +30,22 @@ async function listSearchData(data) {
     })
     //end of my filter logic
 
-    //below is irrelevant to filtering
-
+    //delete previous search
     let superParent = document.querySelector("#fkingLong")
+    while (superParent.firstChild) {
+        superParent.removeChild(superParent.firstChild);
+    }
+    let btnParent = document.querySelector("#paginator")
+    while (btnParent.firstChild) {
+        btnParent.removeChild(btnParent.firstChild);
+    }
+    
+    //add new elements
     let itemsPerPage = 30;
     let length = cleanData.length - 1;
     let page = Math.ceil(length / itemsPerPage);
     let groupData = chunk(cleanData, itemsPerPage)
-    let btnParent = document.querySelector("#paginator")
+
     for (let i = 0; i < page; i++) {
         //create btn
         let pag = document.createElement("button");
