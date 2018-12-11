@@ -87,6 +87,25 @@ async function listSearchData(data) {
 
                 let bookmark = document.createElement("button");
                 bookmark.setAttribute("id", `${u.id}`)
+                bookmark.setAttribute("class", "bookmark")
+                bookmark.onclick = async()=>{
+                    let id = bookmark.getAttribute("id");
+                    let user = await axios.post("/bookmark", {id:id})
+                    console.log (user)
+                    if (user){
+                        let marked = document.createElement("p");
+                        marked.setAttribute("class", "marked");
+                        marked.innerHTML = `${user.data.user} just bookmarked this record!`
+                        div.appendChild(marked)
+                        div.removeChild(bookmark);
+                    } else {
+                        let markederr = document.createElement("p");
+                        markederr.setAttribute("class", "markederr");
+                        markederr.innerHTML = `err in updating database`
+                        div.appendChild(markederr)
+                    }
+                    console.log (`btn of id:${id} clicked`);
+                }
                 bookmark.innerHTML = `Bookmark Property No. ${u.id}`
 
                 div.appendChild(sr);
@@ -126,6 +145,16 @@ async function listSearchData(data) {
                 })
             })
         })
+
+        //bookmark logic
+        // Array.from(document.querySelectorAll(".bookmark")).map((u)=>{
+        //     let id = u.id;
+        //     u.addEventListener("click", async()=>{
+        //         console.log("btn clicked")
+        //         let bookmark = await axios.post("/bookmark", {id:id});
+        //         console.log ("post req btn")
+        //     })
+        // })
     }
 }
 
