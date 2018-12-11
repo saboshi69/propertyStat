@@ -33,6 +33,8 @@ async function listSearchData(data) {
     //below is irrelevant to filtering
     let parent = document.querySelector("#fkingLong")
     for (let u of cleanData) {
+        let length = cleanData.length -1;
+        
         if (data.indexOf(u) > 0) {
             let div = document.createElement("div");
             div.setAttribute("class", "searchResult");
