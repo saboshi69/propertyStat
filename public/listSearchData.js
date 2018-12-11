@@ -30,6 +30,8 @@ async function listSearchData(data) {
     })
     //end of my filter logic
 
+
+
     //delete previous search
     let superParent = document.querySelector("#fkingLong")
     while (superParent.firstChild) {
@@ -39,7 +41,7 @@ async function listSearchData(data) {
     while (btnParent.firstChild) {
         btnParent.removeChild(btnParent.firstChild);
     }
-    
+
     //add new elements
     let itemsPerPage = 30;
     let length = cleanData.length - 1;
@@ -85,44 +87,52 @@ async function listSearchData(data) {
                 p.setAttribute("class", "searchContent pSearch")
                 p.innerHTML = `Price: $${u.price}M`
 
-                let bookmark = document.createElement("button");
-                bookmark.setAttribute("id", `${u.id}`)
-                bookmark.setAttribute("class", "bookmark")
-                bookmark.onclick = async()=>{
-                    let id = bookmark.getAttribute("id");
-                    let user = await axios.post("/bookmark", {id:id})
-                    console.log (user)
-                    if (user){
-                        let marked = document.createElement("p");
-                        marked.setAttribute("class", "marked");
-                        marked.innerHTML = `${user.data.user} just bookmarked this record!`
-                        div.appendChild(marked)
-                        div.removeChild(bookmark);
-                    } else {
-                        let markederr = document.createElement("p");
-                        markederr.setAttribute("class", "markederr");
-                        markederr.innerHTML = `err in updating database`
-                        div.appendChild(markederr)
-                    }
-                    console.log (`btn of id:${id} clicked`);
-                }
-                bookmark.innerHTML = `Bookmark Property No. ${u.id}`
-
                 div.appendChild(sr);
                 div.appendChild(add);
                 div.appendChild(aA);
                 div.appendChild(aP);
                 div.appendChild(p);
-                div.appendChild(bookmark)
+
+                let check = await axios.post("/checkBookmark", { id: u.id })
+                //console.log (check)
+                if (check.data.user) {
+                    let marked = document.createElement("p");
+                    marked.setAttribute("class", "marked");
+                    marked.innerHTML = `${check.data.user} just bookmarked this record!`
+                    div.appendChild(marked)
+                } else if (check.data == "err") {
+                    let bookmark = document.createElement("button");
+                    bookmark.setAttribute("id", `${u.id}`)
+                    bookmark.setAttribute("class", "bookmark")
+                    bookmark.onclick = async () => {
+                        let id = bookmark.getAttribute("id");
+                        let user = await axios.post("/bookmark", { id: id })
+                        if (user.data.user) {
+                            let marked = document.createElement("p");
+                            marked.setAttribute("class", "marked");
+                            marked.innerHTML = `${user.data.user} just bookmarked this record!`
+                            div.appendChild(marked)
+                            div.removeChild(bookmark);
+                        } else {
+                            let markederr = document.createElement("p");
+                            markederr.setAttribute("class", "markederr");
+                            markederr.innerHTML = "please login first"
+                            div.appendChild(markederr)
+                        }
+                        //console.log(`btn of id:${id} clicked`);
+                    }
+                    bookmark.innerHTML = `Bookmark Property No. ${u.id}`
+                    div.appendChild(bookmark)
+                }
 
                 parent.appendChild(div)
             }
         }
 
-        Array.from(document.querySelectorAll("#fkingLong > div")).map((a)=>{
+        Array.from(document.querySelectorAll("#fkingLong > div")).map((a) => {
             let classname = a.getAttribute("class");
             let num = classname.slice(19)
-            if (num == 1){
+            if (num == 1) {
                 a.style.display = "flex";
             } else {
                 a.style.display = "none"

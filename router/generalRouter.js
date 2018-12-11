@@ -114,13 +114,29 @@ router.post("/bookmark", async (req, res) => {
     if (req.session.passport) {
         let id = req.body.id;
         let userid = req.session.passport.user
-        let x = await dbBridge(id, userid);
-        if (x){
+        let x = await dbBridge.dbInsertBridge(id, userid);
+        if (x) {
             let user = await dbGetUser(req.session.passport.user)
-            res.json({user:user.ac})
+            res.json({ user: user.ac })
         }
     } else {
         res.render("err")
+    }
+})
+
+router.post("/checkBookmark", async (req, res) => {
+    if (req.session.passport) {
+        let id = req.body.id;
+        let userid = req.session.passport.user
+        let x = await dbBridge.dbCheckBridge(id, userid);
+        if (x == "done") {
+            let user = await dbGetUser(req.session.passport.user)
+            res.json({ user: user.ac, x:x})
+        } else {
+            res.send("err")
+        }
+    } else {
+        res.send("err")
     }
 })
 
