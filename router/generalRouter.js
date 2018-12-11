@@ -25,9 +25,9 @@ router.get("/", async (req, res)=>{
     }
 });
 
-router.get('/users/:id', (req, res) => {
-	res.render("user", testUser);
-});
+// router.get('/users/:id', (req, res) => {
+// 	res.render("user", testUser);
+// });
 
 router.post("/", isLoggedIn,async (req, res)=>{
     console.log (req.body)
@@ -36,7 +36,7 @@ router.post("/", isLoggedIn,async (req, res)=>{
 })
 
 router.post("/searchResult", async(req, res)=>{
-    console.log (req.body);
+    // console.log (req.body);
     //req.body should be in the format like this: ["postionA", 22.333147, 114.193441]
     let data = await dbGeocode(req.body);
     res.json(JSON.stringify(data))
@@ -45,9 +45,12 @@ router.post("/searchResult", async(req, res)=>{
 //still inprogress
 router.post("/searchGeo", async(req, res)=>{
     let body = Object.keys(req.body)[0]
-    console.log("passing front end add:" + body)
+
+    // console.log("passing front end add:" + body)
+
     let latlng = await dBgetLatLng(body)
     let data = await dbSearchBarGeocode(latlng);
+    debugger;
     res.json(JSON.stringify(data))
 })
 
