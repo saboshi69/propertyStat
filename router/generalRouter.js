@@ -19,7 +19,7 @@ function isLoggedIn(req, res, next) {
 router.get("/", async (req, res)=>{
     if (req.session.passport){
         let user = await dbGetUser(req.session.passport.user)
-        res.render("index", ({user:user}));
+        res.render("index", ({user:user.ac}));
     } else {
         res.render("index", ({user: "not yet login"}))
     }
@@ -74,5 +74,14 @@ router.post("/register", passport.authenticate('local-signup', {
 
 router.get("/err", async(req, res)=>{
     res.render("err")
+})
+
+router.get("/user", async(req, res)=>{
+    if (req.session.passport){
+        let user = await dbGetUser(req.session.passport.user)
+        res.render("user", ({user:user.ac, email:user.email, phone: user.phone}));
+    } else {
+        res.render("index", ({user: "not yet login"}))
+    }
 })
 module.exports = router;
