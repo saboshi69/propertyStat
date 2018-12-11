@@ -15,7 +15,8 @@ async function searchByAutofill (){
 }
 
 let searchBar = document.querySelector ('#letssearch')
-searchBar.addEventListener("click", ()=>{
-	searchByAutofill()
-	.then((data)=>processSearchData(data))
+searchBar.addEventListener("click", async ()=>{
+	let data = await searchByAutofill()
+	processSearchData(data)
+	listSearchData(data)
 })

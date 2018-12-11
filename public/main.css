@@ -100,3 +100,10 @@ p{margin-top: 0;margin-bottom: 0}
 .calculator h1 {
     padding: 20px 0;
 }
+
+.searchResult{
+    background-color:blue;
+    color: white;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}

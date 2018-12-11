@@ -42,13 +42,13 @@ function processSearchData(data) {
     });
 
     //clear previous search markers
-    console.log (markers.length)
-    if (markers.length > 0){
+    console.log(markers.length)
+    if (markers.length > 0) {
         clearOverlays();
     }
 
     //remove Cluster Mode
-    if (markerCluster != undefined){
+    if (markerCluster != undefined) {
         markerCluster.clearMarkers();
     }
 
@@ -58,9 +58,9 @@ function processSearchData(data) {
         maxZoom: 19
     };
     map.setOptions(zoomLv);
-    if(zoomAdj =! undefined){
+    if (zoomAdj = !undefined) {
         map.setZoom(10)
-    }else{        
+    } else {
         map.setZoom(17)
     }
 
@@ -92,14 +92,14 @@ function processSearchData(data) {
         markers.push(marker);
     }
 
-    
+
     // create all markers according to input data
     for (let i = 1; i < data.length; i++) {
         let arrFormData = [data[i].address, data[i].lat, data[i].lng];
         addMarker(arrFormData);
     }
 
-    if (isCluster){
+    if (isCluster) {
         clusterMode();
     }
 }
@@ -117,9 +117,9 @@ function clusterMode() {
     map.setZoom(14);
 }
 
-function clearCluster(){
+function clearCluster() {
     isCluster = false;
-    if (markerCluster != undefined){
+    if (markerCluster != undefined) {
         markerCluster.clearMarkers();
     }
 
@@ -127,10 +127,10 @@ function clearCluster(){
 
 
 function clearOverlays() {
-    for (var i = 0; i < markers.length; i++ ) {
-      markers[i].setMap(null);
+    for (var i = 0; i < markers.length; i++) {
+        markers[i].setMap(null);
     }
-  }
+}
 
 
 // //onclick function for search bar
@@ -141,3 +141,4 @@ function clearOverlays() {
 //       markers = []
 //       processSearchData(aJaxdata)
 // }
+
