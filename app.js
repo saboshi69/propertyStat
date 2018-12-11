@@ -54,10 +54,6 @@ require('./calculator')(app)
 app.use("/", router)
 
 
-
-
-
-
 const httpsOptions = {
     key: fs.readFileSync('./passport/localhost.key'),
     cert: fs.readFileSync('./passport/localhost.crt')

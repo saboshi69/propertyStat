@@ -8,6 +8,7 @@ const bodyParser = require("body-parser");
 const _ = require("lodash")
 const passport = require('passport');
 const dbGetUser = require("../dbEnquiry/dbGetUser")
+const dbUpdateUser = require("../dbEnquiry/dbUpdateUser").updateUser
 
 function isLoggedIn(req, res, next) {
     if (req.isAuthenticated()) {
@@ -29,9 +30,9 @@ router.get("/", async (req, res) => {
     }
 });
 
-router.get('/users/:id', (req, res) => {
-    res.render("user", testUser);
-});
+// router.get('/users/:id', (req, res) => {
+//     res.render("user", testUser);
+// });
 
 router.post("/", isLoggedIn, async (req, res) => {
     console.log(req.body)
@@ -49,11 +50,16 @@ router.post("/searchResult", async (req, res) => {
 //still inprogress
 router.post("/searchGeo", async (req, res) => {
     let body = Object.keys(req.body)[0]
-    console.log("passing front end add:" + body)
+
+    // console.log("passing front end add:" + body)
+
     let latlng = await dBgetLatLng(body)
     let data = await dbSearchBarGeocode(latlng);
     res.json(JSON.stringify(data))
 })
+
+
+// USER LOGIN / REGISTER  //
 
 router.get("/login", async (req, res) => {
     res.render("login")
@@ -80,6 +86,26 @@ router.get("/err", async (req, res) => {
     res.render("err")
 })
 
+router.get("/updateuser", async(req, res) => {
+    
+ if (req.session.passport) {
+        res.render("updateUser");
+    } else {
+        res.render("index", ({ user: "not yet login" }))
+    }    
+});
+
+router.post("/updateuser", async(req, res) => {
+
+    if (req.session.passport) {
+        let user = await dbUpdateUser(req.session.passport.user, req.body)
+        res.redirect('/user');
+        // res.render("user", ({ user: user.ac, email: user.email, phone: user.phone }));
+    } else {
+        res.render("index", ({ user: "not yet login" }))
+    }    
+})
+
 router.get("/user", async (req, res) => {
     if (req.session.passport) {
         let user = await dbGetUser(req.session.passport.user)
@@ -88,6 +114,8 @@ router.get("/user", async (req, res) => {
         res.render("index", ({ user: "not yet login" }))
     }
 })
+
+// USER LOGIN / REGISTER  - END //
 
 
 //facebook

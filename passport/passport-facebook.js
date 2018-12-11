@@ -19,12 +19,10 @@ module.exports = (app) => {
 		clientSecret: "53e8476472cb881dfd57baea2ca1b5eb",
 		callbackURL: `/auth/facebook/callback`
 	}, async (accessToken, refreshToken, profile, done) => {
-		console.log(profile);
-		console.log(accessToken)
 		try {
 			let userResult = await knex('testusers').where({password: profile.id});
 			if(userResult.length === 0) {
-				console.log(profile);
+	
 				let user = {
 					password: profile.id,
 					username: profile.displayName,
