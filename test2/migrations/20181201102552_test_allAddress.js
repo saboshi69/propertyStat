@@ -12,8 +12,8 @@ exports.up = function(knex, Promise) {
         table.float("price");
         table.integer("actualPrice");
         table.integer("grossPrice");
-        table.float("lat");
-        table.float("lng")
+        table.string("lat");
+        table.string("lng")
       })
 };
 

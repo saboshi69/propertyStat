@@ -29,7 +29,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cors());
 
 // calculator 
-require('./calculator')(app)
+//require('./calculator')(app)
 
 
 app.use("/", router)

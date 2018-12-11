@@ -4,6 +4,8 @@ module.exports = (express) => {
 	const router = express.Router();
 
 	function isLoggedIn(req, res, next) {
+		// if authenticated then send "here u go a secret"
+		// if not then redirect to login page
 		if (req.isAuthenticated()) {
 			return next();
 		}
@@ -51,11 +53,11 @@ module.exports = (express) => {
 
 	// facebook
 
-  router.get("/auth/facebook",passport.authenticate('facebook', {scope: ['email']}));
+	router.get("/auth/facebook", passport.authenticate('facebook', { scope: ['email'] }));
 
-  router.get("/auth/facebook/callback",passport.authenticate('facebook',{
-      failureRedirect: "/"
-  }),(req,res)=>res.redirect('/'));
+	router.get("/auth/facebook/callback", passport.authenticate('facebook', {
+		failureRedirect: "/"
+	}), (req, res) => res.redirect('/'));
 
 	return router;
 }

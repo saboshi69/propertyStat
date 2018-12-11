@@ -19,13 +19,13 @@ app.use(session({
 setupPassport(app);
 setupPassportFb(app);
 
-
-
 // to be remove when combined to main app.
 app.engine('html', require('ejs').renderFile);
 app.set('view engine', 'html');
 
-app.use(bodyParser());
+//app.use(bodyParser());
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
 
 // local passport + facebook passport + user route
 

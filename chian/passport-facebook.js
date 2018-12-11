@@ -4,8 +4,9 @@ require('dotenv').config();
 const knex = require('knex')({
 	client: 'postgresql',
 	connection: {
-		database: 'chian',
-		user: 'chian'
+		database: 'test2',
+		user: 'test2',
+		password: 'test2'
 	}
 });
 
