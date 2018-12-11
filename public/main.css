@@ -3,6 +3,7 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
+    
 }
 
 header {
@@ -17,6 +18,8 @@ header {
 #searchbar > div {
     display: flex;
 }
+
+
 
 #logo {
     margin-right:10px; 

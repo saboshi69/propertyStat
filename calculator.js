@@ -1,4 +1,4 @@
-var LoanCalc = require('loan-calc');
+const LoanCalc = require('loan-calc');
 
 module.exports = function(app) {
 	app.get('/calculator', function(req, res) {
@@ -19,8 +19,6 @@ module.exports = function(app) {
 
 		res.send(String(result));
 	});
-
-
 }
 
 

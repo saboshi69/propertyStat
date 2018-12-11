@@ -1,15 +1,16 @@
-$(function() {
-	$('#calc').on('submit', function(event) {
-		event.preventDefault();
-		let data = $(this).serializeArray();
-		
-		$.ajax({
-			url: '/calculate',
-			method: 'POST',
-			data: data,
-			success: function(data) {
-				$('#result').html(`<p>Your monthly instalment is ${data}.</p>`);
-			}
-		})
-	});
-});
+
+
+
+document.querySelector("#login").addEventListener("click", (e) => {
+	e.preventDefault();
+	window.location = "/login"
+})
+document.querySelector("#register").addEventListener("click", (e) => {
+	e.preventDefault();
+	window.location = "/register"
+})
+document.querySelector("#errRedirect").addEventListener("click", (e)=>{
+	e.preventDefault();
+	window.location = "/login"
+})
+

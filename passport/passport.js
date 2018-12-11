@@ -52,7 +52,7 @@ module.exports = (app) => {
 		async (req, username, password, done) => {
 			console.log(username, password);
 			try {
-				let users = await knex('testusers').where({ username: username });
+				let users = await knex('testusers').where("username", `${username}`).orWhere("email", `${req.body.email}`).orWhere("phone", `${req.body.phone}`)
 
 				if (users.length > 0) {
 					console.log(`local-signup: ${username} exist`);
