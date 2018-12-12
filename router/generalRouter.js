@@ -9,6 +9,7 @@ const _ = require("lodash")
 const passport = require('passport');
 const dbGetUser = require("../dbEnquiry/dbGetUser")
 const dbUpdateUser = require("../dbEnquiry/dbUpdateUser").updateUser
+const dbBridge = require("../dbEnquiry/dbUpdateBridge")
 
 function isLoggedIn(req, res, next) {
     if (req.isAuthenticated()) {
@@ -30,13 +31,10 @@ router.get("/", async (req, res) => {
     }
 });
 
-// router.get('/users/:id', (req, res) => {
-//     res.render("user", testUser);
-// });
-
 router.post("/", isLoggedIn, async (req, res) => {
     console.log(req.body)
     let data = await dbData(req.body);
+    console.log(data)
     res.json(JSON.stringify(data))
 })
 
@@ -67,43 +65,50 @@ router.get("/login", async (req, res) => {
 router.post("/login", passport.authenticate('local-login', {
     successRedirect: '/',
     failureRedirect: '/err'
-}), (req, res) => {
-    //console.log (req.session)
-    console.log(req.session.session)
-})
+}))
+
 router.get("/register", async (req, res) => {
     res.render("register")
 })
 router.post("/register", passport.authenticate('local-signup', {
     successRedirect: '/',
     failureRedirect: '/err'
-}), (req, res) => {
-    //console.log (req.session)
-    //console.log (req.session.user)
-})
+}))
 
 router.get("/err", async (req, res) => {
     res.render("err")
 })
 
+<<<<<<< HEAD
 router.get("/updateuser", async(req, res) => {
     
  if (req.session.passport) {
         let user = await dbGetUser(req.session.passport.user)
         res.render("updateUser", {user: user});
+=======
+router.get("/updateuser", async (req, res) => {
+
+    if (req.session.passport) {
+        res.render("updateUser");
+>>>>>>> cc1c46c56a8339b208b8cbcaf73d4ca5388dde89
     } else {
         res.render("index", ({ user: "not yet login" }))
-    }    
+    }
 });
 
+<<<<<<< HEAD
 router.post("/updateuser", async(req, res) => {
+=======
+router.post("/updateuser", async (req, res) => {
+
+>>>>>>> cc1c46c56a8339b208b8cbcaf73d4ca5388dde89
     if (req.session.passport) {
         let user = await dbUpdateUser(req.session.passport.user, req.body)
         res.redirect('/user');
         // res.render("user", ({ user: user.ac, email: user.email, phone: user.phone }));
     } else {
         res.render("index", ({ user: "not yet login" }))
-    }    
+    }
 })
 
 router.get("/user", async (req, res) => {
@@ -117,6 +122,36 @@ router.get("/user", async (req, res) => {
 
 // USER LOGIN / REGISTER  - END //
 
+// bookmark
+router.post("/bookmark", async (req, res) => {
+    if (req.session.passport) {
+        let id = req.body.id;
+        let userid = req.session.passport.user
+        let x = await dbBridge.dbInsertBridge(id, userid);
+        if (x) {
+            let user = await dbGetUser(req.session.passport.user)
+            res.json({ user: user.ac })
+        }
+    } else {
+        res.render("err")
+    }
+})
+
+router.post("/checkBookmark", async (req, res) => {
+    if (req.session.passport) {
+        let id = req.body.id;
+        let userid = req.session.passport.user
+        let x = await dbBridge.dbCheckBridge(id, userid);
+        if (x == "done") {
+            let user = await dbGetUser(req.session.passport.user)
+            res.json({ user: user.ac, x:x})
+        } else {
+            res.send("err")
+        }
+    } else {
+        res.send("err")
+    }
+})
 
 //facebook
 router.get("/auth/facebook", passport.authenticate('facebook', { scope: ['email'] }));

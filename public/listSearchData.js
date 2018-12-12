@@ -30,46 +30,141 @@ async function listSearchData(data) {
     })
     //end of my filter logic
 
-    //below is irrelevant to filtering
-    let parent = document.querySelector("#fkingLong")
-    for (let u of cleanData) {
-        if (data.indexOf(u) > 0) {
-            let div = document.createElement("div");
-            div.setAttribute("class", "searchResult");
 
-            let sr = document.createElement("p");
-            sr.setAttribute("class", "searchContent srSearch")
-            sr.innerHTML = `Region: ${u.sRegion}`
 
-            let add = document.createElement("p");
-            add.setAttribute("class", "searchContent addSearch")
-            add.innerHTML = `Address: ${u.address}`
+    //delete previous search
+    let superParent = document.querySelector("#fkingLong")
+    while (superParent.firstChild) {
+        superParent.removeChild(superParent.firstChild);
+    }
+    let btnParent = document.querySelector("#paginator")
+    while (btnParent.firstChild) {
+        btnParent.removeChild(btnParent.firstChild);
+    }
 
-            let aA = document.createElement("p");
-            aA.setAttribute("class", "searchContent aASearch")
-            aA.innerHTML = `Actual Area: ${u.actualArea}ft`
+    //add new elements
+    let itemsPerPage = 30;
+    let length = cleanData.length - 1;
+    let page = Math.ceil(length / itemsPerPage);
+    let groupData = chunk(cleanData, itemsPerPage)
 
-            let aP = document.createElement("p");
-            aP.setAttribute("class", "searchContent aPSearch")
-            aP.innerHTML = `Price per ft(Actual Area): $${u.actualPrice}`
+    for (let i = 0; i < page; i++) {
+        //create btn
+        let pag = document.createElement("button");
+        pag.setAttribute("class", "pag");
+        pag.innerHTML = `${i + 1}`;
+        btnParent.appendChild(pag);
 
-            let p = document.createElement("p");
-            p.setAttribute("class", "searchContent pSearch")
-            p.innerHTML = `Price: $${u.price}M`
+        //create div container
+        let parent = document.createElement("div");
+        parent.setAttribute("class", `container container${i + 1}`);
+        superParent.appendChild(parent);
 
-            let bookmark = document.createElement("button");
-            bookmark.setAttribute("id", `${u.id}`)
-            bookmark.innerHTML = `Bookmark Property No. ${u.id}`
+        //put things inside parent
+        for (let u of groupData[i]) {
 
-            div.appendChild(sr);
-            div.appendChild(add);
-            div.appendChild(aA);
-            div.appendChild(aP);
-            div.appendChild(p);
-            div.appendChild(bookmark)
+            if (data.indexOf(u) > 0) {
+                let div = document.createElement("div");
+                div.setAttribute("class", "searchResult");
 
-            parent.appendChild(div)
+                let sr = document.createElement("p");
+                sr.setAttribute("class", "searchContent srSearch")
+                sr.innerHTML = `Region: ${u.sRegion}`
+
+                let add = document.createElement("p");
+                add.setAttribute("class", "searchContent addSearch")
+                add.innerHTML = `Address: ${u.address}`
+
+                let aA = document.createElement("p");
+                aA.setAttribute("class", "searchContent aASearch")
+                aA.innerHTML = `Actual Area: ${u.actualArea}ft`
+
+                let aP = document.createElement("p");
+                aP.setAttribute("class", "searchContent aPSearch")
+                aP.innerHTML = `Price per ft(Actual Area): $${u.actualPrice}`
+
+                let p = document.createElement("p");
+                p.setAttribute("class", "searchContent pSearch")
+                p.innerHTML = `Price: $${u.price}M`
+
+                div.appendChild(sr);
+                div.appendChild(add);
+                div.appendChild(aA);
+                div.appendChild(aP);
+                div.appendChild(p);
+
+                let check = await axios.post("/checkBookmark", { id: u.id })
+                //console.log (check)
+                if (check.data.user) {
+                    let marked = document.createElement("p");
+                    marked.setAttribute("class", "marked");
+                    marked.innerHTML = `${check.data.user} just bookmarked this record!`
+                    div.appendChild(marked)
+                } else if (check.data == "err") {
+                    let bookmark = document.createElement("button");
+                    bookmark.setAttribute("id", `${u.id}`)
+                    bookmark.setAttribute("class", "bookmark")
+                    bookmark.onclick = async () => {
+                        let id = bookmark.getAttribute("id");
+                        let user = await axios.post("/bookmark", { id: id })
+                        if (user.data.user) {
+                            let marked = document.createElement("p");
+                            marked.setAttribute("class", "marked");
+                            marked.innerHTML = `${user.data.user} just bookmarked this record!`
+                            div.appendChild(marked)
+                            div.removeChild(bookmark);
+                        } else {
+                            let markederr = document.createElement("p");
+                            markederr.setAttribute("class", "markederr");
+                            markederr.innerHTML = "please login first"
+                            div.appendChild(markederr)
+                        }
+                        //console.log(`btn of id:${id} clicked`);
+                    }
+                    bookmark.innerHTML = `Bookmark Property No. ${u.id}`
+                    div.appendChild(bookmark)
+                }
+
+                parent.appendChild(div)
+            }
         }
+
+        Array.from(document.querySelectorAll("#fkingLong > div")).map((a) => {
+            let classname = a.getAttribute("class");
+            let num = classname.slice(19)
+            if (num == 1) {
+                a.style.display = "flex";
+            } else {
+                a.style.display = "none"
+            }
+        })
+
+        //paginator logic
+        Array.from(document.querySelectorAll(".pag")).map((u) => {
+            return u.addEventListener("click", (e) => {
+                e.preventDefault();
+                let index = u.innerHTML;
+                Array.from(document.querySelectorAll("#fkingLong > div")).map((v) => {
+                    let classname = v.getAttribute("class");
+                    let num = classname.slice(19)
+                    if (num == index) {
+                        v.style.display = "flex";
+                    } else {
+                        v.style.display = "none";
+                    }
+                })
+            })
+        })
+
+        //bookmark logic
+        // Array.from(document.querySelectorAll(".bookmark")).map((u)=>{
+        //     let id = u.id;
+        //     u.addEventListener("click", async()=>{
+        //         console.log("btn clicked")
+        //         let bookmark = await axios.post("/bookmark", {id:id});
+        //         console.log ("post req btn")
+        //     })
+        // })
     }
 }
 
@@ -84,4 +179,14 @@ function measure(lat1, lng1, lat2, lng2) {  // generally used geo measurement fu
     var d = R * c;
 
     return d * 1000; // meters
+}
+
+function chunk(array, size) {
+    const chunked_arr = [];
+    let index = 0;
+    while (index < array.length) {
+        chunked_arr.push(array.slice(index, size + index));
+        index += size;
+    }
+    return chunked_arr;
 }
