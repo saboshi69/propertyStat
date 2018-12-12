@@ -8,6 +8,7 @@ const bodyParser = require("body-parser");
 const _ = require("lodash")
 const passport = require('passport');
 const dbGetUser = require("../dbEnquiry/dbGetUser")
+const dbGetBookmark = require("../dbEnquiry/dbGetBookmark")
 const dbUpdateUser = require("../dbEnquiry/dbUpdateUser")
 // const dbBridge = require("../dbEnquiry/dbUpdateBridge")
 
@@ -117,8 +118,12 @@ router.post("/updateuser", async (req, res) => {
 router.get("/user", async (req, res) => {
     if (req.session.passport) {
         let user = await dbGetUser(req.session.passport.user)
+        let bookmark = await dbGetBookmark(req.session.passport.user)
+        console.log (bookmark)
         res.render("user", {
-            user: user});
+            user: user,
+            bookmark: bookmark,
+        });
     } else {
         res.render("index", ({ user: false }))
     }
