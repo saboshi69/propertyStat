@@ -10,7 +10,7 @@ const passport = require('passport');
 const dbGetUser = require("../dbEnquiry/dbGetUser")
 const dbGetBookmark = require("../dbEnquiry/dbGetBookmark")
 const dbUpdateUser = require("../dbEnquiry/dbUpdateUser")
-// const dbBridge = require("../dbEnquiry/dbUpdateBridge")
+const dbBridge = require("../dbEnquiry/dbUpdateBridge")
 
 function isLoggedIn(req, res, next) {
     if (req.isAuthenticated()) {
@@ -137,13 +137,18 @@ router.post("/bookmark", async (req, res) => {
     if (req.session.passport) {
         let id = req.body.id;
         let userid = req.session.passport.user
+        //console.log (id, userid)
         let x = await dbBridge.dbInsertBridge(id, userid);
+        console.log (x)
         if (x) {
+            console.log (req.session.passport.user)
             let user = await dbGetUser(req.session.passport.user)
-            res.json({ user: user.ac })
+            res.json({ user: user })
+        } else {
+            res.send("dberr")
         }
     } else {
-        res.render("err")
+        res.send("nologin")
     }
 })
 
@@ -154,7 +159,7 @@ router.post("/checkBookmark", async (req, res) => {
         let x = await dbBridge.dbCheckBridge(id, userid);
         if (x == "done") {
             let user = await dbGetUser(req.session.passport.user)
-            res.json({ user: user.ac, x: x })
+            res.json({ user: user, x: x })
         } else {
             res.send("err")
         }

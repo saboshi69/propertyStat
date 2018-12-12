@@ -98,7 +98,7 @@ async function listSearchData(data) {
                 if (check.data.user) {
                     let marked = document.createElement("p");
                     marked.setAttribute("class", "marked");
-                    marked.innerHTML = `${check.data.user} just bookmarked this record!`
+                    marked.innerHTML = `${check.data.user.username} just bookmarked this record!`
                     div.appendChild(marked)
                 } else if (check.data == "err") {
                     let bookmark = document.createElement("button");
@@ -107,16 +107,22 @@ async function listSearchData(data) {
                     bookmark.onclick = async () => {
                         let id = bookmark.getAttribute("id");
                         let user = await axios.post("/bookmark", { id: id })
+                        console.log (user.data)
                         if (user.data.user) {
                             let marked = document.createElement("p");
                             marked.setAttribute("class", "marked");
-                            marked.innerHTML = `${user.data.user} just bookmarked this record!`
+                            marked.innerHTML = `${user.data.user.username} just bookmarked this record!`
                             div.appendChild(marked)
                             div.removeChild(bookmark);
-                        } else {
+                        } else if (user.data == "nologin") {
                             let markederr = document.createElement("p");
                             markederr.setAttribute("class", "markederr");
                             markederr.innerHTML = "please login first"
+                            div.appendChild(markederr)
+                        } else if (user.data == "dberr") {
+                            let markederr = document.createElement("p");
+                            markederr.setAttribute("class", "markederr");
+                            markederr.innerHTML = "db err"
                             div.appendChild(markederr)
                         }
                         //console.log(`btn of id:${id} clicked`);
