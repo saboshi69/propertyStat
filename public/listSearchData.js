@@ -135,8 +135,19 @@ async function listSearchData(data) {
                     }
                     bookmark.innerHTML = `Bookmark Property No. ${u.id}`
                     div.appendChild(bookmark)
+
+                    
                 }
 
+                //color of div
+                let index = groupData[i].indexOf(u)+1;
+                if ((index+2)%3 == 0){
+                    div.style.backgroundColor = "rgba(0, 56, 81, 0.3)"
+                } else if ((index+1)%3 == 0){
+                    div.style.backgroundColor = "rgba(45, 124, 157, 0.3)"
+                } else {
+                    div.style.backgroundColor = "rgba(34, 100, 110, 0.3)"
+                }
                 parent.appendChild(div)
             }
         }

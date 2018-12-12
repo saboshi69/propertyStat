@@ -281,8 +281,7 @@ div.reg {
 
 
 .searchResult {
-    display: block;
-    background: #3D9970;
+    display: grid;
     border-radius: 20px;
     margin-bottom: 5px;
     padding: 20px;
@@ -295,15 +294,15 @@ div.reg {
 
 
 div.pagination {
-    margin-top: 15px;
+    margin-top: 5px;
     margin-left: 15px;
     border-radius: 10px;
-    overflow-x: scroll;
+    /* overflow-x: scroll; */
 }
 
 .pag {
     display: inline-block;
-    padding: 10px 15px;
+    padding: 7px 15px;
     margin-right: 6px;
     border-radius: 3px;
     font-size: 1em;
