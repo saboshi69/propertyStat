@@ -18,19 +18,22 @@
 </head>
 
 <body>
-    <header id="searchbar">
-        <div>
-            <img id="logo" src="/image/logo.png" alt="">
-            <input id="locationName" name="locationName" type="text" placeholder="Enter your address">
-            <button id="letssearch">Search!</button>
-        </div>
-    </header>
-    <div class="user">
-        <div class="userbutton">
-            <button id="login">Login</button>
-            <button id="register">Register</button>
-        </div>
+    <div class="row">
+        <header id="searchbar" class="col-8">
+            <div>
+                <img id="logo" src="/image/logo.png" alt="">
+                <input id="locationName" name="locationName" type="text" placeholder="Enter your address">
+                <button id="letssearch" class="btn btn-primary">Search!</button>
+            </div>
+        </header>
+        <div class="user col-4">
+            <div class="userbutton">
+                <button id="login" class="btn btn-success">Login</button>
+                <button id="register" class="btn btn-success">Register</button>
+            </div>
+        </div>       
     </div>
+    
 
     {{{body}}}
 

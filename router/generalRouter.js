@@ -79,10 +79,11 @@ router.get("/err", async (req, res) => {
     res.render("err")
 })
 
-router.get("/updateuser", async (req, res) => {
-
-    if (req.session.passport) {
-        res.render("updateUser");
+router.get("/updateuser", async(req, res) => {
+    
+ if (req.session.passport) {
+        let user = await dbGetUser(req.session.passport.user)
+        res.render("updateUser", {user: user});
     } else {
         res.render("index", ({ user: "not yet login" }))
     }
@@ -106,11 +107,11 @@ router.post("/updateuser", async (req, res) => {
 router.get("/user", async (req, res) => {
     if (req.session.passport) {
         let user = await dbGetUser(req.session.passport.user)
-        res.render("user", ({ user: user.ac, email: user.email, phone: user.phone }));
+        res.render("user", {user: user});
     } else {
         res.render("index", ({ user: "not yet login" }))
     }
-})
+});
 
 // USER LOGIN / REGISTER  - END //
 

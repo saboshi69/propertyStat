@@ -8,12 +8,8 @@ const knex = require('knex')({
 });
 
 async function dbGetUser(id){
-    let user = await knex.select("username", "email", "phone").from("testusers").where({id:id});
-    return {
-        ac: user[0].username,
-        email: user[0].email,
-        phone: user[0].phone
-    }
+    let user = await knex.from("testusers").where({id:id});
+    return user[0];
 }
 
 module.exports = dbGetUser
