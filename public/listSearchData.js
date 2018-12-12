@@ -51,7 +51,7 @@ async function listSearchData(data) {
     for (let i = 0; i < page; i++) {
         //create btn
         let pag = document.createElement("button");
-        pag.setAttribute("class", "pag");
+        pag.setAttribute("class", "pag page-item");
         pag.innerHTML = `${i + 1}`;
         btnParent.appendChild(pag);
 
@@ -103,7 +103,7 @@ async function listSearchData(data) {
                 } else if (check.data == "err") {
                     let bookmark = document.createElement("button");
                     bookmark.setAttribute("id", `${u.id}`)
-                    bookmark.setAttribute("class", "bookmark")
+                    bookmark.setAttribute("class", "bookmark btn btn-secondary")
                     bookmark.onclick = async () => {
                         let id = bookmark.getAttribute("id");
                         let user = await axios.post("/bookmark", { id: id })
