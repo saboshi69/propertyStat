@@ -244,13 +244,33 @@ div.reg {
 
 
 div.pagination {
-    margin-left: 20px;
+    margin-top: 15px;
+    margin-left: 15px;
     border-radius: 10px;
 }
 
-.page-item {
-    padding: 15px;
+.pag {
+    display: inline-block;
+    padding: 10px 15px;
+    margin-right: 6px;
+    border-radius: 3px;
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    border: solid 1px #32373b;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#565b5f), to(#3e4347));
+    background: -moz-linear-gradient(0% 0% 270deg,#565b5f, #3e4347);
+    box-shadow: inset 0px 1px 1px rgba(255,255,255, .1), 0px 1px 3px rgba(0,0,0, .1);
+    color: #feffff;
+    text-shadow: 0px 1px 0px rgba(0,0,0, .5);
 }
 
+
+
+.pag:hover {
+    background: #3d4f5d;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#547085), to(#3d4f5d));
+    background: -moz-linear-gradient(0% 0% 270deg,#547085, #3d4f5d);
+}
 
 

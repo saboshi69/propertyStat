@@ -57,7 +57,7 @@ async function listSearchData(data) {
     for (let i = 0; i < page; i++) {
         //create btn
         let pag = document.createElement("button");
-        pag.setAttribute("class", "pag page-item");
+        pag.setAttribute("class", "pag pag-dark");
         pag.innerHTML = `${i + 1}`;
         btnParent.appendChild(pag);
 
