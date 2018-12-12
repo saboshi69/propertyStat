@@ -121,10 +121,18 @@ async function listSearchData(data) {
                             div.appendChild(marked)
                             div.removeChild(bookmark);
                         } else if (user.data == "nologin") {
-                            let markederr = document.createElement("p");
-                            markederr.setAttribute("class", "markederr");
-                            markederr.innerHTML = "please login first"
-                            div.appendChild(markederr)
+                            let arr = Array.from(document.querySelectorAll("p[class='markederr']"))
+                            .filter((u)=>{
+                                let x = u.getAttribute("name");
+                                return x == `${id}`
+                            })
+                            if (arr.length == 0 || arr == undefined){
+                                let markederr = document.createElement("p");
+                                markederr.setAttribute("class", "markederr");
+                                markederr.setAttribute("name",`${id}`)
+                                markederr.innerHTML = "please login first"
+                                div.appendChild(markederr)
+                            }
                         } else if (user.data == "dberr") {
                             let markederr = document.createElement("p");
                             markederr.setAttribute("class", "markederr");
