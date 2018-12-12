@@ -155,16 +155,6 @@ async function listSearchData(data) {
                 })
             })
         })
-
-        //bookmark logic
-        // Array.from(document.querySelectorAll(".bookmark")).map((u)=>{
-        //     let id = u.id;
-        //     u.addEventListener("click", async()=>{
-        //         console.log("btn clicked")
-        //         let bookmark = await axios.post("/bookmark", {id:id});
-        //         console.log ("post req btn")
-        //     })
-        // })
     }
 }
 

@@ -91,6 +91,7 @@ router.get("/updateuser", async (req, res) => {
 router.post("/updateuser", async (req, res) => {
 
     if (req.session.passport) {
+        console.log (req.body)
         let user = await dbUpdateUser(req.session.passport.user, req.body)
         res.redirect('/user');
         // res.render("user", ({ user: user.ac, email: user.email, phone: user.phone }));
