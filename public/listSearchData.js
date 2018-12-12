@@ -133,7 +133,7 @@ async function listSearchData(data) {
             let classname = a.getAttribute("class");
             let num = classname.slice(19)
             if (num == 1) {
-                a.style.display = "flex";
+                a.style.display = "block";
             } else {
                 a.style.display = "none"
             }
@@ -148,7 +148,7 @@ async function listSearchData(data) {
                     let classname = v.getAttribute("class");
                     let num = classname.slice(19)
                     if (num == index) {
-                        v.style.display = "flex";
+                        v.style.display = "block";
                     } else {
                         v.style.display = "none";
                     }
