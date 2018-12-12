@@ -25,16 +25,15 @@ router.get("/realIndex", (req, res) => {
 router.get("/", async (req, res) => {
     if (req.session.passport) {
         let user = await dbGetUser(req.session.passport.user)
-        res.render("index", ({ user: user.ac }));
+        res.render("index", ({ user: user }));
     } else {
-        res.render("index", ({ user: "not yet login" }))
+        res.render("index", ({ user: false}))
     }
 });
 
 router.post("/", isLoggedIn, async (req, res) => {
     console.log(req.body)
     let data = await dbData(req.body);
-    console.log(data)
     res.json(JSON.stringify(data))
 })
 
@@ -67,6 +66,17 @@ router.post("/login", passport.authenticate('local-login', {
     failureRedirect: '/err'
 }))
 
+router.get("/logout", async(req, res) => {
+    try {
+        req.logout();
+        req.session.destroy();
+        res.redirect("/");
+    } catch(e) {
+        console.log(e);
+    }
+    
+});
+
 router.get("/register", async (req, res) => {
     res.render("register")
 })
@@ -85,7 +95,7 @@ router.get("/updateuser", async(req, res) => {
         let user = await dbGetUser(req.session.passport.user)
         res.render("updateUser", {user: user});
     } else {
-        res.render("index", ({ user: "not yet login" }))
+        res.render("index", ({ user: false }))
     }
 });
 
@@ -100,7 +110,7 @@ router.post("/updateuser", async (req, res) => {
             res.send("err")
         }
     } else {
-        res.send("err")
+        res.render("index", ({ user: false }))
     }
 })
 
@@ -110,7 +120,7 @@ router.get("/user", async (req, res) => {
         res.render("user", {
             user: user});
     } else {
-        res.render("index", ({ user: "not yet login" }))
+        res.render("index", ({ user: false }))
     }
 });
 

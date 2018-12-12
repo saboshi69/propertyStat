@@ -1,36 +1,60 @@
 
-	<div class="row calculator">
-		<div class="col-6">
-			<h1>Mortgage Calculator</h1>
-			<form id="calc">
-				<div class="form-group row">
-					<label class="col-3 col-form-label">Price of Home (HKD)</label>
-					<div class="col-8">
-						<input type="text" name="price">
+
+
+
+
+
+  <div class="user container" id="fuck">
+    <div class="row">
+      <div class="col-3 sidebar">
+        <ul class="list-group">
+          <li class="list-group-item"><a href="/logout">Log Out</a></li>
+          <li class="list-group-item"><a href="/calculator">Mortgage Calculator</a></li>
+          <li class="list-group-item"><a href="/updateUser">Update User Info</a></li>
+
+      </div>
+
+      <div class="col-9 mainbar">
+
+        
+				<div class="row calculator">
+					<div class="col-6">
+						<h1>Mortgage Calculator</h1>
+						<form id="calc">
+							<div class="form-group row">
+								<label class="col-3 col-form-label">Price of Home (HKD)</label>
+								<div class="col-8">
+									<input type="text" name="price">
+								</div>
+							</div>
+
+							<div class="form-group row">
+
+								<label class="col-3 col-form-label">Interest rates (please enter %)</label>
+								<div class="col-8">
+									<input type="number" name="interest_rate" step="0.01">
+								</div>
+							</div>
+
+							<div class="form-group row">
+
+								<label class="col-3 col-form-label">Months</label>
+								<div class="col-8">
+									<input type="number" name="month">
+								</div>
+							</div>
+
+							<div id="result"></div>
+
+							<input type="submit" value="Submit" class="btn btn-primary">
+
+
+						</form>
 					</div>
 				</div>
 
-				<div class="form-group row">
-
-					<label class="col-3 col-form-label">Interest rates (please enter %)</label>
-					<div class="col-8">
-						<input type="number" name="interest_rate" step="0.01">
-					</div>
-				</div>
-
-				<div class="form-group row">
-
-					<label class="col-3 col-form-label">Months</label>
-					<div class="col-8">
-						<input type="number" name="month">
-					</div>
-				</div>
-
-				<div id="result"></div>
-
-				<input type="submit" value="Submit" class="btn btn-primary">
-
-
-			</form>
-		</div>
-	</div>
+        
+      </div>
+    </div>  
+  </div>
+  
