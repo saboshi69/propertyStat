@@ -1,4 +1,10 @@
+
+function relocate() {
+    window.location = "/"
+}
+
 async function listSearchData(data) {
+
     //filter right latlng
     //hey samuel
     //i dun understand your filter logic for your map
@@ -51,7 +57,7 @@ async function listSearchData(data) {
     for (let i = 0; i < page; i++) {
         //create btn
         let pag = document.createElement("button");
-        pag.setAttribute("class", "pag page-item");
+        pag.setAttribute("class", "pag pag-dark");
         pag.innerHTML = `${i + 1}`;
         btnParent.appendChild(pag);
 
@@ -107,7 +113,7 @@ async function listSearchData(data) {
                     bookmark.onclick = async () => {
                         let id = bookmark.getAttribute("id");
                         let user = await axios.post("/bookmark", { id: id })
-                        console.log (user.data)
+                        console.log(user.data)
                         if (user.data.user) {
                             let marked = document.createElement("p");
                             marked.setAttribute("class", "marked");
@@ -162,6 +168,7 @@ async function listSearchData(data) {
             })
         })
     }
+
 }
 
 function measure(lat1, lng1, lat2, lng2) {  // generally used geo measurement function
