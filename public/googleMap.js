@@ -296,7 +296,7 @@ async function processSearchData(data) {
     };
     map.setOptions(zoomLv);
     if (zoomAdj = !undefined) {
-        map.setZoom(10)
+        map.setZoom(14)
     } else {
         map.setZoom(17)
     }
