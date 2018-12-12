@@ -299,6 +299,11 @@ div.pagination {
     margin-left: 15px;
     border-radius: 10px;
     overflow-x: scroll;
+    
+}
+
+#pagination{
+    background-color:red;
 }
 
 .pag {
