@@ -79,29 +79,18 @@ router.get("/err", async (req, res) => {
     res.render("err")
 })
 
-<<<<<<< HEAD
 router.get("/updateuser", async(req, res) => {
     
  if (req.session.passport) {
         let user = await dbGetUser(req.session.passport.user)
         res.render("updateUser", {user: user});
-=======
-router.get("/updateuser", async (req, res) => {
-
-    if (req.session.passport) {
-        res.render("updateUser");
->>>>>>> cc1c46c56a8339b208b8cbcaf73d4ca5388dde89
     } else {
         res.render("index", ({ user: "not yet login" }))
     }
 });
 
-<<<<<<< HEAD
 router.post("/updateuser", async(req, res) => {
-=======
-router.post("/updateuser", async (req, res) => {
 
->>>>>>> cc1c46c56a8339b208b8cbcaf73d4ca5388dde89
     if (req.session.passport) {
         let user = await dbUpdateUser(req.session.passport.user, req.body)
         res.redirect('/user');
