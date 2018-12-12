@@ -24,7 +24,7 @@ function filterTime(duration, u) {
     let today = new Date();
     let diff = today - u.date
     let rightDiff = 1000 * 60 * 60 * 24 * duration;
-    if (duration != 12) {
+    if (duration != 365) {
         if (rightDiff >= diff) {
             return true
         } else {
@@ -40,7 +40,7 @@ let dummy = {
     actualArea: [],
     price: ['3-6'],
     actualPrice: [],
-    date: ['365'],
+    date: ['180'],
     latlng: ['22.350075,114.059207']
 }
 
@@ -48,7 +48,7 @@ let dummy = {
 
 async function dbData(json) {
     let jsonArr = await _.toPairs(json).filter((u) => { return u[1][0] != undefined })
-    let result = await knex.select("sRegion", "address", "actualArea", "price", "actualPrice", "date", "lat", "lng").from("alladdress")
+    let result = await knex.select("sRegion", "address", "actualArea", "price", "actualPrice", "date", "lat", "lng", "id").from("alladdress")
     for (let col of jsonArr) {
         if (col[0] == "sRegion") {
             result = await result.filter((u) => {
@@ -68,8 +68,8 @@ async function dbData(json) {
                 result = await result.filter((u) => {
                     return u[`${col[0]}`] > Number(arr[0]) && u[`${col[0]}`] < Number(arr[1])
                 })
-            } else if (!col[1][0].includes(",")) {
-                let duration = parseFloat(col[1][0])
+            } else if (!col[1][0].includes(",") && col[1][0].length <= 3) {
+                let duration = Number(col[1][0])
                 result = await result.filter((u) => {
                     return filterTime(duration, u)
                 })
@@ -95,6 +95,7 @@ async function dbData(json) {
                             actualArea: u.actualArea,
                             actualPrice: u.actualPrice,
                             price: u.price,
+                            id: u.id,
                             date: u.date,
                             lat: u.lat,
                             lng: u.lng

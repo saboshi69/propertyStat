@@ -174,6 +174,8 @@ document.querySelector(".button > #good").addEventListener("click", async (e) =>
         latlng: latlng   
     })
 
+    console.log (json.data)
+
     //calculate center for map
     //console.log(json.data)
     let mapData = JSON.parse(json.data)
@@ -184,7 +186,9 @@ document.querySelector(".button > #good").addEventListener("click", async (e) =>
     mapData.unshift(requiredInfo) // add the latlng center && zoom into json
     processSearchData(mapData) //  connect it to my map
   
-  
+    //listData
+    listSearchData(JSON.parse(json.data))
+    
     //console.log(mapData)
     //got data without redirect!
     chartType(chart, json.data, sRegion, date)
