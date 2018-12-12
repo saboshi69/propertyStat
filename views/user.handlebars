@@ -2,34 +2,56 @@
 	<div class="user container" id="fuck">
 		<div class="row">
 			<div class="col-3 sidebar">
-				<div><a href="/logout">Log Out</a></div>
-				<div><a href="/calculator">Mortgage Calculator</a></div>
-				<div><a href="/updateUser">Update User Info</a></div>
-
+				<ul class="list-group">
+				  <li class="list-group-item"><a href="/logout">Log Out</a></li>
+				  <li class="list-group-item"><a href="/calculator">Mortgage Calculator</a></li>
+				  <li class="list-group-item"><a href="/updateUser">Update User Info</a></li>
 
 			</div>
 
 			<div class="col-9 mainbar">
-				<h2>User Profile</h2>
 
-				<p>Name: {{user.username}}</p>
+				<div class="card">
+				  <div class="card-header">
+				    <h2>User Profile</h2>
+				  </div>
+				  <div class="card-body">
+				    <h5 class="card-title">Username</h5>
+				    <p class="card-text">{{user.username}}</p>
 
-				<p>Email: {{user.email}}</p>
+				    <h5 class="card-title">Email</h5>
+				    <p class="card-text">{{user.email}}</p>
 
-				<p>Phone: {{user.phone}}</p>
+				    <h5 class="card-title">Phone Number</h5>
+				    <p class="card-text">{{user.phone}}</p>
 
-				<p>Current District: {{user.district_current}}</p>
+				    <h5 class="card-title">Current District</h5>
+				    <p class="card-text">{{user.district_current}}</p>
 
-				<p>Salary: {{user.salary}}</p>
+				    <h5 class="card-title">Salary</h5>
+				    <p class="card-text">{{user.salary}}</p>
 
-				<p>Gender: {{user.gender}}</p>
+				    <h5 class="card-title">Gender</h5>
+				    <p class="card-text">{{user.gender}}</p>
+				  </div>
+				</div>
 
-				<h2>Bookmarked Property</h2>
-				<ul>
-					{{#each bookmark}}
-						<li>{{this}}</li>
-					{{/each}}
-				</ul>
+
+				<div class="card">
+				  <div class="card-header">
+				    <h2>Bookmarked Property</h2>
+				  </div>
+				  <div class="card-body">
+				    <ul>
+							{{#each bookmark}}
+								<li>{{this}}</li>
+							{{/each}}
+						</ul>
+				  </div>
+				</div>
+
+				<h2></h2>
+				
 			</div>
 		</div>	
 	</div>
