@@ -7,23 +7,47 @@ const knex = require('knex')({
     }
 });
 
-async function updateUser(id, info) {
+let dummy = { email: 'sad@gmail.com',
+  username: '',
+  phone: '',
+  gender: 'Female',
+  salary: '50000',
+  district_current: 'Diamond Hill' }
 
+async function dbUpdateUser(id, data) {
+	let x
+	let cleanData = filterObj(data)
+	let check = await knex.select("email", "username", "phone").from("testusers")
+	.where("email", `${cleanData.email}`)
+	.orWhere("email", `${cleanData.username}`)
+	.orWhere("email", `${cleanData.phone}`)
+
+	.orWhere("username", `${cleanData.email}`)
+	.orWhere("username", `${cleanData.phone}`)
+	.orWhere("username", `${cleanData.username}`)
+
+	.orWhere("phone", `${cleanData.phone}`)
 	
-	
-	//let userInfo = await knex('testusers').where('user_id', id);
-
-
-	//if (userInfo.length > 0) {
-		// await knex('testusers')
-		// 	.where('id', id)
-		// 	.update(cleanInfo);
-	//} else {
-	// 	await knex('testusers')
-	// 		.insert({gender: info.gender,salary: info.salary, district_current: info.district_current });
-	// }
-
-
+	if (check.length > 0){
+		return "duplicated"
+	} else if (check.length == 0) {
+		await knex('testusers').update(cleanData).where("id", `${id}`)
+		return "updated"
+	}
 }
 
-module.exports = { updateUser };
+//dbUpdateUser(2, dummy).then((data)=>{
+// 	console.log (data)
+// })
+
+function filterObj(obj){
+	let keys = Object.keys(obj);
+	for (let key of keys){
+		if (obj[`${key}`].length == 0){
+			delete obj[`${key}`]
+		}
+	}
+	return obj
+}
+
+module.exports = dbUpdateUser;

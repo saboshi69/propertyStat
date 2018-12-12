@@ -8,7 +8,7 @@ const bodyParser = require("body-parser");
 const _ = require("lodash")
 const passport = require('passport');
 const dbGetUser = require("../dbEnquiry/dbGetUser")
-const dbUpdateUser = require("../dbEnquiry/dbUpdateUser").updateUser
+const dbUpdateUser = require("../dbEnquiry/dbUpdateUser")
 const dbBridge = require("../dbEnquiry/dbUpdateBridge")
 
 function isLoggedIn(req, res, next) {
@@ -89,14 +89,17 @@ router.get("/updateuser", async (req, res) => {
 });
 
 router.post("/updateuser", async (req, res) => {
-
-    if (req.session.passport) {
-        console.log (req.body)
-        let user = await dbUpdateUser(req.session.passport.user, req.body)
-        res.redirect('/user');
-        // res.render("user", ({ user: user.ac, email: user.email, phone: user.phone }));
+    if (req.session.passport){
+        let ans = await dbUpdateUser(req.session.passport.user, req.body)
+        if (ans == "updated"){
+            res.send("updated")
+        } else if (ans == "duplicated"){
+            res.send("duplicated")
+        } else {
+            res.send("err")
+        }
     } else {
-        res.render("index", ({ user: "not yet login" }))
+        res.send("err")
     }
 })
 
@@ -133,7 +136,7 @@ router.post("/checkBookmark", async (req, res) => {
         let x = await dbBridge.dbCheckBridge(id, userid);
         if (x == "done") {
             let user = await dbGetUser(req.session.passport.user)
-            res.json({ user: user.ac, x:x})
+            res.json({ user: user.ac, x: x })
         } else {
             res.send("err")
         }
