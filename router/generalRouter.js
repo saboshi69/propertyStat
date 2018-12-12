@@ -107,7 +107,8 @@ router.post("/updateuser", async (req, res) => {
 router.get("/user", async (req, res) => {
     if (req.session.passport) {
         let user = await dbGetUser(req.session.passport.user)
-        res.render("user", {user: user});
+        res.render("user", {
+            user: user});
     } else {
         res.render("index", ({ user: "not yet login" }))
     }
