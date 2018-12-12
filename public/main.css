@@ -49,39 +49,9 @@ img {
     display: none;
 }
 
-
-/*.regions {
-    display: grid;
-    position: relative;
-    grid-template-columns: repeat(4, 300px);
-    grid-template-areas: 
-    'a b c d';
-    background-color: aquamarine
-}
-
-#HK { grid-area: a } #KLN {grid-area: b} #NTE {grid-area: c} #NTW{grid-area: d}
-
-.others {
-    display: grid;
-    position: relative;
-    grid-template-columns: repeat(5, 300px);
-    grid-template-areas: 
-    'e f g h i';
-    background-color: skyblue
-}
-*/
-
-/*#graphic {
-    height:400px;
-    width:100%;
-}
-#graphic > div{
-    display: flex;
-}*/
-
 #mappy {
-    height: 370px;
-    width: 800px;
+    height: 80vh;
+    width: 45vw;
     margin: 20px;
 }
 
@@ -238,6 +208,26 @@ div.reg {
 
 /* list search data */
 
+#fkingLong{
+    /* display: flex; */
+    overflow-y: scroll;
+    width: 45vw;
+    height: 85vh;
+}
+
+#fkingLong::-webkit-scrollbar {
+    width: 6px;
+    background-color: #333;
+} 
+
+#fkingLong::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+}
+
+#fkingLong::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #333;
+}
 
 .searchResult {
     display: block;
