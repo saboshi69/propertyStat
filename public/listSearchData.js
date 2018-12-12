@@ -1,7 +1,5 @@
 
-function relocate() {
-    window.location = "/"
-}
+
 
 async function listSearchData(data) {
 
@@ -113,7 +111,6 @@ async function listSearchData(data) {
                     bookmark.onclick = async () => {
                         let id = bookmark.getAttribute("id");
                         let user = await axios.post("/bookmark", { id: id })
-                        console.log(user.data)
                         if (user.data.user) {
                             let marked = document.createElement("p");
                             marked.setAttribute("class", "marked");
@@ -139,7 +136,6 @@ async function listSearchData(data) {
                             markederr.innerHTML = "db err"
                             div.appendChild(markederr)
                         }
-                        //console.log(`btn of id:${id} clicked`);
                     }
                     bookmark.innerHTML = `Bookmark Property No. ${u.id}`
                     div.appendChild(bookmark)
@@ -156,6 +152,7 @@ async function listSearchData(data) {
                 } else {
                     div.style.backgroundColor = "rgba(34, 100, 110, 0.3)"
                 }
+
                 parent.appendChild(div)
             }
         }

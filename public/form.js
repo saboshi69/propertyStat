@@ -93,6 +93,26 @@ function makeRegion() {
             input.setAttribute("name", "sRegion")
             input.setAttribute("value", `${sRegion}`)
             input.innerHTML = `${sRegion}`;
+            input.onchange = () => {
+                let x = Array.from(document.querySelectorAll("input[type='checkbox']"))
+                let sRegion = x.filter((u) => {
+                    return u.checked == true
+                })
+                if(sRegion.length == 10) {
+                    let y = Array.from(document.querySelectorAll("input[type='checkbox']")).filter((u)=>{
+                        return u.checked == false
+                    }).map((u)=>{
+                        return u.getAttribute("value")
+                    })
+                    for (let element of y){
+                        document.querySelector(`input[value="${element}"]`).disabled = true
+                    }
+                    let warn = document.createElement("p");
+                    warn.innerHTML = "Max. selection = 10";
+                    warn.style.color = "red";
+                    parent.insertBefore(warn, parent.firstChild)
+                }
+            }
             let label = document.createElement("label");
             label.setAttribute("for", `${sRegion}`);
             label.innerHTML = `${sRegion}`
@@ -104,26 +124,45 @@ function makeRegion() {
     }
 }
 
-function calCenter(arr){
+function calCenter(arr) {
     let c = arr.length
     let lat = 0
     let lng = 0
-    for (let ll of arr){
+    for (let ll of arr) {
         lat = lat + (ll.split(',')[0]) / c
         lng = lng + (ll.split(',')[1]) / c
     }
     return [lat, lng]
 }
 
-function zoomAdjust(arr){
+function zoomAdjust(arr) {
     let c = arr.length
-    if (c =! 1 || c > 3){
-        return 0 - c 
-    }else if (c == 1){
+    if (c = !1 || c > 3) {
+        return 0 - c
+    } else if (c == 1) {
         return 0
-    }else{
+    } else {
         return -3
     }
+}
+
+function check10() {
+    let x = Array.from(document.querySelectorAll("input[type='checkbox']"))
+    let sRegion = x.filter((u) => {
+        return u.checked == true
+    })
+
+    console.log(sRegion.length)
+    if (sRegion.length > 10) {
+        console.log("if working")
+        Array.from(document.querySelectorAll("input[type='checkbox']")).filter((u) => {
+            return u.checked == false
+        }).map((u) => {
+            return u.disabled == true
+        })
+
+    }
+
 }
 
 document.querySelector(".button > #good").addEventListener("click", async (e) => {
@@ -171,24 +210,30 @@ document.querySelector(".button > #good").addEventListener("click", async (e) =>
         price: p,
         actualPrice: aP,
         date: date,
-        latlng: latlng   
+        latlng: latlng
     })
 
-    console.log (json.data)
+    console.log(json.data)
 
     //calculate center for map
     //console.log(json.data)
     let mapData = JSON.parse(json.data)
-    let center = calCenter(latlng)    
-    let zAdjust = "coool" 
+    let center = calCenter(latlng)
+    let zAdjust = "coool"
     let requiredInfo = [...center, zAdjust]
 
     mapData.unshift(requiredInfo) // add the latlng center && zoom into json
     processSearchData(mapData) //  connect it to my map
-  
+
     //listData
-    listSearchData(JSON.parse(json.data))
+    if(JSON.parse(json.data).length <=900){
+        listSearchDataNoFilter(JSON.parse(json.data))
+    } else {
+        let newArr = JSON.parse(json.data).slice(0, 900)
+        listSearchDataNoFilter(newArr)
+    }
     
+
     //console.log(mapData)
     //got data without redirect!
     chartType(chart, json.data, sRegion, date)

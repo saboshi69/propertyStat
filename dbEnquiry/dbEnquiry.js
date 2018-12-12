@@ -81,12 +81,6 @@ async function dbData(json) {
                 let clat = latlng[0];
                 let clng = latlng[1];
                 result = await result
-                    .filter((u) => {
-                        let lat = parseFloat(u.lat);
-                        let lng = parseFloat(u.lng);
-                        let distance = measure(lat, lng, clat, clng)
-                        return distance < 1500
-                    })
                     .map((u) => {
                         let address = Object.values(u.address).filter((a) => { return a.length > 0 }).join()
                         return {
