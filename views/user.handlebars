@@ -41,13 +41,18 @@
 				  <div class="card-header">
 				    <h2>Bookmarked Property</h2>
 				  </div>
+					{{#each bookmark}}
 				  <div class="card-body">
 				    <ul>
-							{{#each bookmark}}
-								<li>{{this}}</li>
-							{{/each}}
+								
+								<li>Region: {{this.sRegion}}</li>
+								<li>Address: {{this.address}}</li>
+								<li>Actual Area (in Ft.): {{this.actualArea}}</li>
+								<li>Actual Price: ${{this.actualPrice}}</li>
+								<li>Price: ${{this.price}}M</li>
 						</ul>
 				  </div>
+					{{/each}}
 				</div>
 
 
