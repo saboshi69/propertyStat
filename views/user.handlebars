@@ -10,7 +10,7 @@
 			</div>
 
 			
-
+			<div class="col-9 mainbar">
 				<div class="card">
 				  <div class="card-header">
 				    <h2>User Profile</h2>
@@ -23,37 +23,59 @@
 				    <p class="card-text">{{user.email}}</p>
 
 				    <h5 class="card-title">Phone Number</h5>
-				    <p class="card-text">{{user.phone}}</p>
+				    {{#if user.phone}}
+				    	<p class="card-text">{{user.phone}}</p>
+				    {{else}}
+				    	<p class="card-text badge badge-danger">no phone number info</p>
+				    {{/if}}
 
 				    <h5 class="card-title">Current District</h5>
-				    <p class="card-text">{{user.district_current}}</p>
+				    {{#if user.district_current}}
+				    	<p class="card-text">{{user.district_current}}</p>
+				    {{else}}
+				    	<p class="card-text badge badge-danger">no current district info</p>
+				    {{/if}}
 
 				    <h5 class="card-title">Salary</h5>
-				    <p class="card-text">{{user.salary}}</p>
+				    {{#if user.salary}}
+				   	 	<p class="card-text">{{user.salary}}</p>
+				    {{else}}
+				    	<p class="card-text badge badge-danger">no salary info</p>
+				    {{/if}}
+
 
 				    <h5 class="card-title">Gender</h5>
-				    <p class="card-text">{{user.gender}}</p>
+				    {{#if user.gender}}
+				    	<p class="card-text">{{user.gender}}</p>
+				    {{else}}
+				    	<p class="card-text badge badge-danger">no gender info</p>
+				    {{/if}}
 				  </div>
 				</div>
 
 
-				<div class="card">
+				<div class="card bookmark">
 				  <div class="card-header">
 				    <h2>Bookmarked Property</h2>
 				  </div>
-					{{#each bookmark}}
-				  <div class="card-body">
-				    <ul>
-								<li>Region: {{this.sRegion}}</li>
-								<li>Address: {{this.address}}</li>
-								<li>Actual Area (in Ft.): {{this.actualArea}}</li>
-								<li>Actual Price: ${{this.actualPrice}}</li>
-								<li>Price: ${{this.price}}M</li>
-						</ul>
-				  </div>
-					{{/each}}
-				</div>
 
+				  {{#if bookmark}}
+						{{#each bookmark}}
+					  <div class="card-body">
+					    <ul>
+									<li>Region: {{this.sRegion}}</li>
+									<li>Address: {{this.address}}</li>
+									<li>Actual Area (in Ft.): {{this.actualArea}}</li>
+									<li>Actual Price: ${{this.actualPrice}}</li>
+									<li>Price: ${{this.price}}M</li>
+							</ul>
+					  </div>
+						{{/each}}
+					{{else}}
+						<p class="card-text badge badge-danger">no bookmarked property</p>
+					{{/if}}
+				</div>
+			</div>
 
 				<h2></h2>
 				
