@@ -22,6 +22,11 @@ body {
     width:60px;
 }
 
+nav{
+    position: fixed;
+    margin-bottom:5px;
+}
+
 img {
     object-fit: cover;
 }
@@ -43,13 +48,14 @@ img {
 
 .relocate {
     text-align: center;
+    
 }
 
 #chartArea {
     display: none;
 }
 
-
+::-webkit-scrollbar-button{ display: block; height: 1px; border-radius: 0px; background-color: #949494; } ::-webkit-scrollbar-button:hover{ background-color: #AAA; } ::-webkit-scrollbar-thumb{ border-radius: 20px; background-color: #CCC; } ::-webkit-scrollbar-thumb:hover{ background-color: #CCC; } ::-webkit-scrollbar-track{ background-color: #949494; border-radius: 20px; } ::-webkit-scrollbar-track:hover{ background-color: #424141; border-radius: 20px; } ::-webkit-scrollbar{ width: 15px; }
 /*.regions {
     display: grid;
     position: relative;
@@ -79,9 +85,21 @@ img {
     display: flex;
 }*/
 
+
+.makeItFix {
+    position: fixed;
+    overflow-y: scroll;
+    height: 89vh;
+    width: 48vw;
+    overflow-x: hidden;
+    margin-top:100px;
+    margin-bottom:100px;
+}
+
+
 #mappy {
-    height: 370px;
-    width: 800px;
+    height: 70vh;
+    width: 70vw;
     margin: 20px;
 }
 
