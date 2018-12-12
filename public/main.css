@@ -105,8 +105,9 @@ div.user {
     background: white ;
 }
 
-.bookmark {
+div.bookmark {
     overflow-y:scroll;
+    height: 500px;
 }
 
 .mainbar .card {
@@ -120,6 +121,11 @@ div.user {
 
 #updateUser {
     margin-left: 210px;
+}
+
+.booky {
+    border: 1px solid black;
+    background: aquamarine;
 }
 
 /* log in page */

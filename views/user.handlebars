@@ -20,7 +20,11 @@
 				    <p class="card-text">{{user.username}}</p>
 
 				    <h5 class="card-title">Email</h5>
-				    <p class="card-text">{{user.email}}</p>
+				    {{#if user.email}}
+				    	<p class="card-text">{{user.email}}</p>
+				    {{else}}
+				    	<p class="card-text badge badge-danger">no email info</p>
+				    {{/if}}
 
 				    <h5 class="card-title">Phone Number</h5>
 				    {{#if user.phone}}
@@ -61,7 +65,7 @@
 
 				  {{#if bookmark}}
 						{{#each bookmark}}
-					  <div class="card-body">
+					  <div class="card-body booky">
 					    <ul>
 									<li>Region: {{this.sRegion}}</li>
 									<li>Address: {{this.address}}</li>
