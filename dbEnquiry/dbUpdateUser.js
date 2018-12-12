@@ -16,22 +16,11 @@ async function updateUser(id, info) {
 			.update({
 				email: info.email,
 				username: info.username,
-				phone: info.phone
+				phone: info.phone,
+				gender: info.gender,
+				salary: info.salary,
+				district_current: info.district_current
 			});
-	
-	let userInfo = await knex('testuser_info').where('user_id', id);
-
-
-	if (userInfo.length > 0) {
-		await knex('testuser_info')
-			.where('user_id', id)
-			.update({gender: info.gender, salary: info.salary, district_current: info.district_current });
-	} else {
-		await knex('testuser_info')
-			.insert({user_id: id,gender: info.gender,salary: info.salary, district_current: info.district_current });
-	}
-
-
 }
 
 module.exports = { updateUser };

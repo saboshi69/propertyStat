@@ -12,15 +12,17 @@
 			<div class="col-9 mainbar">
 				<h2>User Profile</h2>
 
-				<p>Name: {{user}}</p>
+				<p>Name: {{user.username}}</p>
 
-				<p>Email: {{email}}</p>
+				<p>Email: {{user.email}}</p>
 
-				<p>Phone: {{phone}}</p>
+				<p>Phone: {{user.phone}}</p>
 
-				<p>Current District: {{current_district}}</p>
+				<p>Current District: {{user.district_current}}</p>
 
-				<p>Occupation: {{occupation}}</p>
+				<p>Salary: {{user.salary}}</p>
+
+				<p>Gender: {{user.gender}}</p>
 
 				<h2>Bookmarked Property</h2>
 				<ul>
