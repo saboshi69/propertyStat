@@ -7,11 +7,11 @@ const knex = require('knex')({
     }
 });
 
-let dummy = { email: 'sad@gmail.com',
+let dummy = { email: '',
   username: '',
   phone: '',
   gender: 'Female',
-  salary: '50000',
+  salary: '1000000',
   district_current: 'Diamond Hill' }
 
 async function dbUpdateUser(id, data) {
@@ -36,9 +36,9 @@ async function dbUpdateUser(id, data) {
 	}
 }
 
-//dbUpdateUser(2, dummy).then((data)=>{
-// 	console.log (data)
-// })
+// dbUpdateUser(2, dummy).then((data)=>{
+//  	console.log (data)
+//  })
 
 function filterObj(obj){
 	let keys = Object.keys(obj);
