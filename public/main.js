@@ -17,3 +17,5 @@ document.querySelector("#errRedirect").addEventListener("click", (e)=>{
 	e.preventDefault();
 	window.location = "/login"
 })
+
+

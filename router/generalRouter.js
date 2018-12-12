@@ -10,7 +10,7 @@ const passport = require('passport');
 const dbGetUser = require("../dbEnquiry/dbGetUser")
 const dbGetBookmark = require("../dbEnquiry/dbGetBookmark")
 const dbUpdateUser = require("../dbEnquiry/dbUpdateUser")
-const dbBridge = require("../dbEnquiry/dbUpdateBridge")
+// const dbBridge = require("../dbEnquiry/dbUpdateBridge")
 
 function isLoggedIn(req, res, next) {
     if (req.isAuthenticated()) {

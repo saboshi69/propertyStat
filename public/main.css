@@ -5,6 +5,7 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
+    background: maroon !important; 
     
 }
 
@@ -40,6 +41,10 @@ img {
 
 .relocate {
     text-align: center;
+}
+
+#chartArea {
+    display: none;
 }
 
 
@@ -85,8 +90,6 @@ img {
 /*.actualArea {grid-area: e} .price{grid-area: f} .actualPrice{grid-area: g} .date{grid-area: h} .charts{grid-area: i}*/
 
 p{margin-top: 0;margin-bottom: 0}
-
-
 
 
 /* user profile page css */
@@ -203,4 +206,16 @@ form#reggy{
 div.reg {
     text-align: center;
 }
+
+
+/* list search data */
+
+
+.searchResult {
+    display: block;
+    background: blue;
+    padding: 20px;
+}
+
+
 
