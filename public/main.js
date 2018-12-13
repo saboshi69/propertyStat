@@ -15,8 +15,8 @@ if(document.querySelector("#calculator")) {
 	})
 }
 
-if(document.querySelector("#mortgage")) {
-	document.querySelector("#mortgage").addEventListener("click", (e) => {
+if(document.querySelector("#register")) {
+	document.querySelector("#register").addEventListener("click", (e) => {
 		e.preventDefault();
 		window.location = "/register"
 	})
