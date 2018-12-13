@@ -11,6 +11,7 @@ const dbGetUser = require("../dbEnquiry/dbGetUser")
 const dbGetBookmark = require("../dbEnquiry/dbGetBookmark")
 const dbUpdateUser = require("../dbEnquiry/dbUpdateUser")
 const dbBridge = require("../dbEnquiry/dbUpdateBridge")
+const dbIsNewUser = require("../dbEnquiry/dbIsNewUser")
 
 function isLoggedIn(req, res, next) {
     if (req.isAuthenticated()) {
@@ -46,6 +47,13 @@ router.post("/searchResult", async (req, res) => {
 
     res.json(JSON.stringify(data))
 })
+
+router.post("/isUser", async (req, res) => {
+    let d = req.body.username
+    let data = await dbIsNewUser(d);
+    res.json(JSON.stringify(data))
+})
+
 
 //still inprogress
 router.post("/searchGeo", async (req, res) => {

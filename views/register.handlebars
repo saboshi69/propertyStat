@@ -23,15 +23,17 @@
 
     </form>
     <div id="regWarn"></div>
-    <button id="subRegister" class="btn btn-primary regBut">Register</button>
+    <button id="asdasd" class="btn btn-primary regBut">Register</button>
 </div>
 
 
 
 <script>
-    let subReg = document.querySelector("#subRegister")
+    let subReg = document.querySelector("#asdasd")
     let regWarn = document.querySelector("#regWarn")
+
     subReg.addEventListener("click", async (e) => {
+
         e.preventDefault();
         let username = document.querySelector("input[name='username']").value;
         let email = document.querySelector("input[name='email']").value;
@@ -42,17 +44,34 @@
         let emailT = document.querySelector("input[name='email']").className;
         let passwordT = document.querySelector("input[name='password']").className;
         let phoneT = document.querySelector("input[name='phone']").className;
+        await axios.post("/isUser", {
+            username: username,
+        })
+            .then((res) => {
+                let bool = res.data
+                if (bool) {
+                    console.log("hi")
+                    if (usernameT == "valid" && emailT == "valid" && passwordT == "valid" && phoneT == "valid") {
+                        axios.post("/register", {
+                            username: username,
+                            email: email,
+                            password: password,
+                            phone: phone
+                        })
+                            .then(() => {
+                                alert("Register Success")
+                                window.location = "/login"
+                            })
 
-            // can register but no redirect err / or success page
-        if (usernameT == "valid" && emailT == "valid" && passwordT == "valid" && phoneT == "valid") {
-            await axios.post("/register", {
-                username: username,
-                email: email,
-                password: password,
-                phone: phone
+                    } else {
+                        regWarn.innerHTML = '<p id="redWarning">Please fill the form correctly</p>'
+                    }
+                } else {
+                    regWarn.innerHTML = '<p id="redWarning">User exist</p>'
+                }
+
             })
-        } else {
-            regWarn.innerHTML ='<p id="redWarning">Please fill the form correctly</p>' 
-        }
+
+        // can register but no redirect err / or success page
     })
 </script>
