@@ -50,7 +50,9 @@ router.post("/searchResult", async (req, res) => {
 
 router.post("/isUser", async (req, res) => {
     let d = req.body.username
+    console.log(d)
     let data = await dbIsNewUser(d);
+    console.log(data)
     res.json(JSON.stringify(data))
 })
 

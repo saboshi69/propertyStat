@@ -44,34 +44,42 @@
         let emailT = document.querySelector("input[name='email']").className;
         let passwordT = document.querySelector("input[name='password']").className;
         let phoneT = document.querySelector("input[name='phone']").className;
+
+
+    function regIt(bb) {
+        console.log("test")
+        if (JSON.parse(bb)) {
+            if (usernameT == "valid" && emailT == "valid" && passwordT == "valid" && phoneT == "valid") {
+                axios.post("/register", {
+                    username: username,
+                    email: email,
+                    password: password,
+                    phone: phone
+                })
+                    .then(() => {
+                        alert("Register Success")
+                        window.location = "/login"
+                    })
+
+            } else {
+                regWarn.innerHTML = '<p id="redWarning">Please fill the form correctly</p>'
+            }
+        } else {
+            regWarn.innerHTML = '<p id="redWarning">User exist</p>'
+        }
+    }
+
+
+
+
         await axios.post("/isUser", {
             username: username,
         })
-            .then((res) => {
-                let bool = res.data
-                if (bool) {
-                    console.log("hi")
-                    if (usernameT == "valid" && emailT == "valid" && passwordT == "valid" && phoneT == "valid") {
-                        axios.post("/register", {
-                            username: username,
-                            email: email,
-                            password: password,
-                            phone: phone
-                        })
-                            .then(() => {
-                                alert("Register Success")
-                                window.location = "/login"
-                            })
+            .then((res) => { regIt(res.data) })
 
-                    } else {
-                        regWarn.innerHTML = '<p id="redWarning">Please fill the form correctly</p>'
-                    }
-                } else {
-                    regWarn.innerHTML = '<p id="redWarning">User exist</p>'
-                }
 
-            })
 
-        // can register but no redirect err / or success page
+
+
     })
 </script>
