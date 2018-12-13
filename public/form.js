@@ -98,25 +98,25 @@ function makeRegion() {
                 let sRegion = x.filter((u) => {
                     return u.checked == true
                 })
-                if (sRegion.length < 10){
-                    let y = Array.from(document.querySelectorAll("input[type='checkbox']")).map((u)=>{
+                if (sRegion.length < 10) {
+                    let y = Array.from(document.querySelectorAll("input[type='checkbox']")).map((u) => {
                         return u.getAttribute("value")
                     })
-                    for (let element of y){
+                    for (let element of y) {
                         document.querySelector(`input[value="${element}"]`).disabled = false
                     }
-                    if (document.querySelector("p[name='warn']") != null){
+                    if (document.querySelector("p[name='warn']") != null) {
                         parent.removeChild(document.querySelector("p[name='warn']"))
                         //document.querySelector("p[name='warn']").innerHTML = "Good Boy"
                     }
                 }
-                else if(sRegion.length == 10) {
-                    let y = Array.from(document.querySelectorAll("input[type='checkbox']")).filter((u)=>{
+                else if (sRegion.length == 10) {
+                    let y = Array.from(document.querySelectorAll("input[type='checkbox']")).filter((u) => {
                         return u.checked == false
-                    }).map((u)=>{
+                    }).map((u) => {
                         return u.getAttribute("value")
                     })
-                    for (let element of y){
+                    for (let element of y) {
                         document.querySelector(`input[value="${element}"]`).disabled = true
                     }
                     let warn = document.createElement("p");
@@ -130,6 +130,9 @@ function makeRegion() {
             label.setAttribute("for", `${sRegion}`);
             label.innerHTML = `${sRegion}`
             let br = document.createElement("br")
+
+
+
             parent.appendChild(input)
             parent.appendChild(label)
             parent.appendChild(br)
@@ -239,13 +242,13 @@ document.querySelector(".button > #good").addEventListener("click", async (e) =>
     processSearchData(mapData) //  connect it to my map
 
     //listData
-    if(JSON.parse(json.data).length <=900){
+    if (JSON.parse(json.data).length <= 900) {
         listSearchDataNoFilter(JSON.parse(json.data))
     } else {
         let newArr = JSON.parse(json.data).slice(0, 900)
         listSearchDataNoFilter(newArr)
     }
-    
+
 
     //console.log(mapData)
     //got data without redirect!
@@ -254,7 +257,17 @@ document.querySelector(".button > #good").addEventListener("click", async (e) =>
     //redirect to chartarea
     //dunno wt the fuck is going on behind jquery so need jquery here
     $("#mapArea").hide();
-	$("#chartArea").show();
+    $("#chartArea").show();
+
+    if (chart == "histogram") {
+        document.querySelector("#cHistogram").style.display = "flex";
+        document.querySelector("#cCandle").style.display = "none";
+    }
+
+    if (chart == "candle") {
+        document.querySelector("#cHistogram").style.display = "none";
+        document.querySelector("#cCandle").style.display = "flex";
+    }
 })
 
 
