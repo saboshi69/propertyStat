@@ -19,12 +19,16 @@ function histogram(data, sRegion) {
             title: `${sRegion} Price distribution 2018`,
             legend: { position: 'none' },
             colors: ['#4285F4'],
-
-            // animation: {
-            //     "startup": true,
-            //     "duration": 500,
-            //     "easing": "out"
-            // },
+            backgroundColor: {
+                fill: "rgb(151,201,152)",
+             },
+            chartArea: {
+                backgroundColor: {
+                    fill: "rgb(151,201,152)",
+                 },
+             },
+            vAxis: {title: "Number of Sales"},
+            hAxis: {title: "Price (in Million HKD)"},
 
             chartArea: { width: 401 },
 
@@ -98,7 +102,17 @@ async function candle(data, sRegion, date) {
 
         var options = {
             title: `2018 ${sRegion} Candlestick`, 
-            legend: 'none'
+            legend: 'none',
+            backgroundColor: {
+                fill: "rgb(151,201,152)",
+             },
+            chartArea: {
+                backgroundColor: {
+                    fill: "rgb(151,201,152)",
+                 },
+             },
+            vAxis: {title: "Price (in Million HKD)"},
+            hAxis: {title: "Date range"},
         };
 
         var chart = new google.visualization.CandlestickChart(document.querySelector('#candle'));
