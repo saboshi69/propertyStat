@@ -59,11 +59,17 @@ img {
     width: 6px;
     background-color: #333;
 } 
+
+
 ::-webkit-scrollbar-thumb {
     background-color: #ffffff;
 }
 ::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    /* -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); */
+    background-color: #424141;
+}
+::-webkit-scrollbar-track:hover {
+     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
     background-color: #333;
 }
 
@@ -134,7 +140,6 @@ img {
 .control-radio input:disabled ~ .control_indicator:after {
     background: #7b7b7b;
 }
-
 
 
 
@@ -363,15 +368,23 @@ div.reg {
 }
 
 
-div.pagination {
-    margin-top: 15px;
+.pagination {
+    margin-top: 5px;
     margin-left: 15px;
     border-radius: 10px;
     overflow-x: scroll;
-    
+    width: 44vw;
 }
 
+.pagination::-webkit-scrollbar {
+    height: 6px;
+    background-color: #424141;
+} 
 
+.pagination::-webkit-scrollbar:hover {
+    
+    background-color: #333;
+} 
 
 .pag {
     display: inline-block;
