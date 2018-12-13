@@ -1,10 +1,4 @@
-
-
-
-
-
-
-  <div class="user container" id="fuck">
+	<div class="user container" id="fuck">
     <div class="row">
       <div class="col-3 sidebar">
         <ul class="list-group">
@@ -22,31 +16,31 @@
 						<h1>Mortgage Calculator</h1>
 						<form id="calc">
 							<div class="form-group row">
-								<label class="col-3 col-form-label">Price of Home (HKD)</label>
+								<label class="col-4 col-form-label">Price of Home (HKD)</label>
 								<div class="col-8">
-									<input type="text" name="price">
+									<input type="text" name="price" class="form-control">
 								</div>
 							</div>
 
 							<div class="form-group row">
 
-								<label class="col-3 col-form-label">Interest rates (please enter %)</label>
+								<label class="col-4 col-form-label">Interest rates (please enter %)</label>
 								<div class="col-8">
-									<input type="number" name="interest_rate" step="0.01">
+									<input type="number" name="interest_rate" step="0.01" class="form-control">
 								</div>
 							</div>
 
 							<div class="form-group row">
 
-								<label class="col-3 col-form-label">Months</label>
+								<label class="col-4 col-form-label">Months</label>
 								<div class="col-8">
-									<input type="number" name="month">
+									<input type="number" name="month" class="form-control">
 								</div>
 							</div>
 
 							<div id="result"></div>
 
-							<input type="submit" value="Submit" class="btn btn-primary">
+							<input type="submit" value="Calculate Monthly Instalment" class="btn btn-warning">
 
 
 						</form>
