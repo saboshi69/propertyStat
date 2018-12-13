@@ -36,3 +36,4 @@ $("#chartButton").on("click", function(e) {
 	$("#mapArea").hide();
 	$("#chartArea").show();
 });
+

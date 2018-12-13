@@ -146,11 +146,11 @@ async function listSearchDataNoFilter(data) {
                 //color of div
                 let index = groupData[i].indexOf(u)+1;
                 if ((index+2)%3 == 0){
-                    div.style.backgroundColor = "rgba(0, 56, 81, 0.3)"
+                    div.style.backgroundColor = "rgba(0, 56, 81, 0.35)"
                 } else if ((index+1)%3 == 0){
-                    div.style.backgroundColor = "rgba(45, 124, 157, 0.3)"
+                    div.style.backgroundColor = "rgba(45, 124, 157, 0.35)"
                 } else {
-                    div.style.backgroundColor = "rgba(34, 100, 110, 0.3)"
+                    div.style.backgroundColor = "rgba(34, 100, 110, 0.35)"
                 }
 
                 parent.appendChild(div)

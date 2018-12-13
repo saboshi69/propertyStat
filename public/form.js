@@ -250,6 +250,11 @@ document.querySelector(".button > #good").addEventListener("click", async (e) =>
     //console.log(mapData)
     //got data without redirect!
     chartType(chart, json.data, sRegion, date)
+
+    //redirect to chartarea
+    //dunno wt the fuck is going on behind jquery so need jquery here
+    $("#mapArea").hide();
+	$("#chartArea").show();
 })
 
 
