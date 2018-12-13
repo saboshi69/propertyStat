@@ -98,7 +98,19 @@ function makeRegion() {
                 let sRegion = x.filter((u) => {
                     return u.checked == true
                 })
-                if(sRegion.length == 10) {
+                if (sRegion.length < 10){
+                    let y = Array.from(document.querySelectorAll("input[type='checkbox']")).map((u)=>{
+                        return u.getAttribute("value")
+                    })
+                    for (let element of y){
+                        document.querySelector(`input[value="${element}"]`).disabled = false
+                    }
+                    if (document.querySelector("p[name='warn']") != null){
+                        parent.removeChild(document.querySelector("p[name='warn']"))
+                        //document.querySelector("p[name='warn']").innerHTML = "Good Boy"
+                    }
+                }
+                else if(sRegion.length == 10) {
                     let y = Array.from(document.querySelectorAll("input[type='checkbox']")).filter((u)=>{
                         return u.checked == false
                     }).map((u)=>{
@@ -108,6 +120,7 @@ function makeRegion() {
                         document.querySelector(`input[value="${element}"]`).disabled = true
                     }
                     let warn = document.createElement("p");
+                    warn.setAttribute("name", "warn")
                     warn.innerHTML = "Max. selection = 10";
                     warn.style.color = "red";
                     parent.insertBefore(warn, parent.firstChild)

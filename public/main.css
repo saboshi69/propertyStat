@@ -298,6 +298,7 @@ div.pagination {
     margin-left: 15px;
     border-radius: 10px;
     overflow-x: scroll;
+    width: 44vw;
 }
 
 .pag {
