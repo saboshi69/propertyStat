@@ -288,6 +288,21 @@ form.login {
     margin: 0 auto;
 }
 
+/* login page */
+
+
+.loggy {
+    display: block;
+    padding: 8px 16px;
+    font-size: 2em;
+    margin: 10px auto;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 3px solid #ccc;
+    outline: none !important;
+}
+
 
 /* Register page */
 
@@ -295,6 +310,11 @@ body{
     font-family: arial;
     color: #333;
 }
+
+.white {
+    color: white;
+}
+
 h1{
     font-weight: normal;
     margin: 20px auto;
