@@ -1,8 +1,17 @@
 const LoanCalc = require('loan-calc');
+const dbGetUser = require("./dbEnquiry/dbGetUser")
 
 module.exports = function(app) {
-	app.get('/calculator', function(req, res) {
-    res.render('calculator');
+	app.get('/calculator', async (req, res) =>{
+		
+		if (req.session.passport) {
+			let user = await dbGetUser(req.session.passport.user)
+			res.render('calculator', {user: user});	
+		} else {
+			res.render('calculator');	
+		}
+		
+    
 	});
 
 	app.post('/calculate', function(req, res) {

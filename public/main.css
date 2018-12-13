@@ -9,7 +9,7 @@ body {
 }
 
 #background{
-    z-index: 0;
+    z-index: -1;
     height: 100vh;
     width: 100vw;
     position: fixed;
@@ -83,6 +83,10 @@ img {
 ::-webkit-scrollbar-track:hover {
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
     background-color: #333;
+}
+
+.regions label {
+    padding-left: 3px;
 }
 
 /*radio box css*/
@@ -330,10 +334,13 @@ h1{
     color: red;
 }
 
+
 form#reggy{
     width: 500px;
     margin: 20px auto;
+    z-index: 10;
 }
+
 #reggy > input{
     display: block;
     padding: 8px 16px;
@@ -373,6 +380,7 @@ form#reggy{
 
 div.reg {
     text-align: center;
+    z-index: 5;
 }
 
 
@@ -442,6 +450,10 @@ div.reg {
     background: #3d4f5d;
     background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#547085), to(#3d4f5d));
     background: -moz-linear-gradient(0% 0% 270deg,#547085, #3d4f5d);
+}
+
+.relocate {
+    z-index: 3;
 }
 
 
