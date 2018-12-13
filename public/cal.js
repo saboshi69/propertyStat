@@ -8,7 +8,7 @@ $(function() {
 			method: 'POST',
 			data: data,
 			success: function(data) {
-				$('#result').html(`<p>Your monthly instalment is ${data}.</p>`);
+				$('#result').html(`<p>Your monthly instalment is HKD${data}.</p>`);
 			}
 		})
 	});

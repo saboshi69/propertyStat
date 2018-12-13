@@ -9,7 +9,7 @@ body {
 }
 
 #background{
-    z-index: -5;
+    z-index: 0;
     height: 100vh;
     width: 100vw;
     position: fixed;
@@ -57,6 +57,10 @@ img {
 .relocate {
     text-align: center;
     
+}
+
+.user {
+    padding-top: 80px;
 }
 
 #chartArea {
@@ -260,6 +264,7 @@ form.login {
 
 .calculator > div {
     border: 1px solid #000;
+    border-radius:15px;
     margin: 0 auto;
     padding: 20px;
 }
