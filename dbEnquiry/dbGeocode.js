@@ -60,12 +60,4 @@ async function dbGeocode(location) {
 }
 
 
-<<<<<<< HEAD
-let dummy = [22.333147, 114.193441]
-dbGeocode(dummy)
-
 module.exports = dbGeocode
-module.exports = dBgetLatLng
-=======
-module.exports = dbGeocode
->>>>>>> 984e3ec777e3ffdcc4aac9e2348893a42b28e648
