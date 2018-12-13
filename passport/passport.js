@@ -25,6 +25,7 @@ module.exports = (app) => {
 
 			try {
 				let users = await knex('testusers').where("username", `${username}`).orWhere("email", `${username}`).orWhere("phone", `${username}`)
+
 				if (users.length === 0) {
 					return done(null, false, { message: 'Incorrect credentials' }); // first argument is null because it is use to pass error.
 				}
@@ -52,7 +53,7 @@ module.exports = (app) => {
 		async (req, username, password, done) => {
 			console.log(username, password);
 			try {
-				let users = await knex('testusers').where({ username: username });
+				let users = await knex('testusers').where("username", `${username}`).orWhere("email", `${req.body.email}`).orWhere("phone", `${req.body.phone}`)
 
 				if (users.length > 0) {
 					console.log(`local-signup: ${username} exist`);
@@ -69,7 +70,7 @@ module.exports = (app) => {
 				};
 				let userId = await knex('testusers').insert(newUser).returning('id');
 				newUser.id = userId[0];
-				console.log (newUser)
+				// console.log (newUser)
 				done(null, newUser);
 			} catch (err) {
 				done(err);

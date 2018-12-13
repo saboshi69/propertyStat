@@ -1,21 +1,26 @@
+/* INDEX PAGE */
+
 html,
 body {
     height: 100%;
     margin: 0;
     padding: 0;
+    background: #424141 !important; 
 }
 
-header {
-    margin-top: 10px;
-    margin-bottom: 10px;
+#background{
+    z-index: -5;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    background-image: url("./image/hk.jpg");
+    background-size: cover;
+    opacity: 0.15;
 }
 
-#searchbar {
-    height: 60px;
-    width:200px;
-}
-#searchbar > div {
-    display: flex;
+#locationName {
+    width: 300px;
+    display: inline-block;
 }
 
 #logo {
@@ -25,13 +30,129 @@ header {
     width:60px;
 }
 
-img {
+nav{
+    position: fixed;
+    margin-bottom:5px;
+}
 
+img {
     object-fit: cover;
 }
 
 
-.regions {
+.button-row {
+    margin: 0 auto;
+}
+
+
+.btz {
+    width: 500px;
+    margin: 20px auto;
+}
+
+.collapsey {
+    margin: 0 auto;
+}
+
+.relocate {
+    text-align: center;
+    
+}
+
+#chartArea {
+    display: none;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    background-color: #333;
+} 
+
+
+::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+}
+::-webkit-scrollbar-track {
+    /* -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); */
+    background-color: #424141;
+}
+::-webkit-scrollbar-track:hover {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    background-color: #333;
+}
+
+/*radio box css*/
+
+.control {
+    font-family: arial;
+    display: block;
+    position: relative;
+    padding-left: 29px;
+    margin-bottom: 5px;
+    padding-top: 0px;
+    cursor: pointer;
+    font-size: 15px;
+}
+    .control input {
+        position: absolute;
+        z-index: -1;
+        opacity: 0;
+    }
+.control_indicator {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    height: 20px;
+    width: 20px;
+    background: #e6e6e6;
+    border: 2px dotted #000000;
+}
+.control-radio .control_indicator {
+    border-radius: 50%;
+}
+
+.control:hover input ~ .control_indicator,
+.control input:focus ~ .control_indicator {
+    background: #868383;
+}
+
+.control input:checked ~ .control_indicator {
+    background: #3f2c2f;
+}
+.control:hover input:not([disabled]):checked ~ .control_indicator,
+.control input:checked:focus ~ .control_indicator {
+    background: #0e6647d;
+}
+.control input:disabled ~ .control_indicator {
+    background: #e6e6e6;
+    opacity: 0.6;
+    pointer-events: none;
+}
+.control_indicator:after {
+    box-sizing: unset;
+    content: '';
+    position: absolute;
+    display: none;
+}
+.control input:checked ~ .control_indicator:after {
+    display: block;
+}
+.control-radio .control_indicator:after {
+    left: 2px;
+    top: 2px;
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    background: #ffffff;
+}
+.control-radio input:disabled ~ .control_indicator:after {
+    background: #7b7b7b;
+}
+
+
+
+/* ::-webkit-scrollbar-button{ display: block; height: 1px; border-radius: 0px; background-color: #949494; } ::-webkit-scrollbar-button:hover{ background-color: #AAA; } ::-webkit-scrollbar-thumb{ border-radius: 20px; background-color: #CCC; } ::-webkit-scrollbar-thumb:hover{ background-color: #CCC; } ::-webkit-scrollbar-track{ background-color: #949494; border-radius: 20px; } ::-webkit-scrollbar-track:hover{ background-color: #424141; border-radius: 20px; } ::-webkit-scrollbar{ width: 15px; } */
+/*.regions {
     display: grid;
     position: relative;
     grid-template-columns: repeat(4, 300px);
@@ -42,24 +163,6 @@ img {
 
 #HK { grid-area: a } #KLN {grid-area: b} #NTE {grid-area: c} #NTW{grid-area: d}
 
-
-#graphic {
-    height:400px;
-    width:100%;
-}
-#graphic > div{
-    display: flex;
-}
-
-#mappy {
-    height: 370px;
-    width: 800px;
-    margin: 20px;
-
-}
-
-
-
 .others {
     display: grid;
     position: relative;
@@ -68,8 +171,40 @@ img {
     'e f g h i';
     background-color: skyblue
 }
+*/
 
-.actualArea {grid-area: e} .price{grid-area: f} .actualPrice{grid-area: g} .date{grid-area: h} .charts{grid-area: i}
+/*#graphic {
+    height:400px;
+    width:100%;
+}
+#graphic > div{
+    display: flex;
+}*/
+
+
+.makeItFix {
+    position: fixed;
+    overflow-y: scroll;
+    height: 85vh;
+    width: 48vw;
+    overflow-x: hidden;
+    margin-top:100px;
+    margin-bottom:100px;
+}
+
+
+#mappy {
+    height: 70vh;
+    width: 70vw;
+    margin: 20px;
+    opacity: 0.8
+}
+
+.filterbutt {
+    margin-top: 30px;
+}
+
+/*.actualArea {grid-area: e} .price{grid-area: f} .actualPrice{grid-area: g} .date{grid-area: h} .charts{grid-area: i}*/
 
 p{margin-top: 0;margin-bottom: 0}
 
@@ -78,22 +213,210 @@ p{margin-top: 0;margin-bottom: 0}
 
 .user .sidebar {
     border: 1px solid #000;
+    padding: 20px;
 }
 
+div.user {
+    background: white ;
+}
+
+div.bookmark {
+    overflow-y:scroll;
+    height: 500px;
+}
+
+.mainbar .card {
+    margin-top: 20px;
+}
 
 .user .mainbar {
     border: 1px solid #000;
-}    
+      padding: 20px;
+}   
+
+#updateUser {
+    margin-left: 210px;
+}
+
+.booky {
+    border: 1px solid black;
+    background: aquamarine;
+}
+
+/* log in page */
+
+form.login {
+    margin-top: 100px;
+}
+
+.login label {
+    color: white;
+}
 
 
 /* calculator page */
 
+
+
 .calculator > div {
     border: 1px solid #000;
     margin: 0 auto;
+    padding: 20px;
 }
 
 
 .calculator h1 {
     padding: 20px 0;
 }
+
+.searchResult{
+    background-color:blue;
+    color: white;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+#paginator{
+    display: flex;
+    flex-direction: row;
+}
+
+
+/* login form */
+
+.login {
+    margin: 0 auto;
+}
+
+
+/* Register page */
+
+body{
+    font-family: arial;
+    color: #333;
+}
+h1{
+    font-weight: normal;
+    margin: 20px auto;
+    text-align: center;
+}
+
+#redWarning{
+    color: red;
+}
+
+form#reggy{
+    width: 500px;
+    margin: 20px auto;
+}
+#reggy > input{
+    display: block;
+    padding: 8px 16px;
+    font-size: 2em;
+    margin: 10px auto;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 3px solid #ccc;
+    outline: none !important;
+}
+
+/* validation styles */
+
+#reggy > input.valid{
+    border-color: #36cc36;
+}
+#reggy > input.invalid{
+    border-color: orange;
+}
+#reggy > input + p{
+    font-family: arial;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 10px;
+    color: orange;
+    opacity: 0;
+    height: 0;
+}
+#reggy > input.invalid + p{
+    opacity: 1;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+
+div.reg {
+    text-align: center;
+}
+
+
+/* list search data */
+
+#fkingLong{
+    /* display: flex; */
+    overflow-y: scroll;
+    width: 45vw;
+    height: 85vh;
+    margin-top: 100px;
+}
+
+
+
+.searchResult {
+    display: block;
+    background: #3D9970;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    padding: 20px;
+}
+
+.pSearch {
+    color: red;
+    font-weight: bold;
+}
+
+
+.pagination {
+    margin-top: 5px;
+    margin-left: 15px;
+    border-radius: 10px;
+    overflow-x: scroll;
+    width: 43vw;
+}
+
+.pagination::-webkit-scrollbar {
+    height: 6px;
+    background-color: #424141;
+} 
+
+.pagination::-webkit-scrollbar:hover {
+    
+    background-color: #333;
+} 
+
+.pag {
+    display: inline-block;
+    padding: 10px 15px;
+    margin-right: 6px;
+    border-radius: 3px;
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    border: solid 1px #32373b;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#565b5f), to(#3e4347));
+    background: -moz-linear-gradient(0% 0% 270deg,#565b5f, #3e4347);
+    box-shadow: inset 0px 1px 1px rgba(255,255,255, .1), 0px 1px 3px rgba(0,0,0, .1);
+    color: #feffff;
+    text-shadow: 0px 1px 0px rgba(0,0,0, .5);
+}
+
+
+
+.pag:hover {
+    background: #3d4f5d;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#547085), to(#3d4f5d));
+    background: -moz-linear-gradient(0% 0% 270deg,#547085, #3d4f5d);
+}
+
+

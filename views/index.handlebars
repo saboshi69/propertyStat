@@ -1,65 +1,41 @@
-<div id="graphic">
-    <div>
-        <div id="mappy"></div>
-        <div id="histogram" style="width: 800px; height: 370px;"></div>
-        <div id="candle" style="width: 800px; height: 370ppx;"></div>
+<div id="graphic" class="container-fluid">
+    <div class="row">
+        <div class="col-6">
+            <div class="makeItFix scrollbar scrollbar-dark">
+                <button class="badge badge-secondary" id="mapButton">Map</button>
+                <button class="badge badge-secondary" id="chartButton">Chart</button>
+                <div class="row" id="mapArea">
+                    <div id="mappy"></div>
+                    <div class="btz">
+                        <button onclick="clusterMode()" class="btn btn-warning">Cluster Mode</button>
+                        <button onclick="clearCluster()" class="btn btn-warning">Clear Cluster</button>
+                    </div>
+                </div>
+                <div class="row" id="chartArea">
+                    <div class="col-12 card">
+                        <h5 class="card-title">Histogram</h5>
+                        <div id="histogram" style="width: 500px; height: 370px;"></div>
+                    </div>
+                    <div class="col-12 card">
+                        <h5 class="card-title">Candle Chart</h5>
+                        <div id="candle" style="width: 500px; height: 370px;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-6">
+         
+
+                <div id="fkingLong">
+                </div>
+                <div id="paginator" class="pagination">
+                    {{!-- buttons here --}}
+                </div>
+    
+
+        </div>
+
     </div>
+
 </div>
-
-<button onclick="clusterMode()">Cluster Mode</button>
-<button onclick="clearCluster()">Clear Cluster</button>
-<form action="/" method="POST">
-    <div class="regions">
-        <div class="bRegion" id="HK">
-            <label for="HK"><strong>HK</strong></label><br>
-        </div>
-        <div class="bRegion" id="KLN">
-            <label for="KLN"><strong>KLN</strong></label><br>
-        </div>
-        <div class="bRegion" id="NTE">
-            <label for="NTE"><strong>NTE</strong></label><br>
-        </div>
-        <div class="bRegion" id="NTW">
-            <label for="NTW"><strong>NTW</strong></label><br>
-        </div>
-    </div>
-
-    <div class="others">
-        <div class="actualArea">
-            <p><strong>Actual Area</strong></p><br>
-            <input type="radio" name="actualArea" value="<300">below 300 ft<br>
-            <input type="radio" name="actualArea" value="300-600">300-600 ft<br>
-            <input type="radio" name="actualArea" value="600-1000">600-1000 ft<br>
-            <input type="radio" name="actualArea" value=">1000">above 1000ft<br>
-        </div>
-        <div class="price">
-            <p><strong>Price</strong></p><br>
-            <input type="radio" name="price" value="<3">below 3M<br>
-            <input type="radio" name="price" value="3-6">3-6M<br>
-            <input type="radio" name="price" value="6-10">6-10M<br>
-            <input type="radio" name="price" value=">10">above 10M<br>
-        </div>
-        <div class="actualPrice">
-            <p><strong>Actual Price</strong></p><br>
-            <input type="radio" name="actualPrice" value="<10000">below 10000<br>
-            <input type="radio" name="actualPrice" value="10000-15000">10000-15000<br>
-            <input type="radio" name="actualPrice" value="15000-20000">15000-20000<br>
-            <input type="radio" name="actualPrice" value=">20000">above 20000<br>
-        </div>
-        <div class="date">
-            <p><strong>Time Range</strong></p><br>
-            <input type="radio" name="date" value="30">Last 30 days<br>
-            <input type="radio" name="date" value="180">Last 180 days<br>
-            <input type="radio" name="date" value="365">Whole Year
-        </div>
-        <div class="charts">
-            <p><strong>Chart type</strong></p><br>
-            <input type="radio" name="chart" value="histogram">histogram<br>
-            <input type="radio" name="chart" value="candle">candle<br>
-        </div>
-    </div>
-
-    <div class="button">
-        <button id="good">Submit</button>
-    </div>
-</form>

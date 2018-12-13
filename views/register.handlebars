@@ -1,0 +1,53 @@
+<h1>New User Signup</h1>
+
+<div class="reg">
+    <form id="reggy">
+
+        <input type="text" name="username" placeholder="username">
+        <p>Username must be and contain 5 - 12 characters</p>
+
+        <input type="text" name="email" placeholder="email">
+        <p>Email must be a valid address, e.g. me@mydomain.com</p>
+
+        <input type="password" name="password" placeholder="password">
+        <p>Password must alphanumeric (@, _ and - are also allowed) and be 8 - 20 characters</p>
+
+        <input type="text" name="phone" placeholder="phone">
+        <p>Telephone must be a valid HK telephone number (8 digits)</p>
+
+
+    </form>
+    <div id="regWarn"></div>
+    <button id="subRegister" class="btn btn-primary regBut">Register</button>
+</div>
+
+
+
+<script>
+    let subReg = document.querySelector("#subRegister")
+    let regWarn = document.querySelector("#regWarn")
+    subReg.addEventListener("click", async (e) => {
+        e.preventDefault();
+        let username = document.querySelector("input[name='username']").value;
+        let email = document.querySelector("input[name='email']").value;
+        let password = document.querySelector("input[name='password']").value;
+        let phone = document.querySelector("input[name='phone']").value;
+
+        let usernameT = document.querySelector("input[name='username']").className;
+        let emailT = document.querySelector("input[name='email']").className;
+        let passwordT = document.querySelector("input[name='password']").className;
+        let phoneT = document.querySelector("input[name='phone']").className;
+
+            // can register but no redirect err / or success page
+        if (usernameT == "valid" && emailT == "valid" && passwordT == "valid" && phoneT == "valid") {
+            await axios.post("/register", {
+                username: username,
+                email: email,
+                password: password,
+                phone: phone
+            })
+        } else {
+            regWarn.innerHTML ='<p id="redWarning">Please fill the form correctly</p>' 
+        }
+    })
+</script>

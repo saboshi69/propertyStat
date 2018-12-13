@@ -13,21 +13,19 @@ const knex = require('knex')({
 (async function exp() {
     let arr = [];
     // please dont change the fking path, this path work
-    let dir = await fs.readdir(`__dirname/../../getAddressID/data`)
-<<<<<<< HEAD
-=======
+    let dir = await fs.readdir(`${__dirname}/../getAddressID/data`)
+
     //let dir = await fs.readdir(`__dirname/../../getAddressID/data`)
 //     let ntwArr = dir.filter((u) => u.includes("NTW") || u.includes("KLN"))
 //     console.log(ntwArr)
 
->>>>>>> 984e3ec777e3ffdcc4aac9e2348893a42b28e648
     //optional: if u just append then dun add this
     await knex('alladdress').del();
 
      for (let element of dir) {
          arr.length = 0;
          // please dont change the fking path, this path work
-        let data = await fs.readFile(`__dirname/../../getAddressID/data/${element}`, "utf8")
+        let data = await fs.readFile(`${__dirname}/../getAddressID/data/${element}`, "utf8")
         //let data = await fs.readFile(`__dirname/../../getAddressID/data/${element}`, "utf8")
         //let data = await fs.readFile(`/mnt/c/Users/Matthew/Documents/Github/matthewlee/2ndProj/pullSamuel/getAddressID/data/KLN2018_209.json`, "utf8")
         let parsed = JSON.parse(data);
@@ -57,11 +55,10 @@ const knex = require('knex')({
             u.lat = (lat != "noLat") ? String(lat) : null;
             u.lng = (lat != "noLng") ? String(lng) : null;
         })
+        console.log(arr)
 
         //type yout table name here
         await knex("alladdress").insert(arr)
-
-        console.log(arr)
     }
     console.log("success")
     

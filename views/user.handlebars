@@ -1,36 +1,89 @@
-<!DOCTYPE html>
-<html>
-<body>
+
 	<div class="user container" id="fuck">
 		<div class="row">
 			<div class="col-3 sidebar">
-				<div><a href="/logout">Log Out</a></div>
-				<div><a href="/calculator">Mortgage Calculator</a></div>
-
+				<ul class="list-group">
+				  <li class="list-group-item"><a href="/logout">Log Out</a></li>
+				  <li class="list-group-item"><a href="/calculator">Mortgage Calculator</a></li>
+				  <li class="list-group-item"><a href="/updateUser">Update User Info</a></li>
 
 			</div>
 
+			
 			<div class="col-9 mainbar">
-				<h2>User Profile</h2>
+				<div class="card">
+				  <div class="card-header">
+				    <h2>User Profile</h2>
+				  </div>
+				  <div class="card-body">
+				    <h5 class="card-title">Username</h5>
+				    <p class="card-text">{{user.username}}</p>
 
-				<p>Name: {{name}}</p>
+				    <h5 class="card-title">Email</h5>
+				    {{#if user.email}}
+				    	<p class="card-text">{{user.email}}</p>
+				    {{else}}
+				    	<p class="card-text badge badge-danger">no email info</p>
+				    {{/if}}
 
-				<p>Email: {{email}}</p>
+				    <h5 class="card-title">Phone Number</h5>
+				    {{#if user.phone}}
+				    	<p class="card-text">{{user.phone}}</p>
+				    {{else}}
+				    	<p class="card-text badge badge-danger">no phone number info</p>
+				    {{/if}}
 
-				<p>Age: {{age}}</p>
+				    <h5 class="card-title">Current District</h5>
+				    {{#if user.district_current}}
+				    	<p class="card-text">{{user.district_current}}</p>
+				    {{else}}
+				    	<p class="card-text badge badge-danger">no current district info</p>
+				    {{/if}}
 
-				<p>Occupation: {{occupation}}</p>
+				    <h5 class="card-title">Salary</h5>
+				    {{#if user.salary}}
+				   	 	<p class="card-text">{{user.salary}}</p>
+				    {{else}}
+				    	<p class="card-text badge badge-danger">no salary info</p>
+				    {{/if}}
 
 
-				<h2>Bookmarked Property</h2>
-				<ul>
-					{{#each bookmark}}
-						<li>{{this}}</li>
-					{{/each}}
-				</ul>
+				    <h5 class="card-title">Gender</h5>
+				    {{#if user.gender}}
+				    	<p class="card-text">{{user.gender}}</p>
+				    {{else}}
+				    	<p class="card-text badge badge-danger">no gender info</p>
+				    {{/if}}
+				  </div>
+				</div>
+
+
+				<div class="card bookmark">
+				  <div class="card-header">
+				    <h2>Bookmarked Property</h2>
+				  </div>
+
+				  {{#if bookmark}}
+						{{#each bookmark}}
+					  <div class="card-body booky">
+					    <ul>
+									<li>Region: {{this.sRegion}}</li>
+									<li>Address: {{this.address}}</li>
+									<li>Actual Area (in Ft.): {{this.actualArea}}</li>
+									<li>Actual Price: ${{this.actualPrice}}</li>
+									<li>Price: ${{this.price}}M</li>
+							</ul>
+					  </div>
+						{{/each}}
+					{{else}}
+						<p class="card-text badge badge-danger">no bookmarked property</p>
+					{{/if}}
+				</div>
+			</div>
+
+				<h2></h2>
+				
 			</div>
 		</div>	
 	</div>
 	
-</body>
-</html>
