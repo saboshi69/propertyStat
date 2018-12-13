@@ -22,6 +22,13 @@ if(document.querySelector("#register")) {
 	})
 }
 
+if(document.querySelector("#subRegister")) {
+	document.querySelector("#subRegister").addEventListener("click", (e) => {
+		e.preventDefault();
+		window.location = "/login"
+	})
+}
+
 
 if (document.querySelector("#errRedirect")) {
 	document.querySelector("#errRedirect").addEventListener("click", (e)=>{
