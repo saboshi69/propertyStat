@@ -8,14 +8,19 @@ if(document.querySelector("#login")){
 }
 
 
-if(document.querySelector("#register")) {
-	document.querySelector("#register").addEventListener("click", (e) => {
+if(document.querySelector("#calculator")) {
+	document.querySelector("#calculator").addEventListener("click", (e) => {
+		e.preventDefault();
+		window.location = "/calculator"
+	})
+}
+
+if(document.querySelector("#mortgage")) {
+	document.querySelector("#mortgage").addEventListener("click", (e) => {
 		e.preventDefault();
 		window.location = "/register"
 	})
 }
-
-
 
 
 if (document.querySelector("#errRedirect")) {
