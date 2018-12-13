@@ -34,9 +34,10 @@
 
 
           <button id="letssearch" class="btn btn-secondary my-2 my-sm-0">GO</button>
-          <button class="btn btn-secondary my-2 my-sm-0" data-toggle="collapse" data-target="#collapseExample">Advance Setting</button>
+          <button class="btn btn-secondary my-2 my-sm-0" data-toggle="collapse" data-target="#collapseExample">Advance
+            Setting</button>
         </div>
-       
+
       </div>
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active">
@@ -44,7 +45,7 @@
         </li>
         {{#if user}}
         <li class="nav-item">
-          <a class="nav-link" href="/user">ID:  {{user.username}}</a>
+          <a class="nav-link" href="/user">ID: {{user.username}}</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/logout">Logout</a>
@@ -59,9 +60,10 @@
         {{/if}}
       </ul>
     </div>
- </nav>
+  </nav>
+    {{#if user}}
   <div class="collapse card-body col-12 collapsey" id="collapseExample">
-    <br/>
+    <br />
     <div class="card card-body">
       <form action="/" method="POST">
         <div class="regions row">
@@ -120,6 +122,69 @@
       </form>
     </div>
   </div>
+  {{else}}
+  <div class="collapse card-body col-12 collapsey" id="collapseExample">
+    <br />
+    <div class="card card-body">
+      <form action="/" method="POST">
+        <div class="regions row">
+          <div class="bRegion col-3" id="HK">
+            <label for="HK"><strong>HK</strong></label><br>
+          </div>
+          <div class="bRegion col-3" id="KLN">
+            <label for="KLN"><strong>KLN</strong></label><br>
+          </div>
+          <div class="bRegion col-3" id="NTE">
+            <label for="NTE"><strong>NTE</strong></label><br>
+          </div>
+          <div class="bRegion col-3" id="NTW">
+            <label for="NTW"><strong>NTW</strong></label><br>
+          </div>
+        </div>
+
+        <div class="others row">
+          <div class="actualArea col-2">
+            <p><strong>Actual Area</strong></p><br>
+            <input type="radio" name="actualArea" value="<300">below 300 ft<br>
+            <input type="radio" name="actualArea" value="300-600">300-600 ft<br>
+            <input type="radio" name="actualArea" value="600-1000">600-1000 ft<br>
+            <input class="invisible" type="hiiden" name="actualArea" value=">1000"><br>
+          </div>
+          <div class="price col-2">
+            <p><strong>Price</strong></p><br>
+            <input type="radio" name="price" value="<3">below 3M<br>
+            <input type="radio" name="price" value="3-6">3-6M<br>
+            <input type="radio" name="price" value="6-10">6-10M<br>
+            <input class="invisible" type="hiiden" name="price" value=">10"><br>
+          </div>
+          <div class="actualPrice col-2">
+            <p><strong>Actual Price</strong></p><br>
+            <input type="radio" name="actualPrice" value="<10000">below 10000<br>
+            <input type="radio" name="actualPrice" value="10000-15000">10000-15000<br>
+            <input type="radio" name="actualPrice" value="15000-20000">15000-20000<br>
+            <input class="invisible" type="hiiden" name="actualPrice" value=">20000"><br>
+          </div>
+          <div class="date col-2">
+            <p><strong>Time Range</strong></p><br>
+            <input type="radio" name="date" value="30">Last 30 days<br>
+            <input type="radio" name="date" value="180">Last 180 days<br>
+            <input class="invisible"type="hiiden" name="date" value="365">
+          </div>
+          <div class="charts col-2">
+            <p><strong>Chart type</strong></p><br>
+            <input type="radio" name="chart" value="histogram">histogram<br>
+            <input class="invisible" type="hiiden" name="chart" value="candle"><br>
+          </div>
+        </div>
+
+        <div class="button filterbutt">
+          <button id="good" class="btn btn-primary" data-toggle="collapse" href="#collapseExample">Submit</button>
+        </div>
+      </form>
+    </div>
+  </div>
+  {{/if}}
+
 
   {{{body}}}
 
