@@ -497,7 +497,7 @@ div.reg {
 .searchResult {
     display: block;
     background: #3D9970;
-    border-radius: 20px;
+    /* border-radius: 20px; */
     margin-bottom: 5px;
     padding: 20px;
 }
