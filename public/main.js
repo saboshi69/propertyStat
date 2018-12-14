@@ -11,6 +11,7 @@ if(document.querySelector("#login")){
 if(document.querySelector("#calculator")) {
 	document.querySelector("#calculator").addEventListener("click", (e) => {
 		e.preventDefault();
+		console.log("clicked")
 		window.location = "/calculator"
 	})
 }

@@ -6,15 +6,16 @@ google.maps.event.addDomListener(window, 'load', searchinit);
 
 
 
-async function searchByAutofill (){
+async function searchByAutofill() {
 	let input = document.getElementById('locationName');
 	let add = input.value
 	let json = await axios.post("/searchGeo", add)
 	return JSON.parse(json.data)
 }
 
-let searchBar = document.querySelector ('#letssearch')
-searchBar.addEventListener("click", async ()=>{
+let searchBar = document.querySelector('#letssearch')
+searchBar.addEventListener("click", async () => {
+
 	let data = await searchByAutofill()
 	processSearchData(data)
 	if(data.length <= 900){
@@ -24,3 +25,7 @@ searchBar.addEventListener("click", async ()=>{
 		listSearchData(newData)
 	}
 })
+
+
+
+

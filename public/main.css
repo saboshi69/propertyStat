@@ -205,12 +205,37 @@ img {
 #mapArea{
     height: 80vh;
     width: 45vw;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
 }
 #mappy {
     height: 70vh;
     width: 45vw;
     margin: 20px;
-    opacity: 0.8
+    opacity: 0.8;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-top: 0;
+    border-bottom: 0;
+}
+.btz{
+    height: 10vh;
+    width: 45vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-top: 0;
+    border-bottom: 0;
+}
+.btz button{
+    margin-left: 1vw;
+    margin-right: 1vw;
 }
 #chartArea{
     height: 80vh;
@@ -513,6 +538,11 @@ div.reg {
 
 .relocate {
     z-index: 3;
+}
+
+#calcal{
+    display:none;
+    z-index: 100;
 }
 
 

@@ -12,6 +12,7 @@ const dbGetBookmark = require("../dbEnquiry/dbGetBookmark")
 const dbUpdateUser = require("../dbEnquiry/dbUpdateUser")
 const dbBridge = require("../dbEnquiry/dbUpdateBridge")
 const dbIsNewUser = require("../dbEnquiry/dbIsNewUser")
+const fs = require("nano-fs")
 
 function isLoggedIn(req, res, next) {
     if (req.isAuthenticated()) {
@@ -67,7 +68,6 @@ router.post("/searchGeo", async (req, res) => {
     let data = await dbSearchBarGeocode(latlng);
     res.json(JSON.stringify(data))
 })
-
 
 // USER LOGIN / REGISTER  //
 
