@@ -6,18 +6,19 @@ body {
     margin: 0;
     padding: 0;
     background: #424141 !important; 
+    font-family: 'Questrial','sans-serif'!important;
+
 }
 
-/* #background{
-    z-index: 0;
-    height: 100vh;
-    width: 100vw;
-    position: fixed;
-    background-image: url("./image/hk.jpg");
-    background-size: cover;
-    opacity: 0.15;
-} */
 
+
+button {
+    border-radius: 1px 1px 1px 1px !important;
+}
+
+input {
+    border-radius: 1px 1px 1px 1px !important;
+}
 
 #randomText{
    
@@ -144,7 +145,7 @@ img {
 }
 .control:hover input:not([disabled]):checked ~ .control_indicator,
 .control input:checked:focus ~ .control_indicator {
-    background: #0e6647d;
+    background: #0e6647;
 }
 .control input:disabled ~ .control_indicator {
     background: #e6e6e6;
@@ -196,13 +197,9 @@ img {
 }
 */
 
-/*#graphic {
-    height:400px;
-    width:100%;
+.bg-light{
+    background-color: #f8f9fa !important;
 }
-#graphic > div{
-    display: flex;
-}*/
 
 
 .makeItFix {
@@ -399,13 +396,13 @@ form.login {
 
 .loggy {
     display: block;
-    padding: 8px 16px;
+    padding: 0px 0px;
     font-size: 2em;
     margin: 10px auto;
     width: 100%;
     box-sizing: border-box;
-    border-radius: 10px;
-    border: 3px solid #ccc;
+    border-radius: 2px;
+    border: 1px solid #ccc;
     outline: none !important;
 }
 
@@ -426,6 +423,11 @@ h1{
     margin: 20px auto;
     text-align: center;
 }
+h2{
+    font-weight: normal;
+    margin: 20px auto;
+    text-align: center;
+}
 
 #redWarning{
     color: red;
@@ -440,13 +442,13 @@ form#reggy{
 
 #reggy > input{
     display: block;
-    padding: 8px 16px;
+    padding: 0px 0px;
     font-size: 2em;
     margin: 10px auto;
     width: 100%;
     box-sizing: border-box;
-    border-radius: 10px;
-    border: 3px solid #ccc;
+    border-radius: 1px;
+    border: 2px solid #ccc;
     outline: none !important;
 }
 
@@ -560,3 +562,24 @@ div.reg {
 }
 
 
+#fuck {
+
+    background: #424141 !important; 
+    color: #ffffff;
+}
+
+
+#fuck a:link {
+    color: #424141 !important; 
+}
+#fuck a:visited {
+        color: #424141;
+      }
+
+      #fuck a:hover {
+        color: #424141;
+      }
+
+      #fuck a:active {
+        color: #424141;
+    }
