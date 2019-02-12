@@ -9,7 +9,7 @@ const session = require('express-session');
 const setupPassport = require('./passport/passport');
 const setupPassportFb = require('./passport/passport-facebook');
 const passport = require('passport');
-const https = require('https')
+const http = require('http')
 const cookieSession = require("cookie-session")
 
 const knex = require('knex')({
@@ -22,6 +22,9 @@ const knex = require('knex')({
 });
 
 const app = express();
+//app.use(express.static('public'));
+app.use(express.static(path.join(__dirname, 'public')))
+
 
 app.use(session({
 	secret: 'supersecret'
@@ -41,7 +44,6 @@ app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "handlebars");
 
 
-app.use(express.static('public'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
@@ -54,13 +56,13 @@ require('./calculator')(app)
 app.use("/", router)
 
 
-const httpsOptions = {
-    key: fs.readFileSync('./passport/localhost.key'),
-    cert: fs.readFileSync('./passport/localhost.crt')
-  }
+// const httpsOptions = {
+//     key: fs.readFileSync('./passport/localhost.key'),
+//     cert: fs.readFileSync('./passport/localhost.crt')
+//   }
   
-https.createServer(httpsOptions, app).listen(process.env.PORT || 3000);
+http.createServer(app).listen(8080);
   
 
-console.log('listen3000')
+console.log('listen8080')
 
